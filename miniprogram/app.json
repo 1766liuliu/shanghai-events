@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/list/index",
+    "pages/detail/index",
+    "pages/favorites/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "上海家庭活动雷达",
+    "navigationBarBackgroundColor": "#1f6feb",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f5f6f8"
+  },
+  "sitemapLocation": "sitemap.json"
+}

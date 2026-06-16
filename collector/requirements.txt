@@ -1,0 +1,6 @@
+# 采集层依赖（本机运行）
+requests>=2.31
+beautifulsoup4>=4.12
+
+# 写入微信云数据库时再装（二选一，按 store/cloudbase.py 实现方式）：
+# tcb  # 腾讯云开发 Python SDK

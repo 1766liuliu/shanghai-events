@@ -1,0 +1,134 @@
+"""在线托管版页面 —— 生成 site/ 目录(index.html + events.json)。
+
+与本地 html_preview 的区别:
+  · html_preview 把数据"焊死"在 HTML 里(自包含,适合双击/发文件);
+  · site 版把数据放在独立的 events.json,index.html 用 JS 实时 fetch 渲染。
+  部署到 GitHub Pages 后,采集层更新 events.json 并 push,家人刷新即拉到最新。
+"最新":events.json 里带 first_seen(首次出现日期),前端把 7 天内首次出现的标 🆕。
+"""
+from __future__ import annotations
+
+import datetime
+import json
+import os
+from typing import List
+
+from models import Event
+
+# 输出到仓库根目录(GitHub Pages 从 main/root 提供;Actions 在此运行)
+SITE_DIR = os.path.join(os.path.dirname(__file__), "..", "..")
+
+PUBLIC_FIELDS = [
+    "title", "type", "venue", "district", "start_date", "end_date",
+    "open_ticket_time", "price_range", "kid_friendly", "age_range",
+    "tags", "official_url", "featured", "note", "first_seen",
+]
+
+INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>上海家庭活动雷达</title>
+<style>
+ *{box-sizing:border-box}
+ body{font-family:-apple-system,"PingFang SC","Helvetica Neue",sans-serif;background:#f0f2f5;margin:0;color:#1a1a1a}
+ .wrap{max-width:760px;margin:0 auto;padding:0 16px 48px}
+ header{background:linear-gradient(135deg,#1f6feb,#7c3aed);color:#fff;padding:26px 22px;border-radius:0 0 20px 20px;margin:0 -16px 16px}
+ header h1{margin:0;font-size:22px}
+ header .sub{margin-top:8px;font-size:13px;opacity:.92}
+ .snap{margin-top:12px;font-size:12px;opacity:.95;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+ .refresh{border:0;background:rgba(255,255,255,.22);color:#fff;padding:6px 16px;border-radius:16px;font-size:12px;cursor:pointer}
+ .refresh:active{background:rgba(255,255,255,.42)}
+ .filters{position:sticky;top:0;background:#f0f2f5;padding:12px 0;z-index:5;white-space:nowrap;overflow-x:auto}
+ .filters button{border:0;background:#fff;color:#555;padding:7px 16px;border-radius:20px;margin-right:8px;font-size:13px;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+ .filters button.on{background:#1f6feb;color:#fff}
+ .card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:12px;border-left:4px solid #ccc;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+ .top{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+ .pill{font-size:12px;padding:2px 10px;border-radius:20px;font-weight:600}
+ .cd{background:#fff0e6;color:#e4572e}.cd.soon{background:#e4572e;color:#fff}
+ .kid{background:#fff3d6;color:#a86400}.feat{background:#fde8ff;color:#9b1ec0}
+ .nw{background:#e6f7ed;color:#1a7f4b}.cat{color:#fff}
+ .title{font-weight:600;font-size:16px;line-height:1.4}
+ .title a{color:#1a1a1a;text-decoration:none}
+ .meta{color:#777;font-size:13px;margin-top:8px}
+ .note{color:#b08900;font-size:12px;margin-top:6px}
+ .price{color:#e4572e;font-size:13px;margin-top:4px}
+ .group{font-size:14px;font-weight:700;color:#666;margin:22px 4px 10px}
+ .empty{padding:60px 0;text-align:center;color:#999}
+</style></head><body><div class="wrap">
+<header><h1>📡 上海家庭活动雷达</h1>
+<div class="sub" id="sub">加载中…</div>
+<div class="snap"><span id="snap"></span>
+<button class="refresh" onclick="load()">🔄 刷新</button></div></header>
+<div class="filters">
+ <button class="on" data-k="all" onclick="flt(this,'all')">全部</button>
+ <button data-k="new" onclick="flt(this,'new')">🆕 最新</button>
+ <button data-k="feat" onclick="flt(this,'feat')">🔥 重磅</button>
+ <button data-k="kid" onclick="flt(this,'kid')">👨‍👩‍👧 亲子</button>
+ <button data-k="体育" onclick="flt(this,'体育')">体育</button>
+ <button data-k="展会" onclick="flt(this,'展会')">展会</button>
+ <button data-k="演出" onclick="flt(this,'演出')">演出</button>
+</div>
+<div id="list"><div class="empty">加载中…</div></div>
+</div>
+<script>
+const CAT={'体育':'#e4572e','展会':'#1f6feb','演出':'#9b51e0'},DEF='#16a34a',NEW_DAYS=7;
+let curKey='all',NEWCUT='';
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function fmtDate(s,e){if(!s)return '档期待定';const d=s.split('-');if(d.length<3)return s;const m=+d[1],day=+d[2];
+ if(e&&e!==s){const x=e.split('-');if(x.length===3){const em=+x[1],ed=+x[2];return em===m?`${m}月${day}–${ed}日`:`${m}月${day}日–${em}月${ed}日`;}}
+ return `${m}月${day}日`;}
+function cd(s,e,t){if(!s)return null;const sd=new Date(s+'T00:00:00');if(isNaN(sd))return null;
+ const diff=Math.round((sd-t)/864e5);
+ if(diff<0){if(e){const ed=new Date(e+'T00:00:00');if(!isNaN(ed)&&ed>=t)return['进行中',true];}return null;}
+ if(diff===0)return['今天',true];if(diff===1)return['明天',true];return[diff+'天后',diff<=14];}
+function card(ev,t){const color=CAT[ev.type]||DEF;
+ let title=esc(ev.title);if(ev.official_url)title=`<a href="${esc(ev.official_url)}" target="_blank" rel="noopener">${title}</a>`;
+ const isNew=!!(ev.first_seen&&ev.first_seen>=NEWCUT);
+ let p=`<span class="pill cat" style="background:${color}">${esc(ev.type)}</span>`;
+ if(isNew)p+='<span class="pill nw">🆕 最新</span>';
+ if(ev.featured)p+='<span class="pill feat">🔥 重磅</span>';
+ const c=cd(ev.start_date,ev.end_date,t);if(c)p+=`<span class="pill cd ${c[1]?'soon':''}">${c[0]}</span>`;
+ if(ev.kid_friendly){const lab='👨‍👩‍👧 亲子'+(ev.age_range?(' '+ev.age_range):'');p+=`<span class="pill kid">${esc(lab)}</span>`;}
+ let meta=`📅 ${fmtDate(ev.start_date,ev.end_date)}`;if(ev.venue)meta+=`&nbsp;&nbsp;📍 ${esc(ev.venue)}`;
+ const note=ev.note?`<div class="note">⚠ ${esc(ev.note)}</div>`:'';
+ const price=ev.price_range?`<div class="price">${esc(ev.price_range)}</div>`:'';
+ return `<div class="card" style="border-left-color:${color}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-feat="${ev.featured?1:0}" data-new="${isNew?1:0}"><div class="top">${p}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}</div>`;}
+function flt(btn,key){curKey=key;document.querySelectorAll('.filters button').forEach(b=>b.classList.remove('on'));btn.classList.add('on');
+ let n=0;document.querySelectorAll('.card').forEach(c=>{const ok=key==='all'||(key==='new'?c.dataset.new==='1':key==='feat'?c.dataset.feat==='1':key==='kid'?c.dataset.kid==='1':c.dataset.type===key);c.style.display=ok?'block':'none';if(ok)n++;});
+ document.querySelectorAll('.group').forEach(g=>g.style.display=key==='all'?'block':'none');
+ const emp=document.getElementById('emptyTip');if(emp)emp.style.display=n?'none':'block';}
+function render(data){const evts=(data.events||[]).slice();
+ const t=new Date();t.setHours(0,0,0,0);
+ const cc=new Date(t);cc.setDate(cc.getDate()-(NEW_DAYS-1));NEWCUT=cc.toISOString().slice(0,10);
+ const nNew=evts.filter(e=>e.first_seen&&e.first_seen>=NEWCUT).length;
+ document.getElementById('snap').textContent='📅 数据更新于 '+(data.generatedAt||'')+' · 在线版';
+ document.getElementById('sub').textContent='共 '+evts.length+' 条 · 🆕最新 '+nNew+' · 🔥重磅 '+evts.filter(e=>e.featured).length+' · 👨‍👩‍👧亲子优先';
+ evts.sort((a,b)=>a.featured!==b.featured?(a.featured?-1:1):((a.start_date||'9999')<(b.start_date||'9999')?-1:1));
+ const dated=evts.filter(e=>e.start_date),und=evts.filter(e=>!e.start_date);let h='';
+ if(dated.length)h+='<div class="group">📌 有确定档期</div>'+dated.map(e=>card(e,t)).join('');
+ if(und.length)h+='<div class="group">🎪 常态演出 / 档期待核实</div>'+und.map(e=>card(e,t)).join('');
+ h+='<div class="empty" id="emptyTip" style="display:none">该分类下暂无活动</div>';
+ document.getElementById('list').innerHTML=h||'<div class="empty">暂无数据</div>';
+ const on=document.querySelector('.filters button[data-k="'+curKey+'"]')||document.querySelector('.filters button');flt(on,curKey);}
+async function load(){document.getElementById('list').innerHTML='<div class="empty">加载中…</div>';
+ try{const r=await fetch('events.json?t='+Date.now(),{cache:'no-store'});render(await r.json());}
+ catch(e){document.getElementById('list').innerHTML='<div class="empty">加载失败,请检查网络后点刷新</div>';}}
+load();
+</script></body></html>
+"""
+
+
+def save(events: List[Event]) -> None:
+    os.makedirs(SITE_DIR, exist_ok=True)
+    with open(os.path.join(SITE_DIR, "index.html"), "w", encoding="utf-8") as f:
+        f.write(INDEX_HTML)
+    payload = {
+        "generatedAt": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "count": len(events),
+        "events": [
+            {k: e.to_dict()[k] for k in PUBLIC_FIELDS} for e in events
+        ],
+    }
+    with open(os.path.join(SITE_DIR, "events.json"), "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=1)
+    print(f"[site] 已生成 index.html + events.json({len(events)} 条,仓库根)")

@@ -1,0 +1,17 @@
+<view wx:if="{{ev}}" class="detail">
+  <view class="h1">{{ev.title}}</view>
+  <view class="row" wx:if="{{ev.type}}">类型：{{ev.type}}</view>
+  <view class="row" wx:if="{{ev.start_date}}">时间：{{ev.start_date}}<text wx:if="{{ev.end_date}}"> ~ {{ev.end_date}}</text></view>
+  <view class="row" wx:if="{{ev.venue}}">场馆：{{ev.venue}}</view>
+  <view class="row" wx:if="{{ev.district}}">区域：{{ev.district}}</view>
+  <view class="row" wx:if="{{ev.price_range}}">票价：{{ev.price_range}}</view>
+  <view class="row" wx:if="{{ev.age_range}}">适龄：{{ev.age_range}}</view>
+  <view class="row" wx:if="{{ev.open_ticket_time}}">开票：{{ev.open_ticket_time}}</view>
+
+  <view class="btns">
+    <button size="mini" bindtap="fav">收藏</button>
+    <button size="mini" bindtap="remind">开票提醒</button>
+    <button size="mini" type="primary" bindtap="buy">购票链接</button>
+  </view>
+</view>
+<view wx:else class="tip">加载中…</view>

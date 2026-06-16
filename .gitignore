@@ -1,0 +1,23 @@
+# 密钥(绝不上库)
+collector/config.py
+
+# 本地运行产物(云端不需要;但 data/seen.json 要保留,见下方 !)
+data/events.json
+data/活动预览.html
+data/*.log
+data/launchd.*
+!data/seen.json
+
+# 本地专用脚本(含本机绝对路径,云端无用)
+refresh.sh
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+
+# 旧的微信云函数依赖
+cloud/cloudfunctions/*/node_modules/
+miniprogram/node_modules/
