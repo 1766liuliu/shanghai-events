@@ -16,6 +16,7 @@ from pipeline.clean import clean
 from pipeline.freshness import keep_upcoming
 from pipeline.links import add_fallback_links
 from pipeline.newness import mark_new
+from pipeline.region import filter_shanghai
 from pipeline.safety import filter_safe
 from pipeline.tagging import tag
 from sources.bendibao import BendibaoSource
@@ -46,7 +47,9 @@ def run(to_cloud: bool = False) -> None:
         except Exception as e:  # noqa: BLE001
             print(f"[{src.name}] 异常: {e}")
 
-    events = add_fallback_links(keep_upcoming(tag(filter_safe(clean(all_events)))))
+    events = add_fallback_links(
+        keep_upcoming(tag(filter_safe(filter_shanghai(clean(all_events)))))
+    )
     events = mark_new(events)   # 标记首次出现日期 → 供"最新"分类
     local_json.save(events)
     html_preview.save(events)   # 本地自包含版(双击/发文件)

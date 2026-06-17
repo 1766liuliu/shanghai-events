@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-06-16 23:18",
- "count": 142,
+ "generatedAt": "2026-06-17 00:00",
+ "count": 135,
  "events": [
   {
    "title": "世界人工智能大会 WAIC 2026",
@@ -1283,23 +1283,6 @@
    "first_seen": "2000-01-01"
   },
   {
-   "title": "2026东鹏特饮国际汽联F4方程式中国锦标赛-宁波站",
-   "type": "演出",
-   "venue": "宁波国际赛道",
-   "district": "",
-   "start_date": "2026-06-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.baidu.com/s?wd=2026%E4%B8%9C%E9%B9%8F%E7%89%B9%E9%A5%AE%E5%9B%BD%E9%99%85%E6%B1%BD%E8%81%94F4%E6%96%B9%E7%A8%8B%E5%BC%8F%E4%B8%AD%E5%9B%BD%E9%94%A6%E6%A0%87%E8%B5%9B-%E5%AE%81%E6%B3%A2%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
-   "featured": false,
-   "note": "",
-   "first_seen": "2000-01-01"
-  },
-  {
    "title": "年度驻演●MR沉浸式戏剧《太虚幻境》",
    "type": "演出",
    "venue": "1862时尚艺术中心",
@@ -1704,26 +1687,6 @@
    "first_seen": "2026-06-16"
   },
   {
-   "title": "深圳食博会",
-   "type": "展会",
-   "venue": "",
-   "district": "",
-   "start_date": "",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "国际",
-    "亲子"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/2285.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-06-16"
-  },
-  {
    "title": "中国门窗幕墙展",
    "type": "展会",
    "venue": "",
@@ -1804,46 +1767,6 @@
    "first_seen": "2026-06-16"
   },
   {
-   "title": "成都珠宝展",
-   "type": "展会",
-   "venue": "",
-   "district": "",
-   "start_date": "",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "国际",
-    "亲子"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/8005.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-06-16"
-  },
-  {
-   "title": "广州医疗器械展",
-   "type": "展会",
-   "venue": "",
-   "district": "",
-   "start_date": "",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "国际",
-    "亲子"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/6813.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-06-16"
-  },
-  {
    "title": "中国药机展",
    "type": "展会",
    "venue": "",
@@ -1859,66 +1782,6 @@
     "亲子"
    ],
    "official_url": "https://www.jufair.com/exhibition/5772.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-06-16"
-  },
-  {
-   "title": "烟台制博会",
-   "type": "展会",
-   "venue": "",
-   "district": "",
-   "start_date": "",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "国际",
-    "亲子"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/4975.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-06-16"
-  },
-  {
-   "title": "广州动漫展",
-   "type": "展会",
-   "venue": "",
-   "district": "",
-   "start_date": "",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "国际",
-    "亲子"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/8764.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-06-16"
-  },
-  {
-   "title": "广州灯光音响展",
-   "type": "展会",
-   "venue": "",
-   "district": "",
-   "start_date": "",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "国际",
-    "亲子"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/3263.html",
    "featured": false,
    "note": "",
    "first_seen": "2026-06-16"
