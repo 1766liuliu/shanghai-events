@@ -121,6 +121,27 @@ EVENTS = [
         "kid": True, "age": "全年龄", "featured": False, "url": "",
         "note": "常年亲子木偶/皮影,排期见官网/猫眼", "tags": ["剧场/亲子"],
     },
+    {
+        "title": "世界移动通信大会 MWC上海 2026", "type": "展会",
+        "start": "2026-06-24", "end": "2026-06-26", "venue": "上海新国际博览中心",
+        "kid": False, "age": "", "featured": True,
+        "url": "https://www.mwcshanghai.cn/", "note": "移动AI/6G/卫星通信",
+        "tags": ["科技/通信"],
+    },
+    {
+        "title": "ChinaJoy 2026(中国国际数码互动娱乐展)", "type": "展会",
+        "start": "2026-07-31", "end": "2026-08-03", "venue": "上海新国际博览中心",
+        "kid": True, "age": "青少年", "featured": True,
+        "url": "https://www.chinajoy.net/", "note": "游戏/ACG,适合大童青少年",
+        "tags": ["游戏/ACG"],
+    },
+    {
+        "title": "华为全连接大会 HUAWEI CONNECT 2026", "type": "展会",
+        "start": "2026-09-17", "end": "2026-09-19", "venue": "世博展览馆",
+        "kid": False, "age": "", "featured": True,
+        "url": "https://www.huawei.com/cn/events/huaweiconnect",
+        "note": "档期以华为官方为准(往年9月中旬)", "tags": ["科技/AI"],
+    },
 ]
 
 
