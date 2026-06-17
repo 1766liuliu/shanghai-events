@@ -142,6 +142,63 @@ EVENTS = [
         "url": "https://www.huawei.com/cn/events/huaweiconnect",
         "note": "档期以华为官方为准(往年9月中旬)", "tags": ["科技/AI"],
     },
+    # —— 下半年已确认档期的年度大展 ——
+    {
+        "title": "CCG EXPO 中国国际动漫游戏博览会 2026", "type": "展会",
+        "start": "2026-07-04", "end": "2026-07-06", "venue": "上海跨国采购会展中心",
+        "kid": True, "age": "青少年", "featured": True, "url": "",
+        "note": "动漫/游戏/ACG,适合大童青少年", "tags": ["动漫/ACG"],
+    },
+    {
+        "title": "上海国际童书展 CCBF 2026", "type": "展会",
+        "start": "2026-11-13", "end": "2026-11-15", "venue": "世博展览馆",
+        "kid": True, "age": "全年龄", "featured": True,
+        "url": "https://www.ccbookfair.com/cn", "note": "童书/绘本,强亲子",
+        "tags": ["文化/亲子"],
+    },
+    {
+        "title": "FHC 上海环球食品展 2026", "type": "展会",
+        "start": "2026-11-10", "end": "2026-11-12", "venue": "上海新国际博览中心",
+        "kid": False, "age": "", "featured": True,
+        "url": "https://www.fhcchina.com/", "note": "进口食品/餐饮", "tags": ["食品"],
+    },
+    {
+        "title": "上海国际婚纱礼服展(婚博会)2026", "type": "展会",
+        "start": "2026-07-15", "end": "2026-07-17", "venue": "世博展览馆",
+        "kid": False, "age": "", "featured": False, "url": "",
+        "note": "一年多届,具体见婚博会官网", "tags": ["婚庆"],
+    },
+    # —— 年度锚点:2026 上海届已过/双年展,标注往年档期,提前规划 ——
+    {
+        "title": "上海车展(上海国际汽车工业展览会)", "type": "展会",
+        "start": "", "end": "", "venue": "国家会展中心(虹桥)",
+        "kid": True, "age": "全年龄", "featured": True, "url": "",
+        "note": "双年展(逢单数年),下届 2027年4月25日–5月2日", "tags": ["汽车"],
+    },
+    {
+        "title": "CMEF 中国国际医疗器械博览会(上海)", "type": "展会",
+        "start": "", "end": "", "venue": "国家会展中心(虹桥)",
+        "kid": False, "age": "", "featured": False, "url": "",
+        "note": "上海春季届,往年约 4 月", "tags": ["医疗"],
+    },
+    {
+        "title": "CBE 中国美容博览会(上海美博会)", "type": "展会",
+        "start": "", "end": "", "venue": "国家会展中心(虹桥)",
+        "kid": False, "age": "", "featured": False, "url": "",
+        "note": "往年约 5 月", "tags": ["美妆"],
+    },
+    {
+        "title": "HOTELEX 上海国际酒店及餐饮业博览会", "type": "展会",
+        "start": "", "end": "", "venue": "上海新国际博览中心",
+        "kid": False, "age": "", "featured": False, "url": "",
+        "note": "往年约 3–4 月", "tags": ["酒店餐饮"],
+    },
+    {
+        "title": "SEMICON China 国际半导体展", "type": "展会",
+        "start": "", "end": "", "venue": "上海新国际博览中心",
+        "kid": False, "age": "", "featured": False, "url": "",
+        "note": "往年约 3 月", "tags": ["半导体"],
+    },
 ]
 
 

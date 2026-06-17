@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-06-17 00:42",
- "count": 110,
+ "generatedAt": "2026-06-17 00:48",
+ "count": 119,
  "events": [
   {
    "title": "世界人工智能大会 WAIC 2026",
@@ -406,6 +406,187 @@
    "official_url": "https://www.huawei.com/cn/events/huaweiconnect",
    "featured": true,
    "note": "档期以华为官方为准(往年9月中旬)",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "CCG EXPO 中国国际动漫游戏博览会 2026",
+   "type": "展会",
+   "venue": "上海跨国采购会展中心",
+   "district": "",
+   "start_date": "2026-07-04",
+   "end_date": "2026-07-06",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "青少年",
+   "tags": [
+    "动漫/ACG"
+   ],
+   "official_url": "https://www.baidu.com/s?wd=CCG%20EXPO%20%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%8A%A8%E6%BC%AB%E6%B8%B8%E6%88%8F%E5%8D%9A%E8%A7%88%E4%BC%9A%202026%20%E4%B8%8A%E6%B5%B7",
+   "featured": true,
+   "note": "动漫/游戏/ACG,适合大童青少年",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "上海国际童书展 CCBF 2026",
+   "type": "展会",
+   "venue": "世博展览馆",
+   "district": "",
+   "start_date": "2026-11-13",
+   "end_date": "2026-11-15",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "文化/亲子",
+    "亲子"
+   ],
+   "official_url": "https://www.ccbookfair.com/cn",
+   "featured": true,
+   "note": "童书/绘本,强亲子",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "FHC 上海环球食品展 2026",
+   "type": "展会",
+   "venue": "上海新国际博览中心",
+   "district": "",
+   "start_date": "2026-11-10",
+   "end_date": "2026-11-12",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "食品"
+   ],
+   "official_url": "https://www.fhcchina.com/",
+   "featured": true,
+   "note": "进口食品/餐饮",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "上海国际婚纱礼服展(婚博会)2026",
+   "type": "展会",
+   "venue": "世博展览馆",
+   "district": "",
+   "start_date": "2026-07-15",
+   "end_date": "2026-07-17",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "婚庆"
+   ],
+   "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E5%A9%9A%E7%BA%B1%E7%A4%BC%E6%9C%8D%E5%B1%95%28%E5%A9%9A%E5%8D%9A%E4%BC%9A%292026%20%E4%B8%8A%E6%B5%B7",
+   "featured": false,
+   "note": "一年多届,具体见婚博会官网",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "上海车展(上海国际汽车工业展览会)",
+   "type": "展会",
+   "venue": "国家会展中心(虹桥)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "汽车"
+   ],
+   "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%BD%A6%E5%B1%95%28%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E6%B1%BD%E8%BD%A6%E5%B7%A5%E4%B8%9A%E5%B1%95%E8%A7%88%E4%BC%9A%29%20%E4%B8%8A%E6%B5%B7",
+   "featured": true,
+   "note": "双年展(逢单数年),下届 2027年4月25日–5月2日",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "CMEF 中国国际医疗器械博览会(上海)",
+   "type": "展会",
+   "venue": "国家会展中心(虹桥)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "医疗"
+   ],
+   "official_url": "https://www.baidu.com/s?wd=CMEF%20%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E5%8D%9A%E8%A7%88%E4%BC%9A%28%E4%B8%8A%E6%B5%B7%29%20%E4%B8%8A%E6%B5%B7",
+   "featured": false,
+   "note": "上海春季届,往年约 4 月",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "CBE 中国美容博览会(上海美博会)",
+   "type": "展会",
+   "venue": "国家会展中心(虹桥)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "美妆"
+   ],
+   "official_url": "https://www.baidu.com/s?wd=CBE%20%E4%B8%AD%E5%9B%BD%E7%BE%8E%E5%AE%B9%E5%8D%9A%E8%A7%88%E4%BC%9A%28%E4%B8%8A%E6%B5%B7%E7%BE%8E%E5%8D%9A%E4%BC%9A%29%20%E4%B8%8A%E6%B5%B7",
+   "featured": false,
+   "note": "往年约 5 月",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "HOTELEX 上海国际酒店及餐饮业博览会",
+   "type": "展会",
+   "venue": "上海新国际博览中心",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "酒店餐饮"
+   ],
+   "official_url": "https://www.baidu.com/s?wd=HOTELEX%20%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E9%85%92%E5%BA%97%E5%8F%8A%E9%A4%90%E9%A5%AE%E4%B8%9A%E5%8D%9A%E8%A7%88%E4%BC%9A%20%E4%B8%8A%E6%B5%B7",
+   "featured": false,
+   "note": "往年约 3–4 月",
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
+  },
+  {
+   "title": "SEMICON China 国际半导体展",
+   "type": "展会",
+   "venue": "上海新国际博览中心",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "半导体"
+   ],
+   "official_url": "https://www.baidu.com/s?wd=SEMICON%20China%20%E5%9B%BD%E9%99%85%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B1%95%20%E4%B8%8A%E6%B5%B7",
+   "featured": false,
+   "note": "往年约 3 月",
    "first_seen": "2026-06-17",
    "kind": "年度固定"
   },
