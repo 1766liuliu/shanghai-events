@@ -91,6 +91,36 @@ EVENTS = [
         "kid": True, "age": "全年龄", "featured": False, "url": "",
         "note": "常年亲子剧/木偶/音乐会,排期见官网/猫眼", "tags": ["剧场/亲子"],
     },
+    {
+        "title": "上海天文馆", "type": "展会",
+        "start": "", "end": "", "venue": "上海天文馆(临港)",
+        "kid": True, "age": "全年龄", "featured": False, "url": "",
+        "note": "常年开放,需官网预约;亲子科普顶流", "tags": ["科普/亲子"],
+    },
+    {
+        "title": "上海自然博物馆", "type": "展会",
+        "start": "", "end": "", "venue": "自然博物馆(静安雕塑公园)",
+        "kid": True, "age": "全年龄", "featured": False, "url": "",
+        "note": "常年开放+当期特展,需预约;亲子科普", "tags": ["科普/亲子"],
+    },
+    {
+        "title": "上海科技馆", "type": "展会",
+        "start": "", "end": "", "venue": "上海科技馆(浦东)",
+        "kid": True, "age": "全年龄", "featured": False, "url": "",
+        "note": "常年开放,亲子科普", "tags": ["科普/亲子"],
+    },
+    {
+        "title": "上海玻璃博物馆 儿童艺术馆", "type": "展会",
+        "start": "", "end": "", "venue": "玻璃博物馆(宝山)",
+        "kid": True, "age": "全年龄", "featured": False, "url": "",
+        "note": "玻璃主题亲子体验,常年开放", "tags": ["科普/亲子"],
+    },
+    {
+        "title": "上海木偶剧团 亲子木偶剧", "type": "演出",
+        "start": "", "end": "", "venue": "多剧场",
+        "kid": True, "age": "全年龄", "featured": False, "url": "",
+        "note": "常年亲子木偶/皮影,排期见官网/猫眼", "tags": ["剧场/亲子"],
+    },
 ]
 
 
