@@ -145,6 +145,15 @@ EVENTS = [
 ]
 
 
+# 固定场馆(常年滚动排期,无单一日期)—— 命中即归"固定场馆",其余策展归"年度固定"
+_VENUE_KW = ["天文馆", "自然博物馆", "科技馆", "玻璃博物馆", "马戏城",
+             "儿童艺术剧场", "木偶剧团", "音乐厅", "大剧院", "东方艺术中心"]
+
+
+def _kind(title: str) -> str:
+    return "固定场馆" if any(k in title for k in _VENUE_KW) else "年度固定"
+
+
 class CuratedSource(BaseSource):
     name = "curated"
     compliance = "high"  # 人工策展,无抓取
@@ -157,7 +166,7 @@ class CuratedSource(BaseSource):
                 start_date=e["start"], end_date=e["end"],
                 kid_friendly=e["kid"], age_range=e["age"],
                 featured=e["featured"], note=e["note"], tags=list(e["tags"]),
-                raw_text=e["title"],
+                kind=_kind(e["title"]), raw_text=e["title"],
             )
             for e in EVENTS
         ]

@@ -21,7 +21,7 @@ SITE_DIR = os.path.join(os.path.dirname(__file__), "..", "..")
 PUBLIC_FIELDS = [
     "title", "type", "venue", "district", "start_date", "end_date",
     "open_ticket_time", "price_range", "kid_friendly", "age_range",
-    "tags", "official_url", "featured", "note", "first_seen",
+    "tags", "official_url", "featured", "note", "first_seen", "kind",
 ]
 
 INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
@@ -103,10 +103,13 @@ function render(data){const evts=(data.events||[]).slice();
  const nNew=evts.filter(e=>e.first_seen&&e.first_seen>=NEWCUT).length;
  document.getElementById('snap').textContent='📅 数据更新于 '+(data.generatedAt||'')+' · 在线版';
  document.getElementById('sub').textContent='共 '+evts.length+' 条 · 🆕最新 '+nNew+' · 🔥重磅 '+evts.filter(e=>e.featured).length+' · 👨‍👩‍👧亲子优先';
- evts.sort((a,b)=>a.featured!==b.featured?(a.featured?-1:1):((a.start_date||'9999')<(b.start_date||'9999')?-1:1));
- const dated=evts.filter(e=>e.start_date),und=evts.filter(e=>!e.start_date);let h='';
- if(dated.length)h+='<div class="group">📌 有确定档期</div>'+dated.map(e=>card(e,t)).join('');
- if(und.length)h+='<div class="group">🎪 常态演出 / 档期待核实</div>'+und.map(e=>card(e,t)).join('');
+ const byDate=(a,b)=>(a.start_date||'9999')<(b.start_date||'9999')?-1:1;
+ const annual=evts.filter(e=>e.kind==='年度固定').sort(byDate);
+ const live=evts.filter(e=>e.kind==='临时'&&e.start_date).sort(byDate);
+ const venue=evts.filter(e=>e.kind==='固定场馆');
+ const tbd=evts.filter(e=>e.kind==='临时'&&!e.start_date);
+ const sec=(title,arr)=>arr.length?('<div class="group">'+title+'</div>'+arr.map(e=>card(e,t)).join('')):'';
+ let h=sec('🔥 年度大展 · 大赛',annual)+sec('🎫 近期演出 · 活动',live)+sec('🏛 常驻剧场 · 场馆',venue)+sec('🕓 档期待核实',tbd);
  h+='<div class="empty" id="emptyTip" style="display:none">该分类下暂无活动</div>';
  document.getElementById('list').innerHTML=h||'<div class="empty">暂无数据</div>';
  const on=document.querySelector('.filters button[data-k="'+curKey+'"]')||document.querySelector('.filters button');flt(on,curKey);}

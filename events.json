@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-17 00:15",
+ "generatedAt": "2026-06-17 00:27",
  "count": 129,
  "events": [
   {
@@ -19,7 +19,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%20WAIC%202026%20%E4%B8%8A%E6%B5%B7",
    "featured": true,
    "note": "AI 科普展区适合大童",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "中国国际工业博览会(工博会)2026",
@@ -38,7 +39,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B7%A5%E4%B8%9A%E5%8D%9A%E8%A7%88%E4%BC%9A%28%E5%B7%A5%E5%8D%9A%E4%BC%9A%292026%20%E4%B8%8A%E6%B5%B7",
    "featured": true,
    "note": "机器人/智能制造展区",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "第九届中国国际进口博览会(进博会)",
@@ -55,7 +57,8 @@
    "official_url": "https://www.ciie.org/",
    "featured": true,
    "note": "公众日需预约,以官方为准",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "上海劳力士大师赛(网球 ATP1000)2026",
@@ -74,7 +77,8 @@
    "official_url": "https://www.jussevent.com/",
    "featured": true,
    "note": "结束日期约,以官方为准",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "上海马拉松 2026",
@@ -93,7 +97,8 @@
    "official_url": "https://www.shang-ma.com/",
    "featured": true,
    "note": "可观赛/亲子跑",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "上海书展",
@@ -112,7 +117,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B9%A6%E5%B1%95%20%E4%B8%8A%E6%B5%B7",
    "featured": false,
    "note": "档期待官方确认(往年 8 月中旬),非常适合带娃",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "中国上海国际艺术节",
@@ -131,7 +137,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E8%89%BA%E6%9C%AF%E8%8A%82%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "档期待官方确认(往年 10–11 月),含亲子板块",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "上海国际电影节(第28届)",
@@ -150,7 +157,8 @@
    "official_url": "https://www.siff.com/",
    "featured": true,
    "note": "含动画/亲子展映单元",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "上海旅游节",
@@ -169,7 +177,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%97%85%E6%B8%B8%E8%8A%82%20%E8%B4%AD%E7%A5%A8",
    "featured": true,
    "note": "档期待官方确认(往年 9 月中–10 月,大量景点半价)",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "上海迪士尼·万圣狂欢",
@@ -189,7 +198,8 @@
    "official_url": "https://www.shanghaidisneyresort.com/",
    "featured": true,
    "note": "档期待官方确认(往年 10 月中–11 月初周末)",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "年度固定"
   },
   {
    "title": "上海马戏城 杂技/马戏 驻场秀",
@@ -209,7 +219,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%A9%AC%E6%88%8F%E5%9F%8E%20%E6%9D%82%E6%8A%80/%E9%A9%AC%E6%88%8F%20%E9%A9%BB%E5%9C%BA%E7%A7%80%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "常年驻演(周末有场),猫眼/大麦购票",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "固定场馆"
   },
   {
    "title": "上海儿童艺术剧场 亲子剧目",
@@ -229,7 +240,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%84%BF%E7%AB%A5%E8%89%BA%E6%9C%AF%E5%89%A7%E5%9C%BA%20%E4%BA%B2%E5%AD%90%E5%89%A7%E7%9B%AE%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "常年亲子剧/木偶/音乐会,排期见官网/猫眼",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "固定场馆"
   },
   {
    "title": "上海天文馆",
@@ -249,7 +261,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%A4%A9%E6%96%87%E9%A6%86%20%E4%B8%8A%E6%B5%B7",
    "featured": false,
    "note": "常年开放,需官网预约;亲子科普顶流",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "固定场馆"
   },
   {
    "title": "上海自然博物馆",
@@ -269,7 +282,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86%20%E4%B8%8A%E6%B5%B7",
    "featured": false,
    "note": "常年开放+当期特展,需预约;亲子科普",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "固定场馆"
   },
   {
    "title": "上海科技馆",
@@ -289,7 +303,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E9%A6%86%20%E4%B8%8A%E6%B5%B7",
    "featured": false,
    "note": "常年开放,亲子科普",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "固定场馆"
   },
   {
    "title": "上海玻璃博物馆 儿童艺术馆",
@@ -309,7 +324,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%8E%BB%E7%92%83%E5%8D%9A%E7%89%A9%E9%A6%86%20%E5%84%BF%E7%AB%A5%E8%89%BA%E6%9C%AF%E9%A6%86%20%E4%B8%8A%E6%B5%B7",
    "featured": false,
    "note": "玻璃主题亲子体验,常年开放",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "固定场馆"
   },
   {
    "title": "上海木偶剧团 亲子木偶剧",
@@ -329,7 +345,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E6%9C%A8%E5%81%B6%E5%89%A7%E5%9B%A2%20%E4%BA%B2%E5%AD%90%E6%9C%A8%E5%81%B6%E5%89%A7%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "常年亲子木偶/皮影,排期见官网/猫眼",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "固定场馆"
   },
   {
    "title": "世界移动通信大会 MWC上海 2026",
@@ -348,7 +365,8 @@
    "official_url": "https://www.mwcshanghai.cn/",
    "featured": true,
    "note": "移动AI/6G/卫星通信",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
   },
   {
    "title": "ChinaJoy 2026(中国国际数码互动娱乐展)",
@@ -368,7 +386,8 @@
    "official_url": "https://www.chinajoy.net/",
    "featured": true,
    "note": "游戏/ACG,适合大童青少年",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
   },
   {
    "title": "华为全连接大会 HUAWEI CONNECT 2026",
@@ -387,7 +406,8 @@
    "official_url": "https://www.huawei.com/cn/events/huaweiconnect",
    "featured": true,
    "note": "档期以华为官方为准(往年9月中旬)",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "年度固定"
   },
   {
    "title": "王源2026宇宙超级无敌大大狂欢巡回演唱会-上海站",
@@ -404,7 +424,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%BA%902026%E5%AE%87%E5%AE%99%E8%B6%85%E7%BA%A7%E6%97%A0%E6%95%8C%E5%A4%A7%E5%A4%A7%E7%8B%82%E6%AC%A2%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E4%B8%8A%E6%B5%B7%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "林宥嘉《超级管家》巡回演唱会 上海站",
@@ -421,7 +442,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E6%9E%97%E5%AE%A5%E5%98%89%E3%80%8A%E8%B6%85%E7%BA%A7%E7%AE%A1%E5%AE%B6%E3%80%8B%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%20%E4%B8%8A%E6%B5%B7%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "鹭卓2026 Ready To The Top Ⅱ 巡回演唱会-上海站",
@@ -438,24 +460,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E9%B9%AD%E5%8D%932026%20Ready%20To%20The%20Top%20%E2%85%A1%20%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E4%B8%8A%E6%B5%B7%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
-  },
-  {
-   "title": "周兴哲《Odyssey·Stars旅程·星空 》巡回演唱会-上海站返场",
-   "type": "演出",
-   "venue": "上海虹口足球场",
-   "district": "",
-   "start_date": "2026-08-01",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.baidu.com/s?wd=%E5%91%A8%E5%85%B4%E5%93%B2%E3%80%8AOdyssey%C2%B7Stars%E6%97%85%E7%A8%8B%C2%B7%E6%98%9F%E7%A9%BA%20%E3%80%8B%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E4%B8%8A%E6%B5%B7%E7%AB%99%E8%BF%94%E5%9C%BA%20%E8%B4%AD%E7%A5%A8",
-   "featured": false,
-   "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "胡彦斌2026「是一场烟火·刹那」巡回演唱会-上海站",
@@ -472,7 +478,26 @@
    "official_url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C2026%E3%80%8C%E6%98%AF%E4%B8%80%E5%9C%BA%E7%83%9F%E7%81%AB%C2%B7%E5%88%B9%E9%82%A3%E3%80%8D%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E4%B8%8A%E6%B5%B7%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
+  },
+  {
+   "title": "周兴哲《Odyssey·Stars旅程·星空 》巡回演唱会-上海站返场",
+   "type": "演出",
+   "venue": "上海虹口足球场",
+   "district": "",
+   "start_date": "2026-08-01",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.baidu.com/s?wd=%E5%91%A8%E5%85%B4%E5%93%B2%E3%80%8AOdyssey%C2%B7Stars%E6%97%85%E7%A8%8B%C2%B7%E6%98%9F%E7%A9%BA%20%E3%80%8B%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E4%B8%8A%E6%B5%B7%E7%AB%99%E8%BF%94%E5%9C%BA%20%E8%B4%AD%E7%A5%A8",
+   "featured": false,
+   "note": "",
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026《大鱼海棠·十周年重逢之夜》特别呈现",
@@ -489,7 +514,8 @@
    "official_url": "https://www.baidu.com/s?wd=2026%E3%80%8A%E5%A4%A7%E9%B1%BC%E6%B5%B7%E6%A3%A0%C2%B7%E5%8D%81%E5%91%A8%E5%B9%B4%E9%87%8D%E9%80%A2%E4%B9%8B%E5%A4%9C%E3%80%8B%E7%89%B9%E5%88%AB%E5%91%88%E7%8E%B0%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "在雨后醒来 艾志恒Asen 2026巡回演唱会-上海站",
@@ -506,7 +532,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%9C%A8%E9%9B%A8%E5%90%8E%E9%86%92%E6%9D%A5%20%E8%89%BE%E5%BF%97%E6%81%92Asen%202026%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E4%B8%8A%E6%B5%B7%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "杨千嬅 Live MY LIVE 1.0 巡回演唱会-上海站",
@@ -523,7 +550,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E6%9D%A8%E5%8D%83%E5%AC%85%20Live%20MY%20LIVE%201.0%20%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A-%E4%B8%8A%E6%B5%B7%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "【年度最佳】高口碑必看！豫园爆笑钞级嫌疑人《见钱眼开》｜｜沉浸式局中剧｜豪华阵容",
@@ -540,7 +568,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%90%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E3%80%91%E9%AB%98%E5%8F%A3%E7%A2%91%E5%BF%85%E7%9C%8B%EF%BC%81%E8%B1%AB%E5%9B%AD%E7%88%86%E7%AC%91%E9%92%9E%E7%BA%A7%E5%AB%8C%E7%96%91%E4%BA%BA%E3%80%8A%E8%A7%81%E9%92%B1%E7%9C%BC%E5%BC%80%E3%80%8B%EF%BD%9C%EF%BD%9C%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%B1%80%E4%B8%AD%E5%89%A7%EF%BD%9C%E8%B1%AA%E5%8D%8E%E9%98%B5%E5%AE%B9%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "原版音乐剧《剧院魅影》四十周年上海告别季",
@@ -557,7 +586,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%8E%9F%E7%89%88%E9%9F%B3%E4%B9%90%E5%89%A7%E3%80%8A%E5%89%A7%E9%99%A2%E9%AD%85%E5%BD%B1%E3%80%8B%E5%9B%9B%E5%8D%81%E5%91%A8%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%91%8A%E5%88%AB%E5%AD%A3%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海首创16种结局悬疑《法外狂徒》｜沉浸式局中剧中局｜上帝视角观影体验",
@@ -574,7 +604,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%A6%96%E5%88%9B16%E7%A7%8D%E7%BB%93%E5%B1%80%E6%82%AC%E7%96%91%E3%80%8A%E6%B3%95%E5%A4%96%E7%8B%82%E5%BE%92%E3%80%8B%EF%BD%9C%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%B1%80%E4%B8%AD%E5%89%A7%E4%B8%AD%E5%B1%80%EF%BD%9C%E4%B8%8A%E5%B8%9D%E8%A7%86%E8%A7%92%E8%A7%82%E5%BD%B1%E4%BD%93%E9%AA%8C%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "[今夏八月 载誉收官]上海·浸入式戏剧经典之作《不眠之夜》特别版-【驻演十年 千人千梦】",
@@ -591,7 +622,8 @@
    "official_url": "https://www.baidu.com/s?wd=%5B%E4%BB%8A%E5%A4%8F%E5%85%AB%E6%9C%88%20%E8%BD%BD%E8%AA%89%E6%94%B6%E5%AE%98%5D%E4%B8%8A%E6%B5%B7%C2%B7%E6%B5%B8%E5%85%A5%E5%BC%8F%E6%88%8F%E5%89%A7%E7%BB%8F%E5%85%B8%E4%B9%8B%E4%BD%9C%E3%80%8A%E4%B8%8D%E7%9C%A0%E4%B9%8B%E5%A4%9C%E3%80%8B%E7%89%B9%E5%88%AB%E7%89%88-%E3%80%90%E9%A9%BB%E6%BC%94%E5%8D%81%E5%B9%B4%20%E5%8D%83%E4%BA%BA%E5%8D%83%E6%A2%A6%E3%80%91%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "原创爆笑奇幻音乐剧《邦尼帮你》-来音乐剧的现场过生日吧",
@@ -608,7 +640,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%88%9B%E7%88%86%E7%AC%91%E5%A5%87%E5%B9%BB%E9%9F%B3%E4%B9%90%E5%89%A7%E3%80%8A%E9%82%A6%E5%B0%BC%E5%B8%AE%E4%BD%A0%E3%80%8B-%E6%9D%A5%E9%9F%B3%E4%B9%90%E5%89%A7%E7%9A%84%E7%8E%B0%E5%9C%BA%E8%BF%87%E7%94%9F%E6%97%A5%E5%90%A7%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "音乐剧《狂炎奏鸣曲》",
@@ -625,7 +658,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E5%89%A7%E3%80%8A%E7%8B%82%E7%82%8E%E5%A5%8F%E9%B8%A3%E6%9B%B2%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "音乐剧《大状王》",
@@ -642,7 +676,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E9%9F%B3%E4%B9%90%E5%89%A7%E3%80%8A%E5%A4%A7%E7%8A%B6%E7%8E%8B%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "玄幻爆笑喜剧《成仙》丨国内首创360°环绕剧场·海物惟错",
@@ -659,7 +694,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E7%8E%84%E5%B9%BB%E7%88%86%E7%AC%91%E5%96%9C%E5%89%A7%E3%80%8A%E6%88%90%E4%BB%99%E3%80%8B%E4%B8%A8%E5%9B%BD%E5%86%85%E9%A6%96%E5%88%9B360%C2%B0%E7%8E%AF%E7%BB%95%E5%89%A7%E5%9C%BA%C2%B7%E6%B5%B7%E7%89%A9%E6%83%9F%E9%94%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "马王堆汉墓文物大展-千金之家（需预约）",
@@ -676,7 +712,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E9%A9%AC%E7%8E%8B%E5%A0%86%E6%B1%89%E5%A2%93%E6%96%87%E7%89%A9%E5%A4%A7%E5%B1%95-%E5%8D%83%E9%87%91%E4%B9%8B%E5%AE%B6%EF%BC%88%E9%9C%80%E9%A2%84%E7%BA%A6%EF%BC%89%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "出神·入画——非人哉沉浸式数字美术展",
@@ -693,7 +730,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%A5%9E%C2%B7%E5%85%A5%E7%94%BB%E2%80%94%E2%80%94%E9%9D%9E%E4%BA%BA%E5%93%89%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%95%B0%E5%AD%97%E7%BE%8E%E6%9C%AF%E5%B1%95%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海玩偶艺术双年展WonderDolls2026！玩物丧志集团队倾力打造顶流玩偶艺术盛宴！",
@@ -710,7 +748,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E7%8E%A9%E5%81%B6%E8%89%BA%E6%9C%AF%E5%8F%8C%E5%B9%B4%E5%B1%95WonderDolls2026%EF%BC%81%E7%8E%A9%E7%89%A9%E4%B8%A7%E5%BF%97%E9%9B%86%E5%9B%A2%E9%98%9F%E5%80%BE%E5%8A%9B%E6%89%93%E9%80%A0%E9%A1%B6%E6%B5%81%E7%8E%A9%E5%81%B6%E8%89%BA%E6%9C%AF%E7%9B%9B%E5%AE%B4%EF%BC%81%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "毛茸茸的我·萌宠治愈系艺术展（上海站）",
@@ -729,7 +768,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E6%88%91%C2%B7%E8%90%8C%E5%AE%A0%E6%B2%BB%E6%84%88%E7%B3%BB%E8%89%BA%E6%9C%AF%E5%B1%95%EF%BC%88%E4%B8%8A%E6%B5%B7%E7%AB%99%EF%BC%89%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "浦东美术馆指定单日票【乔治·莫兰迪：独白】",
@@ -746,7 +786,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E6%B5%A6%E4%B8%9C%E7%BE%8E%E6%9C%AF%E9%A6%86%E6%8C%87%E5%AE%9A%E5%8D%95%E6%97%A5%E7%A5%A8%E3%80%90%E4%B9%94%E6%B2%BB%C2%B7%E8%8E%AB%E5%85%B0%E8%BF%AA%EF%BC%9A%E7%8B%AC%E7%99%BD%E3%80%91%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "古影沉浸式互动游戏剧场 《1941·新和医院》",
@@ -765,7 +806,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%BD%B1%E6%B2%89%E6%B5%B8%E5%BC%8F%E4%BA%92%E5%8A%A8%E6%B8%B8%E6%88%8F%E5%89%A7%E5%9C%BA%20%E3%80%8A1941%C2%B7%E6%96%B0%E5%92%8C%E5%8C%BB%E9%99%A2%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "Fotografiska影像艺术中心单日通票 | 一票看四展",
@@ -782,7 +824,8 @@
    "official_url": "https://www.baidu.com/s?wd=Fotografiska%E5%BD%B1%E5%83%8F%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83%E5%8D%95%E6%97%A5%E9%80%9A%E7%A5%A8%20%7C%20%E4%B8%80%E7%A5%A8%E7%9C%8B%E5%9B%9B%E5%B1%95%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "『爆笑互动』【静安大悦城】银河魔幻亲子秀 ·【魔术 | 小丑 | 泡泡 | 气球秀】「银河喜剧」",
@@ -801,7 +844,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8E%E7%88%86%E7%AC%91%E4%BA%92%E5%8A%A8%E3%80%8F%E3%80%90%E9%9D%99%E5%AE%89%E5%A4%A7%E6%82%A6%E5%9F%8E%E3%80%91%E9%93%B6%E6%B2%B3%E9%AD%94%E5%B9%BB%E4%BA%B2%E5%AD%90%E7%A7%80%20%C2%B7%E3%80%90%E9%AD%94%E6%9C%AF%20%7C%20%E5%B0%8F%E4%B8%91%20%7C%20%E6%B3%A1%E6%B3%A1%20%7C%20%E6%B0%94%E7%90%83%E7%A7%80%E3%80%91%E3%80%8C%E9%93%B6%E6%B2%B3%E5%96%9C%E5%89%A7%E3%80%8D%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "「亲子魔术」沉浸互动丨爆笑喜剧魔术丨淮海路必看亲子剧《幻梦奇缘》陪Ta走进童话丨亲子魔术秀",
@@ -820,7 +864,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8C%E4%BA%B2%E5%AD%90%E9%AD%94%E6%9C%AF%E3%80%8D%E6%B2%89%E6%B5%B8%E4%BA%92%E5%8A%A8%E4%B8%A8%E7%88%86%E7%AC%91%E5%96%9C%E5%89%A7%E9%AD%94%E6%9C%AF%E4%B8%A8%E6%B7%AE%E6%B5%B7%E8%B7%AF%E5%BF%85%E7%9C%8B%E4%BA%B2%E5%AD%90%E5%89%A7%E3%80%8A%E5%B9%BB%E6%A2%A6%E5%A5%87%E7%BC%98%E3%80%8B%E9%99%AATa%E8%B5%B0%E8%BF%9B%E7%AB%A5%E8%AF%9D%E4%B8%A8%E4%BA%B2%E5%AD%90%E9%AD%94%E6%9C%AF%E7%A7%80%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "「亲子魔术」沉浸互动丨爆笑喜剧魔术丨北外滩必看亲子剧《口袋里的奇迹》陪Ta走进童话丨幻梦奇缘",
@@ -839,7 +884,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8C%E4%BA%B2%E5%AD%90%E9%AD%94%E6%9C%AF%E3%80%8D%E6%B2%89%E6%B5%B8%E4%BA%92%E5%8A%A8%E4%B8%A8%E7%88%86%E7%AC%91%E5%96%9C%E5%89%A7%E9%AD%94%E6%9C%AF%E4%B8%A8%E5%8C%97%E5%A4%96%E6%BB%A9%E5%BF%85%E7%9C%8B%E4%BA%B2%E5%AD%90%E5%89%A7%E3%80%8A%E5%8F%A3%E8%A2%8B%E9%87%8C%E7%9A%84%E5%A5%87%E8%BF%B9%E3%80%8B%E9%99%AATa%E8%B5%B0%E8%BF%9B%E7%AB%A5%E8%AF%9D%E4%B8%A8%E5%B9%BB%E6%A2%A6%E5%A5%87%E7%BC%98%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "【外滩必看】沉浸魔术互动剧《魔法奇妙夜》|上台互动|魔术|特技|实验|泡泡(外滩南京东步行街)",
@@ -858,7 +904,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%90%E5%A4%96%E6%BB%A9%E5%BF%85%E7%9C%8B%E3%80%91%E6%B2%89%E6%B5%B8%E9%AD%94%E6%9C%AF%E4%BA%92%E5%8A%A8%E5%89%A7%E3%80%8A%E9%AD%94%E6%B3%95%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%7C%E4%B8%8A%E5%8F%B0%E4%BA%92%E5%8A%A8%7C%E9%AD%94%E6%9C%AF%7C%E7%89%B9%E6%8A%80%7C%E5%AE%9E%E9%AA%8C%7C%E6%B3%A1%E6%B3%A1%28%E5%A4%96%E6%BB%A9%E5%8D%97%E4%BA%AC%E4%B8%9C%E6%AD%A5%E8%A1%8C%E8%A1%97%29%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "【点评推荐】ERA时空之旅2",
@@ -875,7 +922,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%90%E7%82%B9%E8%AF%84%E6%8E%A8%E8%8D%90%E3%80%91ERA%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%97%852%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "“奔马扬蹄，虎跃熊欢”——经典亲子大马戏《欢乐马戏》",
@@ -894,7 +942,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%94%E9%A9%AC%E6%89%AC%E8%B9%84%EF%BC%8C%E8%99%8E%E8%B7%83%E7%86%8A%E6%AC%A2%E2%80%9D%E2%80%94%E2%80%94%E7%BB%8F%E5%85%B8%E4%BA%B2%E5%AD%90%E5%A4%A7%E9%A9%AC%E6%88%8F%E3%80%8A%E6%AC%A2%E4%B9%90%E9%A9%AC%E6%88%8F%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "6月19日《科学实验秀》物理、化学秀—上海嘉定站",
@@ -911,7 +960,8 @@
    "official_url": "https://www.baidu.com/s?wd=6%E6%9C%8819%E6%97%A5%E3%80%8A%E7%A7%91%E5%AD%A6%E5%AE%9E%E9%AA%8C%E7%A7%80%E3%80%8B%E7%89%A9%E7%90%86%E3%80%81%E5%8C%96%E5%AD%A6%E7%A7%80%E2%80%94%E4%B8%8A%E6%B5%B7%E5%98%89%E5%AE%9A%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "沉浸式海洋科学与幻想之旅舞台剧《海底两万里》",
@@ -928,7 +978,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B5%B7%E6%B4%8B%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B9%BB%E6%83%B3%E4%B9%8B%E6%97%85%E8%88%9E%E5%8F%B0%E5%89%A7%E3%80%8A%E6%B5%B7%E5%BA%95%E4%B8%A4%E4%B8%87%E9%87%8C%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "独脚戏《石库门的笑声》",
@@ -945,7 +996,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E7%8B%AC%E8%84%9A%E6%88%8F%E3%80%8A%E7%9F%B3%E5%BA%93%E9%97%A8%E7%9A%84%E7%AC%91%E5%A3%B0%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "大型滑稽戏《兄弟阿Q》",
@@ -962,7 +1014,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%9E%8B%E6%BB%91%E7%A8%BD%E6%88%8F%E3%80%8A%E5%85%84%E5%BC%9F%E9%98%BFQ%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "婺剧折子戏专场",
@@ -979,7 +1032,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%A9%BA%E5%89%A7%E6%8A%98%E5%AD%90%E6%88%8F%E4%B8%93%E5%9C%BA%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "越剧《红楼梦》",
@@ -996,7 +1050,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E8%B6%8A%E5%89%A7%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "越剧《孔雀东南飞》",
@@ -1013,7 +1068,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E8%B6%8A%E5%89%A7%E3%80%8A%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "实验沪剧《短章边》",
@@ -1030,7 +1086,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%AE%9E%E9%AA%8C%E6%B2%AA%E5%89%A7%E3%80%8A%E7%9F%AD%E7%AB%A0%E8%BE%B9%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "新中式美学经典舞台剧《红楼梦》",
@@ -1047,7 +1104,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%BB%8F%E5%85%B8%E8%88%9E%E5%8F%B0%E5%89%A7%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "Paradox《群星》十周年纪念交响音乐会上海场",
@@ -1064,7 +1122,8 @@
    "official_url": "https://www.baidu.com/s?wd=Paradox%E3%80%8A%E7%BE%A4%E6%98%9F%E3%80%8B%E5%8D%81%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B8%8A%E6%B5%B7%E5%9C%BA%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "《芭比与室内乐之梦——刘一诺noral和她的朋友们》主题音乐会",
@@ -1081,7 +1140,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%8A%AD%E6%AF%94%E4%B8%8E%E5%AE%A4%E5%86%85%E4%B9%90%E4%B9%8B%E6%A2%A6%E2%80%94%E2%80%94%E5%88%98%E4%B8%80%E8%AF%BAnoral%E5%92%8C%E5%A5%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E3%80%8B%E4%B8%BB%E9%A2%98%E9%9F%B3%E4%B9%90%E4%BC%9A%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "《驯龙高手》电影音乐会 HOW TO TRAIN YOUR DRAGON IN CONCERT",
@@ -1098,7 +1158,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8A%E9%A9%AF%E9%BE%99%E9%AB%98%E6%89%8B%E3%80%8B%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E4%BC%9A%20HOW%20TO%20TRAIN%20YOUR%20DRAGON%20IN%20CONCERT%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "「时代的旋律」超燃回忆杀丨带爸妈听老歌丨80年代沉浸式音乐现场丨怀旧金曲丨致敬经典《时光唱片》",
@@ -1115,7 +1176,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8C%E6%97%B6%E4%BB%A3%E7%9A%84%E6%97%8B%E5%BE%8B%E3%80%8D%E8%B6%85%E7%87%83%E5%9B%9E%E5%BF%86%E6%9D%80%E4%B8%A8%E5%B8%A6%E7%88%B8%E5%A6%88%E5%90%AC%E8%80%81%E6%AD%8C%E4%B8%A880%E5%B9%B4%E4%BB%A3%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA%E4%B8%A8%E6%80%80%E6%97%A7%E9%87%91%E6%9B%B2%E4%B8%A8%E8%87%B4%E6%95%AC%E7%BB%8F%E5%85%B8%E3%80%8A%E6%97%B6%E5%85%89%E5%94%B1%E7%89%87%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "「一人一首成名曲」超燃回忆杀丨带爸妈听老歌丨80年代沉浸式音乐现场丨怀旧金曲丨《时光唱片》",
@@ -1132,7 +1194,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8C%E4%B8%80%E4%BA%BA%E4%B8%80%E9%A6%96%E6%88%90%E5%90%8D%E6%9B%B2%E3%80%8D%E8%B6%85%E7%87%83%E5%9B%9E%E5%BF%86%E6%9D%80%E4%B8%A8%E5%B8%A6%E7%88%B8%E5%A6%88%E5%90%AC%E8%80%81%E6%AD%8C%E4%B8%A880%E5%B9%B4%E4%BB%A3%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA%E4%B8%A8%E6%80%80%E6%97%A7%E9%87%91%E6%9B%B2%E4%B8%A8%E3%80%8A%E6%97%B6%E5%85%89%E5%94%B1%E7%89%87%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "郎朗·琴动中国钢琴独奏音乐会·上海站",
@@ -1149,7 +1212,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E9%83%8E%E6%9C%97%C2%B7%E7%90%B4%E5%8A%A8%E4%B8%AD%E5%9B%BD%E9%92%A2%E7%90%B4%E7%8B%AC%E5%A5%8F%E9%9F%B3%E4%B9%90%E4%BC%9A%C2%B7%E4%B8%8A%E6%B5%B7%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "「开小差·Space Out」许昌泰生日音乐会-【缪时客出品】",
@@ -1166,7 +1230,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8C%E5%BC%80%E5%B0%8F%E5%B7%AE%C2%B7Space%20Out%E3%80%8D%E8%AE%B8%E6%98%8C%E6%B3%B0%E7%94%9F%E6%97%A5%E9%9F%B3%E4%B9%90%E4%BC%9A-%E3%80%90%E7%BC%AA%E6%97%B6%E5%AE%A2%E5%87%BA%E5%93%81%E3%80%91%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "Victory人类的胜利：Thomas Bergersen Epic Live托马斯·伯格森史诗音乐会-上海站",
@@ -1183,7 +1248,8 @@
    "official_url": "https://www.baidu.com/s?wd=Victory%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%83%9C%E5%88%A9%EF%BC%9AThomas%20Bergersen%20Epic%20Live%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E4%BC%AF%E6%A0%BC%E6%A3%AE%E5%8F%B2%E8%AF%97%E9%9F%B3%E4%B9%90%E4%BC%9A-%E4%B8%8A%E6%B5%B7%E7%AB%99%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "耿子博导演作品 环境式沉浸舞蹈剧场《九尾古董店》",
@@ -1200,7 +1266,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E8%80%BF%E5%AD%90%E5%8D%9A%E5%AF%BC%E6%BC%94%E4%BD%9C%E5%93%81%20%E7%8E%AF%E5%A2%83%E5%BC%8F%E6%B2%89%E6%B5%B8%E8%88%9E%E8%B9%88%E5%89%A7%E5%9C%BA%E3%80%8A%E4%B9%9D%E5%B0%BE%E5%8F%A4%E8%91%A3%E5%BA%97%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "舞剧《永不消逝的电波》",
@@ -1217,7 +1284,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E8%88%9E%E5%89%A7%E3%80%8A%E6%B0%B8%E4%B8%8D%E6%B6%88%E9%80%9D%E7%9A%84%E7%94%B5%E6%B3%A2%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026浦东精品剧目展演-丹麦皇家芭蕾舞团明星舞者之夜",
@@ -1234,7 +1302,8 @@
    "official_url": "https://www.baidu.com/s?wd=2026%E6%B5%A6%E4%B8%9C%E7%B2%BE%E5%93%81%E5%89%A7%E7%9B%AE%E5%B1%95%E6%BC%94-%E4%B8%B9%E9%BA%A6%E7%9A%87%E5%AE%B6%E8%8A%AD%E8%95%BE%E8%88%9E%E5%9B%A2%E6%98%8E%E6%98%9F%E8%88%9E%E8%80%85%E4%B9%8B%E5%A4%9C%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "【7月收官】耿子博导演作品 国内首部环境式沉浸舞蹈剧场《寅时说》",
@@ -1251,7 +1320,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%907%E6%9C%88%E6%94%B6%E5%AE%98%E3%80%91%E8%80%BF%E5%AD%90%E5%8D%9A%E5%AF%BC%E6%BC%94%E4%BD%9C%E5%93%81%20%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8%E7%8E%AF%E5%A2%83%E5%BC%8F%E6%B2%89%E6%B5%B8%E8%88%9E%E8%B9%88%E5%89%A7%E5%9C%BA%E3%80%8A%E5%AF%85%E6%97%B6%E8%AF%B4%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "【全男班街舞舞剧】沉浸式驻场SHOW MUSICAL《洗车行》",
@@ -1268,7 +1338,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%90%E5%85%A8%E7%94%B7%E7%8F%AD%E8%A1%97%E8%88%9E%E8%88%9E%E5%89%A7%E3%80%91%E6%B2%89%E6%B5%B8%E5%BC%8F%E9%A9%BB%E5%9C%BASHOW%20MUSICAL%E3%80%8A%E6%B4%97%E8%BD%A6%E8%A1%8C%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "江西文演·陆川导演作品舞剧《天工开物》（免费接驳车）",
@@ -1287,7 +1358,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%A5%BF%E6%96%87%E6%BC%94%C2%B7%E9%99%86%E5%B7%9D%E5%AF%BC%E6%BC%94%E4%BD%9C%E5%93%81%E8%88%9E%E5%89%A7%E3%80%8A%E5%A4%A9%E5%B7%A5%E5%BC%80%E7%89%A9%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%A5%E9%A9%B3%E8%BD%A6%EF%BC%89%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "舞剧《破冰》",
@@ -1304,7 +1376,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E8%88%9E%E5%89%A7%E3%80%8A%E7%A0%B4%E5%86%B0%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "中国歌剧舞剧院 舞剧《垂虹别意·唐寅》",
@@ -1321,7 +1394,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%8C%E5%89%A7%E8%88%9E%E5%89%A7%E9%99%A2%20%E8%88%9E%E5%89%A7%E3%80%8A%E5%9E%82%E8%99%B9%E5%88%AB%E6%84%8F%C2%B7%E5%94%90%E5%AF%85%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "年度驻演●MR沉浸式戏剧《太虚幻境》",
@@ -1338,7 +1412,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E5%B9%B4%E5%BA%A6%E9%A9%BB%E6%BC%94%E2%97%8FMR%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%88%8F%E5%89%A7%E3%80%8A%E5%A4%AA%E8%99%9A%E5%B9%BB%E5%A2%83%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "《福尔摩斯之荒宅谜案》VR密室游戏",
@@ -1355,7 +1430,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E4%B9%8B%E8%8D%92%E5%AE%85%E8%B0%9C%E6%A1%88%E3%80%8BVR%E5%AF%86%E5%AE%A4%E6%B8%B8%E6%88%8F%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "7.29-8.1【Tribute to Art Blakey】Jazz Messenger致敬传奇",
@@ -1372,7 +1448,8 @@
    "official_url": "https://www.baidu.com/s?wd=7.29-8.1%E3%80%90Tribute%20to%20Art%20Blakey%E3%80%91Jazz%20Messenger%E8%87%B4%E6%95%AC%E4%BC%A0%E5%A5%87%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "长者戏剧社《时光故事会》",
@@ -1389,7 +1466,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E9%95%BF%E8%80%85%E6%88%8F%E5%89%A7%E7%A4%BE%E3%80%8A%E6%97%B6%E5%85%89%E6%95%85%E4%BA%8B%E4%BC%9A%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "第三空间高清放映 - 《近乎正常》",
@@ -1406,7 +1484,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%89%E7%A9%BA%E9%97%B4%E9%AB%98%E6%B8%85%E6%94%BE%E6%98%A0%20-%20%E3%80%8A%E8%BF%91%E4%B9%8E%E6%AD%A3%E5%B8%B8%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "第三空间高清放映 - 《奥赛罗》",
@@ -1423,7 +1502,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%89%E7%A9%BA%E9%97%B4%E9%AB%98%E6%B8%85%E6%94%BE%E6%98%A0%20-%20%E3%80%8A%E5%A5%A5%E8%B5%9B%E7%BD%97%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "第三空间高清放映 - 《哈姆雷特》",
@@ -1440,7 +1520,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%89%E7%A9%BA%E9%97%B4%E9%AB%98%E6%B8%85%E6%94%BE%E6%98%A0%20-%20%E3%80%8A%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "第三空间高清放映 - 《万尼亚》",
@@ -1457,7 +1538,8 @@
    "official_url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%89%E7%A9%BA%E9%97%B4%E9%AB%98%E6%B8%85%E6%94%BE%E6%98%A0%20-%20%E3%80%8A%E4%B8%87%E5%B0%BC%E4%BA%9A%E3%80%8B%20%E8%B4%AD%E7%A5%A8",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海国际数字印花展览会",
@@ -1476,7 +1558,8 @@
    "official_url": "https://www.jufair.com/exhibition/3062.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "上海国际LED显示屏及照明展",
@@ -1495,7 +1578,8 @@
    "official_url": "https://www.jufair.com/exhibition/3030.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海国际工业装配及传输技术展览会",
@@ -1514,7 +1598,8 @@
    "official_url": "https://www.jufair.com/exhibition/5476.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "中国（上海）半导体产业与应用博览会",
@@ -1533,7 +1618,8 @@
    "official_url": "https://www.jufair.com/exhibition/7220.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "上海国际粉体加工与处理展览会",
@@ -1552,7 +1638,8 @@
    "official_url": "https://www.jufair.com/exhibition/9604.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海国际连锁加盟展览会春季",
@@ -1571,7 +1658,8 @@
    "official_url": "https://www.jufair.com/exhibition/3176.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海国际金属线材、制品及设备展览会",
@@ -1590,7 +1678,8 @@
    "official_url": "https://www.jufair.com/exhibition/9380.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "中国肥料及农业装备展-全国农药及农化产品展",
@@ -1609,7 +1698,8 @@
    "official_url": "https://www.jufair.com/exhibition/8863.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海法兰克福汽配展览会",
@@ -1628,7 +1718,8 @@
    "official_url": "https://www.jufair.com/exhibition/1635.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "上海国际果蔬展-亚洲果蔬博览会-万果会",
@@ -1647,7 +1738,8 @@
    "official_url": "https://www.jufair.com/exhibition/865.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "上海国际车用空调及热管理技术展览会",
@@ -1666,7 +1758,8 @@
    "official_url": "https://www.jufair.com/exhibition/3350.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海国际新标签技术展",
@@ -1685,7 +1778,8 @@
    "official_url": "https://www.jufair.com/exhibition/16376.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海国际摄影器材和数码影像展览会",
@@ -1704,7 +1798,8 @@
    "official_url": "https://www.jufair.com/exhibition/3387.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "中国（上海）国际箱包展览会",
@@ -1723,7 +1818,8 @@
    "official_url": "https://www.jufair.com/exhibition/313.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "中国门窗幕墙展",
@@ -1743,7 +1839,8 @@
    "official_url": "https://www.jufair.com/exhibition/666.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海面料展",
@@ -1763,7 +1860,8 @@
    "official_url": "https://www.jufair.com/exhibition/1639.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海汽车测试展",
@@ -1783,7 +1881,8 @@
    "official_url": "https://www.jufair.com/exhibition/9153.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海电池展",
@@ -1803,7 +1902,8 @@
    "official_url": "https://www.jufair.com/exhibition/6464.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "中国药机展",
@@ -1823,7 +1923,8 @@
    "official_url": "https://www.jufair.com/exhibition/5772.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海表面处理展",
@@ -1843,7 +1944,8 @@
    "official_url": "https://www.jufair.com/exhibition/5824.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海健康展",
@@ -1863,7 +1965,8 @@
    "official_url": "https://www.jufair.com/exhibition/7712.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海国际钢管工业展览会",
@@ -1882,7 +1985,8 @@
    "official_url": "https://www.jufair.com/exhibition/9378.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海国际汽车创新技术周展",
@@ -1901,7 +2005,8 @@
    "official_url": "https://www.jufair.com/exhibition/9416.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "上海国际罐藏食品及原辅材料机械设备展览会",
@@ -1920,7 +2025,8 @@
    "official_url": "https://www.jufair.com/exhibition/9450.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海国际商业楼宇设施及物业管理博览会",
@@ -1939,7 +2045,8 @@
    "official_url": "https://www.jufair.com/exhibition/9551.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海国​际智慧物业展",
@@ -1959,7 +2066,8 @@
    "official_url": "https://www.jufair.com/exhibition/9707.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "中国（上海）国际养老福祉及护理用品展",
@@ -1978,7 +2086,8 @@
    "official_url": "https://www.jufair.com/exhibition/9723.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "中国（上海）粉末冶金展览会",
@@ -1997,7 +2106,8 @@
    "official_url": "https://www.jufair.com/exhibition/10005.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "上海国际增材制造应用技术展览会",
@@ -2016,7 +2126,8 @@
    "official_url": "https://www.jufair.com/exhibition/10261.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-16"
+   "first_seen": "2026-06-16",
+   "kind": "临时"
   },
   {
    "title": "上海国际IP授权产业博览会",
@@ -2035,7 +2146,8 @@
    "official_url": "https://www.jufair.com/exhibition/18753.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海亚太素食展AVE",
@@ -2054,7 +2166,8 @@
    "official_url": "https://www.jufair.com/exhibition/19312.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "上海电子展-中国电子展",
@@ -2073,7 +2186,8 @@
    "official_url": "https://www.jufair.com/exhibition/778.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "中国上海国际建筑模板脚手架展-上海模架展",
@@ -2092,7 +2206,8 @@
    "official_url": "https://www.jufair.com/exhibition/3402.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-06-17"
+   "first_seen": "2026-06-17",
+   "kind": "临时"
   },
   {
    "title": "上海国际表面活性剂和洗涤剂展览会",
@@ -2111,7 +2226,8 @@
    "official_url": "https://www.jufair.com/exhibition/3475.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "中国上海连锁加盟展",
@@ -2130,7 +2246,8 @@
    "official_url": "https://www.jufair.com/exhibition/3867.html",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026中国国际医疗器械博览会时间+地址+门票+官网",
@@ -2147,7 +2264,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026330/304847.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026第66届上海华夏家博会时间+地址+领票入口",
@@ -2164,7 +2282,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026330/304846.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026上海机器人展时间+地点+门票",
@@ -2181,7 +2300,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026325/304769.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026年上海染料展时间(举办时间+参观时间）",
@@ -2198,7 +2318,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026325/304764.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026中国国际染料展(时间+地址+门票+官网）",
@@ -2215,7 +2336,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026325/304763.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026集装箱多式联运亚洲展时间+地址+门票+官网",
@@ -2232,7 +2354,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026323/304732.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026中国数控机床展会时间+地址+门票+官网",
@@ -2249,7 +2372,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026319/304692.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026上海环博会时间+地址+门票+官网",
@@ -2266,7 +2390,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026319/304681.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026中国玻璃展上海举办时间+地点+门票",
@@ -2283,7 +2408,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026319/304673.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026亚洲国际精酿啤酒会议暨展览会时间+地点+门票+官网",
@@ -2300,7 +2426,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026319/304668.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "上海劳保会2026年时间(举办时间+参观时间）",
@@ -2317,7 +2444,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026319/304667.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   },
   {
    "title": "2026中国国际劳动保护用品交易会时间+地点+门票+官网",
@@ -2334,7 +2462,8 @@
    "official_url": "http://sh.bendibao.com/xiuxian/2026319/304662.shtm",
    "featured": false,
    "note": "",
-   "first_seen": "2000-01-01"
+   "first_seen": "2000-01-01",
+   "kind": "临时"
   }
  ]
 }

@@ -172,18 +172,25 @@ def save(events: List[Event], path: str = DEFAULT_PATH) -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     today = datetime.date.today()
 
-    # 排序: 重磅优先 → 有日期早的优先 → 无日期最后
-    events = sorted(events, key=lambda e: (not e.featured, e.start_date or "9999-99-99"))
-    dated = [e for e in events if e.start_date]
-    undated = [e for e in events if not e.start_date]
+    # 按"形态"分四区
+    def by_date(e):
+        return e.start_date or "9999-99-99"
+
+    annual = sorted([e for e in events if e.kind == "年度固定"], key=by_date)
+    live = sorted([e for e in events if e.kind == "临时" and e.start_date], key=by_date)
+    venue = [e for e in events if e.kind == "固定场馆"]
+    tbd = [e for e in events if e.kind == "临时" and not e.start_date]
 
     body = []
-    if dated:
-        body.append('<div class="group">📌 有确定档期</div>')
-        body += [_card(e, today) for e in dated]
-    if undated:
-        body.append('<div class="group">🎪 常态演出 / 档期待核实</div>')
-        body += [_card(e, today) for e in undated]
+    for title, arr in [
+        ("🔥 年度大展 · 大赛", annual),
+        ("🎫 近期演出 · 活动", live),
+        ("🏛 常驻剧场 · 场馆", venue),
+        ("🕓 档期待核实", tbd),
+    ]:
+        if arr:
+            body.append(f'<div class="group">{title}</div>')
+            body += [_card(e, today) for e in arr]
 
     feat = sum(1 for e in events if e.featured)
     cutoff = (today - datetime.timedelta(days=6)).isoformat()
