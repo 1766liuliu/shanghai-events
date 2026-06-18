@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import sys
 
+from pipeline.classify import classify
 from pipeline.clean import clean
 from pipeline.freshness import keep_upcoming
 from pipeline.links import add_fallback_links
@@ -48,7 +49,7 @@ def run(to_cloud: bool = False) -> None:
             print(f"[{src.name}] 异常: {e}")
 
     events = add_fallback_links(
-        keep_upcoming(tag(filter_safe(filter_shanghai(clean(all_events)))))
+        keep_upcoming(tag(classify(filter_safe(filter_shanghai(clean(all_events))))))
     )
     events = mark_new(events)   # 标记首次出现日期 → 供"最新"分类
     local_json.save(events)

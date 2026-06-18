@@ -41,6 +41,7 @@
   <button class="tab on" data-t="live" onclick="setTab(this,'live')">🎫 近期演出</button>
   <button class="tab" data-t="annual" onclick="setTab(this,'annual')">🔥 年度大展</button>
   <button class="tab" data-t="venue" onclick="setTab(this,'venue')">🏛 常驻场馆</button>
+  <button class="tab" data-t="b2b" onclick="setTab(this,'b2b')">🏢 行业展</button>
  </div>
  <div class="filters">
   <button class="on" data-k="all" onclick="setF(this,'all')">全部</button>
@@ -65,7 +66,7 @@ function cd(s,e,t){if(!s)return null;const sd=new Date(s+'T00:00:00');if(isNaN(s
  const diff=Math.round((sd-t)/864e5);
  if(diff<0){if(e){const ed=new Date(e+'T00:00:00');if(!isNaN(ed)&&ed>=t)return['进行中',true];}return null;}
  if(diff===0)return['今天',true];if(diff===1)return['明天',true];return[diff+'天后',diff<=14];}
-function card(ev,t){const color=CAT[ev.type]||DEF,kind=KMAP[ev.kind]||'live';
+function card(ev,t){const color=CAT[ev.type]||DEF,kind=(ev.audience==='B2B')?'b2b':(KMAP[ev.kind]||'live');
  let title=esc(ev.title);if(ev.official_url)title=`<a href="${esc(ev.official_url)}" target="_blank" rel="noopener">${title}</a>`;
  const isNew=!!(ev.first_seen&&ev.first_seen>=NEWCUT);
  let p=`<span class="pill cat" style="background:${color}">${esc(ev.type)}</span>`;
@@ -76,14 +77,14 @@ function card(ev,t){const color=CAT[ev.type]||DEF,kind=KMAP[ev.kind]||'live';
  let meta=`📅 ${fmtDate(ev.start_date,ev.end_date)}`;if(ev.venue)meta+=`&nbsp;&nbsp;📍 ${esc(ev.venue)}`;
  const note=ev.note?`<div class="note">⚠ ${esc(ev.note)}</div>`:'';
  const price=ev.price_range?`<div class="price">${esc(ev.price_range)}</div>`:'';
- return `<div class="card" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}"><div class="top">${p}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}</div>`;}
+ return `<div class="card" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}"><div class="top">${p}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}</div>`;}
 function mark(sel,btn){document.querySelectorAll(sel+' button').forEach(b=>b.classList.remove('on'));btn.classList.add('on');}
 function setTab(b,t){curTab=t;mark('.tabs',b);apply();}
 function setF(b,f){curF=f;mark('.filters',b);apply();}
 function apply(){let n=0;
  document.querySelectorAll('.card').forEach(c=>{
    const tabOk=c.dataset.kind===curTab;
-   const fOk=curF==='all'||(curF==='new'?c.dataset.new==='1':curF==='kid'?c.dataset.kid==='1':c.dataset.type===curF);
+   const fOk=curF==='all'||(curF==='new'?c.dataset.new==='1':curF==='kid'?(c.dataset.kid==='1'&&c.dataset.unfit!=='1'):c.dataset.type===curF);
    const ok=tabOk&&fOk;c.style.display=ok?'block':'none';if(ok)n++;});
  document.getElementById('emptyTip').style.display=n?'none':'block';}
 function render(data){const evts=(data.events||[]).slice();
@@ -91,7 +92,9 @@ function render(data){const evts=(data.events||[]).slice();
  const cc=new Date(t);cc.setDate(cc.getDate()-(NEW_DAYS-1));NEWCUT=cc.toISOString().slice(0,10);
  const nNew=evts.filter(e=>e.first_seen&&e.first_seen>=NEWCUT).length;
  document.getElementById('snap').textContent='📅 数据更新于 '+(data.generatedAt||'')+' · 在线版';
- document.getElementById('sub').textContent='近期'+evts.filter(e=>e.kind==='临时').length+' · 年度'+evts.filter(e=>e.kind==='年度固定').length+' · 场馆'+evts.filter(e=>e.kind==='固定场馆').length+' · 🆕最新'+nNew;
+ const liveN=evts.filter(e=>e.kind==='临时'&&e.audience!=='B2B').length;
+ const b2bN=evts.filter(e=>e.audience==='B2B').length;
+ document.getElementById('sub').textContent='近期'+liveN+' · 年度'+evts.filter(e=>e.kind==='年度固定').length+' · 场馆'+evts.filter(e=>e.kind==='固定场馆').length+' · 行业'+b2bN+' · 🆕'+nNew;
  const ord={'临时':0,'年度固定':1,'固定场馆':2};
  evts.sort((a,b)=>{const o=(ord[a.kind]||0)-(ord[b.kind]||0);return o||((a.start_date||'9999')<(b.start_date||'9999')?-1:1);});
  document.getElementById('list').innerHTML=evts.map(e=>card(e,t)).join('')+'<div class="empty" id="emptyTip" style="display:none">该分类下暂无活动</div>';

@@ -26,6 +26,8 @@ class Event:
     status: str = "upcoming"          # upcoming / onsale / ended
     featured: bool = False            # 重磅活动(策展标记)
     kind: str = "临时"                # 形态: 年度固定 / 固定场馆 / 临时(决定分区)
+    audience: str = "公众"            # 受众: 公众 / B2B(B2B 归"行业展"折叠)
+    kid_unfit: bool = False           # 儿童不宜(亲子筛选时隐藏)
     note: str = ""                    # 备注(如"档期待官方确认")
     first_seen: str = ""              # 首次被采集到的日期 YYYY-MM-DD(用于"最新")
     raw_text: str = ""                # 原始文本(便于回溯 / 打标)
