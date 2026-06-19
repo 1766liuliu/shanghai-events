@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-18 20:45",
+ "generatedAt": "2026-06-18 20:54",
  "count": 143,
  "events": [
   {
@@ -246,11 +246,13 @@
    "programs": [
     {
      "t": "【点评推荐】ERA时空之旅2",
-     "d": "2026-06-19"
+     "d": "2026-06-19",
+     "u": "https://search.damai.cn/search.html?keyword=%E7%82%B9%E8%AF%84%E6%8E%A8%E8%8D%90%20ERA%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%97%852"
     },
     {
      "t": "“奔马扬蹄，虎跃熊欢”——经典亲子大马戏《欢乐马戏》",
-     "d": "2026-06-19"
+     "d": "2026-06-19",
+     "u": "https://search.damai.cn/search.html?keyword=%E2%80%9C%E5%A5%94%E9%A9%AC%E6%89%AC%E8%B9%84%EF%BC%8C%E8%99%8E%E8%B7%83%E7%86%8A%E6%AC%A2%E2%80%9D%20%E7%BB%8F%E5%85%B8%E4%BA%B2%E5%AD%90%E5%A4%A7%E9%A9%AC%E6%88%8F%20%E6%AC%A2%E4%B9%90%E9%A9%AC%E6%88%8F"
     }
    ]
   },
@@ -622,19 +624,23 @@
    "programs": [
     {
      "t": "新中式美学经典舞台剧《红楼梦》",
-     "d": "2026-07-04"
+     "d": "2026-07-04",
+     "u": "https://search.damai.cn/search.html?keyword=%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%E7%BB%8F%E5%85%B8%E8%88%9E%E5%8F%B0%E5%89%A7%20%E7%BA%A2%E6%A5%BC%E6%A2%A6"
     },
     {
      "t": "中国歌剧舞剧院 舞剧《垂虹别意·唐寅》",
-     "d": "2026-07-31"
+     "d": "2026-07-31",
+     "u": "https://search.damai.cn/search.html?keyword=%E4%B8%AD%E5%9B%BD%E6%AD%8C%E5%89%A7%E8%88%9E%E5%89%A7%E9%99%A2%20%E8%88%9E%E5%89%A7%20%E5%9E%82%E8%99%B9%E5%88%AB%E6%84%8F%20%E5%94%90%E5%AF%85"
     },
     {
      "t": "《驯龙高手》电影音乐会 HOW TO TRAIN YOU",
-     "d": "2026-08-15"
+     "d": "2026-08-15",
+     "u": "https://search.damai.cn/search.html?keyword=%E9%A9%AF%E9%BE%99%E9%AB%98%E6%89%8B%20%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E4%BC%9A%20HOW%20TO%20TRAIN"
     },
     {
      "t": "原版音乐剧《剧院魅影》四十周年上海告别季",
-     "d": "2026-09-29"
+     "d": "2026-09-29",
+     "u": "https://search.damai.cn/search.html?keyword=%E5%8E%9F%E7%89%88%E9%9F%B3%E4%B9%90%E5%89%A7%20%E5%89%A7%E9%99%A2%E9%AD%85%E5%BD%B1%20%E5%9B%9B%E5%8D%81%E5%91%A8%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%91%8A%E5%88%AB%E5%AD%A3"
     }
    ]
   },
@@ -662,15 +668,18 @@
    "programs": [
     {
      "t": "《坂本龙一&久石让》经典作品音乐会",
-     "d": "2026-06-19"
+     "d": "2026-06-19",
+     "u": "https://search.damai.cn/search.html?keyword=%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%26%E4%B9%85%E7%9F%B3%E8%AE%A9%20%E7%BB%8F%E5%85%B8%E4%BD%9C%E5%93%81%E9%9F%B3%E4%B9%90%E4%BC%9A"
     },
     {
      "t": "2026浦东精品剧目展演-丹麦皇家芭蕾舞团明星舞者之夜",
-     "d": "2026-07-17"
+     "d": "2026-07-17",
+     "u": "https://search.damai.cn/search.html?keyword=%E6%B5%A6%E4%B8%9C%E7%B2%BE%E5%93%81%E5%89%A7%E7%9B%AE%E5%B1%95%E6%BC%94%20%E4%B8%B9%E9%BA%A6%E7%9A%87%E5%AE%B6%E8%8A%AD%E8%95%BE%E8%88%9E%E5%9B%A2%E6%98%8E%E6%98%9F%E8%88%9E%E8%80%85%E4%B9%8B%E5%A4%9C"
     },
     {
      "t": "Paradox《群星》十周年纪念交响音乐会上海场",
-     "d": "2026-08-16"
+     "d": "2026-08-16",
+     "u": "https://search.damai.cn/search.html?keyword=Paradox%20%E7%BE%A4%E6%98%9F%20%E5%8D%81%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A%E4%B8%8A%E6%B5%B7%E5%9C%BA"
     }
    ]
   },
@@ -698,7 +707,8 @@
    "programs": [
     {
      "t": "《芭比与室内乐之梦——刘一诺noral和她的朋友们》主题",
-     "d": "2026-08-02"
+     "d": "2026-08-02",
+     "u": "https://search.damai.cn/search.html?keyword=%E8%8A%AD%E6%AF%94%E4%B8%8E%E5%AE%A4%E5%86%85%E4%B9%90%E4%B9%8B%E6%A2%A6%20%E5%88%98%E4%B8%80%E8%AF%BAnoral%E5%92%8C%E5%A5%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC"
     }
    ]
   },
@@ -749,7 +759,8 @@
    "programs": [
     {
      "t": "浦东美术馆指定单日票【乔治·莫兰迪：独白】",
-     "d": "2026-06-19"
+     "d": "2026-06-19",
+     "u": "https://search.damai.cn/search.html?keyword=%E6%B5%A6%E4%B8%9C%E7%BE%8E%E6%9C%AF%E9%A6%86%E6%8C%87%E5%AE%9A%E5%8D%95%E6%97%A5%E7%A5%A8%20%E4%B9%94%E6%B2%BB%20%E8%8E%AB%E5%85%B0%E8%BF%AA%EF%BC%9A%E7%8B%AC%E7%99%BD"
     }
    ]
   },
@@ -1077,19 +1088,28 @@
    "programs": [
     {
      "t": "“新·国风”音乐剧《锦衣卫之刀与花》",
-     "d": "2026-06-11"
+     "d": "2026-06-11",
+     "u": "https://www.shcstheatre.com/Program/ProgramDetails.aspx?headtype=YanChu&ARTICLE_ID=41784&id=41784"
     },
     {
      "t": "音乐剧《我的遗愿清单》",
-     "d": "2026-06-18"
+     "d": "2026-06-18",
+     "u": "https://www.shcstheatre.com/Program/ProgramDetails.aspx?headtype=YanChu&ARTICLE_ID=41821&id=41821"
     },
     {
      "t": "话剧《青蛇》2026国话·上海演出季",
-     "d": "2026-06-25"
+     "d": "2026-06-25",
+     "u": "https://www.shcstheatre.com/Program/ProgramDetails.aspx?headtype=YanChu&ARTICLE_ID=41924&id=41924"
     },
     {
      "t": "杂技剧《战上海》",
-     "d": "2026-07-01"
+     "d": "2026-07-01",
+     "u": "https://www.shcstheatre.com/Program/ProgramDetails.aspx?headtype=YanChu&ARTICLE_ID=41892&id=41892"
+    },
+    {
+     "t": "舞剧《大染坊》",
+     "d": "2026-07-04",
+     "u": "https://www.shcstheatre.com/Program/ProgramDetails.aspx?headtype=YanChu&ARTICLE_ID=41783&id=41783"
     }
    ]
   },
