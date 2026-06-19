@@ -344,6 +344,32 @@ EVENTS = [
         "url": "https://www.shcstheatre.com/", "note": "音乐剧重镇,排期见官网",
         "tags": ["剧场"],
     },
+    {
+        "title": "宛平剧院", "type": "演出",
+        "start": "", "end": "", "venue": "徐汇中山南二路",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://wanpingtheater.com/", "note": "戏曲为主,排期见官网",
+        "tags": ["剧场"],
+    },
+    {
+        "title": "梅赛德斯-奔驰文化中心", "type": "演出",
+        "start": "", "end": "", "venue": "浦东(原世博)",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.mercedes-benzarena.com/", "note": "大型演唱会/演出",
+        "tags": ["剧场"],
+    },
+    {
+        "title": "天蟾逸夫舞台", "type": "演出",
+        "start": "", "end": "", "venue": "福州路701号",
+        "kid": False, "age": "", "featured": False, "url": "",
+        "note": "京剧/戏曲(无独立官网,购票链接见下)", "tags": ["剧场"],
+    },
+    {
+        "title": "上海虹口足球场", "type": "演出",
+        "start": "", "end": "", "venue": "虹口",
+        "kid": True, "age": "全年龄", "featured": False, "url": "",
+        "note": "大型演唱会/赛事场地(购票链接见下)", "tags": ["演出"],
+    },
 ]
 
 
@@ -351,7 +377,8 @@ EVENTS = [
 _VENUE_KW = ["天文馆", "自然博物馆", "科技馆", "玻璃博物馆", "马戏城",
              "儿童艺术剧场", "木偶剧团", "音乐厅", "大剧院", "东方艺术中心",
              "博物馆", "美术馆", "艺术宫", "水族馆", "动物园", "海洋公园",
-             "乐高", "植物园", "科普中心", "文化广场"]
+             "乐高", "植物园", "科普中心", "文化广场",
+             "宛平", "天蟾", "梅赛德斯", "足球场"]
 
 
 def _kind(title: str) -> str:
