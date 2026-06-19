@@ -231,12 +231,92 @@ EVENTS = [
         "url": "https://www.shanghaiconcerthall.com.cn/",
         "note": "音乐会/亲子音乐会,排期见官网", "tags": ["剧场"],
     },
+    # —— 常驻博物馆 / 美术馆 / 科普(亲子去处,直链官网看展讯/预约)——
+    {
+        "title": "上海博物馆", "type": "展会",
+        "start": "", "end": "", "venue": "人民广场本馆 / 东馆(浦东)",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.shanghaimuseum.net/", "note": "本馆+东馆,需预约;历史文物",
+        "tags": ["博物馆/亲子"],
+    },
+    {
+        "title": "浦东美术馆 MAP", "type": "展会",
+        "start": "", "end": "", "venue": "陆家嘴滨江",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.museumofartpd.org.cn/", "note": "江景大展,需预约",
+        "tags": ["美术馆"],
+    },
+    {
+        "title": "中华艺术宫", "type": "展会",
+        "start": "", "end": "", "venue": "浦东(原世博中国馆)",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.artmuseumonline.org/", "note": "常设免费,特展另购",
+        "tags": ["美术馆"],
+    },
+    {
+        "title": "上海当代艺术博物馆 PSA", "type": "展会",
+        "start": "", "end": "", "venue": "黄浦滨江(原南市发电厂)",
+        "kid": False, "age": "", "featured": False,
+        "url": "https://www.powerstationofart.com/", "note": "当代艺术,常设免费",
+        "tags": ["美术馆"],
+    },
+    {
+        "title": "龙美术馆(西岸馆)", "type": "展会",
+        "start": "", "end": "", "venue": "徐汇西岸",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "http://www.thelongmuseum.org/", "note": "西岸艺术地标",
+        "tags": ["美术馆"],
+    },
+    {
+        "title": "上海世博会博物馆", "type": "展会",
+        "start": "", "end": "", "venue": "黄浦(原世博园区)",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.expo-museum.cn/", "note": "世博主题,免费需预约",
+        "tags": ["博物馆/亲子"],
+    },
+    {
+        "title": "上海海洋水族馆", "type": "展会",
+        "start": "", "end": "", "venue": "陆家嘴",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.sh-aquarium.com/", "note": "强亲子,海洋生物",
+        "tags": ["亲子/科普"],
+    },
+    {
+        "title": "上海野生动物园", "type": "展会",
+        "start": "", "end": "", "venue": "浦东南汇",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.shwzoo.com/", "note": "强亲子,野生动物",
+        "tags": ["亲子"],
+    },
+    {
+        "title": "上海动物园", "type": "展会",
+        "start": "", "end": "", "venue": "长宁虹桥路",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.shanghaizoo.cn/", "note": "强亲子,市区动物园",
+        "tags": ["亲子"],
+    },
+    {
+        "title": "上海海昌海洋公园", "type": "展会",
+        "start": "", "end": "", "venue": "浦东临港",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.haichangoceanpark.com/shanghai/", "note": "海洋动物+游乐,强亲子",
+        "tags": ["亲子"],
+    },
+    {
+        "title": "上海乐高探索中心", "type": "展会",
+        "start": "", "end": "", "venue": "室内亲子乐园",
+        "kid": True, "age": "低龄", "featured": False,
+        "url": "https://www.legolanddiscoverycenter.cn/shanghai/", "note": "低龄室内亲子",
+        "tags": ["亲子"],
+    },
 ]
 
 
 # 固定场馆(常年滚动排期,无单一日期)—— 命中即归"固定场馆",其余策展归"年度固定"
 _VENUE_KW = ["天文馆", "自然博物馆", "科技馆", "玻璃博物馆", "马戏城",
-             "儿童艺术剧场", "木偶剧团", "音乐厅", "大剧院", "东方艺术中心"]
+             "儿童艺术剧场", "木偶剧团", "音乐厅", "大剧院", "东方艺术中心",
+             "博物馆", "美术馆", "艺术宫", "水族馆", "动物园", "海洋公园",
+             "乐高", "植物园", "科普中心"]
 
 
 def _kind(title: str) -> str:
