@@ -309,6 +309,34 @@ EVENTS = [
         "url": "https://www.legolanddiscoverycenter.cn/shanghai/", "note": "低龄室内亲子",
         "tags": ["亲子"],
     },
+    {
+        "title": "上海辰山植物园", "type": "展会",
+        "start": "", "end": "", "venue": "松江",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.csnbgsh.cn/", "note": "华东最大植物园,亲子遛娃",
+        "tags": ["亲子/科普"],
+    },
+    {
+        "title": "上海汽车博物馆", "type": "展会",
+        "start": "", "end": "", "venue": "嘉定安亭",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "http://www.shautomuseum.com/", "note": "汽车主题,亲子科普",
+        "tags": ["博物馆/亲子"],
+    },
+    {
+        "title": "中国航海博物馆", "type": "展会",
+        "start": "", "end": "", "venue": "浦东临港",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.shmmc.com.cn/", "note": "国家级航海科普,亲子(临港)",
+        "tags": ["博物馆/亲子"],
+    },
+    {
+        "title": "西岸美术馆", "type": "展会",
+        "start": "", "end": "", "venue": "徐汇西岸",
+        "kid": True, "age": "全年龄", "featured": False,
+        "url": "https://www.wbmshanghai.com/cn", "note": "与蓬皮杜合作,西岸艺术",
+        "tags": ["美术馆"],
+    },
 ]
 
 
