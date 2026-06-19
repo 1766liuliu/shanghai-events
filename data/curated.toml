@@ -1,0 +1,690 @@
+# ───────────────────────────────────────────────────────────
+# 上海家庭活动雷达 · 策展活动清单(可直接在 GitHub 网页里编辑)
+#
+# 【怎么加一条活动】复制任意一段(从 [[event]] 到它下面的空行),粘到文件末尾,改成你的内容。
+# 【规则】
+#   · 所有文字都写在英文双引号 "..." 里,别删引号(标题里有冒号也没关系)。
+#   · start / end 用 "2026-07-17" 这种格式;不确定就留空 ""(会归到"年度大展")。
+#   · kid = true 适合亲子 / false 不特别适合;featured = true 是重磅活动。
+#   · tags 是标签数组,如 ["科技/AI"];没有就写 []
+#   · 场馆类(博物馆/剧场/动物园等)会自动归到"常驻场馆";有具体日期的归"近期/年度"。
+#   · 改完点 GitHub 的 "Commit changes",几分钟后自动上线。
+#   · 万一格式写错,系统会自动沿用上一次的好数据并在页面提示,不会崩。
+# ───────────────────────────────────────────────────────────
+
+
+[[event]]
+title = "世界人工智能大会 WAIC 2026"
+type = "展会"
+start = "2026-07-17"
+end = "2026-07-20"
+venue = "世博展览馆"
+kid = true
+age = "8岁+"
+featured = true
+url = "https://www.worldaic.com.cn/"
+note = "AI 科普展区适合大童"
+tags = ["AI/科技"]
+
+[[event]]
+title = "中国国际工业博览会(工博会)2026"
+type = "展会"
+start = "2026-10-12"
+end = "2026-10-16"
+venue = "国家会展中心(虹桥)"
+kid = true
+age = "8岁+"
+featured = true
+url = "https://www.ciif-expo.com/"
+note = "机器人/智能制造展区"
+tags = ["科技/机器人"]
+
+[[event]]
+title = "第九届中国国际进口博览会(进博会)"
+type = "展会"
+start = "2026-11-05"
+end = "2026-11-10"
+venue = "国家会展中心(虹桥)"
+kid = false
+age = ""
+featured = true
+url = "https://www.ciie.org/"
+note = "公众日需预约,以官方为准"
+tags = []
+
+[[event]]
+title = "上海劳力士大师赛(网球 ATP1000)2026"
+type = "体育"
+start = "2026-10-07"
+end = "2026-10-19"
+venue = "旗忠森林网球中心"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.jussevent.com/"
+note = "结束日期约,以官方为准"
+tags = ["网球"]
+
+[[event]]
+title = "上海马拉松 2026"
+type = "体育"
+start = "2026-12-06"
+end = ""
+venue = "外滩金牛广场(起点)"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.shang-ma.com/"
+note = "可观赛/亲子跑"
+tags = ["跑步"]
+
+[[event]]
+title = "上海书展"
+type = "展会"
+start = ""
+end = ""
+venue = "上海展览中心"
+kid = true
+age = "全年龄"
+featured = false
+url = "http://www.shbookfair.cn/"
+note = "档期待官方确认(往年 8 月中旬),非常适合带娃"
+tags = ["文化/亲子"]
+
+[[event]]
+title = "中国上海国际艺术节"
+type = "演出"
+start = ""
+end = ""
+venue = "多场馆"
+kid = true
+age = ""
+featured = false
+url = ""
+note = "档期待官方确认(往年 10–11 月),含亲子板块"
+tags = ["文化"]
+
+[[event]]
+title = "上海国际电影节(第28届)"
+type = "演出"
+start = "2026-06-12"
+end = "2026-06-21"
+venue = "全市影院"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.siff.com/"
+note = "含动画/亲子展映单元"
+tags = ["电影"]
+
+[[event]]
+title = "上海旅游节"
+type = "演出"
+start = ""
+end = ""
+venue = "全市景点"
+kid = true
+age = "全年龄"
+featured = true
+url = ""
+note = "档期待官方确认(往年 9 月中–10 月,大量景点半价)"
+tags = ["文化/亲子"]
+
+[[event]]
+title = "上海迪士尼·万圣狂欢"
+type = "演出"
+start = ""
+end = ""
+venue = "上海迪士尼度假区"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.shanghaidisneyresort.com/"
+note = "档期待官方确认(往年 10 月中–11 月初周末)"
+tags = ["乐园/亲子"]
+
+[[event]]
+title = "上海马戏城 杂技/马戏 驻场秀"
+type = "演出"
+start = ""
+end = ""
+venue = "上海马戏城"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shanghaimaxicheng.com/"
+note = "ERA时空之旅常驻,节目/购票见官网"
+tags = ["马戏"]
+
+[[event]]
+title = "上海儿童艺术剧场 亲子剧目"
+type = "演出"
+start = ""
+end = ""
+venue = "上海儿童艺术剧场(梅陇)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shcat.com.cn/zh"
+note = "常年亲子剧/木偶/音乐会,排期见官网"
+tags = ["剧场/亲子"]
+
+[[event]]
+title = "上海天文馆"
+type = "展会"
+start = ""
+end = ""
+venue = "上海天文馆(临港)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.sstm-sam.org.cn/"
+note = "常年开放,需官网预约;亲子科普顶流"
+tags = ["科普/亲子"]
+
+[[event]]
+title = "上海自然博物馆"
+type = "展会"
+start = ""
+end = ""
+venue = "自然博物馆(静安雕塑公园)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.snhm.org.cn/"
+note = "常年开放+当期特展,需预约;亲子科普"
+tags = ["科普/亲子"]
+
+[[event]]
+title = "上海科技馆"
+type = "展会"
+start = ""
+end = ""
+venue = "上海科技馆(浦东)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.sstm.org.cn/"
+note = "常年开放,亲子科普"
+tags = ["科普/亲子"]
+
+[[event]]
+title = "上海玻璃博物馆 儿童艺术馆"
+type = "展会"
+start = ""
+end = ""
+venue = "玻璃博物馆(宝山)"
+kid = true
+age = "全年龄"
+featured = false
+url = "http://www.shmog.org/"
+note = "玻璃主题亲子体验,常年开放"
+tags = ["科普/亲子"]
+
+[[event]]
+title = "上海木偶剧团 亲子木偶剧"
+type = "演出"
+start = ""
+end = ""
+venue = "多剧场"
+kid = true
+age = "全年龄"
+featured = false
+url = "http://www.sh-puppet.com.cn/"
+note = "常年亲子木偶/皮影,排期见官网"
+tags = ["剧场/亲子"]
+
+[[event]]
+title = "世界移动通信大会 MWC上海 2026"
+type = "展会"
+start = "2026-06-24"
+end = "2026-06-26"
+venue = "上海新国际博览中心"
+kid = false
+age = ""
+featured = true
+url = "https://www.mwcshanghai.cn/"
+note = "移动AI/6G/卫星通信"
+tags = ["科技/通信"]
+
+[[event]]
+title = "ChinaJoy 2026(中国国际数码互动娱乐展)"
+type = "展会"
+start = "2026-07-31"
+end = "2026-08-03"
+venue = "上海新国际博览中心"
+kid = true
+age = "青少年"
+featured = true
+url = "https://www.chinajoy.net/"
+note = "游戏/ACG,适合大童青少年"
+tags = ["游戏/ACG"]
+
+[[event]]
+title = "华为全连接大会 HUAWEI CONNECT 2026"
+type = "展会"
+start = "2026-09-17"
+end = "2026-09-19"
+venue = "世博展览馆"
+kid = false
+age = ""
+featured = true
+url = "https://www.huawei.com/cn/events/huaweiconnect"
+note = "档期以华为官方为准(往年9月中旬)"
+tags = ["科技/AI"]
+
+[[event]]
+title = "CCG EXPO 中国国际动漫游戏博览会 2026"
+type = "展会"
+start = "2026-07-04"
+end = "2026-07-06"
+venue = "上海跨国采购会展中心"
+kid = true
+age = "青少年"
+featured = true
+url = ""
+note = "动漫/游戏/ACG,适合大童青少年"
+tags = ["动漫/ACG"]
+
+[[event]]
+title = "上海国际童书展 CCBF 2026"
+type = "展会"
+start = "2026-11-13"
+end = "2026-11-15"
+venue = "世博展览馆"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.ccbookfair.com/cn"
+note = "童书/绘本,强亲子"
+tags = ["文化/亲子"]
+
+[[event]]
+title = "FHC 上海环球食品展 2026"
+type = "展会"
+start = "2026-11-10"
+end = "2026-11-12"
+venue = "上海新国际博览中心"
+kid = false
+age = ""
+featured = true
+url = "https://www.fhcchina.com/"
+note = "进口食品/餐饮"
+tags = ["食品"]
+
+[[event]]
+title = "上海国际婚纱礼服展(婚博会)2026"
+type = "展会"
+start = "2026-07-15"
+end = "2026-07-17"
+venue = "世博展览馆"
+kid = false
+age = ""
+featured = false
+url = ""
+note = "一年多届,具体见婚博会官网"
+tags = ["婚庆"]
+
+[[event]]
+title = "上海车展(上海国际汽车工业展览会)"
+type = "展会"
+start = ""
+end = ""
+venue = "国家会展中心(虹桥)"
+kid = true
+age = "全年龄"
+featured = true
+url = ""
+note = "双年展(逢单数年),下届 2027年4月25日–5月2日"
+tags = ["汽车"]
+
+[[event]]
+title = "CMEF 中国国际医疗器械博览会(上海)"
+type = "展会"
+start = ""
+end = ""
+venue = "国家会展中心(虹桥)"
+kid = false
+age = ""
+featured = false
+url = ""
+note = "上海春季届,往年约 4 月"
+tags = ["医疗"]
+
+[[event]]
+title = "CBE 中国美容博览会(上海美博会)"
+type = "展会"
+start = ""
+end = ""
+venue = "国家会展中心(虹桥)"
+kid = false
+age = ""
+featured = false
+url = ""
+note = "往年约 5 月"
+tags = ["美妆"]
+
+[[event]]
+title = "HOTELEX 上海国际酒店及餐饮业博览会"
+type = "展会"
+start = ""
+end = ""
+venue = "上海新国际博览中心"
+kid = false
+age = ""
+featured = false
+url = ""
+note = "往年约 3–4 月"
+tags = ["酒店餐饮"]
+
+[[event]]
+title = "SEMICON China 国际半导体展"
+type = "展会"
+start = ""
+end = ""
+venue = "上海新国际博览中心"
+kid = false
+age = ""
+featured = false
+url = ""
+note = "往年约 3 月"
+tags = ["半导体"]
+
+[[event]]
+title = "上海大剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "人民大道300号(人民广场)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shgtheatre.com/"
+note = "歌剧/芭蕾/话剧,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "上海东方艺术中心"
+type = "演出"
+start = ""
+end = ""
+venue = "丁香路425号(浦东)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shoac.com.cn/"
+note = "音乐会/歌剧/亲子,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "凯迪拉克·上海音乐厅"
+type = "演出"
+start = ""
+end = ""
+venue = "延安东路523号"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shanghaiconcerthall.com.cn/"
+note = "音乐会/亲子音乐会,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "上海博物馆"
+type = "展会"
+start = ""
+end = ""
+venue = "人民广场本馆 / 东馆(浦东)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shanghaimuseum.net/"
+note = "本馆+东馆,需预约;历史文物"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "浦东美术馆 MAP"
+type = "展会"
+start = ""
+end = ""
+venue = "陆家嘴滨江"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.museumofartpd.org.cn/"
+note = "江景大展,需预约"
+tags = ["美术馆"]
+
+[[event]]
+title = "中华艺术宫"
+type = "展会"
+start = ""
+end = ""
+venue = "浦东(原世博中国馆)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.artmuseumonline.org/"
+note = "常设免费,特展另购"
+tags = ["美术馆"]
+
+[[event]]
+title = "上海当代艺术博物馆 PSA"
+type = "展会"
+start = ""
+end = ""
+venue = "黄浦滨江(原南市发电厂)"
+kid = false
+age = ""
+featured = false
+url = "https://www.powerstationofart.com/"
+note = "当代艺术,常设免费"
+tags = ["美术馆"]
+
+[[event]]
+title = "龙美术馆(西岸馆)"
+type = "展会"
+start = ""
+end = ""
+venue = "徐汇西岸"
+kid = true
+age = "全年龄"
+featured = false
+url = "http://www.thelongmuseum.org/"
+note = "西岸艺术地标"
+tags = ["美术馆"]
+
+[[event]]
+title = "上海世博会博物馆"
+type = "展会"
+start = ""
+end = ""
+venue = "黄浦(原世博园区)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.expo-museum.cn/"
+note = "世博主题,免费需预约"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "上海海洋水族馆"
+type = "展会"
+start = ""
+end = ""
+venue = "陆家嘴"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.sh-aquarium.com/"
+note = "强亲子,海洋生物"
+tags = ["亲子/科普"]
+
+[[event]]
+title = "上海野生动物园"
+type = "展会"
+start = ""
+end = ""
+venue = "浦东南汇"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shwzoo.com/"
+note = "强亲子,野生动物"
+tags = ["亲子"]
+
+[[event]]
+title = "上海动物园"
+type = "展会"
+start = ""
+end = ""
+venue = "长宁虹桥路"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shanghaizoo.cn/"
+note = "强亲子,市区动物园"
+tags = ["亲子"]
+
+[[event]]
+title = "上海海昌海洋公园"
+type = "展会"
+start = ""
+end = ""
+venue = "浦东临港"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.haichangoceanpark.com/shanghai/"
+note = "海洋动物+游乐,强亲子"
+tags = ["亲子"]
+
+[[event]]
+title = "上海乐高探索中心"
+type = "展会"
+start = ""
+end = ""
+venue = "室内亲子乐园"
+kid = true
+age = "低龄"
+featured = false
+url = "https://www.legolanddiscoverycenter.cn/shanghai/"
+note = "低龄室内亲子"
+tags = ["亲子"]
+
+[[event]]
+title = "上海辰山植物园"
+type = "展会"
+start = ""
+end = ""
+venue = "松江"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.csnbgsh.cn/"
+note = "华东最大植物园,亲子遛娃"
+tags = ["亲子/科普"]
+
+[[event]]
+title = "上海汽车博物馆"
+type = "展会"
+start = ""
+end = ""
+venue = "嘉定安亭"
+kid = true
+age = "全年龄"
+featured = false
+url = "http://www.shautomuseum.com/"
+note = "汽车主题,亲子科普"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "中国航海博物馆"
+type = "展会"
+start = ""
+end = ""
+venue = "浦东临港"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shmmc.com.cn/"
+note = "国家级航海科普,亲子(临港)"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "西岸美术馆"
+type = "展会"
+start = ""
+end = ""
+venue = "徐汇西岸"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.wbmshanghai.com/"
+note = "与蓬皮杜合作,西岸艺术"
+tags = ["美术馆"]
+
+[[event]]
+title = "上海文化广场"
+type = "演出"
+start = ""
+end = ""
+venue = "复兴中路(黄浦)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.shcstheatre.com/"
+note = "音乐剧重镇,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "宛平剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "徐汇中山南二路"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://wanpingtheater.com/"
+note = "戏曲为主,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "梅赛德斯-奔驰文化中心"
+type = "演出"
+start = ""
+end = ""
+venue = "浦东(原世博)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.mercedes-benzarena.com/"
+note = "大型演唱会/演出"
+tags = ["剧场"]
+
+[[event]]
+title = "天蟾逸夫舞台"
+type = "演出"
+start = ""
+end = ""
+venue = "福州路701号"
+kid = false
+age = ""
+featured = false
+url = ""
+note = "京剧/戏曲(无独立官网,购票链接见下)"
+tags = ["剧场"]
+
+[[event]]
+title = "上海虹口足球场"
+type = "演出"
+start = ""
+end = ""
+venue = "虹口"
+kid = true
+age = "全年龄"
+featured = false
+url = ""
+note = "大型演唱会/赛事场地(购票链接见下)"
+tags = ["演出"]

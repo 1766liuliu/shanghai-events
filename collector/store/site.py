@@ -22,7 +22,7 @@ PUBLIC_FIELDS = [
     "title", "type", "venue", "district", "start_date", "end_date",
     "open_ticket_time", "price_range", "kid_friendly", "age_range",
     "tags", "official_url", "featured", "note", "first_seen", "kind",
-    "audience", "kid_unfit",
+    "audience", "kid_unfit", "sessions",
 ]
 
 # 场馆核心名(用于把"已抓到、在该场馆的活动"交叉引用到场馆卡片的"近期在演")
@@ -118,6 +118,7 @@ function card(ev,t){const color=CAT[ev.type]||DEF,kind=(ev.audience==='B2B')?'b2
  const c=cd(ev.start_date,ev.end_date,t);if(c)p+=`<span class="pill cd ${c[1]?'soon':''}">${c[0]}</span>`;
  if(ev.kid_friendly){const lab='👨‍👩‍👧 亲子'+(ev.age_range?(' '+ev.age_range):'');p+=`<span class="pill kid">${esc(lab)}</span>`;}
  let meta=`📅 ${fmtDate(ev.start_date,ev.end_date)}`;if(ev.venue)meta+=`&nbsp;&nbsp;📍 ${esc(ev.venue)}`;
+ if(ev.sessions&&ev.sessions.length>1)meta+=`<br>🎬 多场次 ${ev.sessions.map(d=>esc(d.slice(5))).join('、')}`;
  const note=ev.note?`<div class="note">⚠ ${esc(ev.note)}</div>`:'';
  const price=ev.price_range?`<div class="price">${esc(ev.price_range)}</div>`:'';
  let prog='';

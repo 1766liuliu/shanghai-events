@@ -62,6 +62,11 @@ def clean(events: List[Event]) -> List[Event]:
             if ("baidu.com" in rep.official_url or not rep.official_url) \
                     and e.official_url and "baidu.com" not in e.official_url:
                 rep.official_url = e.official_url
+        # 一剧多档期:同名合并后保留所有不同日期(否则木偶馆7/21、7/28会被压成一条)
+        dates = sorted({e.start_date for e in grp if e.start_date})
+        if len(dates) > 1:
+            rep.sessions = dates
+            rep.start_date = dates[0]  # 主日期取最早一场(供排序/倒计时)
         deduped.append(rep)
 
     # 策展优先:仅当某大会确实有 curated 条目存活时,去掉爬虫里的同名冗余

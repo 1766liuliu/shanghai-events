@@ -30,6 +30,7 @@ class Event:
     kid_unfit: bool = False           # 儿童不宜(亲子筛选时隐藏)
     note: str = ""                    # 备注(如"档期待官方确认")
     first_seen: str = ""              # 首次被采集到的日期 YYYY-MM-DD(用于"最新")
+    sessions: list = field(default_factory=list)  # 多场次日期(同名多档期合并后保留)
     raw_text: str = ""                # 原始文本(便于回溯 / 打标)
 
     @property
