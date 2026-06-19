@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "title": "亲亲宝贝",
+    "type": "演出",
+    "source": "shcat",
+    "official_url": "https://www.shcat.com.cn/zh/programs/310",
+    "venue": "上海儿童艺术剧场·信谊新空间·小剧场",
+    "start_date": "2026-06-12",
+    "end_date": "2027-06-14",
+    "age_range": "6-18个月龄",
+    "kid_friendly": true
+  },
+  {
+    "title": "宝贝看非遗——少林功夫",
+    "type": "演出",
+    "source": "shcat",
+    "official_url": "https://www.shcat.com.cn/zh/programs/311",
+    "venue": "上海儿童艺术剧场·荣威中心剧场",
+    "start_date": "2026-06-20",
+    "end_date": "",
+    "age_range": "5岁以上",
+    "kid_friendly": true
+  },
+  {
+    "title": "翻滚吧！世界文明 博物馆里看华夏（从中原到太原）",
+    "type": "演出",
+    "source": "shcat",
+    "official_url": "https://www.shcat.com.cn/zh/programs/312",
+    "venue": "上海儿童艺术剧场·荣威中心剧场",
+    "start_date": "2026-06-28",
+    "end_date": "",
+    "age_range": "6岁以上",
+    "kid_friendly": true
+  },
+  {
+    "title": "童话人偶剧《灰姑娘与水晶鞋》",
+    "type": "演出",
+    "source": "sh-puppet",
+    "official_url": "http://www.sh-puppet.com.cn/perform_detail.aspx?id=796",
+    "venue": "上海木偶剧团·仙乐斯木偶剧场",
+    "start_date": "2026-07-27",
+    "price_range": "150元、120元、80元",
+    "kid_friendly": true
+  },
+  {
+    "title": "沉浸式新空间体验剧《木偶馆奇妙夜》",
+    "type": "演出",
+    "source": "sh-puppet",
+    "official_url": "http://www.sh-puppet.com.cn/perform_detail.aspx?id=795",
+    "venue": "上海木偶剧团·仙乐斯木偶BOX",
+    "start_date": "2026-07-28",
+    "price_range": "80元",
+    "kid_friendly": true
+  },
+  {
+    "title": "沉浸式新空间体验剧《木偶馆奇妙夜》",
+    "type": "演出",
+    "source": "sh-puppet",
+    "official_url": "http://www.sh-puppet.com.cn/perform_detail.aspx?id=794",
+    "venue": "上海木偶剧团·仙乐斯木偶BOX",
+    "start_date": "2026-07-21",
+    "price_range": "80元",
+    "kid_friendly": true
+  }
+]
