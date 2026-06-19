@@ -72,6 +72,7 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
  .prog li{margin:3px 0}
  .prog li a{color:#1a6fc0;text-decoration:none}
  .empty{padding:60px 0;text-align:center;color:#999}
+ .health{margin-top:14px;font-size:12px;color:#b45309;background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:8px 12px;line-height:1.5}
 </style></head><body><div class="wrap">
 <header><h1>📡 上海家庭活动雷达</h1>
 <div class="sub" id="sub">加载中…</div>
@@ -94,6 +95,7 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
  </div>
 </div>
 <div id="list"><div class="empty">加载中…</div></div>
+<div class="health" id="health" style="display:none"></div>
 </div>
 <script>
 const CAT={'体育':'#e4572e','展会':'#1f6feb','演出':'#9b51e0'},DEF='#16a34a',NEW_DAYS=7;
@@ -134,7 +136,11 @@ function render(data){const evts=(data.events||[]).slice();
  const t=new Date();t.setHours(0,0,0,0);
  const cc=new Date(t);cc.setDate(cc.getDate()-(NEW_DAYS-1));NEWCUT=cc.toISOString().slice(0,10);
  const nNew=evts.filter(e=>e.first_seen&&e.first_seen>=NEWCUT).length;
- document.getElementById('snap').textContent='📅 数据更新于 '+(data.generatedAt||'')+' · 在线版';
+ const h=data.health||{},hn=Object.keys(h),hbad=hn.filter(n=>h[n].status!=='ok');
+ document.getElementById('snap').textContent='📅 数据更新于 '+(data.generatedAt||'')+' · 源 ✅'+(hn.length-hbad.length)+(hbad.length?' ⚠️'+hbad.length:'');
+ const hd=document.getElementById('health');
+ if(hbad.length){hd.style.display='block';hd.innerHTML='⚠️ 数据源异常(已用上次数据顶替,不影响展示): '+hbad.map(n=>esc(n)+'·'+esc(h[n].status)).join('、');}
+ else{hd.style.display='none';}
  const liveN=evts.filter(e=>e.kind==='临时'&&e.audience!=='B2B').length;
  const b2bN=evts.filter(e=>e.audience==='B2B').length;
  document.getElementById('sub').textContent='近期'+liveN+' · 年度'+evts.filter(e=>e.kind==='年度固定').length+' · 场馆'+evts.filter(e=>e.kind==='固定场馆').length+' · 行业'+b2bN+' · 🆕'+nNew;
@@ -150,7 +156,7 @@ load();
 """
 
 
-def save(events: List[Event]) -> None:
+def save(events: List[Event], health: dict = None) -> None:
     os.makedirs(SITE_DIR, exist_ok=True)
     with open(os.path.join(SITE_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(INDEX_HTML)
@@ -180,6 +186,7 @@ def save(events: List[Event]) -> None:
     payload = {
         "generatedAt": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
         "count": len(events),
+        "health": health or {},
         "events": recs,
     }
     with open(os.path.join(SITE_DIR, "events.json"), "w", encoding="utf-8") as f:

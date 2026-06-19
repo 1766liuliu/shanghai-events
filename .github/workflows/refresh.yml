@@ -11,6 +11,7 @@ on:
     branches: [main]
     paths:
       - 'data/cn_events.json'
+      - 'collector/**'
       - '.github/workflows/refresh.yml'
 
 permissions:

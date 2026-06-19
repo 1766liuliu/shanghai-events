@@ -159,12 +159,15 @@ def main_handler(event, context):
         except Exception as e:  # noqa: BLE001
             errors[fn.__name__] = repr(e)
     result = {"抓取条数": len(events), "错误": errors, "样例": events[:6]}
-    if GH_TOKEN:
+    if not GH_TOKEN:
+        result["提交状态"] = "验证模式(未设GH_TOKEN,只抓取不提交)"
+    elif not events:
+        # 失败不空覆盖:两站都抓挂时,保留仓库里上次的好数据,绝不用空列表覆盖
+        result["提交状态"] = "本次0条,跳过提交(保留上次数据)"
+    else:
         try:
             result["提交状态"] = _commit(events)
         except Exception as e:  # noqa: BLE001
             result["提交状态"] = "提交失败: " + repr(e)
-    else:
-        result["提交状态"] = "验证模式(未设GH_TOKEN,只抓取不提交)"
     print(json.dumps(result, ensure_ascii=False)[:200])
     return result

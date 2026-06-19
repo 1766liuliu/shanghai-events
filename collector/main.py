@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import sys
 
+from quality import gated_fetch
 from pipeline.classify import classify
 from pipeline.clean import clean
 from pipeline.freshness import keep_upcoming
@@ -38,19 +39,14 @@ ENABLED_SOURCES = [
     ShcstheatreSource(), # ✅ 上海文化广场: 音乐剧/话剧/舞剧排期
     BendibaoSource(),    # ✅ 本地宝: 展会/演出(补充,日期多待核实)
     JussventSource(),    # ✅ 久事体育: 官方赛事动态
-    CnRelaySource(),     # ✅ 境内中继: 读 data/cn_events.json(阿里云FC抓取后提交回仓库)
+    CnRelaySource(),     # ✅ 境内中继: 读 data/cn_events.json(腾讯云SCF抓取后提交回仓库)
     WenhuayunSource(),   # ⏳ 待抓包对接(亲子内容最多,优先)
 ]
 
 
 def run(to_cloud: bool = False) -> None:
-    all_events = []
-    for src in ENABLED_SOURCES:
-        print(f"\n=== 采集源: {src.name} (合规:{src.compliance}) ===")
-        try:
-            all_events.extend(src.fetch())
-        except Exception as e:  # noqa: BLE001
-            print(f"[{src.name}] 异常: {e}")
+    # 质量闸:按源抓取,某源失败/骤降则用上次好数据顶上,并产出每源健康
+    all_events, health = gated_fetch(ENABLED_SOURCES)
 
     events = add_fallback_links(
         keep_upcoming(tag(classify(filter_safe(filter_shanghai(clean(all_events))))))
@@ -58,7 +54,7 @@ def run(to_cloud: bool = False) -> None:
     events = mark_new(events)   # 标记首次出现日期 → 供"最新"分类
     local_json.save(events)
     html_preview.save(events)   # 本地自包含版(双击/发文件)
-    site.save(events)           # 在线托管版(site/,GitHub Pages 用)
+    site.save(events, health)   # 在线托管版 + 源健康(可观测性)
     if to_cloud:
         cloudbase.save(events)
     print(f"\n完成: 共 {len(events)} 条活动。")
