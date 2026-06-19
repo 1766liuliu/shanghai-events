@@ -30,6 +30,10 @@
  .meta{color:#777;font-size:13px;margin-top:8px}
  .note{color:#b08900;font-size:12px;margin-top:6px}
  .price{color:#e4572e;font-size:13px;margin-top:4px}
+ .prog{margin-top:10px;font-size:13px;color:#1a4d2e;background:#f1f8f3;border-radius:8px;padding:8px 10px}
+ .prog b{color:#1a7f4b}
+ .prog ul{margin:5px 0 0;padding-left:18px}
+ .prog li{margin:2px 0;color:#444}
  .empty{padding:60px 0;text-align:center;color:#999}
 </style></head><body><div class="wrap">
 <header><h1>📡 上海家庭活动雷达</h1>
@@ -77,7 +81,9 @@ function card(ev,t){const color=CAT[ev.type]||DEF,kind=(ev.audience==='B2B')?'b2
  let meta=`📅 ${fmtDate(ev.start_date,ev.end_date)}`;if(ev.venue)meta+=`&nbsp;&nbsp;📍 ${esc(ev.venue)}`;
  const note=ev.note?`<div class="note">⚠ ${esc(ev.note)}</div>`:'';
  const price=ev.price_range?`<div class="price">${esc(ev.price_range)}</div>`:'';
- return `<div class="card" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}"><div class="top">${p}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}</div>`;}
+ let prog='';
+ if(ev.programs&&ev.programs.length){prog='<div class="prog"><b>🎭 近期在演</b><ul>'+ev.programs.map(p=>`<li>${esc(p.t)}${p.d?(' · '+p.d.slice(5)):''}</li>`).join('')+'</ul></div>';}
+ return `<div class="card" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}"><div class="top">${p}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}${prog}</div>`;}
 function mark(sel,btn){document.querySelectorAll(sel+' button').forEach(b=>b.classList.remove('on'));btn.classList.add('on');}
 function setTab(b,t){curTab=t;mark('.tabs',b);apply();}
 function setF(b,f){curF=f;mark('.filters',b);apply();}

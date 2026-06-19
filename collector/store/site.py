@@ -25,6 +25,14 @@ PUBLIC_FIELDS = [
     "audience", "kid_unfit",
 ]
 
+# 场馆核心名(用于把"已抓到、在该场馆的活动"交叉引用到场馆卡片的"近期在演")
+CORES = [
+    "马戏城", "儿童艺术剧场", "木偶剧团", "天文馆", "自然博物馆", "科技馆",
+    "玻璃博物馆", "大剧院", "东方艺术中心", "音乐厅", "上海博物馆", "浦东美术馆",
+    "中华艺术宫", "当代艺术博物馆", "龙美术馆", "世博会博物馆", "海洋水族馆",
+    "野生动物园", "汽车博物馆", "航海博物馆", "西岸美术馆", "文化广场",
+]
+
 INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -57,6 +65,10 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
  .meta{color:#777;font-size:13px;margin-top:8px}
  .note{color:#b08900;font-size:12px;margin-top:6px}
  .price{color:#e4572e;font-size:13px;margin-top:4px}
+ .prog{margin-top:10px;font-size:13px;color:#1a4d2e;background:#f1f8f3;border-radius:8px;padding:8px 10px}
+ .prog b{color:#1a7f4b}
+ .prog ul{margin:5px 0 0;padding-left:18px}
+ .prog li{margin:2px 0;color:#444}
  .empty{padding:60px 0;text-align:center;color:#999}
 </style></head><body><div class="wrap">
 <header><h1>📡 上海家庭活动雷达</h1>
@@ -104,7 +116,9 @@ function card(ev,t){const color=CAT[ev.type]||DEF,kind=(ev.audience==='B2B')?'b2
  let meta=`📅 ${fmtDate(ev.start_date,ev.end_date)}`;if(ev.venue)meta+=`&nbsp;&nbsp;📍 ${esc(ev.venue)}`;
  const note=ev.note?`<div class="note">⚠ ${esc(ev.note)}</div>`:'';
  const price=ev.price_range?`<div class="price">${esc(ev.price_range)}</div>`:'';
- return `<div class="card" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}"><div class="top">${p}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}</div>`;}
+ let prog='';
+ if(ev.programs&&ev.programs.length){prog='<div class="prog"><b>🎭 近期在演</b><ul>'+ev.programs.map(p=>`<li>${esc(p.t)}${p.d?(' · '+p.d.slice(5)):''}</li>`).join('')+'</ul></div>';}
+ return `<div class="card" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}"><div class="top">${p}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}${prog}</div>`;}
 function mark(sel,btn){document.querySelectorAll(sel+' button').forEach(b=>b.classList.remove('on'));btn.classList.add('on');}
 function setTab(b,t){curTab=t;mark('.tabs',b);apply();}
 function setF(b,f){curF=f;mark('.filters',b);apply();}
@@ -138,12 +152,30 @@ def save(events: List[Event]) -> None:
     os.makedirs(SITE_DIR, exist_ok=True)
     with open(os.path.join(SITE_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(INDEX_HTML)
+    # 交叉引用:给固定场馆附"近期在演"(用已抓到、发生在该场馆的活动)
+    shows = [e for e in events if e.kind != "固定场馆" and e.venue]
+
+    def _programs(v: Event):
+        cores = [c for c in CORES if c in v.title]
+        if not cores:
+            return []
+        m = sorted(
+            [s for s in shows if any(c in s.venue for c in cores)],
+            key=lambda s: s.start_date or "9999",
+        )
+        return [{"t": s.title[:28], "d": s.start_date} for s in m[:4]]
+
+    recs = []
+    for e in events:
+        rec = {k: e.to_dict()[k] for k in PUBLIC_FIELDS}
+        if e.kind == "固定场馆":
+            rec["programs"] = _programs(e)
+        recs.append(rec)
+
     payload = {
         "generatedAt": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
         "count": len(events),
-        "events": [
-            {k: e.to_dict()[k] for k in PUBLIC_FIELDS} for e in events
-        ],
+        "events": recs,
     }
     with open(os.path.join(SITE_DIR, "events.json"), "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
