@@ -1,32 +1,29 @@
 # -*- coding: utf-8 -*-
-"""上海家庭活动雷达 · 境内中继探测 v3(腾讯云 SCF · 纯标准库 · 无依赖/令牌)
+"""上海家庭活动雷达 · 境内中继探测 v5(腾讯云 SCF · 纯标准库)
 
-v3 目标: 拿木偶排期页 perform.aspx + 一个详情页的精确结构(日期/地点/票价)。
-关键改动: HTML 片段用 base64 回传 —— 纯 ASCII,聊天框不会再吃掉日期数字。
-用法同前: 覆盖代码 → 部署 → 测试 → 把"返回结果"整段复制发回。
+主攻文化上海云: 拿回主页真实 HTML(看重定向/脚本写法/内嵌数据/接口主机),
+顺带给大河票务最后一次机会(http + 长超时)。HTML 用 base64 回传。
 """
 import base64
 import re
 import ssl
+import urllib.parse
 import urllib.request
 
-TARGETS = {
-    "木偶_排期页": "http://www.sh-puppet.com.cn/perform.aspx",
-    "木偶_详情样例": "http://www.sh-puppet.com.cn/perform_detail.aspx?id=792",
-}
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36")
-MARK = re.compile(
-    r"(news_list|演出时间|演出地点|票价|场次|地点|时间|《|20\d{2}-\d{2}-\d{2}|\d{1,2}月\d{1,2}日)"
-)
 
 
-def _fetch(url):
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=15, context=ctx) as r:
+def _ctx():
+    c = ssl.create_default_context()
+    c.check_hostname = False
+    c.verify_mode = ssl.CERT_NONE
+    return c
+
+
+def _get(url, timeout=15):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Referer": url})
+    with urllib.request.urlopen(req, timeout=timeout, context=_ctx()) as r:
         return r.geturl(), r.read()
 
 
@@ -36,31 +33,47 @@ def _decode(raw):
     if enc in ("gb2312", "gbk", "gb18030"):
         enc = "gb18030"
     try:
-        return raw.decode(enc, "replace"), enc
+        return raw.decode(enc, "replace")
     except Exception:  # noqa: BLE001
-        return raw.decode("utf-8", "replace"), "utf-8?"
+        return raw.decode("utf-8", "replace")
 
 
-def _excerpt(html):
-    m = MARK.search(html)
-    i = max(0, (m.start() if m else 0) - 200)
-    return html[i:i + 2000]
+def _b64(s):
+    return base64.b64encode(s.encode("utf-8")).decode("ascii")
+
+
+def probe_dahepiao():
+    try:
+        final, raw = _get("http://www.dahepiao.com/", timeout=22)
+    except Exception as e:  # noqa: BLE001
+        return {"错误": repr(e)}
+    html = _decode(raw)
+    mk = re.search(r"(演出|话剧|上海|\d+\s*元|\d{4}-\d{2}-\d{2})", html)
+    i = max(0, (mk.start() if mk else 0) - 200)
+    return {"最终URL": final, "HTML字节": len(raw), "片段_b64": _b64(html[i:i + 1500])}
+
+
+def probe_culturalcloud():
+    try:
+        final, raw = _get("https://www.culturalcloud.net/", timeout=15)
+    except Exception as e:  # noqa: BLE001
+        return {"错误": repr(e)}
+    html = _decode(raw)
+    scripts = re.findall(r"<script\b[^>]*>", html, re.I)
+    hosts = sorted(set(re.findall(r"https?://[a-zA-Z0-9.\-]+", html)))
+    paths = sorted(set(re.findall(r'["\'](/[A-Za-z0-9_][A-Za-z0-9_/\-]{3,40})["\']', html)))
+    return {
+        "最终URL": final,
+        "HTML字节": len(raw),
+        "script标签数": len(scripts),
+        "script标签样例": scripts[:12],
+        "页面内主机": hosts[:25],
+        "页面内路径样例": paths[:25],
+        "HTML头部_b64": _b64(html[:3500]),
+    }
 
 
 def main_handler(event, context):
-    out = {}
-    for name, url in TARGETS.items():
-        try:
-            final, raw = _fetch(url)
-            html, enc = _decode(raw)
-            frag = _excerpt(html)
-            out[name] = {
-                "URL": final,
-                "编码": enc,
-                "原始字节": len(raw),
-                "b64": base64.b64encode(frag.encode("utf-8")).decode("ascii"),
-            }
-        except Exception as e:  # noqa: BLE001
-            out[name] = {"错误": repr(e)}
-    print("probe v3 done")
+    out = {"文化上海云": probe_culturalcloud(), "大河票务": probe_dahepiao()}
+    print("probe v5 done")
     return out
