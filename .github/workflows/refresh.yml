@@ -6,6 +6,12 @@ on:
   schedule:
     - cron: "0 0,12 * * *"
   workflow_dispatch: {}
+  # 境内中继(腾讯云SCF)提交 cn_events.json 后,立即刷新站点(近实时上线)
+  push:
+    branches: [main]
+    paths:
+      - 'data/cn_events.json'
+      - '.github/workflows/refresh.yml'
 
 permissions:
   contents: write   # 允许把更新后的数据提交回仓库
