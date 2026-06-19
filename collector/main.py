@@ -21,6 +21,7 @@ from pipeline.region import filter_shanghai
 from pipeline.safety import filter_safe
 from pipeline.tagging import tag
 from sources.bendibao import BendibaoSource
+from sources.cnrelay import CnRelaySource
 from sources.curated import CuratedSource
 from sources.jufair import JufairSource
 from sources.jussevent import JussventSource
@@ -37,6 +38,7 @@ ENABLED_SOURCES = [
     ShcstheatreSource(), # ✅ 上海文化广场: 音乐剧/话剧/舞剧排期
     BendibaoSource(),    # ✅ 本地宝: 展会/演出(补充,日期多待核实)
     JussventSource(),    # ✅ 久事体育: 官方赛事动态
+    CnRelaySource(),     # ✅ 境内中继: 读 data/cn_events.json(阿里云FC抓取后提交回仓库)
     WenhuayunSource(),   # ⏳ 待抓包对接(亲子内容最多,优先)
 ]
 
