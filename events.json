@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-19 08:09",
+ "generatedAt": "2026-06-19 08:19",
  "count": 153,
  "health": {
   "curated": {
@@ -64,7 +64,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国国际工业博览会(工博会)2026",
@@ -86,7 +87,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "第九届中国国际进口博览会(进博会)",
@@ -106,7 +108,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海劳力士大师赛(网球 ATP1000)2026",
@@ -128,7 +131,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海马拉松 2026",
@@ -150,7 +154,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海书展",
@@ -172,7 +177,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国上海国际艺术节",
@@ -194,7 +200,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际电影节(第28届)",
@@ -216,7 +223,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海旅游节",
@@ -238,7 +246,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海迪士尼·万圣狂欢",
@@ -261,7 +270,8 @@
    "first_seen": "2000-01-01",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海马戏城 杂技/马戏 驻场秀",
@@ -285,6 +295,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "【点评推荐】ERA时空之旅2",
@@ -320,6 +331,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "亲亲宝贝",
@@ -360,6 +372,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -384,6 +397,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -408,6 +422,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -432,6 +447,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -456,16 +472,17 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
+    {
+     "t": "沉浸式新空间体验剧《木偶馆奇妙夜》",
+     "d": "2026-07-21",
+     "u": "http://www.sh-puppet.com.cn/perform_detail.aspx?id=795"
+    },
     {
      "t": "童话人偶剧《灰姑娘与水晶鞋》",
      "d": "2026-07-27",
      "u": "http://www.sh-puppet.com.cn/perform_detail.aspx?id=796"
-    },
-    {
-     "t": "沉浸式新空间体验剧《木偶馆奇妙夜》",
-     "d": "2026-07-28",
-     "u": "http://www.sh-puppet.com.cn/perform_detail.aspx?id=795"
     }
    ]
   },
@@ -489,7 +506,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "ChinaJoy 2026(中国国际数码互动娱乐展)",
@@ -512,7 +530,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "华为全连接大会 HUAWEI CONNECT 2026",
@@ -534,7 +553,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "CCG EXPO 中国国际动漫游戏博览会 2026",
@@ -556,7 +576,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际童书展 CCBF 2026",
@@ -579,7 +600,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "FHC 上海环球食品展 2026",
@@ -601,7 +623,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海车展(上海国际汽车工业展览会)",
@@ -623,7 +646,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "HOTELEX 上海国际酒店及餐饮业博览会",
@@ -645,7 +669,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "SEMICON China 国际半导体展",
@@ -667,7 +692,8 @@
    "first_seen": "2026-06-17",
    "kind": "年度固定",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海大剧院",
@@ -690,6 +716,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "新中式美学经典舞台剧《红楼梦》",
@@ -734,6 +761,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "《坂本龙一&久石让》经典作品音乐会",
@@ -773,6 +801,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "《芭比与室内乐之梦——刘一诺noral和她的朋友们》主题",
@@ -802,6 +831,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -825,6 +855,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "浦东美术馆指定单日票【乔治·莫兰迪：独白】",
@@ -854,6 +885,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -877,6 +909,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -900,6 +933,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -923,6 +957,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -947,6 +982,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -970,6 +1006,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -993,6 +1030,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -1016,6 +1054,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -1039,6 +1078,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -1062,6 +1102,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -1085,6 +1126,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -1108,6 +1150,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -1131,6 +1174,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": []
   },
   {
@@ -1154,6 +1198,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "“新·国风”音乐剧《锦衣卫之刀与花》",
@@ -1203,6 +1248,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "高清放映——俄语话剧《生活在此处》",
@@ -1252,6 +1298,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "胡彦斌2026「是一场烟火·刹那」巡回演唱会-上海站",
@@ -1286,6 +1333,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "“津彩七秩绽华章” 天津京剧院建院70周年系列演出——上",
@@ -1325,6 +1373,7 @@
    "kind": "固定场馆",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": [],
    "programs": [
     {
      "t": "王源2026宇宙超级无敌大大狂欢巡回演唱会-上海站",
@@ -1371,7 +1420,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "林宥嘉《超级管家》巡回演唱会 上海站",
@@ -1391,7 +1441,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "鹭卓2026 Ready To The Top Ⅱ 巡回演唱会-上海站",
@@ -1411,7 +1462,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "Charlie Puth: Whatever's Clever! World Tour 上海站",
@@ -1431,7 +1483,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "周兴哲《Odyssey·Stars旅程·星空 》巡回演唱会-上海站返场",
@@ -1451,7 +1504,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "2026《大鱼海棠·十周年重逢之夜》特别呈现",
@@ -1471,7 +1525,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "在雨后醒来 艾志恒Asen 2026巡回演唱会-上海站",
@@ -1491,7 +1546,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "胡彦斌2026「是一场烟火·刹那」巡回演唱会-上海站",
@@ -1511,7 +1567,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "原版音乐剧《剧院魅影》四十周年上海告别季",
@@ -1531,7 +1588,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "【年度最佳】高口碑必看！豫园爆笑钞级嫌疑人《见钱眼开》｜｜沉浸式局中剧｜豪华阵容",
@@ -1551,7 +1609,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海首创16种结局悬疑《法外狂徒》｜沉浸式局中剧中局｜上帝视角观影体验",
@@ -1571,7 +1630,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "[今夏八月 载誉收官]上海·浸入式戏剧经典之作《不眠之夜》特别版-【驻演十年 千人千梦】",
@@ -1591,7 +1651,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "音乐剧《大状王》",
@@ -1611,7 +1672,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "原创爆笑奇幻音乐剧《邦尼帮你》-来音乐剧的现场过生日吧",
@@ -1631,7 +1693,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "玄幻爆笑喜剧《成仙》丨国内首创360°环绕剧场·海物惟错",
@@ -1651,7 +1714,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "音乐剧《狂炎奏鸣曲》",
@@ -1671,7 +1735,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "马王堆汉墓文物大展-千金之家（需预约）",
@@ -1691,7 +1756,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "出神·入画——非人哉沉浸式数字美术展",
@@ -1711,7 +1777,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "浦东美术馆指定单日票【乔治·莫兰迪：独白】",
@@ -1731,7 +1798,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海玩偶艺术双年展WonderDolls2026！玩物丧志集团队倾力打造顶流玩偶艺术盛宴！",
@@ -1751,7 +1819,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "毛茸茸的我·萌宠治愈系艺术展（上海站）",
@@ -1773,7 +1842,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "古影沉浸式互动游戏剧场 《1941·新和医院》",
@@ -1795,7 +1865,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "Fotografiska影像艺术中心单日通票 | 一票看五展",
@@ -1815,7 +1886,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "【外滩必看】沉浸魔术互动剧《魔法奇妙夜》|上台互动|魔术|特技|实验|泡泡(外滩南京东步行街)",
@@ -1837,7 +1909,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "【点评推荐】ERA时空之旅2",
@@ -1857,7 +1930,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "“奔马扬蹄，虎跃熊欢”——经典亲子大马戏《欢乐马戏》",
@@ -1879,7 +1953,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "「亲子魔术」沉浸互动丨爆笑喜剧魔术丨淮海路必看亲子剧《幻梦奇缘》陪Ta走进童话丨亲子魔术秀",
@@ -1901,7 +1976,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "「亲子魔术」沉浸互动丨爆笑喜剧魔术丨北外滩必看亲子剧《口袋里的奇迹》陪Ta走进童话丨幻梦奇缘",
@@ -1923,7 +1999,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "6月19日《科学实验秀》物理、化学秀—上海嘉定站",
@@ -1943,7 +2020,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "『爆笑互动』【静安大悦城】银河魔幻亲子秀 ·【魔术 | 小丑 | 泡泡 | 气球秀】「银河喜剧」",
@@ -1965,7 +2043,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "6月20日《科学实验秀》物理、化学秀—上海普陀站",
@@ -1985,7 +2064,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "大型滑稽戏《兄弟阿Q》",
@@ -2005,7 +2085,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "独脚戏《石库门的笑声》",
@@ -2025,7 +2106,11 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": [
+    "2026-06-26",
+    "2026-08-15"
+   ]
   },
   {
    "title": "新中式美学经典舞台剧《红楼梦》",
@@ -2045,7 +2130,8 @@
    "first_seen": "2026-06-16",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "婺剧折子戏专场",
@@ -2065,7 +2151,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "“津彩七秩绽华章” 天津京剧院建院70周年系列演出——上海站 京剧《四郎探母》",
@@ -2085,7 +2172,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "实验沪剧《短章边》",
@@ -2105,7 +2193,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "越剧《汉文皇后》",
@@ -2125,7 +2214,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "Paradox《群星》十周年纪念交响音乐会上海场",
@@ -2145,7 +2235,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "《芭比与室内乐之梦——刘一诺noral和她的朋友们》主题音乐会",
@@ -2165,7 +2256,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "《驯龙高手》电影音乐会 HOW TO TRAIN YOUR DRAGON IN CONCERT",
@@ -2185,7 +2277,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "「一人一首成名曲」超燃回忆杀丨带爸妈听老歌丨80年代沉浸式音乐现场丨怀旧金曲丨《时光唱片》",
@@ -2205,7 +2298,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "「时代的旋律」超燃回忆杀丨带爸妈听老歌丨80年代沉浸式音乐现场丨怀旧金曲丨致敬经典《时光唱片》",
@@ -2225,7 +2319,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "郎朗·琴动中国钢琴独奏音乐会·上海站",
@@ -2245,7 +2340,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "Victory人类的胜利：Thomas Bergersen Epic Live托马斯·伯格森史诗音乐会-上海站",
@@ -2265,7 +2361,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "《坂本龙一&久石让》经典作品音乐会",
@@ -2285,7 +2382,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "耿子博导演作品 环境式沉浸舞蹈剧场《九尾古董店》",
@@ -2305,7 +2403,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "舞剧《永不消逝的电波》",
@@ -2325,7 +2424,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "2026浦东精品剧目展演-丹麦皇家芭蕾舞团明星舞者之夜",
@@ -2345,7 +2445,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "【7月收官】耿子博导演作品 国内首部环境式沉浸舞蹈剧场《寅时说》",
@@ -2365,7 +2466,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "【全男班街舞舞剧】沉浸式驻场SHOW MUSICAL《洗车行》",
@@ -2385,7 +2487,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "江西文演·陆川导演作品舞剧《天工开物》（免费接驳车）",
@@ -2407,7 +2510,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国歌剧舞剧院 舞剧《垂虹别意·唐寅》",
@@ -2427,7 +2531,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "舞剧《破冰》",
@@ -2447,7 +2552,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "年度驻演●MR沉浸式戏剧《太虚幻境》",
@@ -2467,7 +2573,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "高清放映——俄语音乐剧《安娜·卡列尼娜》",
@@ -2487,7 +2594,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "《福尔摩斯之荒宅谜案》VR密室游戏",
@@ -2507,7 +2615,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "高清放映——话剧《进入黑夜的漫长旅程》",
@@ -2527,7 +2636,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "高清放映——西区话剧现场影像《奥赛罗》",
@@ -2547,7 +2657,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "高清放映——环球映画全男班话剧《第十二夜》",
@@ -2567,7 +2678,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "高清放映——俄语话剧《海鸥》",
@@ -2587,7 +2699,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "高清放映——俄语话剧《生活在此处》",
@@ -2607,7 +2720,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际汽车粘接材料及密封技术展览会",
@@ -2629,7 +2743,8 @@
    "first_seen": "2026-06-16",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国（上海）国际粉体、散料、流体加工展览会",
@@ -2651,7 +2766,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际化学品包装及储运展览会",
@@ -2673,7 +2789,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际储能技术展",
@@ -2695,7 +2812,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际动力设备及发电机组展-动力展",
@@ -2717,7 +2835,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际海外置业移民展览会",
@@ -2740,7 +2859,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海亚洲国际内装工业化展览会",
@@ -2762,7 +2882,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国肥料及农业装备展-全国农药及农化产品展",
@@ -2784,7 +2905,8 @@
    "first_seen": "2026-06-16",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国（上海）家电及消费电子博览会AWE",
@@ -2806,7 +2928,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际果蔬展-亚洲果蔬博览会-万果会",
@@ -2828,7 +2951,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海华东进出口商品交易会-华交会",
@@ -2850,7 +2974,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国（上海）工业环保设备展览会",
@@ -2872,7 +2997,8 @@
    "first_seen": "2026-06-16",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际酵素产业展-上海酵博会-中国酵素节",
@@ -2894,7 +3020,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际钢管工业展览会",
@@ -2916,7 +3043,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际茶饮咖啡美食节",
@@ -2938,7 +3066,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国（上海）半导体产业与应用博览会",
@@ -2960,7 +3089,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海世界燕窝及天然滋补品展-上海燕博会",
@@ -2982,7 +3112,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际健身展",
@@ -3004,7 +3135,8 @@
    "first_seen": "2000-01-01",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国（上海）国际智能汽车科技博览会",
@@ -3026,7 +3158,8 @@
    "first_seen": "2026-06-18",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "中国国际建筑贸易博览会-上海建博会-中国建博会",
@@ -3048,7 +3181,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海电子展-中国电子展",
@@ -3070,7 +3204,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际冷冻食品展-上海餐饮食材展",
@@ -3092,7 +3227,8 @@
    "first_seen": "2026-06-16",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际客车巴士展览会",
@@ -3114,7 +3250,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "B2B",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "上海国际数字印花展览会",
@@ -3136,7 +3273,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "“新·国风”音乐剧《锦衣卫之刀与花》",
@@ -3156,7 +3294,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "音乐剧《我的遗愿清单》",
@@ -3176,7 +3315,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "话剧《青蛇》2026国话·上海演出季",
@@ -3196,7 +3336,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "杂技剧《战上海》",
@@ -3218,7 +3359,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "舞剧《大染坊》",
@@ -3238,7 +3380,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "音乐剧《基督山伯爵》中文版",
@@ -3258,7 +3401,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "龙马社《我爱桃花》",
@@ -3278,7 +3422,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "邹静之编剧 张国立X王刚X张铁林 主演 龙马社原创话剧《断金》",
@@ -3298,7 +3443,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "邹静之编剧 张国立导演/领衔主演 龙马社原创音乐话剧《情歌》",
@@ -3318,7 +3464,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "音乐剧《粉丝来信》中文版",
@@ -3338,7 +3485,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "《来自三伯爵的请柬》音乐会",
@@ -3358,7 +3506,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "巴塞罗那当代音乐剧《快乐即逝》",
@@ -3378,7 +3527,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "法语原版音乐剧《太阳王》",
@@ -3398,7 +3548,8 @@
    "first_seen": "2026-06-17",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "亲亲宝贝",
@@ -3418,7 +3569,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "宝贝看非遗——少林功夫",
@@ -3438,7 +3590,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "翻滚吧！世界文明 博物馆里看华夏（从中原到太原）",
@@ -3458,7 +3611,8 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "童话人偶剧《灰姑娘与水晶鞋》",
@@ -3480,14 +3634,15 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "沉浸式新空间体验剧《木偶馆奇妙夜》",
    "type": "演出",
    "venue": "上海木偶剧团·仙乐斯木偶BOX",
    "district": "",
-   "start_date": "2026-07-28",
+   "start_date": "2026-07-21",
    "end_date": "",
    "open_ticket_time": "",
    "price_range": "80元",
@@ -3502,7 +3657,11 @@
    "first_seen": "2026-06-19",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": false
+   "kid_unfit": false,
+   "sessions": [
+    "2026-07-21",
+    "2026-07-28"
+   ]
   }
  ]
 }
