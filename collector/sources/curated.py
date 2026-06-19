@@ -334,7 +334,7 @@ EVENTS = [
         "title": "西岸美术馆", "type": "展会",
         "start": "", "end": "", "venue": "徐汇西岸",
         "kid": True, "age": "全年龄", "featured": False,
-        "url": "https://www.wbmshanghai.com/cn", "note": "与蓬皮杜合作,西岸艺术",
+        "url": "https://www.wbmshanghai.com/", "note": "与蓬皮杜合作,西岸艺术",
         "tags": ["美术馆"],
     },
     {
