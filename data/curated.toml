@@ -688,3 +688,29 @@ featured = false
 url = ""
 note = "大型演唱会/赛事场地(购票链接见下)"
 tags = ["演出"]
+
+[[event]]
+title = "上海西岸大剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "徐汇西岸(龙腾大道2266号·西岸梦中心)"
+kid = true
+age = "全年龄"
+featured = false
+url = ""
+note = "音乐剧/演唱会/话剧,1673座大剧场,排期见购票链接"
+tags = ["剧场"]
+
+[[event]]
+title = "上海东方体育中心"
+type = "演出"
+start = ""
+end = ""
+venue = "浦东(近世博·地铁6/8/11号线东方体育中心站)"
+kid = true
+age = "全年龄"
+featured = false
+url = ""
+note = "大型演唱会/体育赛事场馆(海上王冠),购票链接见下"
+tags = ["演出"]

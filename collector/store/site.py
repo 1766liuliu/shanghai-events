@@ -31,7 +31,7 @@ CORES = [
     "玻璃博物馆", "大剧院", "东方艺术中心", "音乐厅", "上海博物馆", "浦东美术馆",
     "中华艺术宫", "当代艺术博物馆", "龙美术馆", "世博会博物馆", "海洋水族馆",
     "野生动物园", "汽车博物馆", "航海博物馆", "西岸美术馆", "文化广场",
-    "宛平", "天蟾", "梅赛德斯", "虹口足球场",
+    "宛平", "天蟾", "梅赛德斯", "虹口足球场", "西岸大剧院", "东方体育中心",
 ]
 
 INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
@@ -165,15 +165,22 @@ def save(events: List[Event], health: dict = None) -> None:
     os.makedirs(SITE_DIR, exist_ok=True)
     with open(os.path.join(SITE_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(INDEX_HTML)
-    # 交叉引用:给固定场馆附"近期在演"(用已抓到、发生在该场馆的活动)
+    # 交叉引用:给固定场馆附"近期在演"(用已抓到、发生在该场馆的活动)。
+    # 按"最长核心名"归属,避免"西岸大剧院"被并进"上海大剧院"等串场。
     shows = [e for e in events if e.kind != "固定场馆" and e.venue]
 
+    def _best_core(text: str):
+        ms = [c for c in CORES if c in text]
+        return max(ms, key=len) if ms else None
+
+    show_core = {id(s): _best_core(s.venue) for s in shows}
+
     def _programs(v: Event):
-        cores = [c for c in CORES if c in v.title]
-        if not cores:
+        vcore = _best_core(v.title)
+        if not vcore:
             return []
         m = sorted(
-            [s for s in shows if any(c in s.venue for c in cores)],
+            [s for s in shows if show_core[id(s)] == vcore],
             key=lambda s: s.start_date or "9999",
         )
         return [
