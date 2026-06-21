@@ -39,41 +39,55 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <title>上海家庭活动雷达</title>
 <style>
+ :root{--bg:#f0f2f5;--card:#fff;--text:#1a1a1a;--muted:#6b7280;--hint:#9aa0a6;--line:#e6e9ee;--tab:#e9ecf1;--tabtx:#555;--fltr:#fff;--fltrtx:#555;
+  --cd:#fff0e6;--cdtx:#e4572e;--kid:#fff3d6;--kidtx:#9a6a00;--feat:#fbe6ff;--feattx:#9b1ec0;--nw:#e6f7ed;--nwtx:#1a7f4b;--note:#9a7400;--price:#e4572e;
+  --prog:#f1f8f3;--progtx:#23503a;--progb:#1a7f4b;--proglk:#1a6fc0;--more:#eef2ff;--moretx:#1f6feb;--date:#eaf1ff;--datetx:#2563c9;--vic:#eaf1ff;--hl:#fff7ed;--hltx:#b45309;--hlb:#fde6c8}
+ @media(prefers-color-scheme:dark){:root{--bg:#15171a;--card:#1e2126;--text:#e9eaec;--muted:#9aa0a6;--hint:#71767d;--line:#2b2f36;--tab:#262a31;--tabtx:#b8bcc2;--fltr:#1e2126;--fltrtx:#b8bcc2;
+  --cd:#3a2417;--cdtx:#ff9d77;--kid:#362c12;--kidtx:#f0c674;--feat:#33203a;--feattx:#e8a0f5;--nw:#12301f;--nwtx:#5fc98a;--note:#e0b15a;--price:#ff9d77;
+  --prog:#16241c;--progtx:#c3e6d1;--progb:#5fc98a;--proglk:#82bbf2;--more:#222b3b;--moretx:#82bbf2;--date:#1b2433;--datetx:#82bbf2;--vic:#1b2433;--hl:#33270f;--hltx:#f0b86e;--hlb:#574023}}
  *{box-sizing:border-box}
- body{font-family:-apple-system,"PingFang SC","Helvetica Neue",sans-serif;background:#f0f2f5;margin:0;color:#1a1a1a}
+ body{font-family:-apple-system,"PingFang SC","Helvetica Neue",sans-serif;background:var(--bg);margin:0;color:var(--text);-webkit-font-smoothing:antialiased}
  .wrap{max-width:760px;margin:0 auto;padding:0 16px 48px}
- header{background:linear-gradient(135deg,#1f6feb,#7c3aed);color:#fff;padding:22px 22px;border-radius:0 0 20px 20px;margin:0 -16px 0}
- header h1{margin:0;font-size:21px}
+ header{background:linear-gradient(135deg,#1f6feb,#7c3aed);color:#fff;padding:22px;border-radius:0 0 22px 22px;margin:0 -16px}
+ header h1{margin:0;font-size:21px;font-weight:700}
  header .sub{margin-top:7px;font-size:12px;opacity:.92}
  .snap{margin-top:10px;font-size:12px;opacity:.95;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
  .refresh{border:0;background:rgba(255,255,255,.22);color:#fff;padding:6px 16px;border-radius:16px;font-size:12px;cursor:pointer}
  .refresh:active{background:rgba(255,255,255,.42)}
- .controls{position:sticky;top:0;background:#f0f2f5;z-index:5;padding-top:10px;margin:0 -16px;padding-left:16px;padding-right:16px}
+ .controls{position:sticky;top:0;background:var(--bg);z-index:5;padding-top:10px;margin:0 -16px;padding-left:16px;padding-right:16px}
  .tabs{display:flex;gap:8px;margin-bottom:8px}
- .tab{flex:1;border:0;background:#e6e9ee;color:#444;padding:10px 6px;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer}
- .tab.on{background:#1f6feb;color:#fff;box-shadow:0 2px 8px rgba(31,111,235,.3)}
+ .tab{flex:1;border:0;background:var(--tab);color:var(--tabtx);padding:10px 6px;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer}
+ .tab.on{background:#1f6feb;color:#fff}
  .filters{white-space:nowrap;overflow-x:auto;padding-bottom:10px}
- .filters button{border:0;background:#fff;color:#555;padding:6px 14px;border-radius:20px;margin-right:8px;font-size:13px;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,.06)}
- .filters button.on{background:#111;color:#fff}
- .card{background:#fff;border-radius:14px;padding:16px 18px;margin:12px 0 0;border-left:4px solid #ccc;box-shadow:0 1px 4px rgba(0,0,0,.06)}
- .top{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+ .filters button{background:var(--fltr);color:var(--fltrtx);padding:7px 16px;border-radius:20px;margin-right:8px;font-size:13px;cursor:pointer;border:1px solid var(--line)}
+ .filters button.on{background:var(--text);color:var(--bg);border-color:var(--text)}
+ .card{background:var(--card);border-radius:16px;padding:15px 16px;margin:12px 0 0;border-left:4px solid #ccc}
+ .card.featured{box-shadow:inset 0 0 0 1.5px var(--feattx)}
+ .row{display:flex;gap:13px;align-items:flex-start}
+ .datebox{flex:none;width:50px;text-align:center;background:var(--date);color:var(--datetx);border-radius:12px;padding:7px 0}
+ .datebox .dm{display:block;font-size:12px;line-height:1.3}
+ .datebox .dd{display:block;font-size:23px;font-weight:700;line-height:1.05}
+ .vic{flex:none;width:46px;height:46px;border-radius:50%;background:var(--vic);display:flex;align-items:center;justify-content:center;font-size:22px}
+ .body{flex:1;min-width:0}
+ .top{display:flex;align-items:center;gap:6px;margin-bottom:7px;flex-wrap:wrap}
  .pill{font-size:12px;padding:2px 10px;border-radius:20px;font-weight:600}
- .cd{background:#fff0e6;color:#e4572e}.cd.soon{background:#e4572e;color:#fff}
- .kid{background:#fff3d6;color:#a86400}.feat{background:#fde8ff;color:#9b1ec0}
- .nw{background:#e6f7ed;color:#1a7f4b}.cat{color:#fff}
- .title{font-weight:600;font-size:16px;line-height:1.4}
- .title a{color:#1a1a1a;text-decoration:none}
- .meta{color:#777;font-size:13px;margin-top:8px}
- .note{color:#b08900;font-size:12px;margin-top:6px}
- .price{color:#e4572e;font-size:13px;margin-top:4px}
- .prog{margin-top:10px;font-size:13px;color:#1a4d2e;background:#f1f8f3;border-radius:8px;padding:8px 10px}
- .prog b{color:#1a7f4b}
- .prog ul{margin:5px 0 0;padding-left:18px}
- .prog li{margin:3px 0}
- .prog li a{color:#1a6fc0;text-decoration:none}
- .empty{padding:60px 0;text-align:center;color:#999}
- .health{margin-top:14px;font-size:12px;color:#b45309;background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:8px 12px;line-height:1.5}
- .more{display:block;width:100%;margin-top:12px;border:0;background:#eef2ff;color:#1f6feb;padding:12px;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer}
+ .cd{background:var(--cd);color:var(--cdtx)}.cd.soon{background:#e4572e;color:#fff}
+ .kid{background:var(--kid);color:var(--kidtx)}.feat{background:var(--feat);color:var(--feattx)}
+ .nw{background:var(--nw);color:var(--nwtx)}.cat{color:#fff}
+ .morep{font-size:12px;padding:2px 9px;border-radius:20px;font-weight:600;background:var(--tab);color:var(--tabtx);border:0;cursor:pointer}
+ .title{font-weight:600;font-size:16.5px;line-height:1.45}
+ .title a{color:var(--text);text-decoration:none}
+ .meta{color:var(--muted);font-size:13px;margin-top:7px;line-height:1.6}
+ .note{color:var(--note);font-size:12px;margin-top:6px}
+ .price{color:var(--price);font-size:13px;margin-top:4px;font-weight:600}
+ .prog{margin-top:11px;font-size:13px;color:var(--progtx);background:var(--prog);border-radius:10px;padding:9px 11px}
+ .prog b{color:var(--progb)}
+ .prog .pi{display:flex;justify-content:space-between;gap:10px;margin-top:5px}
+ .prog .pi a{color:var(--proglk);text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+ .prog .pi .pd{flex:none;color:var(--hint)}
+ .empty{padding:56px 0;text-align:center;color:var(--hint)}
+ .health{margin-top:14px;font-size:12px;color:var(--hltx);background:var(--hl);border:1px solid var(--hlb);border-radius:10px;padding:8px 12px;line-height:1.5}
+ .more{display:block;width:100%;margin-top:12px;border:0;background:var(--more);color:var(--moretx);padding:12px;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer}
 </style></head><body><div class="wrap">
 <header><h1>📡 上海家庭活动雷达</h1>
 <div class="sub" id="sub">加载中…</div>
@@ -111,19 +125,25 @@ function cd(s,e,t){if(!s)return null;const sd=new Date(s+'T00:00:00');if(isNaN(s
 function card(ev,t){const color=CAT[ev.type]||DEF,kind=(ev.audience==='B2B')?'b2b':(KMAP[ev.kind]||'live');
  let title=esc(ev.title);if(ev.official_url)title=`<a href="${esc(ev.official_url)}" target="_blank" rel="noopener">${title}</a>`;
  const isNew=!!(ev.first_seen&&ev.first_seen>=NEWCUT);
- let p=`<span class="pill cat" style="background:${color}">${esc(ev.type)}</span>`;
- if(isNew)p+='<span class="pill nw">🆕 最新</span>';
- if(ev.featured)p+='<span class="pill feat">🔥 重磅</span>';
- const c=cd(ev.start_date,ev.end_date,t);if(c)p+=`<span class="pill cd ${c[1]?'soon':''}">${c[0]}</span>`;
- if(ev.kid_friendly){const lab='👨‍👩‍👧 亲子'+(ev.age_range?(' '+ev.age_range):'');p+=`<span class="pill kid">${esc(lab)}</span>`;}
- let meta;if(kind==='venue'){meta=ev.venue?`📍 ${esc(ev.venue)}`:'';}else{meta=`📅 ${fmtDate(ev.start_date,ev.end_date)}`;if(ev.venue)meta+=`&nbsp;&nbsp;📍 ${esc(ev.venue)}`;}
- if(ev.sessions&&ev.sessions.length>1)meta+=`<br>🎬 多场次 ${ev.sessions.map(d=>esc(d.slice(5))).join('、')}`;
+ let pills=[`<span class="pill cat" style="background:${color}">${esc(ev.type)}</span>`];
+ const c=cd(ev.start_date,ev.end_date,t);if(c)pills.push(`<span class="pill cd ${c[1]?'soon':''}">${c[0]}</span>`);
+ if(ev.kid_friendly){const lab='👨‍👩‍👧 亲子'+(ev.age_range?(' '+ev.age_range):'');pills.push(`<span class="pill kid">${esc(lab)}</span>`);}
+ if(isNew)pills.push('<span class="pill nw">🆕 最新</span>');
+ if(ev.featured)pills.push('<span class="pill feat">🔥 重磅</span>');
+ let ph=pills.slice(0,5).join('');
+ if(pills.length>5)ph+=`<button class="morep" onclick="this.nextElementSibling.style.display='inline';this.remove()">+${pills.length-5}</button><span style="display:none">${pills.slice(5).join('')}</span>`;
  let days=9999;if(ev.start_date){const sd=new Date(ev.start_date+'T00:00:00');if(!isNaN(sd))days=Math.round((sd-t)/864e5);}
+ let badge;
+ if(kind==='venue')badge='<div class="vic">🏛</div>';
+ else if(ev.start_date){const d=ev.start_date.split('-');badge=`<div class="datebox"><span class="dm">${+d[1]}月</span><span class="dd">${+d[2]}</span></div>`;}
+ else badge='<div class="datebox"><span class="dd" style="font-size:17px">📅</span><span class="dm">待定</span></div>';
+ let meta=ev.venue?`📍 ${esc(ev.venue)}`:'';
+ if(ev.sessions&&ev.sessions.length>1)meta+=(meta?'<br>':'')+`🎬 多场次 ${ev.sessions.map(d=>esc(d.slice(5))).join('、')}`;
  const note=ev.note?`<div class="note">⚠ ${esc(ev.note)}</div>`:'';
  const price=ev.price_range?`<div class="price">${esc(ev.price_range)}</div>`:'';
  let prog='';
- if(ev.programs&&ev.programs.length){prog='<div class="prog"><b>🎭 近期在演</b><ul>'+ev.programs.map(p=>`<li><a href="${esc(p.u||'#')}" target="_blank" rel="noopener">${esc(p.t)}${p.d?(' · '+p.d.slice(5)):''}</a></li>`).join('')+'</ul></div>';}
- return `<div class="card" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}" data-days="${days}"><div class="top">${p}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}${prog}</div>`;}
+ if(ev.programs&&ev.programs.length){prog='<div class="prog"><b>🎭 近期在演</b>'+ev.programs.map(p=>`<div class="pi"><a href="${esc(p.u||'#')}" target="_blank" rel="noopener">${esc(p.t)}</a><span class="pd">${p.d?esc(p.d.slice(5)):''}</span></div>`).join('')+'</div>';}
+ return `<div class="card${ev.featured?' featured':''}" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}" data-days="${days}"><div class="row">${badge}<div class="body"><div class="top">${ph}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}${prog}</div></div></div>`;}
 function mark(sel,btn){document.querySelectorAll(sel+' button').forEach(b=>b.classList.remove('on'));btn.classList.add('on');}
 function setTab(b,t){curTab=t;showFar=false;mark('.tabs',b);apply();}
 function setF(b,f){curF=f;mark('.filters',b);apply();}
