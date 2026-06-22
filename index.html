@@ -31,6 +31,7 @@
  .datebox{flex:none;width:50px;text-align:center;background:var(--date);color:var(--datetx);border-radius:12px;padding:7px 0}
  .datebox .dm{display:block;font-size:12px;line-height:1.3}
  .datebox .dd{display:block;font-size:23px;font-weight:700;line-height:1.05}
+ .datebox.now{background:var(--nw);color:var(--nwtx)}
  .vic{flex:none;width:46px;height:46px;border-radius:50%;background:var(--vic);display:flex;align-items:center;justify-content:center;font-size:22px}
  .body{flex:1;min-width:0}
  .top{display:flex;align-items:center;gap:6px;margin-bottom:7px;flex-wrap:wrap}
@@ -96,18 +97,27 @@ function card(ev,t){const color=CAT[ev.type]||DEF,kind=(ev.audience==='B2B')?'b2
  if(ev.featured)pills.push('<span class="pill feat">🔥 重磅</span>');
  let ph=pills.slice(0,5).join('');
  if(pills.length>5)ph+=`<button class="morep" onclick="this.nextElementSibling.style.display='inline';this.remove()">+${pills.length-5}</button><span style="display:none">${pills.slice(5).join('')}</span>`;
- let days=9999;if(ev.start_date){const sd=new Date(ev.start_date+'T00:00:00');if(!isNaN(sd))days=Math.round((sd-t)/864e5);}
- let badge;
- if(kind==='venue')badge='<div class="vic">🏛</div>';
- else if(ev.start_date){const d=ev.start_date.split('-');badge=`<div class="datebox"><span class="dm">${+d[1]}月</span><span class="dd">${+d[2]}</span></div>`;}
- else badge='<div class="datebox"><span class="dd" style="font-size:17px">📅</span><span class="dm">待定</span></div>';
+ let days=9999,edays=-99999;
+ if(ev.start_date){const sd=new Date(ev.start_date+'T00:00:00');if(!isNaN(sd))days=Math.round((sd-t)/864e5);}
+ if(ev.end_date){const ed=new Date(ev.end_date+'T00:00:00');if(!isNaN(ed))edays=Math.round((ed-t)/864e5);}
+ const ongoing=(days<0&&edays>=0);
+ let badge='';
+ if(kind!=='venue'){
+  if(days>=0&&ev.start_date){const d=ev.start_date.split('-');badge=`<div class="datebox"><span class="dm">${+d[1]}月</span><span class="dd">${+d[2]}</span></div>`;}
+  else if(ongoing){const e=ev.end_date.split('-');badge=`<div class="datebox now"><span class="dm">演至</span><span class="dd" style="font-size:15px">${+e[1]}/${+e[2]}</span></div>`;}
+  else if(ev.start_date){const d=ev.start_date.split('-');badge=`<div class="datebox"><span class="dm">${+d[1]}月</span><span class="dd">${+d[2]}</span></div>`;}
+  else badge='<div class="datebox"><span class="dd" style="font-size:17px">📅</span><span class="dm">待定</span></div>';
+ }
  let meta=ev.venue?`📍 ${esc(ev.venue)}`:'';
  if(ev.sessions&&ev.sessions.length>1)meta+=(meta?'<br>':'')+`🎬 多场次 ${ev.sessions.map(d=>esc(d.slice(5))).join('、')}`;
  const note=ev.note?`<div class="note">⚠ ${esc(ev.note)}</div>`:'';
  const price=ev.price_range?`<div class="price">${esc(ev.price_range)}</div>`:'';
  let prog='';
  if(ev.programs&&ev.programs.length){prog='<div class="prog"><b>🎭 近期在演</b>'+ev.programs.map(p=>`<div class="pi"><a href="${esc(p.u||'#')}" target="_blank" rel="noopener">${esc(p.t)}</a><span class="pd">${p.d?esc(p.d.slice(5)):''}</span></div>`).join('')+'</div>';}
- return `<div class="card${ev.featured?' featured':''}" style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}" data-days="${days}"><div class="row">${badge}<div class="body"><div class="top">${ph}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}${prog}</div></div></div>`;}
+ const inner=`<div class="top">${ph}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}${prog}`;
+ const attrs=`style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}" data-days="${days}"`;
+ if(kind==='venue')return `<div class="card${ev.featured?' featured':''}" ${attrs}>${inner}</div>`;
+ return `<div class="card${ev.featured?' featured':''}" ${attrs}><div class="row">${badge}<div class="body">${inner}</div></div></div>`;}
 function mark(sel,btn){document.querySelectorAll(sel+' button').forEach(b=>b.classList.remove('on'));btn.classList.add('on');}
 function setTab(b,t){curTab=t;showFar=false;mark('.tabs',b);apply();}
 function setF(b,f){curF=f;mark('.filters',b);apply();}
@@ -134,7 +144,9 @@ function render(data){const evts=(data.events||[]).slice();
  const b2bN=evts.filter(e=>e.audience==='B2B').length;
  document.getElementById('sub').textContent='近期'+liveN+' · 年度'+evts.filter(e=>e.kind==='年度固定').length+' · 场馆'+evts.filter(e=>e.kind==='固定场馆').length+' · 行业'+b2bN+' · 🆕'+nNew;
  const ord={'临时':0,'年度固定':1,'固定场馆':2};
- evts.sort((a,b)=>{const o=(ord[a.kind]||0)-(ord[b.kind]||0);return o||((a.start_date||'9999')<(b.start_date||'9999')?-1:1);});
+ const TS=new Date(t.getTime()-t.getTimezoneOffset()*6e4).toISOString().slice(0,10);
+ function sv(e){const s=e.start_date,en=e.end_date;if(s&&s>=TS)return s;if(en&&en>=TS)return '~'+en;return s||'9998';}
+ evts.sort((a,b)=>{const o=(ord[a.kind]||0)-(ord[b.kind]||0);if(o)return o;const x=sv(a),y=sv(b);return x<y?-1:x>y?1:0;});
  document.getElementById('list').innerHTML=evts.map(e=>card(e,t)).join('')+'<div class="empty" id="emptyTip" style="display:none">该分类下暂无活动</div>';
  apply();}
 async function load(){document.getElementById('list').innerHTML='<div class="empty">加载中…</div>';
