@@ -92,7 +92,7 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
  .more{display:block;width:100%;margin-top:12px;border:0;background:var(--more);color:var(--moretx);padding:12px;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer}
 </style></head><body><div class="wrap">
 <header><h1>🗺️ 沪上遛遛</h1>
-<div class="tag">上海亲子 · 演出 · 展会 · 赛事,一站看全</div>
+<div class="tag">上海亲子 · 演出 · 展会 · 赛事 — 日更雷达</div>
 <div class="sub" id="sub">加载中…</div>
 <div class="snap"><span id="snap"></span></div></header>
 <div class="controls">
