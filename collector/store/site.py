@@ -83,8 +83,8 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
  .price{color:var(--price);font-size:13px;margin-top:4px;font-weight:600}
  .prog{margin-top:11px;font-size:13px;color:var(--progtx);background:var(--prog);border-radius:10px;padding:9px 11px}
  .prog b{color:var(--progb)}
- .prog .pi{display:flex;justify-content:space-between;gap:10px;margin-top:5px}
- .prog .pi a{color:var(--proglk);text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+ .prog .pi{display:flex;justify-content:space-between;gap:10px;margin-top:5px;align-items:flex-start}
+ .prog .pi a{color:var(--proglk);text-decoration:none;flex:1;min-width:0;word-break:break-word;line-height:1.5}
  .prog .pi .pd{flex:none;color:var(--hint)}
  .empty{padding:56px 0;text-align:center;color:var(--hint)}
  .health{margin-top:14px;font-size:12px;color:var(--hltx);background:var(--hl);border:1px solid var(--hlb);border-radius:10px;padding:8px 12px;line-height:1.5}
@@ -92,8 +92,7 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
 </style></head><body><div class="wrap">
 <header><h1>📡 上海家庭活动雷达</h1>
 <div class="sub" id="sub">加载中…</div>
-<div class="snap"><span id="snap"></span>
-<button class="refresh" onclick="load()">🔄 刷新</button></div></header>
+<div class="snap"><span id="snap"></span></div></header>
 <div class="controls">
  <div class="tabs">
   <button class="tab on" data-t="live" onclick="setTab(this,'live')">🎫 近期活动</button>
@@ -228,7 +227,9 @@ def save(events: List[Event], health: dict = None) -> None:
         recs.append(rec)
 
     payload = {
-        "generatedAt": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "generatedAt": datetime.datetime.now(
+            datetime.timezone(datetime.timedelta(hours=8))
+        ).strftime("%Y-%m-%d %H:%M") + " 北京时间",
         "count": len(events),
         "health": health or {},
         "events": recs,
