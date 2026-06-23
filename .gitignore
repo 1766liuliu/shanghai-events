@@ -6,6 +6,7 @@ data/events.json
 data/活动预览.html
 data/*.log
 data/launchd.*
+data/digest.pdf
 !data/seen.json
 
 # 本地专用脚本(含本机绝对路径,云端无用)

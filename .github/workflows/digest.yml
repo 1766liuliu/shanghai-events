@@ -1,0 +1,32 @@
+name: digest
+
+# 每周精选邮件:每周五 北京 08:00(UTC 周五 00:00)发 PDF 给家人;也可手动触发测试。
+on:
+  schedule:
+    - cron: "0 0 * * 5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install reportlab
+
+      - name: 生成 PDF 并发送邮件
+        env:
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_PASS: ${{ secrets.MAIL_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python collector/digest.py
