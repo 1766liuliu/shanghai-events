@@ -50,6 +50,7 @@
  .prog b{color:var(--progb)}
  .prog .pi{display:flex;justify-content:space-between;gap:10px;margin-top:5px;align-items:flex-start}
  .prog .pi a{color:var(--proglk);text-decoration:none;flex:1;min-width:0;word-break:break-word;line-height:1.5}
+ .prog .pi a::before{content:"•";color:var(--progb);margin-right:6px;font-weight:700}
  .prog .pi .pd{flex:none;color:var(--hint)}
  .empty{padding:56px 0;text-align:center;color:var(--hint)}
  .health{margin-top:14px;font-size:12px;color:var(--hltx);background:var(--hl);border:1px solid var(--hlb);border-radius:10px;padding:8px 12px;line-height:1.5}
@@ -147,7 +148,9 @@ function render(data){const evts=(data.events||[]).slice();
  const ord={'临时':0,'年度固定':1,'固定场馆':2};
  const TS=new Date(t.getTime()-t.getTimezoneOffset()*6e4).toISOString().slice(0,10);
  function sv(e){const s=e.start_date,en=e.end_date;if(s&&s>=TS)return s;if(en&&en>=TS)return '~'+en;return s||'9998';}
- evts.sort((a,b)=>{const o=(ord[a.kind]||0)-(ord[b.kind]||0);if(o)return o;const x=sv(a),y=sv(b);return x<y?-1:x>y?1:0;});
+ evts.sort((a,b)=>{const o=(ord[a.kind]||0)-(ord[b.kind]||0);if(o)return o;
+  if(a.kind==='固定场馆'){const pa=(a.programs&&a.programs.length)?1:0,pb=(b.programs&&b.programs.length)?1:0;if(pa!==pb)return pb-pa;return 0;}
+  const x=sv(a),y=sv(b);return x<y?-1:x>y?1:0;});
  document.getElementById('list').innerHTML=evts.map(e=>card(e,t)).join('')+'<div class="empty" id="emptyTip" style="display:none">该分类下暂无活动</div>';
  apply();}
 async function load(){document.getElementById('list').innerHTML='<div class="empty">加载中…</div>';
