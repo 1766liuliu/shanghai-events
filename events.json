@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-06-24 11:12 北京时间",
- "count": 156,
+ "generatedAt": "2026-06-24 10:39 北京时间",
+ "count": 161,
  "health": {
   "curated": {
    "status": "ok",
@@ -3757,6 +3757,125 @@
     "2026-07-21",
     "2026-07-28"
    ]
+  },
+  {
+   "title": "品欢相声会馆",
+   "type": "演出",
+   "venue": "上海本土相声(黄浦·大世界等)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "相声曲艺"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=品欢相声会馆",
+   "featured": false,
+   "note": "上海老牌相声会馆,周末欢乐专场,排期/购票见链接",
+   "first_seen": "2026-06-24",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "笑果脱口秀 上海",
+   "type": "演出",
+   "venue": "巡演多剧场(黄浦剧场/MAO/艺海/1862等)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "脱口秀"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=笑果",
+   "featured": false,
+   "note": "笑果文化常态脱口秀,含上海国际喜剧节专场,排期见链接",
+   "first_seen": "2026-06-24",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "MAO Livehouse 上海",
+   "type": "演出",
+   "venue": "黄浦(中山南路·南外滩)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "Livehouse"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=MAO Livehouse 上海",
+   "featured": false,
+   "note": "知名 Livehouse,乐队现场/独立音乐,演出日历见链接",
+   "first_seen": "2026-06-24",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "育音堂 Livehouse",
+   "type": "演出",
+   "venue": "上海(凯旋路/音乐公园)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "Livehouse"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=育音堂",
+   "featured": false,
+   "note": "上海老牌 Livehouse,摇滚/独立乐队现场,排期见链接",
+   "first_seen": "2026-06-24",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "上海简单生活节",
+   "type": "演出",
+   "venue": "上海(年度·场地每年公布)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "音乐节"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=简单生活节",
+   "featured": false,
+   "note": "年度生活方式音乐节(音乐+市集+创意),通常秋季,关注官宣阵容",
+   "first_seen": "2026-06-24",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
   }
  ]
 }

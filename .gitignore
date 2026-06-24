@@ -22,3 +22,6 @@ __pycache__/
 # 旧的微信云函数依赖
 cloud/cloudfunctions/*/node_modules/
 miniprogram/node_modules/
+
+# 本地预览配置(云端无用)
+.claude/

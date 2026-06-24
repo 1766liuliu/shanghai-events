@@ -714,3 +714,68 @@ featured = false
 url = ""
 note = "大型演唱会/体育赛事场馆(海上王冠),购票链接见下"
 tags = ["演出"]
+
+[[event]]
+title = "品欢相声会馆"
+type = "演出"
+start = ""
+end = ""
+venue = "上海本土相声(黄浦·大世界等)"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=品欢相声会馆"
+note = "上海老牌相声会馆,周末欢乐专场,排期/购票见链接"
+tags = ["相声曲艺"]
+
+[[event]]
+title = "笑果脱口秀 上海"
+type = "演出"
+start = ""
+end = ""
+venue = "巡演多剧场(黄浦剧场/MAO/艺海/1862等)"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=笑果"
+note = "笑果文化常态脱口秀,含上海国际喜剧节专场,排期见链接"
+tags = ["脱口秀"]
+
+[[event]]
+title = "MAO Livehouse 上海"
+type = "演出"
+start = ""
+end = ""
+venue = "黄浦(中山南路·南外滩)"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=MAO Livehouse 上海"
+note = "知名 Livehouse,乐队现场/独立音乐,演出日历见链接"
+tags = ["Livehouse"]
+
+[[event]]
+title = "育音堂 Livehouse"
+type = "演出"
+start = ""
+end = ""
+venue = "上海(凯旋路/音乐公园)"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=育音堂"
+note = "上海老牌 Livehouse,摇滚/独立乐队现场,排期见链接"
+tags = ["Livehouse"]
+
+[[event]]
+title = "上海简单生活节"
+type = "演出"
+start = ""
+end = ""
+venue = "上海(年度·场地每年公布)"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=简单生活节"
+note = "年度生活方式音乐节(音乐+市集+创意),通常秋季,关注官宣阵容"
+tags = ["音乐节"]
