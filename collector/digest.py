@@ -100,9 +100,9 @@ def build_pdf(sections, today, gen):
                          textColor=colors.grey)
     H2 = ParagraphStyle("H2", fontName=FONT, fontSize=14, leading=20,
                         textColor=colors.HexColor("#1f6feb"), spaceBefore=14, spaceAfter=4)
-    IT = ParagraphStyle("IT", fontName=FONT, fontSize=11.5, leading=16, spaceBefore=6)
+    IT = ParagraphStyle("IT", fontName=FONT, fontSize=12, leading=17, spaceBefore=13)
     META = ParagraphStyle("META", fontName=FONT, fontSize=9.5, leading=13,
-                          textColor=colors.grey)
+                          textColor=colors.grey, leftIndent=14, spaceAfter=2)
     story = [Paragraph("沪上遛遛 · 本周精选", H1),
              Paragraph("%d年%d月%d日 · 上海亲子 / 演出 / 展会 / 赛事"
                        % (today.year, today.month, today.day), SUB),
@@ -118,17 +118,18 @@ def build_pdf(sections, today, gen):
             seen.add(e["title"])
             t = escape(e["title"])
             url = e.get("official_url", "")
-            title = '<a href="%s" color="#1f6feb">%s</a>' % (escape(url), t) if url else t
-            story.append(Paragraph(title, IT))
+            link = '<a href="%s" color="#1f6feb">%s</a>' % (escape(url), t) if url else t
+            bullet = '<font color="#7c3aed">●</font> '
+            story.append(Paragraph(bullet + link, IT))
             bits = [_fmtdate(e, today)]
-            if e.get("venue"):
+            if e.get("venue") and e["venue"] != e["title"]:
                 bits.append(escape(e["venue"]))
             if e.get("price_range"):
                 bits.append(escape(e["price_range"]))
             ot = e.get("open_ticket_time")
             if name == "本周开票" and ot:
                 bits.insert(0, "开票 " + escape(ot))
-            story.append(Paragraph(" · ".join(bits), META))
+            story.append(Paragraph(" | ".join(bits), META))
     if not any_item:
         story.append(Paragraph("本周暂无精选(数据更新中,点下方在线版查看全部)。", IT))
     story.append(Spacer(1, 12))
