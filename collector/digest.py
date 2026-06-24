@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""沪上遛遛 · 每周精选邮件 —— 读 events.json → Chromium 渲染海报风 PDF → 邮件发送。
+"""1766一起遛遛 · 每周精选邮件 —— 读 events.json → Chromium 渲染海报风 PDF → 邮件发送。
 
 机密只从环境变量(GitHub Secrets)读,绝不写进代码/公开仓库:
   MAIL_USER = 发信邮箱(Gmail/QQ 等)   MAIL_PASS = 应用专用密码/授权码(非登录密码)
@@ -105,7 +105,7 @@ PAGE = """<!doctype html><html lang="zh"><head><meta charset="utf-8">
 body{font-family:'Noto Sans SC',sans-serif;color:#fff;-webkit-print-color-adjust:exact;print-color-adjust:exact;
  background:linear-gradient(158deg,#140c33 0%,#291552 30%,#561f63 62%,#9c2f4c 100%)}
 .hero{height:332px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:0 40px;background:__HEROBG__}
-.brand{font-family:'ZCOOL KuaiLe',cursive;font-size:84px;line-height:1;letter-spacing:9px;text-shadow:0 4px 28px rgba(0,0,0,.75)}
+.brand{font-family:'ZCOOL KuaiLe',cursive;font-size:62px;line-height:1.08;letter-spacing:4px;text-shadow:0 4px 28px rgba(0,0,0,.75)}
 .tag{margin-top:16px;font-size:16px;letter-spacing:5px;color:#ffe2b3;font-weight:500;text-shadow:0 2px 12px rgba(0,0,0,.7)}
 .dt{margin-top:10px;font-size:13px;letter-spacing:3px;color:rgba(255,255,255,.88);text-shadow:0 2px 12px rgba(0,0,0,.7)}
 .wrap{padding:18px 28px 26px}
@@ -119,7 +119,7 @@ body{font-family:'Noto Sans SC',sans-serif;color:#fff;-webkit-print-color-adjust
 .ft{text-align:center;padding:18px 20px 30px;font-size:11px;letter-spacing:1px;color:rgba(255,255,255,.55)}
 .ft a{color:rgba(255,255,255,.8)}
 </style></head><body>
-<div class="hero"><div class="brand">沪上遛遛</div>
+<div class="hero"><div class="brand">1766一起遛遛</div>
 <div class="tag">上海亲子 · 演出 · 展会 · 赛事</div>
 <div class="dt">__DATE__</div></div>
 <div class="wrap">__CONTENT__</div>
@@ -209,13 +209,13 @@ def send(today):
         return
     recipients = [x.strip() for x in to.replace(";", ",").split(",") if x.strip()]
     msg = EmailMessage()
-    msg["Subject"] = "沪上遛遛 · 本周精选（%d/%d）" % (today.month, today.day)
+    msg["Subject"] = "1766一起遛遛 · 本周精选（%d/%d）" % (today.month, today.day)
     msg["From"] = user
     msg["To"] = ", ".join(recipients)
     msg.set_content("本周上海亲子 / 演出 / 展会 / 赛事精选见附件 PDF。\n在线版:" + SITE)
     with open(OUT, "rb") as f:
         msg.add_attachment(f.read(), maintype="application", subtype="pdf",
-                           filename="沪上遛遛_本周精选_%s.pdf" % today.strftime("%Y%m%d"))
+                           filename="1766一起遛遛_本周精选_%s.pdf" % today.strftime("%Y%m%d"))
     host = os.environ.get("MAIL_HOST") or {
         "gmail.com": "smtp.gmail.com", "qq.com": "smtp.qq.com",
         "163.com": "smtp.163.com", "126.com": "smtp.126.com",

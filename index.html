@@ -1,7 +1,7 @@
 <!doctype html><html lang="zh"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<title>沪上遛遛</title>
+<title>1766一起遛遛</title>
 <style>
  :root{--bg:#f0f2f5;--card:#fff;--text:#1a1a1a;--muted:#6b7280;--hint:#9aa0a6;--line:#e6e9ee;--tab:#e9ecf1;--tabtx:#555;--fltr:#fff;--fltrtx:#555;
   --cd:#fff0e6;--cdtx:#e4572e;--kid:#fff3d6;--kidtx:#9a6a00;--feat:#fbe6ff;--feattx:#9b1ec0;--nw:#e6f7ed;--nwtx:#1a7f4b;--note:#9a7400;--price:#e4572e;
@@ -57,8 +57,9 @@
  .empty{padding:56px 0;text-align:center;color:var(--hint)}
  .health{margin-top:14px;font-size:12px;color:var(--hltx);background:var(--hl);border:1px solid var(--hlb);border-radius:10px;padding:8px 12px;line-height:1.5}
  .more{display:block;width:100%;margin-top:12px;border:0;background:var(--more);color:var(--moretx);padding:12px;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer}
+ .srchinfo{font-size:13px;color:var(--moretx);background:var(--more);border-radius:10px;padding:9px 13px;margin-top:4px;font-weight:600}
 </style></head><body><div class="wrap">
-<header><h1>🗺️ 沪上遛遛</h1>
+<header><h1>🗺️ 1766一起遛遛</h1>
 <div class="tag">上海亲子 · 演出 · 展会 · 赛事——日更雷达</div>
 <div class="sub" id="sub">加载中…</div>
 <div class="snap"><span id="snap"></span></div></header>
@@ -77,6 +78,7 @@
   <button data-k="kid" onclick="setF(this,'kid')">👨‍👩‍👧 亲子</button>
  </div>
 </div>
+<div id="srchInfo" class="srchinfo" style="display:none"></div>
 <div id="list"><div class="empty">加载中…</div></div>
 <button class="more" id="moreBtn" style="display:none" onclick="showFar=true;apply()"></button>
 <div class="health" id="health" style="display:none"></div>
@@ -93,6 +95,16 @@ function cd(s,e,t){if(!s)return null;const sd=new Date(s+'T00:00:00');if(isNaN(s
  const diff=Math.round((sd-t)/864e5);
  if(diff<0){if(e){const ed=new Date(e+'T00:00:00');if(!isNaN(ed)&&ed>=t)return['进行中',true];}return null;}
  if(diff===0)return['今天',true];if(diff===1)return['明天',true];return[diff+'天后',diff<=14];}
+function subcat(ev){const s=((ev.title||'')+' '+((ev.tags||[]).join(' '))).toLowerCase();
+ if(/相声|脱口秀|曲艺|滑稽|栋笃笑/.test(s))return '相声脱口秀';
+ if(/livehouse|音乐现场|乐队/.test(s))return 'Livehouse';
+ if(/演唱会/.test(s))return '演唱会';
+ if(/音乐节/.test(s))return '音乐节';
+ if(/音乐会|交响|钢琴|独奏|协奏|室内乐|合唱|乐团|爵士/.test(s))return '音乐会';
+ if(/京剧|越剧|昆曲|戏曲|沪剧|评弹|黄梅|豫剧|粤剧/.test(s))return '戏曲';
+ if(/儿童|亲子|绘本|宝贝|亲亲|童趣/.test(s))return '亲子剧';
+ if(/话剧|音乐剧|舞台剧|舞剧|歌剧|沉浸|默剧|马戏|杂技|魔术/.test(s))return '话剧歌舞';
+ return '其他';}
 function card(ev,t){const color=CAT[ev.type]||DEF,kind=(ev.audience==='B2B')?'b2b':(ev.kind==='临时'&&ev.type==='演出')?'show':(KMAP[ev.kind]||'live');
  let title=esc(ev.title);if(ev.official_url)title=`<a href="${esc(ev.official_url)}" target="_blank" rel="noopener">${title}</a>`;
  const isNew=!!(ev.first_seen&&ev.first_seen>=NEWCUT);
@@ -122,20 +134,41 @@ function card(ev,t){const color=CAT[ev.type]||DEF,kind=(ev.audience==='B2B')?'b2
  if(ev.programs&&ev.programs.length){prog='<div class="prog"><b>🎭 近期在演</b>'+ev.programs.map(p=>`<div class="pi"><a href="${esc(p.u||'#')}" target="_blank" rel="noopener">${esc(p.t)}</a><span class="pd">${p.d?esc(p.d.slice(5)):''}</span></div>`).join('')+'</div>';}
  const inner=`<div class="top">${ph}</div><div class="title">${title}</div><div class="meta">${meta}</div>${note}${price}${prog}`;
  const sdata=esc((ev.title+' '+(ev.venue||'')+' '+(ev.type||'')+' '+((ev.tags||[]).join(' '))+' '+((ev.programs||[]).map(p=>p.t).join(' '))).toLowerCase());
- const attrs=`style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}" data-days="${days}" data-search="${sdata}"`;
+ const attrs=`style="border-left-color:${color}" data-kind="${kind}" data-type="${esc(ev.type)}" data-subcat="${esc(subcat(ev))}" data-kid="${ev.kid_friendly?1:0}" data-new="${isNew?1:0}" data-unfit="${ev.kid_unfit?1:0}" data-days="${days}" data-search="${sdata}"`;
  if(kind==='venue')return `<div class="card${ev.featured?' featured':''}" ${attrs}>${inner}</div>`;
  return `<div class="card${ev.featured?' featured':''}" ${attrs}><div class="row">${badge}<div class="body">${inner}</div></div></div>`;}
 function mark(sel,btn){document.querySelectorAll(sel+' button').forEach(b=>b.classList.remove('on'));btn.classList.add('on');}
-function setTab(b,t){curTab=t;showFar=false;document.getElementById('q').value='';mark('.tabs',b);apply();}
+function renderFilters(){const box=document.querySelector('.filters');
+ if(curTab==='show'){
+   const cnt={};document.querySelectorAll('.card').forEach(c=>{if(c.dataset.kind==='show'){const k=c.dataset.subcat;cnt[k]=(cnt[k]||0)+1;}});
+   const order=['演唱会','音乐会','话剧歌舞','亲子剧','相声脱口秀','Livehouse','戏曲','音乐节','其他'];
+   let h='<button class="on" data-k="all" onclick="setF(this,\'all\')">全部</button>';
+   order.forEach(k=>{if(cnt[k])h+='<button data-k="sub:'+k+'" onclick="setF(this,\'sub:'+k+'\')">'+k+' '+cnt[k]+'</button>';});
+   box.innerHTML=h;
+ }else{
+   box.innerHTML='<button class="on" data-k="all" onclick="setF(this,\'all\')">全部</button>'+
+     '<button data-k="new" onclick="setF(this,\'new\')">🆕 最新</button>'+
+     '<button data-k="kid" onclick="setF(this,\'kid\')">👨‍👩‍👧 亲子</button>';
+ }}
+function setTab(b,t){curTab=t;curF='all';showFar=false;document.getElementById('q').value='';mark('.tabs',b);renderFilters();apply();}
 function setF(b,f){curF=f;document.getElementById('q').value='';mark('.filters',b);apply();}
 function apply(){let n=0,far=0;
  const q=(document.getElementById('q').value||'').trim().toLowerCase();
+ document.querySelector('.tabs').style.opacity=q?'.4':'1';
+ document.querySelector('.filters').style.opacity=q?'.4':'1';
  document.querySelectorAll('.card').forEach(c=>{
    let ok;
    if(q){ok=c.dataset.search.indexOf(q)>=0;}
    else{
-     const tabOk=c.dataset.kind===curTab;
-     const fOk=curF==='all'||(curF==='new'?c.dataset.new==='1':(c.dataset.kid==='1'&&c.dataset.unfit!=='1'));
+     let tabOk;
+     if(curTab==='live')tabOk=(c.dataset.kind==='live'||c.dataset.kind==='show');
+     else tabOk=(c.dataset.kind===curTab);
+     let fOk;
+     if(curF==='all')fOk=true;
+     else if(curF==='new')fOk=c.dataset.new==='1';
+     else if(curF==='kid')fOk=(c.dataset.kid==='1'&&c.dataset.unfit!=='1');
+     else if(curF.indexOf('sub:')===0)fOk=(c.dataset.subcat===curF.slice(4));
+     else fOk=true;
      let winOk=true;
      if(curTab==='live'&&tabOk&&fOk&&(+c.dataset.days)>30){winOk=showFar;if(!showFar)far++;}
      ok=tabOk&&fOk&&winOk;
@@ -143,6 +176,8 @@ function apply(){let n=0,far=0;
    c.style.display=ok?'block':'none';if(ok)n++;});
  const et=document.getElementById('emptyTip');et.style.display=n?'none':'block';
  if(!n)et.textContent=q?('没有匹配「'+q+'」的活动'):'该分类下暂无活动';
+ const si=document.getElementById('srchInfo');
+ if(q){si.style.display='block';si.textContent='🔍 全局搜索「'+q+'」· 找到 '+n+' 条(跨所有分类)';}else si.style.display='none';
  const mb=document.getElementById('moreBtn');
  if(!q&&curTab==='live'&&!showFar&&far>0){mb.style.display='block';mb.textContent='📅 查看更远的 '+far+' 个活动';}else mb.style.display='none';}
 function render(data){const evts=(data.events||[]).slice();
@@ -155,9 +190,8 @@ function render(data){const evts=(data.events||[]).slice();
  if(hbad.length){hd.style.display='block';hd.innerHTML='⚠️ 数据源异常(已用上次数据顶替,不影响展示): '+hbad.map(n=>esc(n)+'·'+esc(h[n].status)).join('、');}
  else{hd.style.display='none';}
  const showN=evts.filter(e=>e.kind==='临时'&&e.type==='演出'&&e.audience!=='B2B').length;
- const liveN=evts.filter(e=>e.kind==='临时'&&e.type!=='演出'&&e.audience!=='B2B').length;
  const b2bN=evts.filter(e=>e.audience==='B2B').length;
- document.getElementById('sub').textContent='近期'+liveN+' · 演出'+showN+' · 年度'+evts.filter(e=>e.kind==='年度固定').length+' · 场馆'+evts.filter(e=>e.kind==='固定场馆').length+' · 行业'+b2bN+' · 🆕'+nNew;
+ document.getElementById('sub').textContent='演出'+showN+' · 年度'+evts.filter(e=>e.kind==='年度固定').length+' · 场馆'+evts.filter(e=>e.kind==='固定场馆').length+' · 行业'+b2bN+' · 🆕'+nNew;
  const ord={'临时':0,'年度固定':1,'固定场馆':2};
  const TS=new Date(t.getTime()-t.getTimezoneOffset()*6e4).toISOString().slice(0,10);
  function sv(e){const s=e.start_date,en=e.end_date;if(s&&s>=TS)return s;if(en&&en>=TS)return '~'+en;return s||'9998';}
@@ -165,7 +199,7 @@ function render(data){const evts=(data.events||[]).slice();
   if(a.kind==='固定场馆'){const pa=(a.programs&&a.programs.length)?1:0,pb=(b.programs&&b.programs.length)?1:0;if(pa!==pb)return pb-pa;return 0;}
   const x=sv(a),y=sv(b);return x<y?-1:x>y?1:0;});
  document.getElementById('list').innerHTML=evts.map(e=>card(e,t)).join('')+'<div class="empty" id="emptyTip" style="display:none">该分类下暂无活动</div>';
- apply();}
+ renderFilters();apply();}
 async function load(){document.getElementById('list').innerHTML='<div class="empty">加载中…</div>';
  try{const r=await fetch('events.json?t='+Date.now(),{cache:'no-store'});render(await r.json());}
  catch(e){document.getElementById('list').innerHTML='<div class="empty">加载失败,请检查网络后点刷新</div>';}}
