@@ -1566,6 +1566,35 @@
     "_id": "a3b429675965f927"
    },
    {
+    "title": "上海德云社剧场",
+    "type": "演出",
+    "source": "curated",
+    "official_url": "https://search.damai.cn/search.htm?keyword=德云社 上海",
+    "venue": "虹口区四川北路1552号·群众影剧院2楼",
+    "district": "",
+    "start_date": "",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "相声曲艺"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": true,
+    "kind": "固定场馆",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "2026年3月开业的德云社上海固定剧场,相声大会常态演出,排期/购票见链接",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海德云社剧场",
+    "_id": "379e115b2f6906cb"
+   },
+   {
     "title": "品欢相声会馆",
     "type": "演出",
     "source": "curated",
@@ -1711,7 +1740,7 @@
     "_id": "64e03d0b059a5a04"
    }
   ],
-  "count": 59,
+  "count": 60,
   "last_success": "2026-06-24"
  },
  "maoyan": {
