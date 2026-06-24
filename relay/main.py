@@ -19,7 +19,7 @@ import urllib.parse
 import urllib.request
 
 GH_TOKEN = os.environ.get("GH_TOKEN", "")
-GH_REPO = os.environ.get("GH_REPO", "c18531171777-creator/shanghai-events")
+GH_REPO = os.environ.get("GH_REPO", "1766liuliu/shanghai-events")
 GH_PATH = "data/cn_events.json"
 GH_BRANCH = "main"
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "

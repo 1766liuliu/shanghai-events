@@ -20,7 +20,7 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 EVENTS = os.path.join(ROOT, "events.json")
 OUT = os.path.join(ROOT, "data", "digest.pdf")
 HERO = os.path.join(ROOT, "assets", "hero.jpg")
-SITE = "https://c18531171777-creator.github.io/shanghai-events/"
+SITE = "https://1766liuliu.github.io/shanghai-events/"
 SEC_COLOR = {"本周开票": "#4da3ff", "亲子精选": "#ff8a5b",
              "最新上架": "#4dd6a0", "重磅活动": "#ff5d8f"}
 
@@ -123,7 +123,7 @@ body{font-family:'Noto Sans SC',sans-serif;color:#fff;-webkit-print-color-adjust
 <div class="tag">上海亲子 · 演出 · 展会 · 赛事</div>
 <div class="dt">__DATE__</div></div>
 <div class="wrap">__CONTENT__</div>
-<div class="ft">数据更新于 __GEN__ &nbsp;·&nbsp; 在线版 <a href="__SITE__">c18531171777-creator.github.io/shanghai-events</a></div>
+<div class="ft">数据更新于 __GEN__ &nbsp;·&nbsp; 在线版 <a href="__SITE__">1766liuliu.github.io/shanghai-events</a></div>
 </body></html>"""
 
 
