@@ -7,6 +7,7 @@
 未配置 MAIL_* 时只生成 PDF、不发信(便于本地测试)。
 渲染用 Playwright(无头 Chromium),艺术字体走 Google Fonts。
 """
+import base64
 import datetime
 import json
 import os
@@ -18,6 +19,7 @@ from html import escape
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 EVENTS = os.path.join(ROOT, "events.json")
 OUT = os.path.join(ROOT, "data", "digest.pdf")
+HERO = os.path.join(ROOT, "assets", "hero.jpg")
 SITE = "https://c18531171777-creator.github.io/shanghai-events/"
 SEC_COLOR = {"本周开票": "#4da3ff", "亲子精选": "#ff8a5b",
              "最新上架": "#4dd6a0", "重磅活动": "#ff5d8f"}
@@ -101,28 +103,47 @@ PAGE = """<!doctype html><html lang="zh"><head><meta charset="utf-8">
 @page{size:A4;margin:0}
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:'Noto Sans SC',sans-serif;color:#fff;-webkit-print-color-adjust:exact;print-color-adjust:exact;
- background:linear-gradient(158deg,#150d35 0%,#3a1c66 36%,#7c2a73 64%,#cc3f59 100%)}
-.hero{position:relative;padding:60px 44px 92px;text-align:center}
-.brand{font-family:'ZCOOL KuaiLe',cursive;font-size:80px;line-height:1;letter-spacing:8px;text-shadow:0 6px 36px rgba(0,0,0,.5)}
-.tag{margin-top:18px;font-size:16px;letter-spacing:5px;color:#ffd9a8;font-weight:500}
-.dt{margin-top:10px;font-size:13px;letter-spacing:3px;color:rgba(255,255,255,.72)}
-.sky{position:absolute;left:0;bottom:0;width:100%;height:84px;display:block}
-.wrap{padding:4px 34px 30px}
-.sec{margin-top:30px}
-.sh{display:inline-block;font-family:'ZCOOL KuaiLe',cursive;font-size:24px;letter-spacing:2px;color:#fff;padding:8px 24px;border-radius:30px}
-.it{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.10);border-radius:13px;padding:14px 16px;margin-top:13px}
-.itt{font-size:16px;font-weight:700;line-height:1.45}
+ background:linear-gradient(158deg,#140c33 0%,#291552 30%,#561f63 62%,#9c2f4c 100%)}
+.hero{height:332px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:0 40px;background:__HEROBG__}
+.brand{font-family:'ZCOOL KuaiLe',cursive;font-size:84px;line-height:1;letter-spacing:9px;text-shadow:0 4px 28px rgba(0,0,0,.75)}
+.tag{margin-top:16px;font-size:16px;letter-spacing:5px;color:#ffe2b3;font-weight:500;text-shadow:0 2px 12px rgba(0,0,0,.7)}
+.dt{margin-top:10px;font-size:13px;letter-spacing:3px;color:rgba(255,255,255,.88);text-shadow:0 2px 12px rgba(0,0,0,.7)}
+.wrap{padding:18px 28px 26px}
+.sec{margin-top:20px;border-radius:16px;padding:14px 14px 4px;border:1px solid rgba(255,255,255,.09)}
+.sh{display:inline-block;font-family:'ZCOOL KuaiLe',cursive;font-size:23px;letter-spacing:2px;color:#fff;padding:7px 22px;border-radius:30px;margin-bottom:13px}
+.cols{column-count:2;column-gap:13px}
+.it{break-inside:avoid;-webkit-column-break-inside:avoid;page-break-inside:avoid;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.13);border-radius:12px;padding:12px 14px;margin:0 0 12px}
+.itt{font-size:14.5px;font-weight:700;line-height:1.45}
 .itt a{color:#fff;text-decoration:none}
-.itm{margin-top:7px;font-size:12.5px;color:rgba(255,255,255,.75);line-height:1.55}
-.ft{text-align:center;padding:24px 20px 34px;font-size:11px;letter-spacing:1px;color:rgba(255,255,255,.55)}
-.ft a{color:rgba(255,255,255,.78)}
+.itm{margin-top:6px;font-size:11.5px;color:rgba(255,255,255,.8);line-height:1.5}
+.ft{text-align:center;padding:18px 20px 30px;font-size:11px;letter-spacing:1px;color:rgba(255,255,255,.55)}
+.ft a{color:rgba(255,255,255,.8)}
 </style></head><body>
 <div class="hero"><div class="brand">沪上遛遛</div>
 <div class="tag">上海亲子 · 演出 · 展会 · 赛事</div>
-<div class="dt">__DATE__</div>__SKY__</div>
+<div class="dt">__DATE__</div></div>
 <div class="wrap">__CONTENT__</div>
 <div class="ft">数据更新于 __GEN__ &nbsp;·&nbsp; 在线版 <a href="__SITE__">c18531171777-creator.github.io/shanghai-events</a></div>
 </body></html>"""
+
+
+TEX = {
+    "本周开票": "repeating-linear-gradient(45deg,rgba(77,163,255,.12) 0 2px,transparent 2px 13px)",
+    "亲子精选": "radial-gradient(rgba(255,138,91,.17) 1.4px,transparent 1.6px)",
+    "最新上架": ("repeating-linear-gradient(0deg,rgba(77,214,160,.11) 0 1px,transparent 1px 16px),"
+                 "repeating-linear-gradient(90deg,rgba(77,214,160,.11) 0 1px,transparent 1px 16px)"),
+    "重磅活动": "repeating-linear-gradient(-45deg,rgba(255,93,143,.12) 0 2px,transparent 2px 13px)",
+}
+
+
+def _herobg():
+    try:
+        with open(HERO, "rb") as f:
+            b64 = base64.b64encode(f.read()).decode("ascii")
+        return ("linear-gradient(180deg,rgba(16,9,38,.42),rgba(16,9,38,.88)),"
+                "url(data:image/jpeg;base64,%s) center/cover" % b64)
+    except Exception:  # noqa: BLE001
+        return "linear-gradient(158deg,#140c33,#3a1c66 55%,#7c2a73)"
 
 
 def build_html(sections, today, gen):
@@ -146,15 +167,18 @@ def build_html(sections, today, gen):
             ot = e.get("open_ticket_time")
             if name == "本周开票" and ot:
                 bits.insert(0, "开票 " + escape(ot))
-            its.append('<div class="it" style="border-left:5px solid %s">'
+            its.append('<div class="it" style="border-left:4px solid %s">'
                        '<div class="itt">%s</div><div class="itm">%s</div></div>'
                        % (col, title, " · ".join(bits)))
-        blocks.append('<div class="sec"><span class="sh" style="background:%s;box-shadow:0 7px 22px %s66">'
-                      '%s（%d）</span>%s</div>' % (col, col, name, len(rows), "".join(its)))
+        size = "background-size:15px 15px;" if name == "亲子精选" else ""
+        blocks.append('<div class="sec" style="background-image:%s;%s">'
+                      '<span class="sh" style="background:%s;box-shadow:0 7px 22px %s66">%s（%d）</span>'
+                      '<div class="cols">%s</div></div>'
+                      % (TEX.get(name, ""), size, col, col, name, len(rows), "".join(its)))
     content = "".join(blocks) or '<div class="it">本周暂无精选,点下方在线版查看全部。</div>'
     datestr = "%d年%d月%d日 · 本周精选" % (today.year, today.month, today.day)
     html = PAGE
-    for k, v in (("__DATE__", datestr), ("__SKY__", SKYLINE), ("__CONTENT__", content),
+    for k, v in (("__HEROBG__", _herobg()), ("__DATE__", datestr), ("__CONTENT__", content),
                  ("__GEN__", escape(gen)), ("__SITE__", SITE)):
         html = html.replace(k, v)
     return html
