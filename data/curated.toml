@@ -716,6 +716,19 @@ note = "大型演唱会/体育赛事场馆(海上王冠),购票链接见下"
 tags = ["演出"]
 
 [[event]]
+title = "上海德云社剧场"
+type = "演出"
+start = ""
+end = ""
+venue = "虹口区四川北路1552号·群众影剧院2楼"
+kid = false
+age = ""
+featured = true
+url = "https://search.damai.cn/search.htm?keyword=德云社 上海"
+note = "2026年3月开业的德云社上海固定剧场,相声大会常态演出,排期/购票见链接"
+tags = ["相声曲艺"]
+
+[[event]]
 title = "品欢相声会馆"
 type = "演出"
 start = ""
