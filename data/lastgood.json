@@ -1567,7 +1567,7 @@
    }
   ],
   "count": 54,
-  "last_success": "2026-06-23"
+  "last_success": "2026-06-24"
  },
  "maoyan": {
   "events": [
@@ -2220,33 +2220,6 @@
     "_id": "b6fe46227c94b557"
    },
    {
-    "title": "【点评推荐】ERA时空之旅2",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "上海马戏城",
-    "district": "",
-    "start_date": "2026-06-24",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "【点评推荐】ERA时空之旅2",
-    "_id": "2b0a62163f665f4f"
-   },
-   {
     "title": "“奔马扬蹄，虎跃熊欢”——经典亲子大马戏《欢乐马戏》",
     "type": "演出",
     "source": "maoyan",
@@ -2272,6 +2245,33 @@
     "sessions": [],
     "raw_text": "“奔马扬蹄，虎跃熊欢”——经典亲子大马戏《欢乐马戏》",
     "_id": "13b14b909be185b3"
+   },
+   {
+    "title": "【点评推荐】ERA时空之旅2",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "上海马戏城",
+    "district": "",
+    "start_date": "2026-06-24",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "【点评推荐】ERA时空之旅2",
+    "_id": "2b0a62163f665f4f"
    },
    {
     "title": "「亲子魔术」沉浸互动丨爆笑喜剧魔术丨淮海路必看亲子剧《幻梦奇缘》陪Ta走进童话丨亲子魔术秀",
@@ -3382,7 +3382,7 @@
    }
   ],
   "count": 67,
-  "last_success": "2026-06-23"
+  "last_success": "2026-06-24"
  },
  "jufair": {
   "events": [
@@ -4693,7 +4693,7 @@
    }
   ],
   "count": 45,
-  "last_success": "2026-06-23"
+  "last_success": "2026-06-24"
  },
  "shcstheatre": {
   "events": [
@@ -5023,7 +5023,7 @@
    }
   ],
   "count": 12,
-  "last_success": "2026-06-23"
+  "last_success": "2026-06-24"
  },
  "bendibao": {
   "events": [
@@ -6379,7 +6379,7 @@
    }
   ],
   "count": 50,
-  "last_success": "2026-06-23"
+  "last_success": "2026-06-24"
  },
  "jussevent": {
   "events": [
@@ -10543,7 +10543,7 @@
    }
   ],
   "count": 154,
-  "last_success": "2026-06-23"
+  "last_success": "2026-06-24"
  },
  "cnrelay": {
   "events": [
@@ -10684,11 +10684,11 @@
    }
   ],
   "count": 5,
-  "last_success": "2026-06-23"
+  "last_success": "2026-06-24"
  },
  "wenhuayun": {
   "events": [],
   "count": 0,
-  "last_success": "2026-06-23"
+  "last_success": "2026-06-24"
  }
 }

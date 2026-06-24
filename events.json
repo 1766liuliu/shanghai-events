@@ -1,46 +1,46 @@
 {
- "generatedAt": "2026-06-24 07:53 北京时间",
+ "generatedAt": "2026-06-24 08:07 北京时间",
  "count": 156,
  "health": {
   "curated": {
    "status": "ok",
    "count": 54,
-   "last_success": "2026-06-23"
+   "last_success": "2026-06-24"
   },
   "maoyan": {
    "status": "ok",
    "count": 67,
-   "last_success": "2026-06-23"
+   "last_success": "2026-06-24"
   },
   "jufair": {
    "status": "ok",
    "count": 45,
-   "last_success": "2026-06-23"
+   "last_success": "2026-06-24"
   },
   "shcstheatre": {
    "status": "ok",
    "count": 12,
-   "last_success": "2026-06-23"
+   "last_success": "2026-06-24"
   },
   "bendibao": {
    "status": "ok",
    "count": 50,
-   "last_success": "2026-06-23"
+   "last_success": "2026-06-24"
   },
   "jussevent": {
    "status": "ok",
    "count": 154,
-   "last_success": "2026-06-23"
+   "last_success": "2026-06-24"
   },
   "cnrelay": {
    "status": "ok",
    "count": 5,
-   "last_success": "2026-06-23"
+   "last_success": "2026-06-24"
   },
   "wenhuayun": {
    "status": "ok",
    "count": 0,
-   "last_success": "2026-06-23"
+   "last_success": "2026-06-24"
   }
  },
  "events": [
@@ -1949,27 +1949,6 @@
    "sessions": []
   },
   {
-   "title": "【点评推荐】ERA时空之旅2",
-   "type": "演出",
-   "venue": "上海马戏城",
-   "district": "",
-   "start_date": "2026-06-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%E7%82%B9%E8%AF%84%E6%8E%A8%E8%8D%90%20ERA%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%97%852",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-06-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "“奔马扬蹄，虎跃熊欢”——经典亲子大马戏《欢乐马戏》",
    "type": "演出",
    "venue": "上海马戏城",
@@ -1987,6 +1966,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-06-21",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "【点评推荐】ERA时空之旅2",
+   "type": "演出",
+   "venue": "上海马戏城",
+   "district": "",
+   "start_date": "2026-06-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://search.damai.cn/search.html?keyword=%E7%82%B9%E8%AF%84%E6%8E%A8%E8%8D%90%20ERA%E6%97%B6%E7%A9%BA%E4%B9%8B%E6%97%852",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-06-23",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
