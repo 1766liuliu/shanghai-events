@@ -167,3 +167,81 @@ featured = true
 url = "https://www.bmf.org.cn/"
 note = "创办于1998年,年度古典音乐盛事,往年约10月,具体以官网为准"
 tags = ["音乐会"]
+
+[[event]]
+title = "北京老舍茶馆"
+type = "演出"
+start = ""
+end = ""
+venue = "西城区前门西大街正阳市场三号楼"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://i.laoshechaguan.cn/list/"
+note = "京味曲艺综艺(相声/评书/鼓曲/亲子皮影戏),官网带排期,已接自动抓取"
+tags = ["相声曲艺"]
+
+[[event]]
+title = "红剧场"
+type = "演出"
+start = ""
+end = ""
+venue = "东城区幸福大街44号"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://hong-juchang.com/"
+note = "常年驻场杂技秀《蜀国英雄》,每日16:20/17:30两场,排期见官网"
+tags = ["演出"]
+
+[[event]]
+title = "刘老根大舞台(北京剧场)"
+type = "演出"
+start = ""
+end = ""
+venue = "东城区前门东路小江胡同34号"
+kid = false
+age = ""
+featured = false
+url = "https://www.llgdwt.cn/"
+note = "本山传媒二人转/小品常年驻场,每晚20:00-22:15,排期见官网"
+tags = ["演出"]
+
+[[event]]
+title = "北京人艺·曹禺剧场"
+type = "演出"
+start = ""
+end = ""
+venue = "北京国际戏剧中心(王府井大街22号,与首都剧场同院)"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=曹禺剧场"
+note = "北京人艺第二剧场(700座中剧场),2021年启用,排期/购票见链接"
+tags = ["剧场"]
+
+[[event]]
+title = "中国国家话剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "西城区广安门外大街277号"
+kid = false
+age = ""
+featured = false
+url = "http://www.ntcc.com.cn/"
+note = "拥有三个现代化剧场,每月发布演出资讯表,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "北京世纪剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "朝阳区亮马桥路南侧40号"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=世纪剧院 北京"
+note = "1713座大型剧院,以歌剧/话剧/芭蕾/综艺晚会为主,无独立官网,排期/购票见链接"
+tags = ["剧场"]

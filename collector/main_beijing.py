@@ -11,8 +11,9 @@
     否则"首次启用全部回填为非新"的判定会被上海已有记录带偏)
   · 独立输出:events_beijing.json(不覆盖 events.json;index.html 由上海 main.py 统一生成/更新,
     本入口不重复写,因为页面模板已内置城市切换、city-agnostic)
-  · 数据源:人工策展(curated_beijing)+ 已验证可用的自动抓取源(bendibao_beijing);
-    猫眼(maoyan)已实测排除,理由见下方 ENABLED_SOURCES_BJ 注释。
+  · 数据源:人工策展(curated_beijing)+ 已验证可用的自动抓取源
+    (bendibao_beijing / laoshechaguan);猫眼(maoyan)已实测排除,
+    理由见下方 ENABLED_SOURCES_BJ 注释。
 
 新增北京数据源:同上海一样,在 collector/sources/ 下新建 XxxSource,加进下方 ENABLED_SOURCES_BJ。
 """
@@ -31,6 +32,7 @@ from pipeline.safety import filter_safe
 from pipeline.tagging import tag
 from sources.bendibao_beijing import BendibaoBeijingSource
 from sources.curated_beijing import CuratedBeijingSource
+from sources.laoshechaguan import LaosheChaguanSource
 from store import site
 
 LASTGOOD_BJ = os.path.join(os.path.dirname(__file__), "..", "data", "lastgood_beijing.json")
@@ -44,6 +46,7 @@ SEEN_BJ = os.path.join(os.path.dirname(__file__), "..", "data", "seen_beijing.js
 ENABLED_SOURCES_BJ = [
     CuratedBeijingSource(),    # ✅ 北京重大场馆/年度活动策展骨架(已联网核实真实信息)
     BendibaoBeijingSource(),   # ✅ 北京本地宝:演出+展会时间表(bj.bendibao.com,已实测结构,城市天然隔离)
+    LaosheChaguanSource(),     # ✅ 老舍茶馆官方排期(i.laoshechaguan.cn,SSR,已实测结构)
 ]
 
 
