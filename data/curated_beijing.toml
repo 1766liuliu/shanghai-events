@@ -349,3 +349,107 @@ featured = false
 url = "https://search.damai.cn/search.htm?keyword=首都体育馆"
 note = "18000座综合体育馆,大型演唱会常用场地,无独立官网,购票见链接"
 tags = ["演出"]
+
+[[event]]
+title = "愚公移山Livehouse"
+type = "演出"
+start = ""
+end = ""
+venue = "东城区张自忠路3-2号(段祺瑞执政府旧址)"
+kid = false
+age = ""
+featured = false
+url = "https://www.yugongyishan.com/"
+note = "老牌Livehouse,摇滚/爵士/电子/民谣,年演200余场,排期见官网"
+tags = ["Livehouse"]
+
+[[event]]
+title = "疆进酒Livehouse·OMNI SPACE"
+type = "演出"
+start = ""
+end = ""
+venue = "西城区天桥南大街9号天桥艺术中心B103"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=疆进酒"
+note = "京城最大Livehouse之一,容纳500-800人,购票见链接"
+tags = ["Livehouse"]
+
+[[event]]
+title = "蜂巢剧场"
+type = "演出"
+start = ""
+end = ""
+venue = "东城区东直门外新中街3号"
+kid = false
+age = ""
+featured = false
+url = "http://mengjinghui.com.cn/list.jsp"
+note = "孟京辉戏剧工作室专属剧场(《恋爱的犀牛》首演地),约300座,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "繁星戏剧村"
+type = "演出"
+start = ""
+end = ""
+venue = "西城区宣武门内大街抄手胡同64号"
+kid = false
+age = ""
+featured = false
+url = "http://www.fanxingxijucun.com/"
+note = "中国首家民营戏剧文化产业园,多剧场话剧演出,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "国家会议中心"
+type = "展会"
+start = ""
+end = ""
+venue = "朝阳区天辰东路7号(奥林匹克公园中心区)"
+kid = false
+age = ""
+featured = true
+url = "https://www.cnccchina.com/"
+note = "紧邻鸟巢/水立方,展区4万平米,大型会议/展览首选场馆"
+tags = ["会展"]
+
+[[event]]
+title = "中国国际展览中心"
+type = "展会"
+start = ""
+end = ""
+venue = "顺义新馆(裕翔路88号)/静安庄老馆(朝阳区北三环东路6号)"
+kid = false
+age = ""
+featured = false
+url = "http://www.ciec-expo.com/"
+note = "新老两馆统一运营,老牌国际会展场地"
+tags = ["会展"]
+
+[[event]]
+title = "国家游泳中心(水立方)"
+type = "演出"
+start = ""
+end = ""
+venue = "朝阳区奥林匹克公园"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.water-cube.com/"
+note = "2008奥运水上场馆,冬奥期间为冰立方,可参观/游泳,亲子热门"
+tags = ["演出"]
+
+[[event]]
+title = "北京天文馆"
+type = "展会"
+start = ""
+end = ""
+venue = "西城区西直门外大街138号"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.bjp.org.cn/"
+note = "天象厅/宇宙剧场,亲子科普热门,近北京动物园"
+tags = ["博物馆/亲子"]
