@@ -989,7 +989,7 @@
    }
   ],
   "count": 34,
-  "last_success": "2026-07-04"
+  "last_success": "2026-07-05"
  },
  "bendibao_beijing": {
   "events": [
@@ -13469,7 +13469,7 @@
    }
   ],
   "count": 462,
-  "last_success": "2026-07-04"
+  "last_success": "2026-07-05"
  },
  "laoshechaguan": {
   "events": [
@@ -13637,6 +13637,6 @@
    }
   ],
   "count": 6,
-  "last_success": "2026-07-04"
+  "last_success": "2026-07-05"
  }
 }
