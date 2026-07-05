@@ -1,21 +1,21 @@
 {
- "generatedAt": "2026-07-05 10:17 北京时间",
- "count": 63,
+ "generatedAt": "2026-07-05 10:25 北京时间",
+ "count": 70,
  "health": {
   "curated_beijing": {
    "status": "ok",
-   "count": 51,
-   "last_success": "2026-07-05"
+   "count": 58,
+   "last_success": "2026-07-04"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 462,
-   "last_success": "2026-07-05"
+   "last_success": "2026-07-04"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-07-05"
+   "last_success": "2026-07-04"
   }
  },
  "events": [
@@ -1303,6 +1303,175 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": []
+  },
+  {
+   "title": "中国儿童艺术剧院",
+   "type": "演出",
+   "venue": "东城区东安门大街64号(王府井步行街北口)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "剧场/亲子",
+    "亲子"
+   ],
+   "official_url": "https://www.cntc.org.cn/",
+   "featured": true,
+   "note": "文旅部直属国家级儿童剧院(1956年成立),常年儿童剧目,亲子首选",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "中国木偶艺术剧院",
+   "type": "演出",
+   "venue": "朝阳区安华西里甲一号(北三环安贞桥西)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "剧场/亲子",
+    "亲子"
+   ],
+   "official_url": "http://www.puppetchina.com/",
+   "featured": true,
+   "note": "1955年成立(周恩来关怀),3个专业剧场(卡酷/小铃铛/黑猫)+木偶艺术博物馆,亲子首选",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "北京环球度假区(环球影城)",
+   "type": "演出",
+   "venue": "通州区",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "乐园/亲子"
+   ],
+   "official_url": "https://www.universalbeijingresort.com/zh_CN",
+   "featured": true,
+   "note": "北京最大主题乐园,亲子家庭首选,建议官网提前预约",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "北京国际电影节(BJIFF)",
+   "type": "演出",
+   "venue": "怀柔雁栖湖国际会展中心等(京津冀多影院联映)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "电影"
+   ],
+   "official_url": "https://www.bjiff.com/",
+   "featured": true,
+   "note": "国内两大A类国际电影节之一,往年约4月(2026年为4.16-25)",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "中国网球公开赛(China Open)",
+   "type": "体育",
+   "venue": "国家网球中心(奥林匹克公园)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "网球"
+   ],
+   "official_url": "https://www.chinaopen.com/cn/",
+   "featured": true,
+   "note": "亚洲顶级网球赛事(WTA/ATP),往年约9月中-10月初",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京动物园",
+   "type": "展会",
+   "venue": "西城区西直门外大街137号",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.bjzoo.com.cn/",
+   "featured": false,
+   "note": "历史最悠久的动物园之一,亲子热门",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "北京海洋馆",
+   "type": "展会",
+   "venue": "西城区高梁桥斜街乙18号(北京动物园内长河北岸)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "亲子/科普",
+    "亲子"
+   ],
+   "official_url": "http://www.bj-sea.com/",
+   "featured": false,
+   "note": "世界级内陆水族馆(12万平米),亲子/科普",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
   },
   {
    "title": "黄丽玲A-Lin",

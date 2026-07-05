@@ -674,3 +674,94 @@ featured = false
 url = "https://www.bjdw.org/"
 note = "全年贯穿运营,主体活动每年9.26-10.3"
 tags = ["文创"]
+
+[[event]]
+title = "中国儿童艺术剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "东城区东安门大街64号(王府井步行街北口)"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.cntc.org.cn/"
+note = "文旅部直属国家级儿童剧院(1956年成立),常年儿童剧目,亲子首选"
+tags = ["剧场/亲子"]
+
+[[event]]
+title = "中国木偶艺术剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "朝阳区安华西里甲一号(北三环安贞桥西)"
+kid = true
+age = "全年龄"
+featured = true
+url = "http://www.puppetchina.com/"
+note = "1955年成立(周恩来关怀),3个专业剧场(卡酷/小铃铛/黑猫)+木偶艺术博物馆,亲子首选"
+tags = ["剧场/亲子"]
+
+[[event]]
+title = "北京环球度假区(环球影城)"
+type = "演出"
+start = ""
+end = ""
+venue = "通州区"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.universalbeijingresort.com/zh_CN"
+note = "北京最大主题乐园,亲子家庭首选,建议官网提前预约"
+tags = ["乐园/亲子"]
+
+[[event]]
+title = "北京国际电影节(BJIFF)"
+type = "演出"
+start = ""
+end = ""
+venue = "怀柔雁栖湖国际会展中心等(京津冀多影院联映)"
+kid = false
+age = ""
+featured = true
+url = "https://www.bjiff.com/"
+note = "国内两大A类国际电影节之一,往年约4月(2026年为4.16-25)"
+tags = ["电影"]
+
+[[event]]
+title = "中国网球公开赛(China Open)"
+type = "体育"
+start = ""
+end = ""
+venue = "国家网球中心(奥林匹克公园)"
+kid = false
+age = ""
+featured = true
+url = "https://www.chinaopen.com/cn/"
+note = "亚洲顶级网球赛事(WTA/ATP),往年约9月中-10月初"
+tags = ["网球"]
+
+[[event]]
+title = "北京动物园"
+type = "展会"
+start = ""
+end = ""
+venue = "西城区西直门外大街137号"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.bjzoo.com.cn/"
+note = "历史最悠久的动物园之一,亲子热门"
+tags = ["亲子"]
+
+[[event]]
+title = "北京海洋馆"
+type = "展会"
+start = ""
+end = ""
+venue = "西城区高梁桥斜街乙18号(北京动物园内长河北岸)"
+kid = true
+age = "全年龄"
+featured = false
+url = "http://www.bj-sea.com/"
+note = "世界级内陆水族馆(12万平米),亲子/科普"
+tags = ["亲子/科普"]
