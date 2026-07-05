@@ -1,21 +1,21 @@
 {
- "generatedAt": "2026-07-05 09:54 北京时间",
- "count": 50,
+ "generatedAt": "2026-07-05 10:08 北京时间",
+ "count": 56,
  "health": {
   "curated_beijing": {
    "status": "ok",
-   "count": 38,
-   "last_success": "2026-07-05"
+   "count": 44,
+   "last_success": "2026-07-04"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 462,
-   "last_success": "2026-07-05"
+   "last_success": "2026-07-04"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-07-05"
+   "last_success": "2026-07-04"
   }
  },
  "events": [
@@ -986,6 +986,150 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": []
+  },
+  {
+   "title": "北京音乐厅",
+   "type": "演出",
+   "venue": "西城区北新华街1号",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "剧场"
+   ],
+   "official_url": "https://www.bjconcerthall.cn/",
+   "featured": true,
+   "note": "国内第一座现代专业音乐演出场所,年演200余场(钢琴/弦乐/交响/民乐等)",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "中山公园音乐堂",
+   "type": "演出",
+   "venue": "东城区天安门西侧中山公园内",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "剧场"
+   ],
+   "official_url": "http://www.zsyyt.org/",
+   "featured": false,
+   "note": "公园内露天+室内音乐厅,古典/民乐演出为主,排期见官网",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "Blue Note Beijing",
+   "type": "演出",
+   "venue": "东城区前门东大街23号",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "音乐会"
+   ],
+   "official_url": "http://www.bluenotechina.com/",
+   "featured": false,
+   "note": "国际爵士乐俱乐部品牌大中华区首店(全球最大单体店),含餐饮,排期见官网",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "国图艺术中心",
+   "type": "演出",
+   "venue": "海淀区中关村南大街33号(国家图书馆院内)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "剧场"
+   ],
+   "official_url": "http://www.gtyszx.com/",
+   "featured": false,
+   "note": "隶属国家图书馆,含音乐厅/电影厅,排期见官网",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "北京喜剧院",
+   "type": "演出",
+   "venue": "朝阳门北大街11号(朝阳门桥)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "脱口秀"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=北京喜剧院",
+   "featured": false,
+   "note": "脱口秀/喜剧演出为主,无独立官网,购票见链接",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": true,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "北京海淀剧院",
+   "type": "演出",
+   "venue": "海淀区中关村大街28号",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "剧场"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=海淀剧院",
+   "featured": false,
+   "note": "无独立官网,购票见链接",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
   },
   {
    "title": "黄丽玲A-Lin",
