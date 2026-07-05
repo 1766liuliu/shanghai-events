@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-07-05 09:49 北京时间",
- "count": 46,
+ "generatedAt": "2026-07-05 09:53 北京时间",
+ "count": 50,
  "health": {
   "curated_beijing": {
    "status": "ok",
-   "count": 34,
-   "last_success": "2026-07-05"
+   "count": 38,
+   "last_success": "2026-07-04"
   },
   "bendibao_beijing": {
    "status": "ok",
@@ -891,6 +891,101 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": []
+  },
+  {
+   "title": "鼓楼西剧场",
+   "type": "演出",
+   "venue": "西城区鼓楼西大街小八道湾胡同6号",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "剧场"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=鼓楼西剧场",
+   "featured": false,
+   "note": "先锋戏剧前沿阵地(262座),集剧场/咖啡厅/书店/排练厅于一体,购票见链接",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "隆福剧场",
+   "type": "演出",
+   "venue": "东城区隆福寺大街47号",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "剧场"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=隆福剧场",
+   "featured": false,
+   "note": "前身东宫影剧院(1954年建),苏联建筑风格,无独立官网,购票见链接",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "77剧场",
+   "type": "演出",
+   "venue": "东城区美术馆后街77号(77文创园内)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "剧场"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=77剧场",
+   "featured": false,
+   "note": "前身北京胶印厂,锈红色方匣子造型小剧场,无独立官网,购票见链接",
+   "first_seen": "2026-07-04",
+   "kind": "固定场馆",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": [],
+   "programs": []
+  },
+  {
+   "title": "北京超级草莓音乐节",
+   "type": "演出",
+   "venue": "北京世园国际旅游度假区飞行营地(延庆)",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "音乐节"
+   ],
+   "official_url": "https://search.damai.cn/search.htm?keyword=草莓音乐节 北京",
+   "featured": true,
+   "note": "年度摇滚/独立音乐节,往年约五一前后(2026年为5.2-5.4),具体以官方阵容公告为准",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "黄丽玲A-Lin",
