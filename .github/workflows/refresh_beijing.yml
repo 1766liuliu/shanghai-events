@@ -2,7 +2,10 @@ name: refresh_beijing
 
 # 北京板块云端定时刷新:每天北京时间 08:15 / 20:15(UTC 0:15 / 12:15,与上海错开)。
 # 与 refresh.yml(上海)完全独立的工作流/入口/输出文件,互不影响;
-# 共享同一个 concurrency 分组,避免两个工作流同时 push 造成冲突。
+# 共享同一个 concurrency 分组(cancel-in-progress:false → 排队执行,不会同时跑),
+# 已足够避免两个工作流 push 冲突,故提交前不再额外 git pull --rebase
+# (之前加了这步,实测两次运行必失败:采集脚本已把 events_beijing.json 等文件改成
+# 未提交状态,此时 pull --rebase 会因"有未提交的本地修改"直接报错退出)。
 on:
   schedule:
     - cron: "15 0,12 * * *"
@@ -43,7 +46,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase -X theirs
           git add index.html events_beijing.json data/lastgood_beijing.json data/seen_beijing.json
           if git diff --cached --quiet; then
             echo "本次无变化,跳过提交"
