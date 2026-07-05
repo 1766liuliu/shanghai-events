@@ -1,10 +1,15 @@
 {
- "generatedAt": "2026-07-05 08:15 北京时间",
- "count": 12,
+ "generatedAt": "2026-07-05 09:03 北京时间",
+ "count": 18,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 12,
+   "last_success": "2026-07-04"
+  },
+  "bendibao_beijing": {
+   "status": "ok",
+   "count": 462,
    "last_success": "2026-07-04"
   }
  },
@@ -175,7 +180,13 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "张泽",
+     "d": "2026-08-08",
+     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=张泽"
+    }
+   ]
   },
   {
    "title": "中国国家博物馆",
@@ -223,7 +234,13 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "2026中国美术馆从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
+     "d": "2026-04-28",
+     "u": "http://bj.bendibao.com/xiuxian/2026421/382134.shtm"
+    }
+   ]
   },
   {
    "title": "798艺术区",
@@ -292,6 +309,134 @@
    "note": "创办于1998年,年度古典音乐盛事,往年约10月,具体以官网为准",
    "first_seen": "2000-01-01",
    "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "黄丽玲A-Lin",
+   "type": "演出",
+   "venue": "华熙生物·润百颜中心",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "2026-07-19",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=黄丽玲A-Lin",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "张泽",
+   "type": "演出",
+   "venue": "MAO Livehouse北京(东郎店)",
+   "district": "",
+   "start_date": "2026-08-08",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=张泽",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "LANY soft world tour",
+   "type": "演出",
+   "venue": "蛙厂RMMF·北京798店",
+   "district": "",
+   "start_date": "2026-09-20",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=LANY soft world tour",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "2026中国美术馆从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
+   "type": "展会",
+   "venue": "中国美术馆",
+   "district": "",
+   "start_date": "2026-04-28",
+   "end_date": "2026-08-28",
+   "open_ticket_time": "",
+   "price_range": "60-120元",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "http://bj.bendibao.com/xiuxian/2026421/382134.shtm",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "路县故城遗址博物馆京穗两地汉代珠饰展活动",
+   "type": "展会",
+   "venue": "路县故城遗址公园",
+   "district": "",
+   "start_date": "2026-04-30",
+   "end_date": "2026-08-16",
+   "open_ticket_time": "",
+   "price_range": "免费",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "免费"
+   ],
+   "official_url": "http://bj.bendibao.com/xiuxian/2026421/382136.shtm",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "2026首都博物馆“玉米·黄金·美洲豹——玛雅与安第斯古代文明”大展",
+   "type": "展会",
+   "venue": "首都博物馆",
+   "district": "",
+   "start_date": "2026-05-18",
+   "end_date": "2026-10-18",
+   "open_ticket_time": "",
+   "price_range": "88元",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "http://bj.bendibao.com/xiuxian/2026422/382170.shtm",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-04",
+   "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
    "sessions": []

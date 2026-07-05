@@ -11,8 +11,8 @@
     否则"首次启用全部回填为非新"的判定会被上海已有记录带偏)
   · 独立输出:events_beijing.json(不覆盖 events.json;index.html 由上海 main.py 统一生成/更新,
     本入口不重复写,因为页面模板已内置城市切换、city-agnostic)
-  · 骨架版:目前只用已联网核实的人工策展数据(curated_beijing);
-    未接自动抓取源(踩坑见下方 ENABLED_SOURCES_BJ 注释),后续需同上海历史路径逐个探测北京源。
+  · 数据源:人工策展(curated_beijing)+ 已验证可用的自动抓取源(bendibao_beijing);
+    猫眼(maoyan)已实测排除,理由见下方 ENABLED_SOURCES_BJ 注释。
 
 新增北京数据源:同上海一样,在 collector/sources/ 下新建 XxxSource,加进下方 ENABLED_SOURCES_BJ。
 """
@@ -29,19 +29,21 @@ from pipeline.newness import mark_new
 from pipeline.region_beijing import filter_beijing
 from pipeline.safety import filter_safe
 from pipeline.tagging import tag
+from sources.bendibao_beijing import BendibaoBeijingSource
 from sources.curated_beijing import CuratedBeijingSource
 from store import site
 
 LASTGOOD_BJ = os.path.join(os.path.dirname(__file__), "..", "data", "lastgood_beijing.json")
 SEEN_BJ = os.path.join(os.path.dirname(__file__), "..", "data", "seen_beijing.json")
 
-# 启用的源(骨架版:只用已联网核实的策展数据,故意不接猫眼)。
-# 实测发现 sources.maoyan 抓的其实是"上海城市默认页"——很多上海场馆
-# (兰心大戏院/天蟾逸夫舞台/宛平剧院等)不含"上海"字样,filter_beijing 接不住,
-# 会把上海内容错判成北京、造成"交叉污染"。在没有北京专属入口(cityId/子域名)
-# 前,宁可数据少也不接这个源。后续要扩量,需同上海当年一样逐个探测北京源。
+# 启用的源。
+# 猫眼(maoyan)已排除:实测 cityId cookie 对 show.maoyan.com 无效,永远返回
+# "上海城市默认页"(兰心大戏院/天蟾逸夫舞台等不含"上海"字样,filter_beijing 接不住,
+# 会把上海内容错判成北京)。也试过 /beijing、bj.maoyan.com 等路径,均 404/不可达。
+# 结论:猫眼北京化不可行,放弃,不接入。
 ENABLED_SOURCES_BJ = [
-    CuratedBeijingSource(),  # ✅ 北京重大场馆/年度活动策展骨架(已联网核实真实信息)
+    CuratedBeijingSource(),    # ✅ 北京重大场馆/年度活动策展骨架(已联网核实真实信息)
+    BendibaoBeijingSource(),   # ✅ 北京本地宝:演出+展会时间表(bj.bendibao.com,已实测结构,城市天然隔离)
 ]
 
 
