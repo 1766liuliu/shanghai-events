@@ -36,6 +36,12 @@ CORES = [
     "宛平", "天蟾", "梅赛德斯", "虹口足球场", "西岸大剧院", "东方体育中心",
 ]
 
+# 北京版场馆核心名(与上面 CORES 完全独立;每次调用只对同城市事件列表生效,不会串城)
+CORES_BJ = [
+    "国家大剧院", "保利剧院", "首都剧场", "德云社剧场", "国家体育场", "工人体育场",
+    "Livehouse", "国家博物馆", "中国美术馆", "798艺术区", "天桥艺术中心",
+]
+
 INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -96,9 +102,16 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
  .health{margin-top:14px;font-size:12px;color:var(--hltx);background:var(--hl);border:1px solid var(--hlb);border-radius:10px;padding:8px 12px;line-height:1.5}
  .more{display:block;width:100%;margin-top:12px;border:0;background:var(--more);color:var(--moretx);padding:12px;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer}
  .srchinfo{font-size:13px;color:var(--moretx);background:var(--more);border-radius:10px;padding:9px 13px;margin-top:4px;font-weight:600}
+ .citysw{display:flex;gap:6px;margin-top:11px}
+ .cbtn{border:0;background:rgba(255,255,255,.18);color:#fff;padding:6px 15px;border-radius:14px;font-size:12.5px;font-weight:700;cursor:pointer}
+ .cbtn.on{background:rgba(255,255,255,.95);color:#1f6feb}
 </style></head><body><div class="wrap">
 <header><h1>🗺️ 1766一起遛遛</h1>
-<div class="tag">上海亲子 · 演出 · 展会 · 赛事——日更雷达</div>
+<div class="tag" id="tag">上海亲子 · 演出 · 展会 · 赛事——日更雷达</div>
+<div class="citysw" id="citysw">
+ <button class="cbtn on" data-c="上海" onclick="setCity('上海')">📍 上海</button>
+ <button class="cbtn" data-c="北京" onclick="setCity('北京')">📍 北京</button>
+</div>
 <div class="sub" id="sub">加载中…</div>
 <div class="snap"><span id="snap"></span></div></header>
 <div class="controls">
@@ -124,7 +137,9 @@ INDEX_HTML = r"""<!doctype html><html lang="zh"><head><meta charset="utf-8">
 <script>
 const CAT={'体育':'#e4572e','展会':'#1f6feb','演出':'#9b51e0'},DEF='#16a34a',NEW_DAYS=7;
 const KMAP={'年度固定':'annual','固定场馆':'venue','临时':'live'};
-let curTab='live',curF='all',NEWCUT='',showFar=false;
+const CITY_FILE={'上海':'events.json','北京':'events_beijing.json'};
+const CITY_TAG={'上海':'上海亲子 · 演出 · 展会 · 赛事——日更雷达','北京':'北京亲子 · 演出 · 展会 · 赛事——日更雷达'};
+let curTab='live',curF='all',NEWCUT='',showFar=false,curCity='上海';
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function fmtDate(s,e){if(!s)return '档期待定';const d=s.split('-');if(d.length<3)return s;const m=+d[1],day=+d[2];
  if(e&&e!==s){const x=e.split('-');if(x.length===3){const em=+x[1],ed=+x[2];return em===m?`${m}月${day}–${ed}日`:`${m}月${day}日–${em}月${ed}日`;}}
@@ -190,6 +205,12 @@ function renderFilters(){const box=document.querySelector('.filters');
  }}
 function setTab(b,t){curTab=t;curF='all';showFar=false;document.getElementById('q').value='';mark('.tabs',b);renderFilters();apply();}
 function setF(b,f){curF=f;document.getElementById('q').value='';mark('.filters',b);apply();}
+function setCity(c){if(c===curCity)return;curCity=c;
+ document.querySelectorAll('.citysw button').forEach(b=>b.classList.toggle('on',b.dataset.c===c));
+ document.getElementById('tag').textContent=CITY_TAG[c];
+ curTab='live';curF='all';showFar=false;document.getElementById('q').value='';
+ document.querySelectorAll('.tabs button').forEach(b=>b.classList.toggle('on',b.dataset.t==='live'));
+ load();}
 function apply(){let n=0,far=0;
  const q=(document.getElementById('q').value||'').trim().toLowerCase();
  document.querySelector('.tabs').style.opacity=q?'.4':'1';
@@ -239,23 +260,28 @@ function render(data){const evts=(data.events||[]).slice();
  document.getElementById('list').innerHTML=evts.map(e=>card(e,t)).join('')+'<div class="empty" id="emptyTip" style="display:none">该分类下暂无活动</div>';
  renderFilters();apply();}
 async function load(){document.getElementById('list').innerHTML='<div class="empty">加载中…</div>';
- try{const r=await fetch('events.json?t='+Date.now(),{cache:'no-store'});render(await r.json());}
+ try{const r=await fetch(CITY_FILE[curCity]+'?t='+Date.now(),{cache:'no-store'});render(await r.json());}
  catch(e){document.getElementById('list').innerHTML='<div class="empty">加载失败,请检查网络后点刷新</div>';}}
 load();
 </script></body></html>
 """
 
 
-def save(events: List[Event], health: dict = None) -> None:
+def save(events: List[Event], health: dict = None, city: str = "上海") -> None:
+    """city 留空默认"上海"(与既有调用 100% 兼容,写 events.json);
+    city="北京" 时写独立的 events_beijing.json,场馆交叉引用改用 CORES_BJ,
+    与上海的 events/CORES 互不读取、互不覆盖。"""
     os.makedirs(SITE_DIR, exist_ok=True)
     with open(os.path.join(SITE_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(INDEX_HTML)
+    out_name = "events.json" if city == "上海" else "events_beijing.json"
+    cores = CORES if city == "上海" else CORES_BJ
     # 交叉引用:给固定场馆附"近期在演"(用已抓到、发生在该场馆的活动)。
     # 按"最长核心名"归属,避免"西岸大剧院"被并进"上海大剧院"等串场。
     shows = [e for e in events if e.kind != "固定场馆" and e.venue]
 
     def _best_core(text: str):
-        ms = [c for c in CORES if c in text]
+        ms = [c for c in cores if c in text]
         return max(ms, key=len) if ms else None
 
     show_core = {id(s): _best_core(s.venue) for s in shows}
@@ -288,6 +314,6 @@ def save(events: List[Event], health: dict = None) -> None:
         "health": health or {},
         "events": recs,
     }
-    with open(os.path.join(SITE_DIR, "events.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(SITE_DIR, out_name), "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
-    print(f"[site] 已生成 index.html + events.json({len(events)} 条,仓库根)")
+    print(f"[site] 已生成 index.html + {out_name}({len(events)} 条,{city},仓库根)")

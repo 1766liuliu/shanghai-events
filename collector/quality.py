@@ -25,17 +25,17 @@ DROP_FLOOR = 0.5  # 本次 < 上次*0.5 视为骤降
 _VALID = {f.name for f in dataclasses.fields(Event)}
 
 
-def _load() -> dict:
+def _load(path: str) -> dict:
     try:
-        with open(LASTGOOD, encoding="utf-8") as f:
+        with open(path, encoding="utf-8") as f:
             return json.load(f)
     except Exception:  # noqa: BLE001
         return {}
 
 
-def _save(d: dict) -> None:
-    os.makedirs(os.path.dirname(LASTGOOD), exist_ok=True)
-    with open(LASTGOOD, "w", encoding="utf-8") as f:
+def _save(d: dict, path: str) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(d, f, ensure_ascii=False, indent=1)
 
 
@@ -43,9 +43,12 @@ def _to_event(d: dict) -> Event:
     return Event(**{k: v for k, v in d.items() if k in _VALID})
 
 
-def gated_fetch(sources, today: str = "") -> Tuple[List[Event], dict]:
+def gated_fetch(sources, today: str = "", lastgood_path: str = "") -> Tuple[List[Event], dict]:
+    """lastgood_path 留空时用上海默认路径(与既有调用 100% 兼容);
+    其他城市(如北京)传各自独立路径,状态文件互不覆盖。"""
     today = today or datetime.date.today().isoformat()
-    lastgood = _load()
+    lastgood_path = lastgood_path or LASTGOOD
+    lastgood = _load(lastgood_path)
     all_events: List[Event] = []
     health: dict = {}
 
@@ -85,7 +88,7 @@ def gated_fetch(sources, today: str = "") -> Tuple[List[Event], dict]:
             }
             print(f"[质量闸] ⚠ {name} 本次{n}条 / 上次{prev_count}条 → {status},保留上次好数据")
 
-    _save(lastgood)
+    _save(lastgood, lastgood_path)
     bad = [k for k, v in health.items() if v["status"] != "ok"]
     print(f"[质量闸] 源健康: 正常 {len(health) - len(bad)} / 异常 {len(bad)}"
           + (f" ({', '.join(bad)})" if bad else ""))

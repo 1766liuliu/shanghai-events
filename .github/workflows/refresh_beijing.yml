@@ -1,0 +1,53 @@
+name: refresh_beijing
+
+# 北京板块云端定时刷新:每天北京时间 08:15 / 20:15(UTC 0:15 / 12:15,与上海错开)。
+# 与 refresh.yml(上海)完全独立的工作流/入口/输出文件,互不影响;
+# 共享同一个 concurrency 分组,避免两个工作流同时 push 造成冲突。
+on:
+  schedule:
+    - cron: "15 0,12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - 'data/curated_beijing.toml'
+      - 'collector/**'
+      - '.github/workflows/refresh_beijing.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh_beijing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install requests beautifulsoup4
+
+      - name: 运行北京采集层(抓取→过滤→生成 events_beijing.json)
+        run: python collector/main_beijing.py
+
+      - name: 提交并推送更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase -X theirs
+          git add index.html events_beijing.json data/lastgood_beijing.json
+          if git diff --cached --quiet; then
+            echo "本次无变化,跳过提交"
+          else
+            git commit -m "auto refresh(北京) $(date -u '+%Y-%m-%dT%H:%MZ')"
+            git push
+          fi

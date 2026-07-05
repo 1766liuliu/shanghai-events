@@ -18,11 +18,12 @@ from html import escape
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 EVENTS = os.path.join(ROOT, "events.json")
+EVENTS_BJ = os.path.join(ROOT, "events_beijing.json")
 OUT = os.path.join(ROOT, "data", "digest.pdf")
 HERO = os.path.join(ROOT, "assets", "hero.jpg")
 SITE = "https://1766liuliu.github.io/shanghai-events/"
 SEC_COLOR = {"本周开票": "#4da3ff", "亲子精选": "#ff8a5b",
-             "最新上架": "#4dd6a0", "重磅活动": "#ff5d8f"}
+             "最新上架": "#4dd6a0", "重磅活动": "#ff5d8f", "常驻推荐": "#f0b429"}
 
 
 def _today():
@@ -76,12 +77,20 @@ def select(data, today):
         if d is not None and 0 <= d <= 7:
             ticket.append(e)
     kd = lambda e: e.get("start_date") or "9999"  # noqa: E731
-    return [
+    sections = [
         ("本周开票", sorted(ticket, key=lambda e: e.get("open_ticket_time") or "")),
         ("亲子精选", sorted(kid, key=kd)[:8]),
         ("最新上架", sorted(new, key=kd)[:6]),
         ("重磅活动", sorted(feat, key=kd)[:6]),
     ]
+    # 骨架版新城市常只有"常驻场馆"、没有具体日期的活动,以上四类会全空。
+    # 退而展示 featured 固定场馆(常驻推荐),避免该城市精选整版空白;
+    # 只在以上四类确实全空时触发,不影响已有充足日期活动的城市(如上海)。
+    if not any(items for _, items in sections):
+        venues = [e for e in evs if e.get("kind") == "固定场馆" and e.get("featured")]
+        if venues:
+            sections.append(("常驻推荐", venues[:8]))
+    return sections
 
 
 SKYLINE = ('<svg class="sky" viewBox="0 0 800 84" preserveAspectRatio="none">'
@@ -118,9 +127,13 @@ body{font-family:'Noto Sans SC',sans-serif;color:#fff;-webkit-print-color-adjust
 .itm{margin-top:6px;font-size:11.5px;color:rgba(255,255,255,.8);line-height:1.5}
 .ft{text-align:center;padding:18px 20px 30px;font-size:11px;letter-spacing:1px;color:rgba(255,255,255,.55)}
 .ft a{color:rgba(255,255,255,.8)}
+.citydiv{margin:26px 0 6px;padding:12px 22px;border-radius:16px;text-align:center;
+ font-family:'ZCOOL KuaiLe',cursive;font-size:26px;letter-spacing:6px;color:#fff;
+ background:linear-gradient(90deg,rgba(255,255,255,.06),rgba(255,255,255,.16),rgba(255,255,255,.06));
+ border:1px solid rgba(255,255,255,.18)}
 </style></head><body>
 <div class="hero"><div class="brand">1766一起遛遛</div>
-<div class="tag">上海亲子 · 演出 · 展会 · 赛事</div>
+<div class="tag">亲子 · 演出 · 展会 · 赛事</div>
 <div class="dt">__DATE__</div></div>
 <div class="wrap">__CONTENT__</div>
 <div class="ft">数据更新于 __GEN__ &nbsp;·&nbsp; 在线版 <a href="__SITE__">1766liuliu.github.io/shanghai-events</a></div>
@@ -133,6 +146,7 @@ TEX = {
     "最新上架": ("repeating-linear-gradient(0deg,rgba(77,214,160,.11) 0 1px,transparent 1px 16px),"
                  "repeating-linear-gradient(90deg,rgba(77,214,160,.11) 0 1px,transparent 1px 16px)"),
     "重磅活动": "repeating-linear-gradient(-45deg,rgba(255,93,143,.12) 0 2px,transparent 2px 13px)",
+    "常驻推荐": "radial-gradient(rgba(240,180,41,.16) 1.6px,transparent 1.8px)",
 }
 
 
@@ -146,7 +160,9 @@ def _herobg():
         return "linear-gradient(158deg,#140c33,#3a1c66 55%,#7c2a73)"
 
 
-def build_html(sections, today, gen):
+def _sections_html(sections, today):
+    """渲染单个城市的四类精选区块(本周开票/亲子精选/最新上架/重磅活动)。
+    去重(seen)按城市独立作用域,不同城市同名活动(极小概率)不会互相吞掉。"""
     seen, blocks = set(), []
     for name, items in sections:
         rows = [e for e in items if e.get("title") and e["title"] not in seen]
@@ -159,7 +175,8 @@ def build_html(sections, today, gen):
             t = escape(e["title"])
             url = e.get("official_url", "")
             title = '<a href="%s">%s</a>' % (escape(url), t) if url else t
-            bits = [_fmtdate(e, today)]
+            # 常驻推荐是"场馆本身",没有具体日期,不显示"档期待定"这类误导性文字
+            bits = [] if name == "常驻推荐" else [_fmtdate(e, today)]
             if e.get("venue") and e["venue"] != e["title"]:
                 bits.append(escape(e["venue"]))
             if e.get("price_range"):
@@ -175,7 +192,19 @@ def build_html(sections, today, gen):
                       '<span class="sh" style="background:%s;box-shadow:0 7px 22px %s66">%s（%d）</span>'
                       '<div class="cols">%s</div></div>'
                       % (TEX.get(name, ""), size, col, col, name, len(rows), "".join(its)))
-    content = "".join(blocks) or '<div class="it">本周暂无精选,点下方在线版查看全部。</div>'
+    return "".join(blocks)
+
+
+def build_html(city_blocks, today, gen):
+    """city_blocks: [(城市名, sections), ...] —— 每个城市独立渲染,城市间用大标题分隔。
+    某城市本周无精选(如数据文件缺失/为空)则自动跳过该城市,不影响其他城市正常显示。"""
+    parts = []
+    for city, sections in city_blocks:
+        body = _sections_html(sections, today)
+        if not body:
+            continue
+        parts.append('<div class="citydiv">📍 %s</div>%s' % (escape(city), body))
+    content = "".join(parts) or '<div class="it">本周暂无精选,点下方在线版查看全部。</div>'
     datestr = "%d年%d月%d日 · 本周精选" % (today.year, today.month, today.day)
     html = PAGE
     for k, v in (("__HEROBG__", _herobg()), ("__DATE__", datestr), ("__CONTENT__", content),
@@ -212,7 +241,7 @@ def send(today):
     msg["Subject"] = "1766一起遛遛 · 本周精选（%d/%d）" % (today.month, today.day)
     msg["From"] = user
     msg["To"] = ", ".join(recipients)
-    msg.set_content("本周上海亲子 / 演出 / 展会 / 赛事精选见附件 PDF。\n在线版:" + SITE)
+    msg.set_content("本周上海+北京亲子 / 演出 / 展会 / 赛事精选见附件 PDF。\n在线版:" + SITE)
     with open(OUT, "rb") as f:
         msg.add_attachment(f.read(), maintype="application", subtype="pdf",
                            filename="1766一起遛遛_本周精选_%s.pdf" % today.strftime("%Y%m%d"))
@@ -227,11 +256,32 @@ def send(today):
     print("[digest] 已通过 %s 发送给:" % host, ", ".join(recipients))
 
 
+def _load_city(path):
+    """读某城市的 events.json;文件不存在/为空(如北京数据尚未上线)时返回 None,
+    不让北京的缺失影响上海精选照常生成发送。"""
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        return data if data.get("events") else None
+    except Exception:  # noqa: BLE001
+        return None
+
+
 def main():
     today = _today()
-    with open(EVENTS, encoding="utf-8") as f:
-        data = json.load(f)
-    render_pdf(build_html(select(data, today), today, data.get("generatedAt", "")))
+    sh = _load_city(EVENTS)  # 上海:主数据,理应始终存在
+    bj = _load_city(EVENTS_BJ)  # 北京:可选,不存在则本周精选只含上海
+
+    city_blocks = []
+    gen = ""
+    if sh:
+        city_blocks.append(("上海", select(sh, today)))
+        gen = sh.get("generatedAt", "")
+    if bj:
+        city_blocks.append(("北京", select(bj, today)))
+        gen = gen or bj.get("generatedAt", "")
+
+    render_pdf(build_html(city_blocks, today, gen))
     send(today)
 
 

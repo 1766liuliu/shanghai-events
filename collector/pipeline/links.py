@@ -16,7 +16,7 @@ from models import Event
 
 _STRIP = re.compile(
     r"(20\d{2}年?|巡回演唱会|全国巡演|世界巡演|巡演|演唱会|粉丝见面会|见面会|"
-    r"上海站|·上海站|-上海站|LIVE|tour)",
+    r"上海站|·上海站|-上海站|北京站|·北京站|-北京站|LIVE|tour)",
     re.IGNORECASE,
 )
 _PUNCT = re.compile(r"[《》「」【】（）()·\-—|/]+")

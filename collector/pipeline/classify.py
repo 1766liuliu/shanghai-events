@@ -52,8 +52,9 @@ def classify(events: List[Event]) -> List[Event]:
         if THEME_BLOCK and any(k in text for k in THEME_BLOCK):
             n_block += 1
             continue
-        # 爬虫抓的展会:默认 B2B(行业展),命中消费类白名单才算公众
-        if (e.source != "curated" and e.type == "展会"
+        # 爬虫抓的展会:默认 B2B(行业展),命中消费类白名单才算公众。
+        # 人工策展源(curated / curated_beijing…,均以 "curated" 开头)不受此默认影响。
+        if (not e.source.startswith("curated") and e.type == "展会"
                 and not any(k in e.title for k in PUBLIC_KW)):
             e.audience = "B2B"
             n_b2b += 1

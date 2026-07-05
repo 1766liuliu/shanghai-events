@@ -1,0 +1,169 @@
+# ───────────────────────────────────────────────────────────
+# 北京活动雷达 · 策展活动清单(可直接在 GitHub 网页里编辑)
+#
+# 【怎么加一条活动】复制任意一段(从 [[event]] 到它下面的空行),粘到文件末尾,改成你的内容。
+# 【规则】
+#   · 所有文字都写在英文双引号 "..." 里,别删引号(标题里有冒号也没关系)。
+#   · start / end 用 "2026-07-17" 这种格式;不确定就留空 ""(会归到"年度大展")。
+#   · kid = true 适合亲子 / false 不特别适合;featured = true 是重磅活动。
+#   · tags 是标签数组,如 ["剧场"];没有就写 []
+#   · 场馆类(博物馆/剧场/艺术区等)会自动归到"常驻场馆";有具体日期的归"近期/年度"。
+#   · 改完点 GitHub 的 "Commit changes",几分钟后自动上线。
+#   · 本文件与 data/curated.toml(上海)完全独立,互不影响。
+# ───────────────────────────────────────────────────────────
+
+[[event]]
+title = "国家大剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "西城区西长安街2号"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.chncpa.org/ycgp_220/ycap/"
+note = "歌剧/芭蕾/交响乐/戏剧,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "北京保利剧院"
+type = "演出"
+start = ""
+end = ""
+venue = "东二环东四十条立交桥东北角"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.polytheatre.com/"
+note = "音乐剧/话剧/音乐会,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "首都剧场(北京人艺)"
+type = "演出"
+start = ""
+end = ""
+venue = "东城区王府井大街22号"
+kid = false
+age = ""
+featured = true
+url = "http://www.bjry.com/"
+note = "北京人民艺术剧院主场,经典话剧,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "北京德云社剧场"
+type = "演出"
+start = ""
+end = ""
+venue = "西城区北纬路甲1号(天桥)"
+kid = false
+age = ""
+featured = true
+url = "https://search.damai.cn/search.htm?keyword=德云社 北京"
+note = "德云社总部剧场,相声大会常态演出(周二至周日19:15-22:00),排期/购票见链接"
+tags = ["相声曲艺"]
+
+[[event]]
+title = "国家体育场(鸟巢)"
+type = "演出"
+start = ""
+end = ""
+venue = "朝阳区国家体育场南路1号"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.n-s.cn/"
+note = "大型演唱会/赛事/参观,排期见官网"
+tags = ["演出"]
+
+[[event]]
+title = "北京工人体育场"
+type = "演出"
+start = ""
+end = ""
+venue = "朝阳区工体北路1号"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://search.damai.cn/search.htm?keyword=工人体育场"
+note = "大型演唱会地标场馆,排期/购票见链接"
+tags = ["演出"]
+
+[[event]]
+title = "MAO Livehouse 北京"
+type = "演出"
+start = ""
+end = ""
+venue = "海淀区复兴路69号院2号136-G23(五棵松华熙LIVE)"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=MAO Livehouse 北京"
+note = "知名 Livehouse,乐队现场/独立音乐,演出日历见链接"
+tags = ["Livehouse"]
+
+[[event]]
+title = "中国国家博物馆"
+type = "展会"
+start = ""
+end = ""
+venue = "东城区东长安街16号(天安门广场东侧)"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.chnmuseum.cn/"
+note = "免费需实名预约,历史文物"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "中国美术馆"
+type = "展会"
+start = ""
+end = ""
+venue = "东城区五四大街一号"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.namoc.cn/"
+note = "免费需预约,当代/经典美术"
+tags = ["美术馆"]
+
+[[event]]
+title = "798艺术区"
+type = "展会"
+start = ""
+end = ""
+venue = "朝阳区酒仙桥大山子地区"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.798artdistrict.com.cn/"
+note = "画廊/艺术展示聚集区,常年多展,免费开放"
+tags = ["美术馆"]
+
+[[event]]
+title = "北京天桥艺术中心"
+type = "演出"
+start = ""
+end = ""
+venue = "西城区南中轴路西侧"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.tqpac.com/index.html"
+note = "音乐剧为主,含话剧/舞剧/演唱会,排期见官网"
+tags = ["剧场"]
+
+[[event]]
+title = "北京国际音乐节"
+type = "演出"
+start = ""
+end = ""
+venue = "多场馆(北京)"
+kid = false
+age = ""
+featured = true
+url = "https://www.bmf.org.cn/"
+note = "创办于1998年,年度古典音乐盛事,往年约10月,具体以官网为准"
+tags = ["音乐会"]
