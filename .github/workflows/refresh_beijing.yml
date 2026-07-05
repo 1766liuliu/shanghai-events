@@ -44,7 +44,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git pull --rebase -X theirs
-          git add index.html events_beijing.json data/lastgood_beijing.json
+          git add index.html events_beijing.json data/lastgood_beijing.json data/seen_beijing.json
           if git diff --cached --quiet; then
             echo "本次无变化,跳过提交"
           else

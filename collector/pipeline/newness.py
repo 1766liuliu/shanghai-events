@@ -20,23 +20,26 @@ NEW_WINDOW_DAYS = 7
 _BASELINE = "2000-01-01"  # 首次启用时的回填日期(永远不算"新")
 
 
-def _load() -> dict:
+def _load(path: str) -> dict:
     try:
-        with open(SEEN_PATH, encoding="utf-8") as f:
+        with open(path, encoding="utf-8") as f:
             return json.load(f)
     except Exception:  # noqa: BLE001
         return {}
 
 
-def _save(seen: dict) -> None:
-    os.makedirs(os.path.dirname(SEEN_PATH), exist_ok=True)
-    with open(SEEN_PATH, "w", encoding="utf-8") as f:
+def _save(seen: dict, path: str) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(seen, f, ensure_ascii=False, indent=1)
 
 
-def mark_new(events: List[Event], today: str = "") -> List[Event]:
+def mark_new(events: List[Event], today: str = "", seen_path: str = "") -> List[Event]:
+    """seen_path 留空时用上海默认路径(与既有调用 100% 兼容);
+    其他城市传各自独立路径,"首次启用全部回填"的判定不会被别的城市已有记录带偏。"""
     today = today or datetime.date.today().isoformat()
-    seen = _load()
+    seen_path = seen_path or SEEN_PATH
+    seen = _load(seen_path)
     first_run = not seen
     for e in events:
         eid = e.event_id
@@ -45,7 +48,7 @@ def mark_new(events: List[Event], today: str = "") -> List[Event]:
         else:
             e.first_seen = _BASELINE if first_run else today
             seen[eid] = e.first_seen
-    _save(seen)
+    _save(seen, seen_path)
     cutoff = (datetime.date.fromisoformat(today)
               - datetime.timedelta(days=NEW_WINDOW_DAYS - 1)).isoformat()
     n_new = sum(1 for e in events if e.first_seen >= cutoff)
