@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-05 23:58 北京时间",
+ "generatedAt": "2026-07-06 00:04 北京时间",
  "count": 77,
  "health": {
   "curated_beijing": {
@@ -8,10 +8,9 @@
    "last_success": "2026-07-05"
   },
   "bendibao_beijing": {
-   "status": "degraded",
-   "count": 169,
-   "kept": 462,
-   "last_success": "2026-07-04"
+   "status": "ok",
+   "count": 462,
+   "last_success": "2026-07-05"
   },
   "laoshechaguan": {
    "status": "ok",
