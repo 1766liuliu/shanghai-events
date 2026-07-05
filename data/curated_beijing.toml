@@ -765,3 +765,107 @@ featured = false
 url = "http://www.bj-sea.com/"
 note = "世界级内陆水族馆(12万平米),亲子/科普"
 tags = ["亲子/科普"]
+
+[[event]]
+title = "UCCA尤伦斯当代艺术中心"
+type = "展会"
+start = ""
+end = ""
+venue = "朝阳区酒仙桥路4号798艺术区"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://ucca.org.cn/"
+note = "中国领先当代艺术机构(2007年创立),798核心地带,特展常年轮换"
+tags = ["美术馆"]
+
+[[event]]
+title = "红砖美术馆"
+type = "展会"
+start = ""
+end = ""
+venue = "朝阳区崔各庄乡何各庄村(顺白路马泉营西路)"
+kid = false
+age = ""
+featured = false
+url = "http://www.redbrickartmuseum.org/"
+note = "红砖建筑+园林式美术馆(2014年开馆),当代艺术特展,周一闭馆"
+tags = ["美术馆"]
+
+[[event]]
+title = "北京八达岭野生动物世界"
+type = "展会"
+start = ""
+end = ""
+venue = "延庆区八达岭镇(八达岭长城旁)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=八达岭野生动物世界"
+note = "中国最大山地野生动物园(6000余亩),自驾/公交919可达,常与长城同游"
+tags = ["亲子"]
+
+[[event]]
+title = "国家植物园"
+type = "展会"
+start = ""
+end = ""
+venue = "海淀区香山卧佛寺路(南北两园)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.chnbg.cn/"
+note = "2022年揭牌的国家级植物园(原北京植物园+中科院植物所),1.7万种植物,亲子遛娃"
+tags = ["亲子/科普"]
+
+[[event]]
+title = "北京乐高探索中心"
+type = "展会"
+start = ""
+end = ""
+venue = "朝阳区龙湖长楹天街购物中心西区3层(地铁6号线常营站)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.legolanddiscoverycenter.cn/beijing/"
+note = "室内乐高主题乐园,亲子(对标上海乐高探索中心)"
+tags = ["亲子"]
+
+[[event]]
+title = "北京欢乐谷"
+type = "展会"
+start = ""
+end = ""
+venue = "朝阳区东四环四方桥东南(地铁7号线欢乐谷景区站)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://bj.happyvalley.cn/"
+note = "56万平米主题乐园,过山车/演艺/节庆活动,亲子热门"
+tags = ["乐园/亲子"]
+
+[[event]]
+title = "世界机器人大会(WRC)"
+type = "展会"
+start = "2026-08-19"
+end = "2026-08-23"
+venue = "北人亦创国际会展中心(亦庄荣昌东街6号)"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.worldrobotconference.com/"
+note = "全球机器人领域最大展会(5.2万平米/774展商),对标上海WAIC,孩子看机器人首选"
+tags = ["科技/机器人"]
+
+[[event]]
+title = "IDO动漫游戏嘉年华"
+type = "展会"
+start = ""
+end = ""
+venue = "北人亦创国际会展中心(亦庄)"
+kid = false
+age = ""
+featured = false
+url = "http://www.idoacg.com/"
+note = "北京最大动漫展之一,一年多届(元旦/五一/暑期等),具体档期见官网"
+tags = ["动漫/ACG"]
