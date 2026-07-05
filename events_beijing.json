@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-07-05 10:11 北京时间",
- "count": 56,
+ "generatedAt": "2026-07-05 10:15 北京时间",
+ "count": 63,
  "health": {
   "curated_beijing": {
    "status": "ok",
-   "count": 44,
-   "last_success": "2026-07-05"
+   "count": 51,
+   "last_success": "2026-07-04"
   },
   "bendibao_beijing": {
    "status": "ok",
@@ -817,7 +817,13 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "北京国际图书博览会(BIBF)",
+     "d": "",
+     "u": "https://www.bibf.net/"
+    }
+   ]
   },
   {
    "title": "中国国际展览中心",
@@ -841,7 +847,13 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "北京国际汽车展览会(北京车展)",
+     "d": "",
+     "u": "https://www.autochinashow.org/"
+    }
+   ]
   },
   {
    "title": "国家游泳中心(水立方)",
@@ -1130,6 +1142,167 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": []
+  },
+  {
+   "title": "中国国际服务贸易交易会(服贸会)",
+   "type": "展会",
+   "venue": "首钢园区",
+   "district": "",
+   "start_date": "2026-09-09",
+   "end_date": "2026-09-13",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "会展"
+   ],
+   "official_url": "https://www.ciftis.org/",
+   "featured": true,
+   "note": "商务部主办,服务贸易领域重磅展会,2026年打造\"会展+\"融合业态",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "中关村论坛",
+   "type": "展会",
+   "venue": "中关村国家自主创新示范区会议中心",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "会展"
+   ],
+   "official_url": "https://www.zgcforum.com.cn/",
+   "featured": true,
+   "note": "全球科技创新交流盛会,往年约3月(2026年为3.25-3.29),具体以官网为准",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京国际汽车展览会(北京车展)",
+   "type": "展会",
+   "venue": "中国国际展览中心(顺义馆)+首都国际会展中心",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "汽车"
+   ],
+   "official_url": "https://www.autochinashow.org/",
+   "featured": true,
+   "note": "与上海车展轮流举办(逢偶数年在北京),下届2028年,2026年为4.24-5.3",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京国际图书博览会(BIBF)",
+   "type": "展会",
+   "venue": "国家会议中心",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": true,
+   "age_range": "全年龄",
+   "tags": [
+    "文创"
+   ],
+   "official_url": "https://www.bibf.net/",
+   "featured": true,
+   "note": "世界第二大书展,亚洲国际化程度最高,往年约6月(2026年为6.17-6.21)",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京马拉松",
+   "type": "体育",
+   "venue": "天安门广场起点,奥林匹克公园终点",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "体育"
+   ],
+   "official_url": "https://www.beijing-marathon.com/",
+   "featured": true,
+   "note": "国内顶级全程马拉松赛事,往年约秋季(9-11月),具体以官网为准",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "中国国际时装周",
+   "type": "展会",
+   "venue": "798·751园区等",
+   "district": "",
+   "start_date": "",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "时尚"
+   ],
+   "official_url": "https://www.chinafashionweek.org.cn/",
+   "featured": false,
+   "note": "一年两季(春季约3月/秋季约9月),中国服装设计师协会主办",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京国际设计周",
+   "type": "展会",
+   "venue": "多场地(全国农业展览馆等)",
+   "district": "",
+   "start_date": "2026-09-26",
+   "end_date": "2026-10-03",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "文创"
+   ],
+   "official_url": "https://www.bjdw.org/",
+   "featured": false,
+   "note": "全年贯穿运营,主体活动每年9.26-10.3",
+   "first_seen": "2026-07-04",
+   "kind": "年度固定",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
   },
   {
    "title": "黄丽玲A-Lin",
