@@ -20,9 +20,9 @@ from sources.base import BaseSource
 DATA = os.path.join(os.path.dirname(__file__), "..", "..", "data", "curated_beijing.toml")
 
 # 固定场馆(常年滚动排期,无单一日期)—— 命中即归"固定场馆",其余策展归"年度固定"
-_VENUE_KW = ["大剧院", "剧院", "剧场", "体育场", "Livehouse",
-             "博物馆", "美术馆", "艺术区", "艺术中心", "德云社",
-             "茶馆", "大舞台"]
+_VENUE_KW = ["大剧院", "剧院", "剧场", "体育场", "体育馆", "Livehouse",
+             "博物馆", "博物院", "美术馆", "艺术区", "艺术中心", "德云社",
+             "茶馆", "大舞台", "科技馆", "科学技术馆", "故宫"]
 
 
 def _kind(title: str) -> str:

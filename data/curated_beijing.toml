@@ -245,3 +245,107 @@ featured = false
 url = "https://search.damai.cn/search.htm?keyword=世纪剧院 北京"
 note = "1713座大型剧院,以歌剧/话剧/芭蕾/综艺晚会为主,无独立官网,排期/购票见链接"
 tags = ["剧场"]
+
+[[event]]
+title = "北京展览馆剧场(北展剧场)"
+type = "演出"
+start = ""
+end = ""
+venue = "西城区西直门外大街135号"
+kid = false
+age = ""
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=北展剧场"
+note = "2763座,北京客容量最大专业演出剧场,以芭蕾/交响乐/歌剧/演唱会为主,无独立官网,购票见链接"
+tags = ["剧场"]
+
+[[event]]
+title = "北京朝阳剧场"
+type = "演出"
+start = ""
+end = ""
+venue = "东三环北路36号(呼家楼)"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.beijingchaoyangjuchang.com/"
+note = "中国杂技团常年驻场(每日16:00/17:30/19:00三场),排期见官网"
+tags = ["演出"]
+
+[[event]]
+title = "首都博物馆"
+type = "展会"
+start = ""
+end = ""
+venue = "西城区复兴门外大街16号"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://www.capitalmuseum.org.cn/"
+note = "北京市属大型综合性博物馆,国家一级馆,需公众号预约"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "故宫博物院"
+type = "展会"
+start = ""
+end = ""
+venue = "东城区(午门为唯一入口)"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://ticket.dpm.org.cn/"
+note = "需实名制预约(提前7日20:00开放),周一闭馆"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "中国科学技术馆"
+type = "展会"
+start = ""
+end = ""
+venue = "朝阳区北辰东路5号"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://cstm.cdstm.cn/"
+note = "国家级综合性科技馆,五大主题展厅+四个特效影院,亲子科普首选"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "国家自然博物馆"
+type = "展会"
+start = ""
+end = ""
+venue = "东城区天桥南大街126号"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://www.nnhm.org.cn/"
+note = "原北京自然博物馆(2023年更名),馆藏标本29万余件"
+tags = ["博物馆/亲子"]
+
+[[event]]
+title = "华熙LIVE·五棵松体育馆"
+type = "演出"
+start = ""
+end = ""
+venue = "海淀区复兴路69号"
+kid = true
+age = "全年龄"
+featured = true
+url = "https://wks.bloomagelive.com/"
+note = "18000座综合体育馆,大型演唱会/体育赛事场地,排期见官网"
+tags = ["演出"]
+
+[[event]]
+title = "首都体育馆"
+type = "演出"
+start = ""
+end = ""
+venue = "海淀区西直门外白石桥5号"
+kid = true
+age = "全年龄"
+featured = false
+url = "https://search.damai.cn/search.htm?keyword=首都体育馆"
+note = "18000座综合体育馆,大型演唱会常用场地,无独立官网,购票见链接"
+tags = ["演出"]
