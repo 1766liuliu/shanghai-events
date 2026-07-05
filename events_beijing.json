@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-07-05 09:53 北京时间",
+ "generatedAt": "2026-07-05 09:54 北京时间",
  "count": 50,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 38,
-   "last_success": "2026-07-04"
+   "last_success": "2026-07-05"
   },
   "bendibao_beijing": {
    "status": "ok",
