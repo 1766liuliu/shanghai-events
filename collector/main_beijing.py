@@ -33,6 +33,7 @@ from pipeline.tagging import tag
 from sources.bendibao_beijing import BendibaoBeijingSource
 from sources.curated_beijing import CuratedBeijingSource
 from sources.laoshechaguan import LaosheChaguanSource
+from sources.showstart_beijing import ShowstartBeijingSource
 from store import site
 
 LASTGOOD_BJ = os.path.join(os.path.dirname(__file__), "..", "data", "lastgood_beijing.json")
@@ -47,6 +48,7 @@ ENABLED_SOURCES_BJ = [
     CuratedBeijingSource(),    # ✅ 北京重大场馆/年度活动策展骨架(已联网核实真实信息)
     BendibaoBeijingSource(),   # ✅ 北京本地宝:演出+展会时间表(bj.bendibao.com,已实测结构,城市天然隔离)
     LaosheChaguanSource(),     # ✅ 老舍茶馆官方排期(i.laoshechaguan.cn,SSR,已实测结构)
+    ShowstartBeijingSource(),  # ✅ 秀动网北京演出(破匿名签名接口直取JSON,近期演唱会/livehouse主力源)
 ]
 
 
