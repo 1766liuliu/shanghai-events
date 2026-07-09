@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-09 19:32 北京时间",
+ "generatedAt": "2026-07-10 02:32 北京时间",
  "count": 152,
  "health": {
   "curated_beijing": {
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 98,
+   "count": 97,
    "last_success": "2026-07-09"
   }
  },
@@ -390,14 +390,14 @@
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-07-09",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-07-10",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-07-10",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
@@ -2144,6 +2144,29 @@
    "sessions": []
   },
   {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-07-10",
+   "end_date": "2026-07-19",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-09",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -2159,29 +2182,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-07-09",
-   "end_date": "2026-07-19",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-08",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2266,27 +2266,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "卢森堡资深爵士钢琴家 MARC MANGEN 领衔 THE FUSIONESE 四重奏",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-07-09",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/303603",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-06",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3621,6 +3600,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/297614",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-09",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "王子健【自转】巡演-北京站",
+   "type": "演出",
+   "venue": "星光2号馆",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "98起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/300505",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-09",
