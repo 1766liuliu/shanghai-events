@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-07-10 19:27 北京时间",
- "count": 151,
+ "generatedAt": "2026-07-11 02:10 北京时间",
+ "count": 152,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 98,
+   "count": 97,
    "last_success": "2026-07-10"
   }
  },
@@ -214,6 +214,11 @@
      "u": "https://www.showstart.com/event/295583"
     },
     {
+     "t": "于梓贝「夏日出逃之必要」2026夏季巡演 北京站",
+     "d": "2026-07-18",
+     "u": "https://www.showstart.com/event/300718"
+    },
+    {
      "t": "张泽",
      "d": "2026-08-08",
      "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=张泽"
@@ -385,14 +390,14 @@
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-07-10",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-07-11",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-07-11",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
@@ -760,6 +765,11 @@
      "u": "https://www.showstart.com/event/295583"
     },
     {
+     "t": "于梓贝「夏日出逃之必要」2026夏季巡演 北京站",
+     "d": "2026-07-18",
+     "u": "https://www.showstart.com/event/300718"
+    },
+    {
      "t": "张泽",
      "d": "2026-08-08",
      "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=张泽"
@@ -793,6 +803,11 @@
      "t": "叶炫清「爱的拾节课」2026个人巡演 北京站",
      "d": "2026-07-11",
      "u": "https://www.showstart.com/event/295583"
+    },
+    {
+     "t": "于梓贝「夏日出逃之必要」2026夏季巡演 北京站",
+     "d": "2026-07-18",
+     "u": "https://www.showstart.com/event/300718"
     },
     {
      "t": "张泽",
@@ -1131,11 +1146,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨7.10 香港新锐爵士的下一页 | 港爵双城专场",
-     "d": "2026-07-10",
-     "u": "https://www.showstart.com/event/302906"
-    },
-    {
      "t": "北京丨7.12 一把琴的三百年，一场浓缩的音乐史｜李炳阳无伴奏小提琴独奏音乐会",
      "d": "2026-07-12",
      "u": "https://www.showstart.com/event/302202"
@@ -1154,6 +1164,11 @@
      "t": "北京丨7.17 世界催你赶路，音乐允许你漫游「Sound Safari」李逸卓原创作品音乐会",
      "d": "2026-07-17",
      "u": "https://www.showstart.com/event/302366"
+    },
+    {
+     "t": "北京丨7.18 欢迎来到放放放克世界，和卡波姆一起大funk厥词",
+     "d": "2026-07-18",
+     "u": "https://www.showstart.com/event/302919"
     }
    ]
   },
@@ -1180,11 +1195,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "缤纷国图2026暑期演出季 曲韵书香・趣说经典——中国煤矿文工团“说学逗唱与四大名著”曲艺专场",
-     "d": "2026-07-10",
-     "u": "https://www.showstart.com/event/298984"
-    },
     {
      "t": "缤纷国图2026暑期演出季 单簧管的中西对话——王滔和他的朋友们潮玩音乐会",
      "d": "2026-07-11",
@@ -2139,6 +2149,29 @@
    "sessions": []
   },
   {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-07-11",
+   "end_date": "2026-07-19",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -2154,29 +2187,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-10",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-07-10",
-   "end_date": "2026-07-19",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-09",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2246,27 +2256,6 @@
    "sessions": []
   },
   {
-   "title": "英国后金属Five The Hierophant与上海器乐An Corporation 2026联合巡演 北京站",
-   "type": "演出",
-   "venue": "疆进酒·OMNI SPACE（北京）",
-   "district": "",
-   "start_date": "2026-07-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "150起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/300815",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "越剧《苏东坡》",
    "type": "演出",
    "venue": "北京保利剧院",
@@ -2305,69 +2294,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "缤纷国图2026暑期演出季 曲韵书香・趣说经典——中国煤矿文工团“说学逗唱与四大名著”曲艺专场",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-07-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "98起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/298984",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨7.10 香港新锐爵士的下一页 | 港爵双城专场",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-07-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "200",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302906",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "「散步摇摆」踽踽 × 叁芥客 北京联合专场",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-07-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "90起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/303959",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-09",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2674,27 +2600,6 @@
    "sessions": []
   },
   {
-   "title": "王子乐队“焕然亦新”演唱会",
-   "type": "演出",
-   "venue": "亦花园剧场",
-   "district": "",
-   "start_date": "2026-07-11",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "59起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302764",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "缤纷国图2026暑期演出季 单簧管的中西对话——王滔和他的朋友们潮玩音乐会",
    "type": "演出",
    "venue": "国图艺术中心",
@@ -2712,6 +2617,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "王子乐队“焕然亦新”演唱会",
+   "type": "演出",
+   "venue": "亦花园剧场",
+   "district": "",
+   "start_date": "2026-07-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "59起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/302764",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-06",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3310,27 +3236,6 @@
    "sessions": []
   },
   {
-   "title": "乐动狂欢夜—打击乐名曲音乐会",
-   "type": "演出",
-   "venue": "北京中山音乐堂",
-   "district": "",
-   "start_date": "2026-07-17",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "30起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/297493",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "音乐剧《红莲》",
    "type": "演出",
    "venue": "北京喜剧院",
@@ -3343,6 +3248,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/298293",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "乐动狂欢夜—打击乐名曲音乐会",
+   "type": "演出",
+   "venue": "北京中山音乐堂",
+   "district": "",
+   "start_date": "2026-07-17",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "30起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/297493",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-05",
@@ -3598,6 +3524,111 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-09",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "甜又丧《眩晕之后》新专辑巡演北京站",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "90起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/299335",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "三里屯室内音乐节——REGGAE雷鬼专场",
+   "type": "演出",
+   "venue": "爱乐汇艺术空间",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "88起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/302063",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "尚东峰2026「去往浪漫的一天」新专辑巡演 北京场",
+   "type": "演出",
+   "venue": "山谷居民",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "99起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/298052",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "于梓贝「夏日出逃之必要」2026夏季巡演 北京站",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "148起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/300718",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨7.18 欢迎来到放放放克世界，和卡波姆一起大funk厥词",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "200",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/302919",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-10",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
