@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-07-11 02:10 北京时间",
- "count": 152,
+ "generatedAt": "2026-07-11 15:25 北京时间",
+ "count": 150,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-07-10"
+   "last_success": "2026-07-11"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 469,
-   "last_success": "2026-07-10"
+   "last_success": "2026-07-11"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-07-10"
+   "last_success": "2026-07-11"
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 97,
-   "last_success": "2026-07-10"
+   "count": 98,
+   "last_success": "2026-07-11"
   }
  },
  "events": [
@@ -71,11 +71,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "越剧《苏东坡》",
-     "d": "2026-07-10",
-     "u": "https://www.showstart.com/event/299914"
-    },
     {
      "t": "佟睿睿导演作品·舞剧《龟兹》",
      "d": "2026-07-17",
@@ -385,14 +380,14 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-07-10",
-     "u": "https://i.laoshechaguan.cn/list/101457.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-07-11",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
+    },
+    {
+     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
+     "d": "2026-07-11",
+     "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
@@ -1240,11 +1235,6 @@
    "kid_unfit": true,
    "sessions": [],
    "programs": [
-    {
-     "t": "英国BBC正版授权亲子互动舞台剧《布鲁伊的大宝藏》",
-     "d": "2026-07-10",
-     "u": "https://www.showstart.com/event/298806"
-    },
     {
      "t": "音乐剧《红莲》",
      "d": "2026-07-17",
@@ -2149,6 +2139,27 @@
    "sessions": []
   },
   {
+   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-07-11",
+   "end_date": "2026-08-31",
+   "open_ticket_time": "",
+   "price_range": "171-551起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-11",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍茶馆 亲子皮影戏",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -2163,27 +2174,6 @@
     "亲子"
    ],
    "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-10",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-07-10",
-   "end_date": "2026-08-31",
-   "open_ticket_time": "",
-   "price_range": "171-551起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-10",
@@ -2247,50 +2237,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://i.laoshechaguan.cn/list/101485.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "越剧《苏东坡》",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-07-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "280起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/299914",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "英国BBC正版授权亲子互动舞台剧《布鲁伊的大宝藏》",
-   "type": "演出",
-   "venue": "北京喜剧院",
-   "district": "",
-   "start_date": "2026-07-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/298806",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-05",
@@ -2432,27 +2378,6 @@
    "sessions": []
   },
   {
-   "title": "于贞2026「邀请函」巡演北京站",
-   "type": "演出",
-   "venue": "东三LIVE乐游园",
-   "district": "",
-   "start_date": "2026-07-11",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "269起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302104",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "VIBEZ万是呈现：指南针乐队35周年纪念专场",
    "type": "演出",
    "venue": "疆进酒·OMNI SPACE（北京）",
@@ -2465,6 +2390,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/299071",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "于贞2026「邀请函」巡演北京站",
+   "type": "演出",
+   "venue": "东三LIVE乐游园",
+   "district": "",
+   "start_date": "2026-07-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "269起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/302104",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-05",
@@ -3215,27 +3161,6 @@
    "sessions": []
   },
   {
-   "title": "【明星场】开心麻花爆笑大戏《这家伙不赖》",
-   "type": "演出",
-   "venue": "北京世纪剧院",
-   "district": "",
-   "start_date": "2026-07-17",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302866",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "音乐剧《红莲》",
    "type": "演出",
    "venue": "北京喜剧院",
@@ -3293,6 +3218,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-06",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "【明星场】开心麻花爆笑大戏《这家伙不赖》",
+   "type": "演出",
+   "venue": "北京世纪剧院",
+   "district": "",
+   "start_date": "2026-07-17",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/302866",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-05",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3572,27 +3518,6 @@
    "sessions": []
   },
   {
-   "title": "尚东峰2026「去往浪漫的一天」新专辑巡演 北京场",
-   "type": "演出",
-   "venue": "山谷居民",
-   "district": "",
-   "start_date": "2026-07-18",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "99起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/298052",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-10",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "于梓贝「夏日出逃之必要」2026夏季巡演 北京站",
    "type": "演出",
    "venue": "MAO Livehouse北京（东郎店）",
@@ -3605,6 +3530,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/300718",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "尚东峰2026「去往浪漫的一天」新专辑巡演 北京场",
+   "type": "演出",
+   "venue": "山谷居民",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "99起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/298052",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-10",
