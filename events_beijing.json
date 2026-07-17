@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-17 15:35 北京时间",
+ "generatedAt": "2026-07-17 22:00 北京时间",
  "count": 145,
  "health": {
   "curated_beijing": {
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 99,
+   "count": 97,
    "last_success": "2026-07-17"
   }
  },
@@ -75,6 +75,11 @@
      "t": "佟睿睿导演作品·舞剧《龟兹》",
      "d": "2026-07-17",
      "u": "https://www.showstart.com/event/301500"
+    },
+    {
+     "t": "舞蹈诗剧《沉香•陆》高度作品",
+     "d": "2026-07-22",
+     "u": "https://www.showstart.com/event/301206"
     }
    ]
   },
@@ -330,6 +335,11 @@
      "t": "尔多原创音乐剧《复活吧！胡萝卜》",
      "d": "2026-07-18",
      "u": "https://www.showstart.com/event/301923"
+    },
+    {
+     "t": "中国歌剧舞剧院 舞剧《 垂虹别意·唐寅》",
+     "d": "2026-07-23",
+     "u": "https://www.showstart.com/event/295385"
     }
    ]
   },
@@ -380,23 +390,23 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍经典话剧《茶馆》",
-     "d": "2026-07-17",
-     "u": "https://i.laoshechaguan.cn/list/327317671.html"
-    },
-    {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-07-17",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
      "d": "2026-07-17",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
+     "t": "老舍经典话剧《茶馆》",
+     "d": "2026-07-18",
+     "u": "https://i.laoshechaguan.cn/list/327317671.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-07-18",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
+    },
+    {
      "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-07-17",
+     "d": "2026-07-18",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
@@ -1157,11 +1167,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨7.17 世界催你赶路，音乐允许你漫游「Sound Safari」李逸卓原创作品音乐会",
-     "d": "2026-07-17",
-     "u": "https://www.showstart.com/event/302366"
-    },
-    {
      "t": "北京丨7.18 欢迎来到放放放克世界，和卡波姆一起大funk厥词",
      "d": "2026-07-18",
      "u": "https://www.showstart.com/event/302919"
@@ -1175,6 +1180,11 @@
      "t": "北京丨7.21 「漫游 Wandering」2026 Tour 北京站",
      "d": "2026-07-21",
      "u": "https://www.showstart.com/event/303722"
+    },
+    {
+     "t": "北京丨7.22 致敬灵魂乐女王Aretha Franklin · QUEEN OF SOUL",
+     "d": "2026-07-22",
+     "u": "https://www.showstart.com/event/303174"
     }
    ]
   },
@@ -1201,11 +1211,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "奇妙人声之旅 · RESOUND 理想人声阿卡贝拉音乐会",
-     "d": "2026-07-17",
-     "u": "https://www.showstart.com/event/292982"
-    },
     {
      "t": "缤纷国图2026暑期演出季 少年环球乐游记——小提琴与手风琴二重奏音乐会",
      "d": "2026-07-18",
@@ -2159,7 +2164,7 @@
    "type": "演出",
    "venue": "老舍茶馆",
    "district": "",
-   "start_date": "2026-07-17",
+   "start_date": "2026-07-18",
    "end_date": "2026-08-29",
    "open_ticket_time": "",
    "price_range": "116-369起",
@@ -2169,7 +2174,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/327317671.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-16",
+   "first_seen": "2026-07-17",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2180,7 +2185,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-07-17",
+   "start_date": "2026-07-18",
    "end_date": "2026-07-19",
    "open_ticket_time": "",
    "price_range": "76-95起",
@@ -2192,7 +2197,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-16",
+   "first_seen": "2026-07-17",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2224,7 +2229,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-07-17",
+   "start_date": "2026-07-18",
    "end_date": "2026-08-31",
    "open_ticket_time": "",
    "price_range": "114-266起",
@@ -2234,7 +2239,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-16",
+   "first_seen": "2026-07-17",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2274,27 +2279,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/300665",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "美国电子梦泡音乐人mixed matches2026巡演丨北京站",
-   "type": "演出",
-   "venue": "蛙厂RMMF·北京798店",
-   "district": "",
-   "start_date": "2026-07-17",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "240起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302093",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-05",
@@ -2388,27 +2372,6 @@
    "sessions": []
   },
   {
-   "title": "奇妙人声之旅 · RESOUND 理想人声阿卡贝拉音乐会",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-07-17",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/292982",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【吉尼斯纪录】开心麻花沉浸式悬疑互动喜剧《疯狂理发店》",
    "type": "演出",
    "venue": "疯狂理发店(THE BOX朝外店)",
@@ -2444,48 +2407,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/302866",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "佟睿睿导演作品·舞剧《龟兹》",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-07-17",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/301500",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "乐动狂欢夜—打击乐名曲音乐会",
-   "type": "演出",
-   "venue": "北京中山音乐堂",
-   "district": "",
-   "start_date": "2026-07-17",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "30起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/297493",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-05",
@@ -2537,21 +2458,21 @@
    "sessions": []
   },
   {
-   "title": "北京丨7.17 世界催你赶路，音乐允许你漫游「Sound Safari」李逸卓原创作品音乐会",
+   "title": "佟睿睿导演作品·舞剧《龟兹》",
    "type": "演出",
-   "venue": "Blue Note Beijing",
+   "venue": "北京保利剧院",
    "district": "",
    "start_date": "2026-07-17",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "200",
+   "price_range": "180起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/302366",
+   "official_url": "https://www.showstart.com/event/301500",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-07",
+   "first_seen": "2026-07-06",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2938,27 +2859,6 @@
    "sessions": []
   },
   {
-   "title": "尔多原创音乐剧《复活吧！胡萝卜》",
-   "type": "演出",
-   "venue": "北京 天桥艺术中心小剧场",
-   "district": "",
-   "start_date": "2026-07-18",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/301923",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-11",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【8折早鸟】冰雪奇缘—经典动漫电影金曲大型交响演唱会",
    "type": "演出",
    "venue": "北京音乐厅",
@@ -2971,6 +2871,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/298159",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-11",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "尔多原创音乐剧《复活吧！胡萝卜》",
+   "type": "演出",
+   "venue": "北京 天桥艺术中心小剧场",
+   "district": "",
+   "start_date": "2026-07-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/301923",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-11",
@@ -3106,6 +3027,27 @@
    "sessions": []
   },
   {
+   "title": "《青城山下·十面埋伏》国风经典名曲琵琶专场音乐会",
+   "type": "演出",
+   "venue": "北京枫蓝熙剧场",
+   "district": "",
+   "start_date": "2026-07-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "39起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/301322",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-11",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "木偶艺术剧院：卡通舞台剧《海底小纵队之东海救援》",
    "type": "演出",
    "venue": "北京中山音乐堂",
@@ -3120,27 +3062,6 @@
     "亲子"
    ],
    "official_url": "https://www.showstart.com/event/297494",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-11",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "《青城山下·十面埋伏》国风经典名曲琵琶专场音乐会",
-   "type": "演出",
-   "venue": "北京枫蓝熙剧场",
-   "district": "",
-   "start_date": "2026-07-19",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "39起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/301322",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-11",
@@ -3482,6 +3403,90 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-12",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "舞蹈诗剧《沉香•陆》高度作品",
+   "type": "演出",
+   "venue": "北京保利剧院",
+   "district": "",
+   "start_date": "2026-07-22",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/301206",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-12",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨7.22 致敬灵魂乐女王Aretha Franklin · QUEEN OF SOUL",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-07-22",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/303174",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-17",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "中国歌剧舞剧院 舞剧《 垂虹别意·唐寅》",
+   "type": "演出",
+   "venue": "天桥艺术中心（大剧场）",
+   "district": "",
+   "start_date": "2026-07-23",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/295385",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-17",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "天使之舞—雯艺古典大提琴重奏音乐会",
+   "type": "演出",
+   "venue": "北京中山音乐堂",
+   "district": "",
+   "start_date": "2026-07-23",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "30起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/297498",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-17",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
