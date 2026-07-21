@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-07-20 22:31 北京时间",
+ "generatedAt": "2026-07-21 11:40 北京时间",
  "count": 144,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-07-20"
+   "last_success": "2026-07-21"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 469,
-   "last_success": "2026-07-20"
+   "last_success": "2026-07-21"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-07-20"
+   "last_success": "2026-07-21"
   },
   "showstart_beijing": {
    "status": "ok",
    "count": 98,
-   "last_success": "2026-07-20"
+   "last_success": "2026-07-21"
   }
  },
  "events": [
@@ -396,18 +396,18 @@
    "programs": [
     {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-07-20",
+     "d": "2026-07-21",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
-    },
-    {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-07-20",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
      "d": "2026-07-21",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-07-21",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍经典话剧《茶馆》",
@@ -1172,7 +1172,13 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "《我只在乎你》--陈佳 2026 邓丽君经典金曲专场演唱会",
+     "d": "2026-07-26",
+     "u": "https://www.showstart.com/event/291177"
+    }
+   ]
   },
   {
    "title": "Blue Note Beijing",
@@ -2188,7 +2194,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-07-20",
+   "start_date": "2026-07-21",
    "end_date": "2026-08-31",
    "open_ticket_time": "",
    "price_range": "171-551起",
@@ -2198,7 +2204,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-20",
+   "first_seen": "2026-07-21",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2230,7 +2236,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-07-20",
+   "start_date": "2026-07-21",
    "end_date": "2026-07-28",
    "open_ticket_time": "",
    "price_range": "76-95起",
@@ -2242,7 +2248,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-20",
+   "first_seen": "2026-07-21",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2267,29 +2273,6 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】三里屯X太古里-精品脱口秀《喜剧专场》|每天2点4点7:30演出｜王二狗+即兴喜剧互动秀｜大开心笑果",
-   "type": "演出",
-   "venue": "爱笑联盟剧场（三里屯SOHO店）",
-   "district": "",
-   "start_date": "2026-07-20",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/301881",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
    "sessions": []
   },
   {
@@ -2419,29 +2402,6 @@
    "sessions": []
   },
   {
-   "title": "北京 | 7月 沉浸式庭审互动悬疑剧《非常嫌疑人·九龙城寨》",
-   "type": "演出",
-   "venue": "西城区繁星戏剧村伍剧场",
-   "district": "",
-   "start_date": "2026-07-22",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "90起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/305123",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "舞蹈诗剧《沉香•陆》高度作品",
    "type": "演出",
    "venue": "北京保利剧院",
@@ -2478,6 +2438,29 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-12",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京 | 7月 沉浸式庭审互动悬疑剧《非常嫌疑人·九龙城寨》",
+   "type": "演出",
+   "venue": "西城区繁星戏剧村伍剧场",
+   "district": "",
+   "start_date": "2026-07-22",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "90起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/305123",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-20",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2568,27 +2551,6 @@
    "sessions": []
   },
   {
-   "title": "小怜个人专场-星座不合的恋爱",
-   "type": "演出",
-   "venue": "魅现场",
-   "district": "",
-   "start_date": "2026-07-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "79起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/301299",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "Gibson之夜 Vol.6 丝绒公路×小羊快跑×LIF乐队",
    "type": "演出",
    "venue": "门空间 The Door Space",
@@ -2610,6 +2572,27 @@
    "sessions": []
   },
   {
+   "title": "小怜个人专场-星座不合的恋爱",
+   "type": "演出",
+   "venue": "魅现场",
+   "district": "",
+   "start_date": "2026-07-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "79起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/301299",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-18",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "【新舞曲 炫世代】 失浪潮2026巡演",
    "type": "演出",
    "venue": "疆进酒·OMNI SPACE（北京）",
@@ -2622,6 +2605,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/303725",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-18",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "开心麻花独角音乐喜剧《求婚女王》",
+   "type": "演出",
+   "venue": "开心麻花通州北投希尔顿沉浸式剧场",
+   "district": "",
+   "start_date": "2026-07-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/303379",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-18",
@@ -2654,9 +2658,9 @@
    "sessions": []
   },
   {
-   "title": "开心麻花独角音乐喜剧《求婚女王》",
+   "title": "烛光音乐会 - 德国科隆Gen Re音乐比赛一等奖-约瑟夫手风琴专场音乐会",
    "type": "演出",
-   "venue": "开心麻花通州北投希尔顿沉浸式剧场",
+   "venue": "三里屯-爱乐汇艺术空间-时空剧场",
    "district": "",
    "start_date": "2026-07-24",
    "end_date": "",
@@ -2665,7 +2669,7 @@
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/303379",
+   "official_url": "https://www.showstart.com/event/303977",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-18",
@@ -2696,9 +2700,9 @@
    "sessions": []
   },
   {
-   "title": "烛光音乐会 - 德国科隆Gen Re音乐比赛一等奖-约瑟夫手风琴专场音乐会",
+   "title": "【北京】金钟之夜·卧虎藏龙--国乐名家音乐会",
    "type": "演出",
-   "venue": "三里屯-爱乐汇艺术空间-时空剧场",
+   "venue": "北京音乐厅",
    "district": "",
    "start_date": "2026-07-24",
    "end_date": "",
@@ -2707,7 +2711,7 @@
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/303977",
+   "official_url": "https://www.showstart.com/event/302383",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-18",
@@ -2738,27 +2742,6 @@
    "sessions": []
   },
   {
-   "title": "原创音乐剧《速记员》",
-   "type": "演出",
-   "venue": "天桥艺术中心-中剧场",
-   "district": "",
-   "start_date": "2026-07-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/297908",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "创新民乐与室内乐跨界融合—如了意演唱会",
    "type": "演出",
    "venue": "五棵松·爱乐汇艺术空间·都市剧场",
@@ -2780,18 +2763,18 @@
    "sessions": []
   },
   {
-   "title": "【北京】金钟之夜·卧虎藏龙--国乐名家音乐会",
+   "title": "原创音乐剧《速记员》",
    "type": "演出",
-   "venue": "北京音乐厅",
+   "venue": "天桥艺术中心-中剧场",
    "district": "",
    "start_date": "2026-07-24",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "100起",
+   "price_range": "180起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/302383",
+   "official_url": "https://www.showstart.com/event/297908",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-18",
@@ -2864,6 +2847,27 @@
    "sessions": []
   },
   {
+   "title": "MISTERK 2026 北京专场",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-07-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/298495",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "缤纷国图2026暑期演出季 童话亲子舞台剧《人鱼公主》",
    "type": "演出",
    "venue": "国图艺术中心",
@@ -2878,27 +2882,6 @@
     "亲子"
    ],
    "official_url": "https://www.showstart.com/event/297722",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "MISTERK 2026 北京专场",
-   "type": "演出",
-   "venue": "MAO Livehouse北京（东郎店）",
-   "district": "",
-   "start_date": "2026-07-25",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/298495",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-19",
@@ -3097,27 +3080,6 @@
    "sessions": []
   },
   {
-   "title": "仲夏奇妙夜—经典名曲交响·合唱音乐会",
-   "type": "演出",
-   "venue": "北京中山音乐堂",
-   "district": "",
-   "start_date": "2026-07-25",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "30起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/300566",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "缤纷国图2026暑期演出季 英文话剧独角戏《一个人的莎士比亚》",
    "type": "演出",
    "venue": "国图艺术中心",
@@ -3223,18 +3185,18 @@
    "sessions": []
   },
   {
-   "title": "山谷居民&王娟&张卓「时间的两种声音」",
+   "title": "仲夏奇妙夜—经典名曲交响·合唱音乐会",
    "type": "演出",
-   "venue": "山谷居民",
+   "venue": "北京中山音乐堂",
    "district": "",
    "start_date": "2026-07-25",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "100起",
+   "price_range": "30起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/303564",
+   "official_url": "https://www.showstart.com/event/300566",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-19",
@@ -3256,6 +3218,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/300857",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "山谷居民&王娟&张卓「时间的两种声音」",
+   "type": "演出",
+   "venue": "山谷居民",
+   "district": "",
+   "start_date": "2026-07-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/303564",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-19",
@@ -3437,6 +3420,48 @@
    "sessions": []
   },
   {
+   "title": "《我只在乎你》--陈佳 2026 邓丽君经典金曲专场演唱会",
+   "type": "演出",
+   "venue": "中山公园音乐堂",
+   "district": "",
+   "start_date": "2026-07-26",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "99起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/291177",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-21",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "DDC 12周年系列演出D3: KyoYoko / 尤瑞卡 / 蒋先贵",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-07-26",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "108起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304331",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "缤纷国图2026暑期演出季 经典传承——著名歌剧序曲与小提琴协奏曲音乐会",
    "type": "演出",
    "venue": "国图艺术中心",
@@ -3449,27 +3474,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/299714",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "《我只在乎你》——陈佳 2026 邓丽君经典金曲专场演唱会",
-   "type": "演出",
-   "venue": "中山音乐堂",
-   "district": "",
-   "start_date": "2026-07-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "99起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/292038",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-19",
