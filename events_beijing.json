@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 11:34 北京时间",
+ "generatedAt": "2026-07-29 22:29 北京时间",
  "count": 150,
  "health": {
   "curated_beijing": {
@@ -9,7 +9,7 @@
   },
   "bendibao_beijing": {
    "status": "ok",
-   "count": 475,
+   "count": 476,
    "last_success": "2026-07-29"
   },
   "laoshechaguan": {
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 98,
+   "count": 97,
    "last_success": "2026-07-29"
   }
  },
@@ -224,6 +224,11 @@
      "u": "https://www.showstart.com/event/301731"
     },
     {
+     "t": "卡普马吉他「声而不凡·盛夏乐章」王晔慜巡回演奏会·北京站",
+     "d": "2026-08-06",
+     "u": "https://www.showstart.com/event/299495"
+    },
+    {
      "t": "张泽",
      "d": "2026-08-08",
      "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=张泽"
@@ -350,6 +355,11 @@
      "t": "西班牙格拉纳达弗拉明戈舞团舞剧《歌剧魅影》",
      "d": "2026-08-01",
      "u": "https://www.showstart.com/event/300070"
+    },
+    {
+     "t": "《Hi!音乐剧·现场》轻综艺秀",
+     "d": "2026-08-06",
+     "u": "https://www.showstart.com/event/304504"
     }
    ]
   },
@@ -405,19 +415,19 @@
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
-     "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-07-29",
-     "u": "https://i.laoshechaguan.cn/list/421954981.html"
-    },
-    {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-07-29",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-07-30",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-07-30",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
+    },
+    {
+     "t": "老舍茶馆京味儿相声专场演出",
+     "d": "2026-07-30",
+     "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
      "t": "老舍茶馆评书专场",
@@ -812,6 +822,11 @@
      "u": "https://www.showstart.com/event/301731"
     },
     {
+     "t": "卡普马吉他「声而不凡·盛夏乐章」王晔慜巡回演奏会·北京站",
+     "d": "2026-08-06",
+     "u": "https://www.showstart.com/event/299495"
+    },
+    {
      "t": "张泽",
      "d": "2026-08-08",
      "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=张泽"
@@ -845,6 +860,11 @@
      "t": "XMASwu吴骜「Chapter.1: XMAS」2026新专辑巡演·北京站",
      "d": "2026-08-01",
      "u": "https://www.showstart.com/event/301731"
+    },
+    {
+     "t": "卡普马吉他「声而不凡·盛夏乐章」王晔慜巡回演奏会·北京站",
+     "d": "2026-08-06",
+     "u": "https://www.showstart.com/event/299495"
     },
     {
      "t": "张泽",
@@ -1177,11 +1197,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨7.29 「The Voice of Sicily」｜Sissy Castrogiovanni—来自《教父》故乡的",
-     "d": "2026-07-29",
-     "u": "https://www.showstart.com/event/305924"
-    },
-    {
      "t": "北京丨7.30 THIS VERY MOMENT《此刻》潘晨希五重奏",
      "d": "2026-07-30",
      "u": "https://www.showstart.com/event/303606"
@@ -1226,11 +1241,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "北方昆曲剧院经典折子戏《西游记•胖姑学舌》《艳云亭•痴诉点香》《金雁桥》",
-     "d": "2026-07-29",
-     "u": "https://www.showstart.com/event/302566"
-    },
     {
      "t": "缤纷国图2026暑期演出季 我歌唱的理由有很多——天使之声经典童声合唱音乐会",
      "d": "2026-07-31",
@@ -1986,6 +1996,27 @@
    "sessions": []
   },
   {
+   "title": "张新成",
+   "type": "演出",
+   "venue": "华熙生物·润百颜中心",
+   "district": "",
+   "start_date": "2026-08-29",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=张新成",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-29",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "赵雷",
    "type": "演出",
    "venue": "国家体育场-鸟巢",
@@ -2268,6 +2299,29 @@
    "sessions": []
   },
   {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-07-30",
+   "end_date": "2026-08-04",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-29",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -2293,7 +2347,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-07-29",
+   "start_date": "2026-07-30",
    "end_date": "2026-08-31",
    "open_ticket_time": "",
    "price_range": "114-266起",
@@ -2303,30 +2357,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-28",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-07-29",
-   "end_date": "2026-08-04",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-28",
+   "first_seen": "2026-07-29",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2375,27 +2406,6 @@
    "sessions": []
   },
   {
-   "title": "Sea Power 2026巡演 北京站",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-福",
-   "district": "",
-   "start_date": "2026-07-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "240起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/303600",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【北京】三里屯X太古里-精品脱口秀《喜剧专场》|每天2点4点7:30演出｜王二狗+即兴喜剧互动秀｜大开心笑果",
    "type": "演出",
    "venue": "爱笑联盟剧场（三里屯SOHO店）",
@@ -2416,69 +2426,6 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": true,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院经典折子戏《西游记•胖姑学舌》《艳云亭•痴诉点香》《金雁桥》",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-07-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302566",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "玫瑰三愿—中国艺术歌曲咏唱会",
-   "type": "演出",
-   "venue": "北京中山音乐堂",
-   "district": "",
-   "start_date": "2026-07-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "30起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/300576",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨7.29 「The Voice of Sicily」｜Sissy Castrogiovanni—来自《教父》故乡的",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-07-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "179",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/305924",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-28",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
    "sessions": []
   },
   {
@@ -2692,27 +2639,6 @@
    "sessions": []
   },
   {
-   "title": "【完整的感动篇章x20首精选曲目】《天空之城》《菊次郎的夏天》久石让&宫崎骏经典视听音乐会",
-   "type": "演出",
-   "venue": "三里屯-爱乐汇-城市演奏厅",
-   "district": "",
-   "start_date": "2026-07-31",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/303793",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-28",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "缤纷国图2026暑期演出季 我歌唱的理由有很多——天使之声经典童声合唱音乐会",
    "type": "演出",
    "venue": "国图艺术中心",
@@ -2736,21 +2662,21 @@
    "sessions": []
   },
   {
-   "title": "【迎八一】交响版“梁祝”·“黄河”——东方经典传世名曲交响音乐会",
+   "title": "【完整的感动篇章x20首精选曲目】《天空之城》《菊次郎的夏天》久石让&宫崎骏经典视听音乐会",
    "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
+   "venue": "三里屯-爱乐汇-城市演奏厅",
    "district": "",
    "start_date": "2026-07-31",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "126起",
+   "price_range": "100起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/302235",
+   "official_url": "https://www.showstart.com/event/303793",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-25",
+   "first_seen": "2026-07-28",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2778,18 +2704,18 @@
    "sessions": []
   },
   {
-   "title": "音乐话剧《10间敢死队》",
+   "title": "【迎八一】交响版“梁祝”·“黄河”——东方经典传世名曲交响音乐会",
    "type": "演出",
-   "venue": "北京保利剧院",
+   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
    "district": "",
    "start_date": "2026-07-31",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "180起",
+   "price_range": "126起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/303474",
+   "official_url": "https://www.showstart.com/event/302235",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-25",
@@ -2814,6 +2740,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "音乐话剧《10间敢死队》",
+   "type": "演出",
+   "venue": "北京保利剧院",
+   "district": "",
+   "start_date": "2026-07-31",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/303474",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-25",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2944,6 +2891,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-27",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "GLORY星际搭车指南 Vol.34",
+   "type": "演出",
+   "venue": "MASK",
+   "district": "",
+   "start_date": "2026-08-01",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "88起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/306055",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-29",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3598,6 +3566,48 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/297501",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "《Hi!音乐剧·现场》轻综艺秀",
+   "type": "演出",
+   "venue": "北京天桥艺术中心",
+   "district": "",
+   "start_date": "2026-08-06",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "280起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304504",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "卡普马吉他「声而不凡·盛夏乐章」王晔慜巡回演奏会·北京站",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-08-06",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/299495",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-26",
