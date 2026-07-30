@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-07-29 22:29 北京时间",
+ "generatedAt": "2026-07-30 11:23 北京时间",
  "count": 150,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-07-29"
+   "last_success": "2026-07-30"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 476,
-   "last_success": "2026-07-29"
+   "last_success": "2026-07-30"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-07-29"
+   "last_success": "2026-07-30"
   },
   "showstart_beijing": {
    "status": "ok",
    "count": 97,
-   "last_success": "2026-07-29"
+   "last_success": "2026-07-30"
   }
  },
  "events": [
@@ -410,11 +410,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-07-29",
-     "u": "https://i.laoshechaguan.cn/list/101457.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-07-30",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
@@ -423,6 +418,11 @@
      "t": "老舍茶馆 亲子皮影戏",
      "d": "2026-07-30",
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
+    },
+    {
+     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
+     "d": "2026-07-30",
+     "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
@@ -1215,6 +1215,11 @@
      "t": "北京丨8.5 中意吉他二重奏「花开东西」——古典吉他的浪漫与乡愁",
      "d": "2026-08-05",
      "u": "https://www.showstart.com/event/304086"
+    },
+    {
+     "t": "北京丨8.6 当国乐遇见 City Pop，八号星云乐团即将登陆京城，奏响都市新国乐！",
+     "d": "2026-08-06",
+     "u": "https://www.showstart.com/event/304277"
     }
    ]
   },
@@ -2326,7 +2331,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-07-29",
+   "start_date": "2026-07-30",
    "end_date": "2026-08-31",
    "open_ticket_time": "",
    "price_range": "171-551起",
@@ -2336,7 +2341,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-07-29",
+   "first_seen": "2026-07-30",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2403,29 +2408,6 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】三里屯X太古里-精品脱口秀《喜剧专场》|每天2点4点7:30演出｜王二狗+即兴喜剧互动秀｜大开心笑果",
-   "type": "演出",
-   "venue": "爱笑联盟剧场（三里屯SOHO店）",
-   "district": "",
-   "start_date": "2026-07-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/301883",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-28",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
    "sessions": []
   },
   {
@@ -2725,27 +2707,6 @@
    "sessions": []
   },
   {
-   "title": "开心麻花王牌爆笑大戏《乌龙山伯爵》",
-   "type": "演出",
-   "venue": "北京世纪剧院",
-   "district": "",
-   "start_date": "2026-07-31",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302865",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-24",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "音乐话剧《10间敢死队》",
    "type": "演出",
    "venue": "北京保利剧院",
@@ -2761,6 +2722,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-25",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "开心麻花王牌爆笑大戏《乌龙山伯爵》",
+   "type": "演出",
+   "venue": "北京世纪剧院",
+   "district": "",
+   "start_date": "2026-07-31",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/302865",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-24",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3386,27 +3368,6 @@
    "sessions": []
   },
   {
-   "title": "缤纷国图2026暑期演出季 鸣琴国乐—古筝青年名家与筝团音乐会",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-08-02",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "98起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/299015",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【爵士在北京】闻镜——拉威尔的音乐织锦 高太行&夏佳萨克斯和钢琴爵士二重奏音乐会",
    "type": "演出",
    "venue": "北京世纪剧院",
@@ -3419,6 +3380,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/304444",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "缤纷国图2026暑期演出季 鸣琴国乐—古筝青年名家与筝团音乐会",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-08-02",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "98起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/299015",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-26",
@@ -3470,27 +3452,6 @@
    "sessions": []
   },
   {
-   "title": "指尖流年 风华四秩—手风琴中外名曲音乐会",
-   "type": "演出",
-   "venue": "北京中山音乐堂",
-   "district": "",
-   "start_date": "2026-08-05",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "30起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/301998",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "卡农Canon in D 百年经典名曲夏日音乐会",
    "type": "演出",
    "venue": "三里屯-爱乐汇-城市演奏厅",
@@ -3506,6 +3467,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-28",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "指尖流年 风华四秩—手风琴中外名曲音乐会",
+   "type": "演出",
+   "venue": "北京中山音乐堂",
+   "district": "",
+   "start_date": "2026-08-05",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "30起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/301998",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-26",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3608,6 +3590,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/299495",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨8.6 当国乐遇见 City Pop，八号星云乐团即将登陆京城，奏响都市新国乐！",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-08-06",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304277",
    "featured": false,
    "note": "",
    "first_seen": "2026-07-26",
