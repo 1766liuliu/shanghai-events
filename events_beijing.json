@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-14 10:42 北京时间",
- "count": 135,
+ "generatedAt": "2026-08-14 21:37 北京时间",
+ "count": 138,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -214,14 +214,14 @@
    "sessions": [],
    "programs": [
     {
-     "t": "朱星杰2026「恒星系」巡演 北京站",
-     "d": "2026-08-14",
-     "u": "https://www.showstart.com/event/302905"
-    },
-    {
      "t": "「夏日花心」花墙x钢心联合专场",
      "d": "2026-08-15",
      "u": "https://www.showstart.com/event/302840"
+    },
+    {
+     "t": "塞西尔·科贝尔 Avec le Vent与风同行二十周年Cécile Corbel-北京站",
+     "d": "2026-08-19",
+     "u": "https://www.showstart.com/event/300895"
     }
    ]
   },
@@ -332,11 +332,6 @@
      "u": "https://www.showstart.com/event/301710"
     },
     {
-     "t": "海上京韵·聚焦京典 2026年上海京剧院北京展演 京剧《四郎探母》",
-     "d": "2026-08-14",
-     "u": "https://www.showstart.com/event/300471"
-    },
-    {
      "t": "海上京韵·聚焦京典 2026年上海京剧院北京展演 京剧《大保国·探皇陵·二进宫》",
      "d": "2026-08-15",
      "u": "https://www.showstart.com/event/300473"
@@ -350,6 +345,11 @@
      "t": "海上京韵·聚焦京典 2026年上海京剧院北京展演 神话京剧《盘丝洞》",
      "d": "2026-08-16",
      "u": "https://www.showstart.com/event/300472"
+    },
+    {
+     "t": "话剧《青青的阿万仓》",
+     "d": "2026-08-19",
+     "u": "https://www.showstart.com/event/307182"
     }
    ]
   },
@@ -401,22 +401,22 @@
    "programs": [
     {
      "t": "老舍经典话剧《茶馆》",
-     "d": "2026-08-13",
+     "d": "2026-08-14",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
     },
     {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-08-13",
+     "d": "2026-08-14",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-08-14",
+     "d": "2026-08-15",
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-08-14",
+     "d": "2026-08-15",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
@@ -736,13 +736,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "旅德钢琴家于添锴《时间的尽头》钢琴独奏音乐会",
-     "d": "2026-08-14",
-     "u": "https://www.showstart.com/event/302216"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "首都体育馆",
@@ -798,14 +792,14 @@
    "sessions": [],
    "programs": [
     {
-     "t": "朱星杰2026「恒星系」巡演 北京站",
-     "d": "2026-08-14",
-     "u": "https://www.showstart.com/event/302905"
-    },
-    {
      "t": "「夏日花心」花墙x钢心联合专场",
      "d": "2026-08-15",
      "u": "https://www.showstart.com/event/302840"
+    },
+    {
+     "t": "塞西尔·科贝尔 Avec le Vent与风同行二十周年Cécile Corbel-北京站",
+     "d": "2026-08-19",
+     "u": "https://www.showstart.com/event/300895"
     }
    ]
   },
@@ -833,14 +827,14 @@
    "sessions": [],
    "programs": [
     {
-     "t": "朱星杰2026「恒星系」巡演 北京站",
-     "d": "2026-08-14",
-     "u": "https://www.showstart.com/event/302905"
-    },
-    {
      "t": "「夏日花心」花墙x钢心联合专场",
      "d": "2026-08-15",
      "u": "https://www.showstart.com/event/302840"
+    },
+    {
+     "t": "塞西尔·科贝尔 Avec le Vent与风同行二十周年Cécile Corbel-北京站",
+     "d": "2026-08-19",
+     "u": "https://www.showstart.com/event/300895"
     }
    ]
   },
@@ -895,6 +889,11 @@
      "t": "北京 | 8月 新空间城市狂想喜剧《狂人与阿狗:保持冷静》",
      "d": "2026-08-14",
      "u": "https://www.showstart.com/event/304949"
+    },
+    {
+     "t": "北京 | 8月 大型沉浸式硬核推理悬疑话剧《旁观者报告》",
+     "d": "2026-08-20",
+     "u": "https://www.showstart.com/event/304808"
     }
    ]
   },
@@ -1187,6 +1186,11 @@
      "t": "北京 | 8.16 在即兴中，听见东方 彤之印象 TONG'S IMPRESSION",
      "d": "2026-08-16",
      "u": "https://www.showstart.com/event/305602"
+    },
+    {
+     "t": "北京丨8.19 情感时代——赵雯《我喜欢没有意义的事物》诗歌音乐会",
+     "d": "2026-08-19",
+     "u": "https://www.showstart.com/event/301782"
     }
    ]
   },
@@ -1214,11 +1218,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "缤纷国图2026暑期演出季 此间真趣--浙派姚门古琴音乐会",
-     "d": "2026-08-14",
-     "u": "https://www.showstart.com/event/302086"
-    },
-    {
      "t": "缤纷国图2026暑期演出季 “致敬大师“朱亦兵独奏&大提琴重奏音乐会",
      "d": "2026-08-15",
      "u": "https://www.showstart.com/event/304677"
@@ -1232,6 +1231,11 @@
      "t": "北方昆曲剧院经典折子戏 《牡丹亭•春香闹学》《精忠记•刺字》《铁冠图•刺虎》",
      "d": "2026-08-17",
      "u": "https://www.showstart.com/event/305288"
+    },
+    {
+     "t": "北方昆曲剧院经典折子戏 《幽闺记•拜月》《荆钗记•见娘》《白蛇传•盗库银》",
+     "d": "2026-08-19",
+     "u": "https://www.showstart.com/event/305297"
     }
    ]
   },
@@ -2194,7 +2198,7 @@
    "type": "演出",
    "venue": "老舍茶馆",
    "district": "",
-   "start_date": "2026-08-13",
+   "start_date": "2026-08-14",
    "end_date": "2026-09-27",
    "open_ticket_time": "",
    "price_range": "116-369起",
@@ -2204,7 +2208,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/327317671.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-09",
+   "first_seen": "2026-08-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2215,7 +2219,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-13",
+   "start_date": "2026-08-14",
    "end_date": "2026-09-30",
    "open_ticket_time": "",
    "price_range": "171-551起",
@@ -2225,7 +2229,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-13",
+   "first_seen": "2026-08-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2236,7 +2240,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-14",
+   "start_date": "2026-08-15",
    "end_date": "2026-08-18",
    "open_ticket_time": "",
    "price_range": "76-95起",
@@ -2248,7 +2252,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-13",
+   "first_seen": "2026-08-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2259,7 +2263,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-14",
+   "start_date": "2026-08-15",
    "end_date": "2026-09-30",
    "open_ticket_time": "",
    "price_range": "114-266起",
@@ -2269,7 +2273,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-13",
+   "first_seen": "2026-08-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2339,27 +2343,6 @@
    "sessions": []
   },
   {
-   "title": "朱星杰2026「恒星系」巡演 北京站",
-   "type": "演出",
-   "venue": "MAO Livehouse北京（东郎店）",
-   "district": "",
-   "start_date": "2026-08-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "288起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302905",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-08",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "平行世界的夏夜｜二区六楼, 没发霉, 二向箔",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -2402,27 +2385,6 @@
    "sessions": []
   },
   {
-   "title": "郭德纲先生长篇单口相声改编 秦霄贤、杨九郎、朱美吉主演 话剧《卿卿误我》",
-   "type": "演出",
-   "venue": "天桥艺术中心（大剧场）",
-   "district": "",
-   "start_date": "2026-08-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/301710",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "江西文演·陆川导演作品舞剧《天工开物》",
    "type": "演出",
    "venue": "北京保利剧院",
@@ -2444,39 +2406,18 @@
    "sessions": []
   },
   {
-   "title": "缤纷国图2026暑期演出季 此间真趣--浙派姚门古琴音乐会",
+   "title": "郭德纲先生长篇单口相声改编 秦霄贤、杨九郎、朱美吉主演 话剧《卿卿误我》",
    "type": "演出",
-   "venue": "国图艺术中心",
+   "venue": "天桥艺术中心（大剧场）",
    "district": "",
    "start_date": "2026-08-14",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "88起",
+   "price_range": "180起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/302086",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "琴侣—音乐侣途钢琴主题音乐会",
-   "type": "演出",
-   "venue": "中华世纪坛剧场",
-   "district": "",
-   "start_date": "2026-08-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "96起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/303969",
+   "official_url": "https://www.showstart.com/event/301710",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-09",
@@ -2507,48 +2448,6 @@
    "sessions": []
   },
   {
-   "title": "如梦之境 蝶恋四季—小提琴与钢琴名曲音乐会",
-   "type": "演出",
-   "venue": "北京中山音乐堂",
-   "district": "",
-   "start_date": "2026-08-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "30起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/297504",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "海上京韵·聚焦京典 2026年上海京剧院北京展演 京剧《四郎探母》",
-   "type": "演出",
-   "venue": "天桥艺术中心-中剧场",
-   "district": "",
-   "start_date": "2026-08-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/300471",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京 | 8月 新空间城市狂想喜剧《狂人与阿狗:保持冷静》",
    "type": "演出",
    "venue": "西城区繁星戏剧村伍剧场",
@@ -2561,27 +2460,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/304949",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "旅德钢琴家于添锴《时间的尽头》钢琴独奏音乐会",
-   "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
-   "district": "",
-   "start_date": "2026-08-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "126起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302216",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-09",
@@ -3034,6 +2912,27 @@
    "sessions": []
   },
   {
+   "title": "❀她吃花花幼稚园❀",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-08-16",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "77起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307576",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "GLORY星际搭车指南Vol.36",
    "type": "演出",
    "venue": "东三LIVE乐游园",
@@ -3261,6 +3160,174 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "塞西尔·科贝尔 Avec le Vent与风同行二十周年Cécile Corbel-北京站",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-08-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "299起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/300895",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "玫瑰人生—浪漫竖琴之夜音乐会",
+   "type": "演出",
+   "venue": "北京中山音乐堂",
+   "district": "",
+   "start_date": "2026-08-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "30起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/297505",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北方昆曲剧院经典折子戏 《幽闺记•拜月》《荆钗记•见娘》《白蛇传•盗库银》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-08-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/305297",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "“爱的就是你”华语情歌天花板-七夕情歌演唱会",
+   "type": "演出",
+   "venue": "三里屯-爱乐汇艺术空间-时空剧场",
+   "district": "",
+   "start_date": "2026-08-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/305987",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "话剧《青青的阿万仓》",
+   "type": "演出",
+   "venue": "天桥艺术中心-中剧场",
+   "district": "",
+   "start_date": "2026-08-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "60起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307182",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "七夕情人节演唱会「以爱之名」·北京站",
+   "type": "演出",
+   "venue": "魅现场",
+   "district": "",
+   "start_date": "2026-08-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "88起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304578",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨8.19 情感时代——赵雯《我喜欢没有意义的事物》诗歌音乐会",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-08-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/301782",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京 | 8月 大型沉浸式硬核推理悬疑话剧《旁观者报告》",
+   "type": "演出",
+   "venue": "繁星戏剧村贰剧场",
+   "district": "",
+   "start_date": "2026-08-20",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "126起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304808",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
