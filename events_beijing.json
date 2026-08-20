@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-08-20 09:48 北京时间",
- "count": 137,
+ "generatedAt": "2026-08-20 21:08 北京时间",
+ "count": 140,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 97,
+   "count": 99,
    "last_success": "2026-08-20"
   }
  },
@@ -395,23 +395,23 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-08-19",
-     "u": "https://i.laoshechaguan.cn/list/101457.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-08-20",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
     },
     {
-     "t": "老舍茶馆 亲子皮影戏",
+     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
      "d": "2026-08-20",
+     "u": "https://i.laoshechaguan.cn/list/101457.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-08-21",
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-08-20",
+     "d": "2026-08-21",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
@@ -2139,11 +2139,32 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆 亲子皮影戏",
+   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
    "start_date": "2026-08-20",
+   "end_date": "2026-09-30",
+   "open_ticket_time": "",
+   "price_range": "171-551起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-08-21",
    "end_date": "2026-08-25",
    "open_ticket_time": "",
    "price_range": "76-95起",
@@ -2155,7 +2176,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-19",
+   "first_seen": "2026-08-20",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2166,7 +2187,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-20",
+   "start_date": "2026-08-21",
    "end_date": "2026-09-30",
    "open_ticket_time": "",
    "price_range": "114-266起",
@@ -2176,28 +2197,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-08-19",
-   "end_date": "2026-09-30",
-   "open_ticket_time": "",
-   "price_range": "171-551起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-19",
+   "first_seen": "2026-08-20",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2605,6 +2605,27 @@
    "sessions": []
   },
   {
+   "title": "DOKIFES！心跳庆典",
+   "type": "演出",
+   "venue": "门空间 The Door Space",
+   "district": "",
+   "start_date": "2026-08-22",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "77.99",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307084",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "《爵士动画城》亲子趣味音乐会",
    "type": "演出",
    "venue": "中华世纪坛剧场",
@@ -2903,6 +2924,27 @@
    "sessions": []
   },
   {
+   "title": "意大利另类摇滚乐队 REVUE (IT, alt-rock/punk)",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-08-22",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "108起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308073",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "星乐流光游戏动漫派对【北京漫展】",
    "type": "演出",
    "venue": "北京朝阳派对梦工厂",
@@ -2918,6 +2960,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-16",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "她吃了那朵花·拾玖·Blues øjeblikket",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-08-23",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "67起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308096",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-20",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
