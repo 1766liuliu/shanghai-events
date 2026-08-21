@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-08-20 21:08 北京时间",
- "count": 140,
+ "generatedAt": "2026-08-21 09:55 北京时间",
+ "count": 138,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-08-20"
+   "last_success": "2026-08-21"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 478,
-   "last_success": "2026-08-20"
+   "last_success": "2026-08-21"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-08-20"
+   "last_success": "2026-08-21"
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 99,
-   "last_success": "2026-08-20"
+   "count": 98,
+   "last_success": "2026-08-21"
   }
  },
  "events": [
@@ -868,13 +868,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "北京 | 8月 大型沉浸式硬核推理悬疑话剧《旁观者报告》",
-     "d": "2026-08-20",
-     "u": "https://www.showstart.com/event/304808"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "国家会议中心",
@@ -1152,11 +1146,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨8.20 Aaron Parks A VERY SPECIAL TRIO 北京专场",
-     "d": "2026-08-20",
-     "u": "https://www.showstart.com/event/306878"
-    },
-    {
      "t": "北京丨8.21 以钢琴之名，向巨人致敬——阿布演绎不朽琴声",
      "d": "2026-08-21",
      "u": "https://www.showstart.com/event/306462"
@@ -1202,11 +1191,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北方昆曲剧院经典折子戏 《西游记•胖姑学舌》《千忠戮•草诏》《烂柯山•痴梦》",
-     "d": "2026-08-20",
-     "u": "https://www.showstart.com/event/305298"
-    },
-    {
      "t": "缤纷国图2026暑期演出季 古典不古板：当脱口秀遇见室内乐",
      "d": "2026-08-21",
      "u": "https://www.showstart.com/event/297768"
@@ -1225,6 +1209,11 @@
      "t": "北方昆曲剧院经典折子戏 《牡丹亭•春香闹学》《鸣凤记•嵩寿》《状元印》",
      "d": "2026-08-24",
      "u": "https://www.showstart.com/event/305728"
+    },
+    {
+     "t": "北方昆曲剧院经典折子戏 《连环记•议剑》《连环记•问探》《连环记•梳妆掷戟》",
+     "d": "2026-08-25",
+     "u": "https://www.showstart.com/event/306031"
     }
    ]
   },
@@ -2240,69 +2229,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-16",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院经典折子戏 《西游记•胖姑学舌》《千忠戮•草诏》《烂柯山•痴梦》",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-08-20",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/305298",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-15",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨8.20 Aaron Parks A VERY SPECIAL TRIO 北京专场",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-08-20",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "330起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/306878",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-15",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京 | 8月 大型沉浸式硬核推理悬疑话剧《旁观者报告》",
-   "type": "演出",
-   "venue": "繁星戏剧村贰剧场",
-   "district": "",
-   "start_date": "2026-08-20",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "126起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/304808",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3359,6 +3285,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "Temples 2026 新专巡演 北京站",
+   "type": "演出",
+   "venue": "福浪LIVEHOUSE-福",
+   "district": "",
+   "start_date": "2026-08-28",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "248起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/306666",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-21",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
