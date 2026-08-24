@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 09:55 北京时间",
+ "generatedAt": "2026-08-24 21:10 北京时间",
  "count": 136,
  "health": {
   "curated_beijing": {
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 96,
+   "count": 95,
    "last_success": "2026-08-24"
   }
  },
@@ -406,17 +406,17 @@
    "programs": [
     {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-08-23",
+     "d": "2026-08-24",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-08-24",
+     "d": "2026-08-25",
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-08-24",
+     "d": "2026-08-25",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
@@ -1202,9 +1202,9 @@
      "u": "https://www.showstart.com/event/306286"
     },
     {
-     "t": "北京丨9.3 听她们的！黑莓社全女子爵士乐队 原创专场",
-     "d": "2026-09-03",
-     "u": "https://www.showstart.com/event/308160"
+     "t": "北京丨9.2 当吉普赛爵士遇见探戈，一场浪漫与激情的碰撞",
+     "d": "2026-09-02",
+     "u": "https://www.showstart.com/event/308334"
     }
    ]
   },
@@ -2079,7 +2079,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-24",
+   "start_date": "2026-08-25",
    "end_date": "2026-09-02",
    "open_ticket_time": "",
    "price_range": "76-95起",
@@ -2091,7 +2091,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-23",
+   "first_seen": "2026-08-24",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2102,7 +2102,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-24",
+   "start_date": "2026-08-25",
    "end_date": "2026-09-30",
    "open_ticket_time": "",
    "price_range": "114-266起",
@@ -2112,7 +2112,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-23",
+   "first_seen": "2026-08-24",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2123,7 +2123,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-23",
+   "start_date": "2026-08-24",
    "end_date": "2026-09-30",
    "open_ticket_time": "",
    "price_range": "171-551起",
@@ -2133,7 +2133,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-23",
+   "first_seen": "2026-08-24",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2455,6 +2455,27 @@
    "sessions": []
   },
   {
+   "title": "2026·MOGU 蘑菇夏日音乐季 Vol.1 | 我们再次相聚",
+   "type": "演出",
+   "venue": "海淀二河开21号艺术区露天音乐广场",
+   "district": "",
+   "start_date": "2026-08-28",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "38起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307230",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "出发 · 狮童乐队2026巡演北京站",
    "type": "演出",
    "venue": "福浪LIVEHOUSE-浪",
@@ -2469,27 +2490,6 @@
     "亲子"
    ],
    "official_url": "https://www.showstart.com/event/302334",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "2026·MOGU 蘑菇夏日音乐季 Vol.1 | 我们再次相聚",
-   "type": "演出",
-   "venue": "海淀二河开21号艺术区露天音乐广场",
-   "district": "",
-   "start_date": "2026-08-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "38起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307230",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-22",
@@ -3236,6 +3236,27 @@
    "sessions": []
   },
   {
+   "title": "北京丨9.2 当吉普赛爵士遇见探戈，一场浪漫与激情的碰撞",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-09-02",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308334",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "北京丨9.3 听她们的！黑莓社全女子爵士乐队 原创专场",
    "type": "演出",
    "venue": "Blue Note Beijing",
@@ -3269,27 +3290,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/302424",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-24",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "亚森「荒漠上行走II」2026巡演·北京站",
-   "type": "演出",
-   "venue": "1919 LIVEHOUSE",
-   "district": "",
-   "start_date": "2026-09-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "279起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/300619",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-24",
