@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-08-24 21:10 北京时间",
+ "generatedAt": "2026-08-25 09:49 北京时间",
  "count": 136,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-08-24"
+   "last_success": "2026-08-25"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 478,
-   "last_success": "2026-08-24"
+   "last_success": "2026-08-25"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-08-24"
+   "last_success": "2026-08-25"
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 95,
-   "last_success": "2026-08-24"
+   "count": 96,
+   "last_success": "2026-08-25"
   }
  },
  "events": [
@@ -1232,11 +1232,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北方昆曲剧院经典折子戏 《牡丹亭•春香闹学》《鸣凤记•嵩寿》《状元印》",
-     "d": "2026-08-24",
-     "u": "https://www.showstart.com/event/305728"
-    },
-    {
      "t": "北方昆曲剧院经典折子戏 《连环记•议剑》《连环记•问探》《连环记•梳妆掷戟》",
      "d": "2026-08-25",
      "u": "https://www.showstart.com/event/306031"
@@ -2182,48 +2177,6 @@
    "sessions": []
   },
   {
-   "title": "北方昆曲剧院：昆曲《牡丹亭》",
-   "type": "演出",
-   "venue": "北京中山音乐堂",
-   "district": "",
-   "start_date": "2026-08-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "30起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302001",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-17",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院经典折子戏 《牡丹亭•春香闹学》《鸣凤记•嵩寿》《状元印》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-08-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/305728",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-17",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "话剧《麦克白夫人是谁？》",
    "type": "演出",
    "venue": "北京 天桥艺术中心小剧场",
@@ -2940,6 +2893,27 @@
    "sessions": []
   },
   {
+   "title": "我们的爱-流金岁月金曲音乐会",
+   "type": "演出",
+   "venue": "中华世纪坛剧场",
+   "district": "",
+   "start_date": "2026-08-29",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "60起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/305212",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-23",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "一起“玩”大提！—杨一晨师生音乐会",
    "type": "演出",
    "venue": "北京中山音乐堂",
@@ -2973,27 +2947,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/306153",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "我们的爱-流金岁月金曲音乐会",
-   "type": "演出",
-   "venue": "中华世纪坛剧场",
-   "district": "",
-   "start_date": "2026-08-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "60起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/305212",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-23",
@@ -3293,6 +3246,48 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "亚森「荒漠上行走II」2026巡演·北京站",
+   "type": "演出",
+   "venue": "1919 LIVEHOUSE",
+   "district": "",
+   "start_date": "2026-09-04",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "279起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/300619",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "英格威·玛姆斯汀40周年纪念演唱会-北京站",
+   "type": "演出",
+   "venue": "东三LIVE乐游园",
+   "district": "",
+   "start_date": "2026-09-04",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "580起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307507",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-25",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
