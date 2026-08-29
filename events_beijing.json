@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-29 06:15 北京时间",
- "count": 131,
+ "generatedAt": "2026-08-29 15:00 北京时间",
+ "count": 128,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-08-28"
+   "last_success": "2026-08-29"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 478,
-   "last_success": "2026-08-28"
+   "last_success": "2026-08-29"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 92,
-   "last_success": "2026-08-28"
+   "last_success": "2026-08-29"
   }
  },
  "events": [
@@ -282,13 +282,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "2026中国美术馆从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
-     "d": "2026-04-28",
-     "u": "http://bj.bendibao.com/xiuxian/2026421/382134.shtm"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "798艺术区",
@@ -337,11 +331,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "《来自三伯爵的请柬 》2026音乐会",
-     "d": "2026-08-28",
-     "u": "https://www.showstart.com/event/297207"
-    },
     {
      "t": "咸阳原创秦文化主题话剧《秦筝》",
      "d": "2026-09-02",
@@ -726,11 +715,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "光辉岁月·海阔天空 —— 纪念BEYOND金曲演唱会",
-     "d": "2026-08-28",
-     "u": "https://www.showstart.com/event/300288"
-    },
     {
      "t": "致敬《乐满哈瓦那》发行30周年音乐会",
      "d": "2026-09-01",
@@ -2018,27 +2002,6 @@
    "sessions": []
   },
   {
-   "title": "2026中国美术馆从达·芬奇到卡拉瓦乔——意大利文艺复兴名作展",
-   "type": "展会",
-   "venue": "中国美术馆",
-   "district": "",
-   "start_date": "2026-04-28",
-   "end_date": "2026-08-28",
-   "open_ticket_time": "",
-   "price_range": "60-120元",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "http://bj.bendibao.com/xiuxian/2026421/382134.shtm",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-04",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "老舍经典话剧《茶馆》",
    "type": "演出",
    "venue": "老舍茶馆",
@@ -2161,92 +2124,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】前门【三喜剧场】｜爆笑脱口秀、亲子魔术喜剧、漫才、即兴 精品秀！知名卡司带你爆笑游前门！",
-   "type": "演出",
-   "venue": "前门曼联脱口秀三喜剧场",
-   "district": "",
-   "start_date": "2026-08-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/306053",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-27",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
-   "sessions": []
-  },
-  {
-   "title": "2026·MOGU 蘑菇夏日音乐季 Vol.1 | 我们再次相聚",
-   "type": "演出",
-   "venue": "海淀二河开21号艺术区露天音乐广场",
-   "district": "",
-   "start_date": "2026-08-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "38起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307230",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "光辉岁月·海阔天空 —— 纪念BEYOND金曲演唱会",
-   "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市剧场",
-   "district": "",
-   "start_date": "2026-08-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "90起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/300288",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "《来自三伯爵的请柬 》2026音乐会",
-   "type": "演出",
-   "venue": "天桥艺术中心（大剧场）",
-   "district": "",
-   "start_date": "2026-08-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/297207",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-22",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3173,6 +3050,48 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-28",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "2026·奥森计划·闹（ Awesome·Project·Now）",
+   "type": "演出",
+   "venue": "北京奥林匹克森林公园南园南门露天剧场",
+   "district": "",
+   "start_date": "2026-09-05",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "188起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/305214",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-29",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "贊詩乐队「始至中州记」2026十城巡演 北京站",
+   "type": "演出",
+   "venue": "蛙厂RMMF·北京798店",
+   "district": "",
+   "start_date": "2026-09-05",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "138起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304935",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-29",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
