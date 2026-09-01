@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-01 13:02 北京时间",
- "count": 148,
+ "generatedAt": "2026-09-02 00:35 北京时间",
+ "count": 149,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -739,6 +739,11 @@
      "t": "【蓝色多瑙河圆舞曲】纪念维也纳“圆舞曲之王”小约翰·施特劳斯经典作品交响音乐会",
      "d": "2026-09-06",
      "u": "https://www.showstart.com/event/305320"
+    },
+    {
+     "t": "无限琴韵·桂冠回响-手风琴世界冠军Radu Ratoi拉杜·拉托伊音乐会 北京站",
+     "d": "2026-09-11",
+     "u": "https://www.showstart.com/event/303151"
     }
    ]
   },
@@ -2930,27 +2935,6 @@
    "sessions": []
   },
   {
-   "title": "【09.05北京】下班了班金润—鸠鸠Jiojio&Fimoo2026盲盒巡演",
-   "type": "演出",
-   "venue": "菇的LIVE·蘑菇洞",
-   "district": "",
-   "start_date": "2026-09-05",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "69起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/306917",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-29",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "《空弦驱动 -古今同频》阮咸电子即兴现场音乐会",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -3518,6 +3502,27 @@
    "sessions": []
   },
   {
+   "title": "「Beats by IJAPA」陈昊然×郭子翔 Live Beat Session",
+   "type": "演出",
+   "venue": "三里屯-爱乐汇艺术空间-时空剧场",
+   "district": "",
+   "start_date": "2026-09-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308044",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-31",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "Trace Bundy 2004-2026黄金时代《Adapt》指弹吉他音乐会 北京站",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -3539,9 +3544,9 @@
    "sessions": []
   },
   {
-   "title": "「Beats by IJAPA」陈昊然×郭子翔 Live Beat Session",
+   "title": "话剧《杂物间里的麦克白》｜林溪儿戏剧作品",
    "type": "演出",
-   "venue": "三里屯-爱乐汇艺术空间-时空剧场",
+   "venue": "北京天桥艺术中心",
    "district": "",
    "start_date": "2026-09-11",
    "end_date": "",
@@ -3550,10 +3555,31 @@
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/308044",
+   "official_url": "https://www.showstart.com/event/301501",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-31",
+   "first_seen": "2026-09-01",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "无限琴韵·桂冠回响-手风琴世界冠军Radu Ratoi拉杜·拉托伊音乐会 北京站",
+   "type": "演出",
+   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
+   "district": "",
+   "start_date": "2026-09-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/303151",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-01",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
