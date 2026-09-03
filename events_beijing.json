@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-03 12:18 北京时间",
- "count": 141,
+ "generatedAt": "2026-09-04 00:23 北京时间",
+ "count": 143,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -13,10 +13,9 @@
    "last_success": "2026-09-03"
   },
   "laoshechaguan": {
-   "status": "failed",
-   "count": 0,
-   "kept": 6,
-   "last_success": "2026-08-28"
+   "status": "ok",
+   "count": 6,
+   "last_success": "2026-09-03"
   },
   "showstart_beijing": {
    "status": "ok",
@@ -396,28 +395,28 @@
    "programs": [
     {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-08-28",
+     "d": "2026-09-03",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
-     "t": "老舍经典话剧《茶馆》",
-     "d": "2026-08-29",
-     "u": "https://i.laoshechaguan.cn/list/327317671.html"
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-09-03",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-08-29",
+     "d": "2026-09-04",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
-     "t": "老舍茶馆评书专场",
-     "d": "2026-08-30",
-     "u": "https://i.laoshechaguan.cn/list/135648773.html"
+     "t": "老舍经典话剧《茶馆》",
+     "d": "2026-09-05",
+     "u": "https://i.laoshechaguan.cn/list/327317671.html"
     },
     {
-     "t": "北京曲艺团&老舍茶馆《鼓曲》专场",
-     "d": "2026-08-30",
-     "u": "https://i.laoshechaguan.cn/list/101485.html"
+     "t": "老舍茶馆评书专场",
+     "d": "2026-09-06",
+     "u": "https://i.laoshechaguan.cn/list/135648773.html"
     }
    ]
   },
@@ -1187,11 +1186,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨9.3 听她们的！黑莓社全女子爵士乐队 原创专场",
-     "d": "2026-09-03",
-     "u": "https://www.showstart.com/event/308160"
-    },
-    {
      "t": "北京丨9.4 MOE《莫名期待》Blue Note Beijing特别专场",
      "d": "2026-09-04",
      "u": "https://www.showstart.com/event/307380"
@@ -1210,6 +1204,11 @@
      "t": "北京丨9.10 秋日私语——徐晨曦爵士五重奏",
      "d": "2026-09-10",
      "u": "https://www.showstart.com/event/308428"
+    },
+    {
+     "t": "北京丨9.11-12 「Johnny O'Neal Plays and Sings the American Songb",
+     "d": "2026-09-11",
+     "u": "https://www.showstart.com/event/307604"
     }
    ]
   },
@@ -2044,17 +2043,17 @@
    "type": "演出",
    "venue": "老舍茶馆",
    "district": "",
-   "start_date": "2026-08-29",
-   "end_date": "2026-09-27",
+   "start_date": "2026-09-05",
+   "end_date": "2026-10-31",
    "open_ticket_time": "",
-   "price_range": "116-369起",
+   "price_range": "116-456起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
    "official_url": "https://i.laoshechaguan.cn/list/327317671.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-23",
+   "first_seen": "2026-09-03",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2065,17 +2064,17 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-28",
-   "end_date": "2026-09-30",
+   "start_date": "2026-09-03",
+   "end_date": "2026-10-31",
    "open_ticket_time": "",
-   "price_range": "171-551起",
+   "price_range": "114-551起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-28",
+   "first_seen": "2026-09-03",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2086,8 +2085,8 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-29",
-   "end_date": "2026-09-30",
+   "start_date": "2026-09-04",
+   "end_date": "2026-10-31",
    "open_ticket_time": "",
    "price_range": "114-266起",
    "kid_friendly": false,
@@ -2096,7 +2095,30 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-28",
+   "first_seen": "2026-09-03",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-09-03",
+   "end_date": "2026-09-08",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-03",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2107,8 +2129,8 @@
    "type": "演出",
    "venue": "老舍茶馆二层艺苑厅",
    "district": "",
-   "start_date": "2026-08-30",
-   "end_date": "2026-09-27",
+   "start_date": "2026-09-06",
+   "end_date": "2026-10-25",
    "open_ticket_time": "",
    "price_range": "76-95起",
    "kid_friendly": false,
@@ -2117,7 +2139,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/135648773.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-23",
+   "first_seen": "2026-09-03",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2128,8 +2150,8 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-08-30",
-   "end_date": "2026-09-27",
+   "start_date": "2026-09-06",
+   "end_date": "2026-10-25",
    "open_ticket_time": "",
    "price_range": "95-228起",
    "kid_friendly": false,
@@ -2138,28 +2160,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/101485.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-08-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨9.3 听她们的！黑莓社全女子爵士乐队 原创专场",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-09-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308160",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-24",
+   "first_seen": "2026-09-03",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2525,6 +2526,27 @@
    "sessions": []
   },
   {
+   "title": "GLORY星际搭车指南 Vol.39",
+   "type": "演出",
+   "venue": "MASK",
+   "district": "",
+   "start_date": "2026-09-05",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "88起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308733",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-03",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "音乐剧《蝶变》",
    "type": "演出",
    "venue": "北京 天桥艺术中心小剧场",
@@ -2647,6 +2669,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-29",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "紫禁之巅 Vol.2前夜祭 —— 武动乾坤",
+   "type": "演出",
+   "venue": "梓驿Space（朝阳门店）",
+   "district": "",
+   "start_date": "2026-09-05",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "78起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309003",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-03",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3346,27 +3389,6 @@
    "sessions": []
   },
   {
-   "title": "Trace Bundy 2004-2026黄金时代《Adapt》指弹吉他音乐会 北京站",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-09-11",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/299658",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-31",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "「Beats by IJAPA」陈昊然×郭子翔 Live Beat Session",
    "type": "演出",
    "venue": "三里屯-爱乐汇艺术空间-时空剧场",
@@ -3379,6 +3401,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/308044",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-08-31",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "Trace Bundy 2004-2026黄金时代《Adapt》指弹吉他音乐会 北京站",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-09-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/299658",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-31",
