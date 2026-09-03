@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-03 00:31 北京时间",
- "count": 145,
+ "generatedAt": "2026-09-03 12:18 北京时间",
+ "count": 141,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-09-02"
+   "last_success": "2026-09-03"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 480,
-   "last_success": "2026-09-02"
+   "last_success": "2026-09-03"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 100,
-   "last_success": "2026-09-02"
+   "last_success": "2026-09-03"
   }
  },
  "events": [
@@ -72,11 +72,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "第七届全国少数民族文艺会演《雪山大地》",
-     "d": "2026-09-02",
-     "u": "https://www.showstart.com/event/307811"
-    },
     {
      "t": "第七届全国少数民族文艺会演《天山雪》",
      "d": "2026-09-07",
@@ -327,11 +322,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "咸阳原创秦文化主题话剧《秦筝》",
-     "d": "2026-09-02",
-     "u": "https://www.showstart.com/event/307115"
-    },
-    {
      "t": "话剧《我们成为的她》",
      "d": "2026-09-04",
      "u": "https://www.showstart.com/event/302022"
@@ -350,6 +340,11 @@
      "t": "俄语原版摇滚音乐剧《卡拉马佐夫兄弟》",
      "d": "2026-09-10",
      "u": "https://www.showstart.com/event/306101"
+    },
+    {
+     "t": "话剧《杂物间里的麦克白》｜林溪儿戏剧作品",
+     "d": "2026-09-11",
+     "u": "https://www.showstart.com/event/301501"
     }
    ]
   },
@@ -405,11 +400,6 @@
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-08-28",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-08-29",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
@@ -423,6 +413,11 @@
      "t": "老舍茶馆评书专场",
      "d": "2026-08-30",
      "u": "https://i.laoshechaguan.cn/list/135648773.html"
+    },
+    {
+     "t": "北京曲艺团&老舍茶馆《鼓曲》专场",
+     "d": "2026-08-30",
+     "u": "https://i.laoshechaguan.cn/list/101485.html"
     }
    ]
   },
@@ -1242,11 +1237,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "第七届全国少数民族文艺会演《国乐咏中华》",
-     "d": "2026-09-02",
-     "u": "https://www.showstart.com/event/308103"
-    },
-    {
      "t": "无问西东——李仓枭胡琴中外民族音乐专场音乐会（北京站）",
      "d": "2026-09-05",
      "u": "https://www.showstart.com/event/304020"
@@ -1265,6 +1255,11 @@
      "t": "北方昆曲剧院经典折子戏 《夺锦标•扈家庄》《双熊梦•男监》《长生殿•小宴》",
      "d": "2026-09-08",
      "u": "https://www.showstart.com/event/308158"
+    },
+    {
+     "t": "音乐朗诵会《声音的暖流之山河入梦》",
+     "d": "2026-09-10",
+     "u": "https://www.showstart.com/event/306928"
     }
    ]
   },
@@ -2087,29 +2082,6 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-08-28",
-   "end_date": "2026-09-02",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-27",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "老舍茶馆京味儿相声专场演出",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -2167,69 +2139,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "咸阳原创秦文化主题话剧《秦筝》",
-   "type": "演出",
-   "venue": "天桥艺术中心-中剧场",
-   "district": "",
-   "start_date": "2026-09-02",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "60起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307115",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-24",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "第七届全国少数民族文艺会演《雪山大地》",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-09-02",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307811",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-25",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "第七届全国少数民族文艺会演《国乐咏中华》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-02",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308103",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-24",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
