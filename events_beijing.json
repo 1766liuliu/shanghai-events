@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-04 12:25 北京时间",
- "count": 143,
+ "generatedAt": "2026-09-05 00:18 北京时间",
+ "count": 145,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -76,6 +76,11 @@
      "t": "第七届全国少数民族文艺会演《天山雪》",
      "d": "2026-09-07",
      "u": "https://www.showstart.com/event/307350"
+    },
+    {
+     "t": "第七届全国少数民族文艺会演《美好生活》",
+     "d": "2026-09-11",
+     "u": "https://www.showstart.com/event/307352"
     }
    ]
   },
@@ -210,11 +215,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "康熙2026“天空树”巡演 北京站",
-     "d": "2026-09-04",
-     "u": "https://www.showstart.com/event/306469"
-    },
-    {
      "t": "山形瑞秋The Starlit Alchemy Tour 2026 — 北京站",
      "d": "2026-09-06",
      "u": "https://www.showstart.com/event/305731"
@@ -223,6 +223,11 @@
      "t": "icyball冰球乐团 2026「我很抱歉」巡演 北京场",
      "d": "2026-09-09",
      "u": "https://www.showstart.com/event/302701"
+    },
+    {
+     "t": "郁乐队2026-2027“惊恐症”巡演-北京站",
+     "d": "2026-09-12",
+     "u": "https://www.showstart.com/event/307819"
     }
    ]
   },
@@ -325,11 +330,6 @@
      "t": "话剧《我们成为的她》",
      "d": "2026-09-04",
      "u": "https://www.showstart.com/event/302022"
-    },
-    {
-     "t": "百老汇摇滚音乐剧《LIZZIE丽兹》镜框式中文版巡演 北京站",
-     "d": "2026-09-04",
-     "u": "https://www.showstart.com/event/307733"
     },
     {
      "t": "音乐剧《蝶变》",
@@ -729,6 +729,11 @@
      "t": "【蓝色多瑙河圆舞曲】纪念维也纳“圆舞曲之王”小约翰·施特劳斯经典作品交响音乐会",
      "d": "2026-09-06",
      "u": "https://www.showstart.com/event/305320"
+    },
+    {
+     "t": "无限琴韵·桂冠回响-手风琴世界冠军Radu Ratoi拉杜·拉托伊音乐会 北京站",
+     "d": "2026-09-11",
+     "u": "https://www.showstart.com/event/303151"
     }
    ]
   },
@@ -791,11 +796,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "康熙2026“天空树”巡演 北京站",
-     "d": "2026-09-04",
-     "u": "https://www.showstart.com/event/306469"
-    },
-    {
      "t": "山形瑞秋The Starlit Alchemy Tour 2026 — 北京站",
      "d": "2026-09-06",
      "u": "https://www.showstart.com/event/305731"
@@ -804,6 +804,11 @@
      "t": "icyball冰球乐团 2026「我很抱歉」巡演 北京场",
      "d": "2026-09-09",
      "u": "https://www.showstart.com/event/302701"
+    },
+    {
+     "t": "郁乐队2026-2027“惊恐症”巡演-北京站",
+     "d": "2026-09-12",
+     "u": "https://www.showstart.com/event/307819"
     }
    ]
   },
@@ -831,11 +836,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "康熙2026“天空树”巡演 北京站",
-     "d": "2026-09-04",
-     "u": "https://www.showstart.com/event/306469"
-    },
-    {
      "t": "山形瑞秋The Starlit Alchemy Tour 2026 — 北京站",
      "d": "2026-09-06",
      "u": "https://www.showstart.com/event/305731"
@@ -844,6 +844,11 @@
      "t": "icyball冰球乐团 2026「我很抱歉」巡演 北京场",
      "d": "2026-09-09",
      "u": "https://www.showstart.com/event/302701"
+    },
+    {
+     "t": "郁乐队2026-2027“惊恐症”巡演-北京站",
+     "d": "2026-09-12",
+     "u": "https://www.showstart.com/event/307819"
     }
    ]
   },
@@ -1181,11 +1186,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "北京丨9.4 MOE《莫名期待》Blue Note Beijing特别专场",
-     "d": "2026-09-04",
-     "u": "https://www.showstart.com/event/307380"
-    },
     {
      "t": "北京丨9.6 「回到“老上海” 」 特别致敬场",
      "d": "2026-09-06",
@@ -2163,27 +2163,6 @@
    "sessions": []
   },
   {
-   "title": "钟立风 「旅途愉快」2026巡演 北京站",
-   "type": "演出",
-   "venue": "疆进酒·OMNI SPACE（北京）",
-   "district": "",
-   "start_date": "2026-09-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "168起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302424",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-24",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "亚森「荒漠上行走II」2026巡演·北京站",
    "type": "演出",
    "venue": "1919 LIVEHOUSE",
@@ -2199,69 +2178,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-24",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "英格威·玛姆斯汀40周年纪念演唱会-北京站",
-   "type": "演出",
-   "venue": "东三LIVE乐游园",
-   "district": "",
-   "start_date": "2026-09-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "580起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307507",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-25",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "康熙2026“天空树”巡演 北京站",
-   "type": "演出",
-   "venue": "MAO Livehouse北京（东郎店）",
-   "district": "",
-   "start_date": "2026-09-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "168起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/306469",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-28",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "即兴周末 | 明天再叫醒我",
-   "type": "演出",
-   "venue": "乐空间",
-   "district": "",
-   "start_date": "2026-09-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "19起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308065",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-28",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2289,27 +2205,6 @@
    "sessions": []
   },
   {
-   "title": "百老汇摇滚音乐剧《LIZZIE丽兹》镜框式中文版巡演 北京站",
-   "type": "演出",
-   "venue": "天桥艺术中心-中剧场",
-   "district": "",
-   "start_date": "2026-09-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "199起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307733",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-28",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京儿艺-《看得见的敦煌-壁画中的我们》",
    "type": "演出",
    "venue": "五棵松·爱乐汇艺术空间·都市剧场",
@@ -2322,27 +2217,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/303991",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-28",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨9.4 MOE《莫名期待》Blue Note Beijing特别专场",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-09-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "260",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307380",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-28",
@@ -3322,18 +3196,18 @@
    "sessions": []
   },
   {
-   "title": "Trace Bundy 2004-2026黄金时代《Adapt》指弹吉他音乐会 北京站",
+   "title": "北京丨9.11-12 「Johnny O'Neal Plays and Sings the American Songb",
    "type": "演出",
-   "venue": "黄昏黎明DDC",
+   "venue": "Blue Note Beijing",
    "district": "",
    "start_date": "2026-09-11",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "180起",
+   "price_range": "280起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/299658",
+   "official_url": "https://www.showstart.com/event/307604",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-31",
@@ -3364,18 +3238,18 @@
    "sessions": []
   },
   {
-   "title": "北京丨9.11-12 「Johnny O'Neal Plays and Sings the American Songb",
+   "title": "Trace Bundy 2004-2026黄金时代《Adapt》指弹吉他音乐会 北京站",
    "type": "演出",
-   "venue": "Blue Note Beijing",
+   "venue": "黄昏黎明DDC",
    "district": "",
    "start_date": "2026-09-11",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "280起",
+   "price_range": "180起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/307604",
+   "official_url": "https://www.showstart.com/event/299658",
    "featured": false,
    "note": "",
    "first_seen": "2026-08-31",
@@ -3439,6 +3313,174 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/306960",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "第七届全国少数民族文艺会演《美好生活》",
+   "type": "演出",
+   "venue": "北京保利剧院",
+   "district": "",
+   "start_date": "2026-09-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307352",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "无限琴韵·桂冠回响-手风琴世界冠军Radu Ratoi拉杜·拉托伊音乐会 北京站",
+   "type": "演出",
+   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
+   "district": "",
+   "start_date": "2026-09-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/303151",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-01",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "橙风岛X奥莉兔音乐节",
+   "type": "演出",
+   "venue": "北京音乐产业园",
+   "district": "",
+   "start_date": "2026-09-12",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "99起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307581",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "KUKURUN体能健身跑-朝阳站",
+   "type": "演出",
+   "venue": "北投奥园1314",
+   "district": "",
+   "start_date": "2026-09-12",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "0起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308975",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "郁乐队2026-2027“惊恐症”巡演-北京站",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-09-12",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307819",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "TC 2026「无始无终」 巡演北京站",
+   "type": "演出",
+   "venue": "疆进酒·OMNI SPACE（北京）",
+   "district": "",
+   "start_date": "2026-09-12",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "148起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/301906",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "王朝1982【东海听潮】2026巡回演唱会-北京站",
+   "type": "演出",
+   "venue": "蛙厂RMMF·北京798店",
+   "district": "",
+   "start_date": "2026-09-12",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "199起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/306826",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "ksovii「去哪儿」2026巡北京站",
+   "type": "演出",
+   "venue": "门空间 The Door Space",
+   "district": "",
+   "start_date": "2026-09-12",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "149起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/306096",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-04",
