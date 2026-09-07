@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-07 12:31 北京时间",
- "count": 141,
+ "generatedAt": "2026-09-08 01:44 北京时间",
+ "count": 142,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -20,7 +20,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 98,
+   "count": 99,
    "last_success": "2026-09-07"
   }
  },
@@ -76,6 +76,11 @@
      "t": "第七届全国少数民族文艺会演《天山雪》",
      "d": "2026-09-07",
      "u": "https://www.showstart.com/event/307350"
+    },
+    {
+     "t": "第七届全国少数民族文艺会演《美好生活》",
+     "d": "2026-09-11",
+     "u": "https://www.showstart.com/event/307352"
     }
    ]
   },
@@ -330,6 +335,11 @@
      "t": "话剧《杂物间里的麦克白》｜林溪儿戏剧作品",
      "d": "2026-09-11",
      "u": "https://www.showstart.com/event/301501"
+    },
+    {
+     "t": "琵雅·道维斯音乐会(Pia Douwes's concert)",
+     "d": "2026-09-15",
+     "u": "https://www.showstart.com/event/309363"
     }
    ]
   },
@@ -1218,11 +1228,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北方昆曲剧院经典折子戏 《西游记•胖姑学舌》《绣襦记•剔目》《焚香记•阳告》",
-     "d": "2026-09-07",
-     "u": "https://www.showstart.com/event/308157"
-    },
-    {
      "t": "北方昆曲剧院经典折子戏 《夺锦标•扈家庄》《双熊梦•男监》《长生殿•小宴》",
      "d": "2026-09-08",
      "u": "https://www.showstart.com/event/308158"
@@ -1241,6 +1246,11 @@
      "t": "北方昆曲剧院经典折子戏 《三岔口》《西厢记•佳期》《天下乐•钟馗嫁妹》",
      "d": "2026-09-15",
      "u": "https://www.showstart.com/event/308985"
+    },
+    {
+     "t": "北方昆曲剧院经典折子戏 《南柯记•花报》《雁翎甲•盗甲》《琵琶记•南浦》",
+     "d": "2026-09-16",
+     "u": "https://www.showstart.com/event/308254"
     }
    ]
   },
@@ -2107,27 +2117,6 @@
    "sessions": []
   },
   {
-   "title": "北方昆曲剧院经典折子戏 《西游记•胖姑学舌》《绣襦记•剔目》《焚香记•阳告》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-07",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308157",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "第七届全国少数民族文艺会演《天山雪》",
    "type": "演出",
    "venue": "北京保利剧院",
@@ -2563,6 +2552,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-01",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "第七届全国少数民族文艺会演《美好生活》",
+   "type": "演出",
+   "venue": "北京保利剧院",
+   "district": "",
+   "start_date": "2026-09-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307352",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3035,6 +3045,27 @@
    "sessions": []
   },
   {
+   "title": "琵雅·道维斯音乐会(Pia Douwes's concert)",
+   "type": "演出",
+   "venue": "天桥艺术中心（大剧场）",
+   "district": "",
+   "start_date": "2026-09-15",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309363",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-07",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "美国阳光男孩唱作人DAVID HUGO 北京站",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -3155,6 +3186,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-06",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨9.17 「LE GRAND MICHEL A Tribute to Michel Legrand」 丹麦格莱美奖",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-09-17",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "200",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309566",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-07",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3362,27 +3414,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/309032",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "钟易轩 2026「盘旋」北京 生日专场",
-   "type": "演出",
-   "venue": "WeShow Live",
-   "district": "",
-   "start_date": "2026-09-19",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "138起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307748",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-06",
