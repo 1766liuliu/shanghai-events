@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-08 12:29 北京时间",
- "count": 141,
+ "generatedAt": "2026-09-09 00:35 北京时间",
+ "count": 142,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -20,7 +20,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 99,
+   "count": 98,
    "last_success": "2026-09-08"
   }
  },
@@ -1208,11 +1208,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北方昆曲剧院经典折子戏 《夺锦标•扈家庄》《双熊梦•男监》《长生殿•小宴》",
-     "d": "2026-09-08",
-     "u": "https://www.showstart.com/event/308158"
-    },
-    {
      "t": "音乐朗诵会《声音的暖流之山河入梦》",
      "d": "2026-09-10",
      "u": "https://www.showstart.com/event/306928"
@@ -1231,6 +1226,11 @@
      "t": "北方昆曲剧院经典折子戏 《南柯记•花报》《雁翎甲•盗甲》《琵琶记•南浦》",
      "d": "2026-09-16",
      "u": "https://www.showstart.com/event/308254"
+    },
+    {
+     "t": "北方昆曲剧院经典剧目 摘锦版《牡丹亭》",
+     "d": "2026-09-17",
+     "u": "https://www.showstart.com/event/308255"
     }
    ]
   },
@@ -2097,27 +2097,6 @@
    "sessions": []
   },
   {
-   "title": "北方昆曲剧院经典折子戏 《夺锦标•扈家庄》《双熊梦•男监》《长生殿•小宴》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-08",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308158",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【北京站】LÜCY 2026 TOUR",
    "type": "演出",
    "venue": "1919 LIVEHOUSE",
@@ -2517,27 +2496,6 @@
    "sessions": []
   },
   {
-   "title": "第七届全国少数民族文艺会演《美好生活》",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-09-11",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307352",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-04",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "大兴站|1039北京交通广播x开心麻花·爆笑舞台剧《婿事待发》",
    "type": "演出",
    "venue": "大兴剧院",
@@ -2550,6 +2508,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/306960",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "第七届全国少数民族文艺会演《美好生活》",
+   "type": "演出",
+   "venue": "北京保利剧院",
+   "district": "",
+   "start_date": "2026-09-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307352",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-04",
@@ -2834,6 +2813,27 @@
    "sessions": []
   },
   {
+   "title": "「她吃了那朵花·贰拾壹」",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-09-13",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "77起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309675",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-08",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "Galaxy Reception live 星遇现场 Vol.60",
    "type": "演出",
    "venue": "魅现场",
@@ -2867,6 +2867,29 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/308790",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "城市黄昏漫游指南·北京场",
+   "type": "演出",
+   "venue": "福浪LIVEHOUSE-浪",
+   "district": "",
+   "start_date": "2026-09-13",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/308752",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-05",
@@ -2930,29 +2953,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/308664",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "城市黄昏漫游指南·北京场",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-浪",
-   "district": "",
-   "start_date": "2026-09-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/308752",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-05",
@@ -3187,6 +3187,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-06",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "第一幕交响主题演出",
+   "type": "演出",
+   "venue": "门空间 The Door Space",
+   "district": "",
+   "start_date": "2026-09-17",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "16.35起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309668",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-08",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
