@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-11 00:21 北京时间",
- "count": 144,
+ "generatedAt": "2026-09-11 12:33 北京时间",
+ "count": 141,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-09-10"
+   "last_success": "2026-09-11"
   },
   "bendibao_beijing": {
    "status": "ok",
-   "count": 480,
-   "last_success": "2026-09-10"
+   "count": 481,
+   "last_success": "2026-09-11"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 99,
-   "last_success": "2026-09-10"
+   "last_success": "2026-09-11"
   }
  },
  "events": [
@@ -184,7 +184,13 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "2026毛不易北京演唱会",
+     "d": "2026-09-26",
+     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=2026毛不易北京演唱会"
+    }
+   ]
   },
   {
    "title": "MAO Livehouse 北京",
@@ -316,11 +322,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "俄语原版摇滚音乐剧《卡拉马佐夫兄弟》",
-     "d": "2026-09-10",
-     "u": "https://www.showstart.com/event/306101"
-    },
     {
      "t": "话剧《杂物间里的麦克白》｜林溪儿戏剧作品",
      "d": "2026-09-11",
@@ -1102,13 +1103,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "【北京】《我相信》籁之音极光男声合唱团流行经典歌曲合唱音音乐会",
-     "d": "2026-09-10",
-     "u": "https://www.showstart.com/event/305159"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "中山公园音乐堂",
@@ -1207,11 +1202,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "音乐朗诵会《声音的暖流之山河入梦》",
-     "d": "2026-09-10",
-     "u": "https://www.showstart.com/event/306928"
-    },
     {
      "t": "北方昆曲剧院经典折子戏 《虎囊弹•醉打山门》《孽海记•思凡》《乾元山》",
      "d": "2026-09-14",
@@ -1841,6 +1831,27 @@
    "sessions": []
   },
   {
+   "title": "2026毛不易北京演唱会",
+   "type": "演出",
+   "venue": "北京工人体育场",
+   "district": "",
+   "start_date": "2026-09-26",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=2026毛不易北京演唱会",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-11",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "徐良",
    "type": "演出",
    "venue": "华熙生物·润百颜中心",
@@ -2091,92 +2102,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】三里屯X太古里-精品脱口秀《喜剧专场》|每天2点4点7:30演出｜王二狗+即兴喜剧互动秀｜大开心笑果",
-   "type": "演出",
-   "venue": "爱笑联盟剧场（三里屯SOHO店）",
-   "district": "",
-   "start_date": "2026-09-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/309077",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-10",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
-   "sessions": []
-  },
-  {
-   "title": "俄语原版摇滚音乐剧《卡拉马佐夫兄弟》",
-   "type": "演出",
-   "venue": "天桥艺术中心-中剧场",
-   "district": "",
-   "start_date": "2026-09-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/306101",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "音乐朗诵会《声音的暖流之山河入梦》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/306928",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】《我相信》籁之音极光男声合唱团流行经典歌曲合唱音音乐会",
-   "type": "演出",
-   "venue": "北京音乐厅",
-   "district": "",
-   "start_date": "2026-09-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/305159",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-08-30",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2708,6 +2633,27 @@
    "sessions": []
   },
   {
+   "title": "「她吃了那朵花·贰拾壹」",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-09-13",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "77起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309675",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-08",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "《三只小猪》经典励志儿童舞台剧",
    "type": "演出",
    "venue": "枫蓝熙剧场",
@@ -2725,27 +2671,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "「她吃了那朵花·贰拾壹」",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-09-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "77起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309675",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-08",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2815,6 +2740,27 @@
    "sessions": []
   },
   {
+   "title": "VoX LoW 2026 CHINA TOUR 北京站",
+   "type": "演出",
+   "venue": "疆进酒·OMNI SPACE（北京）",
+   "district": "",
+   "start_date": "2026-09-13",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "198起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309849",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "城市黄昏漫游指南·北京场",
    "type": "演出",
    "venue": "福浪LIVEHOUSE-浪",
@@ -2832,27 +2778,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "VoX LoW 2026 CHINA TOUR 北京站",
-   "type": "演出",
-   "venue": "疆进酒·OMNI SPACE（北京）",
-   "district": "",
-   "start_date": "2026-09-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "198起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309849",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-10",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2964,27 +2889,6 @@
    "sessions": []
   },
   {
-   "title": "琵雅·道维斯音乐会(Pia Douwes's concert)",
-   "type": "演出",
-   "venue": "天桥艺术中心（大剧场）",
-   "district": "",
-   "start_date": "2026-09-15",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309363",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-07",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "美国阳光男孩唱作人DAVID HUGO 北京站",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -3021,6 +2925,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "琵雅·道维斯音乐会(Pia Douwes's concert)",
+   "type": "演出",
+   "venue": "天桥艺术中心（大剧场）",
+   "district": "",
+   "start_date": "2026-09-15",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309363",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-07",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3300,6 +3225,48 @@
    "sessions": []
   },
   {
+   "title": "燥音王国（HASOKINGDOM）北京站",
+   "type": "演出",
+   "venue": "魅现场",
+   "district": "",
+   "start_date": "2026-09-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "88起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309907",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-11",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "「她吃了那朵花·贰拾贰」",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-09-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "77起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309911",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-11",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "祁紫檀2026“世界与孤独女王”巡演北京站",
    "type": "演出",
    "venue": "1919 LIVEHOUSE",
@@ -3375,48 +3342,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/309032",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "钟易轩 2026「盘旋」北京 生日专场",
-   "type": "演出",
-   "venue": "WeShow Live",
-   "district": "",
-   "start_date": "2026-09-19",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "138起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307748",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "伏蒿2026《像草一样》巡演 北京站",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-浪",
-   "district": "",
-   "start_date": "2026-09-19",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "88起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/304832",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-06",
