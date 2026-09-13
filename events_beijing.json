@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-12 23:29 北京时间",
- "count": 143,
+ "generatedAt": "2026-09-13 12:41 北京时间",
+ "count": 140,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-09-12"
+   "last_success": "2026-09-13"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 483,
-   "last_success": "2026-09-12"
+   "last_success": "2026-09-13"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 99,
-   "last_success": "2026-09-12"
+   "last_success": "2026-09-13"
   }
  },
  "events": [
@@ -150,11 +150,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "赵雷",
-     "d": "2026-09-12",
-     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=赵雷"
-    },
     {
      "t": "周深北京站演唱会",
      "d": "2026-09-25",
@@ -1771,48 +1766,6 @@
    "programs": []
   },
   {
-   "title": "赵雷",
-   "type": "演出",
-   "venue": "国家体育场-鸟巢",
-   "district": "",
-   "start_date": "2026-09-12",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=赵雷",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-29",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "黎明ROBBABA演唱会2026北京站",
-   "type": "演出",
-   "venue": "国家体育馆",
-   "district": "",
-   "start_date": "2026-09-12",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=黎明ROBBABA演唱会2026北京站",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "王俊凯",
    "type": "演出",
    "venue": "北京市 | 华熙生物·润百颜ECM中心",
@@ -2174,39 +2127,20 @@
    "sessions": []
   },
   {
-   "title": "橙风岛X奥莉兔音乐节",
+   "title": "《三只小猪》经典励志儿童舞台剧",
    "type": "演出",
-   "venue": "北京音乐产业园",
+   "venue": "枫蓝熙剧场",
    "district": "",
-   "start_date": "2026-09-12",
+   "start_date": "2026-09-13",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "99起",
-   "kid_friendly": false,
+   "price_range": "29起",
+   "kid_friendly": true,
    "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307581",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-04",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "创造者乐园·数字音乐现场",
-   "type": "演出",
-   "venue": "北京市石景山区首钢园首钢滑雪大跳台落地区",
-   "district": "",
-   "start_date": "2026-09-12",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "98起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309447",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/308876",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-05",
@@ -2231,29 +2165,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-08",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "《三只小猪》经典励志儿童舞台剧",
-   "type": "演出",
-   "venue": "枫蓝熙剧场",
-   "district": "",
-   "start_date": "2026-09-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "29起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/308876",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-05",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3434,6 +3345,29 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-12",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "《小红帽》经典励志儿童舞台剧",
+   "type": "演出",
+   "venue": "枫蓝熙剧场",
+   "district": "",
+   "start_date": "2026-09-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "29起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/308909",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-13",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
