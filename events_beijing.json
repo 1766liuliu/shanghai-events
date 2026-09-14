@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14 12:49 北京时间",
+ "generatedAt": "2026-09-15 02:03 北京时间",
  "count": 143,
  "health": {
   "curated_beijing": {
@@ -13,10 +13,9 @@
    "last_success": "2026-09-14"
   },
   "laoshechaguan": {
-   "status": "failed",
-   "count": 0,
-   "kept": 6,
-   "last_success": "2026-09-12"
+   "status": "ok",
+   "count": 6,
+   "last_success": "2026-09-14"
   },
   "showstart_beijing": {
    "status": "ok",
@@ -391,28 +390,28 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-09-11",
-     "u": "https://i.laoshechaguan.cn/list/101457.html"
-    },
-    {
-     "t": "老舍经典话剧《茶馆》",
-     "d": "2026-09-12",
-     "u": "https://i.laoshechaguan.cn/list/327317671.html"
-    },
-    {
      "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-09-12",
+     "d": "2026-09-14",
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
+     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
+     "d": "2026-09-14",
+     "u": "https://i.laoshechaguan.cn/list/101457.html"
+    },
+    {
      "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-09-12",
+     "d": "2026-09-14",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
+     "t": "老舍经典话剧《茶馆》",
+     "d": "2026-09-18",
+     "u": "https://i.laoshechaguan.cn/list/327317671.html"
+    },
+    {
      "t": "老舍茶馆评书专场",
-     "d": "2026-09-13",
+     "d": "2026-09-20",
      "u": "https://i.laoshechaguan.cn/list/135648773.html"
     }
    ]
@@ -1213,9 +1212,9 @@
      "u": "https://www.showstart.com/event/309375"
     },
     {
-     "t": "北京丨9.25 Skyline 天际线融合爵士乐队",
-     "d": "2026-09-25",
-     "u": "https://www.showstart.com/event/310003"
+     "t": "北京丨9.24 中秋前夜一起过！Golden Trio带你漫步月光下",
+     "d": "2026-09-24",
+     "u": "https://www.showstart.com/event/310197"
     }
    ]
   },
@@ -1243,11 +1242,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北方昆曲剧院经典折子戏 《虎囊弹•醉打山门》《孽海记•思凡》《乾元山》",
-     "d": "2026-09-14",
-     "u": "https://www.showstart.com/event/308988"
-    },
-    {
      "t": "北方昆曲剧院经典折子戏 《三岔口》《西厢记•佳期》《天下乐•钟馗嫁妹》",
      "d": "2026-09-15",
      "u": "https://www.showstart.com/event/308985"
@@ -1266,6 +1260,11 @@
      "t": "稼轩千秋•醉里归中原——辛弃疾词意弦歌音乐会",
      "d": "2026-09-19",
      "u": "https://www.showstart.com/event/306919"
+    },
+    {
+     "t": "北方昆曲剧院经典折子戏 《牡丹亭•游园惊梦》《牡丹亭•寻梦》《牡丹亭•写真离魂》《牡丹亭•拾画叫画》",
+     "d": "2026-09-21",
+     "u": "https://www.showstart.com/event/308256"
     }
    ]
   },
@@ -2006,7 +2005,7 @@
    "type": "演出",
    "venue": "老舍茶馆",
    "district": "",
-   "start_date": "2026-09-12",
+   "start_date": "2026-09-18",
    "end_date": "2026-10-31",
    "open_ticket_time": "",
    "price_range": "116-456起",
@@ -2016,7 +2015,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/327317671.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-09-09",
+   "first_seen": "2026-09-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2027,8 +2026,8 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-09-12",
-   "end_date": "2026-09-15",
+   "start_date": "2026-09-14",
+   "end_date": "2026-09-22",
    "open_ticket_time": "",
    "price_range": "76-95起",
    "kid_friendly": true,
@@ -2039,7 +2038,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-09-12",
+   "first_seen": "2026-09-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2050,7 +2049,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-09-11",
+   "start_date": "2026-09-14",
    "end_date": "2026-10-31",
    "open_ticket_time": "",
    "price_range": "114-551起",
@@ -2060,7 +2059,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-09-12",
+   "first_seen": "2026-09-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2071,7 +2070,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-09-12",
+   "start_date": "2026-09-14",
    "end_date": "2026-10-31",
    "open_ticket_time": "",
    "price_range": "114-266起",
@@ -2081,7 +2080,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-09-12",
+   "first_seen": "2026-09-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2092,7 +2091,7 @@
    "type": "演出",
    "venue": "老舍茶馆二层艺苑厅",
    "district": "",
-   "start_date": "2026-09-13",
+   "start_date": "2026-09-20",
    "end_date": "2026-10-25",
    "open_ticket_time": "",
    "price_range": "76-95起",
@@ -2102,7 +2101,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/135648773.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-09-09",
+   "first_seen": "2026-09-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2113,7 +2112,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-09-13",
+   "start_date": "2026-09-20",
    "end_date": "2026-10-25",
    "open_ticket_time": "",
    "price_range": "95-228起",
@@ -2123,28 +2122,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/101485.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-09-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院经典折子戏 《虎囊弹•醉打山门》《孽海记•思凡》《乾元山》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308988",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-05",
+   "first_seen": "2026-09-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2163,27 +2141,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/301678",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "美国阳光男孩唱作人DAVID HUGO 北京站",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-09-15",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307462",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-05",
@@ -3117,6 +3074,27 @@
    "sessions": []
   },
   {
+   "title": "北京丨9.24 中秋前夜一起过！Golden Trio带你漫步月光下",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-09-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "200",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310197",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "怎么办生活节「OKA意大利农场游园会」",
    "type": "演出",
    "venue": "oka意大利农场",
@@ -3184,27 +3162,6 @@
    "sessions": []
   },
   {
-   "title": "别的聚会2026【乐享巴士】",
-   "type": "演出",
-   "venue": "龙庆峡户外营地",
-   "district": "",
-   "start_date": "2026-09-25",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "20",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310063",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-13",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "别的聚会2026",
    "type": "演出",
    "venue": "龙庆峡户外营地",
@@ -3217,6 +3174,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/309390",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "别的聚会2026【乐享巴士】",
+   "type": "演出",
+   "venue": "龙庆峡户外营地",
+   "district": "",
+   "start_date": "2026-09-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "20",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310063",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-13",
@@ -3325,6 +3303,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "新加坡文化节 2026 -《和鸣》音乐会 Harmonic Echoes（和谐的回声）",
+   "type": "演出",
+   "venue": "北京大华城市表演艺术中心",
+   "district": "",
+   "start_date": "2026-09-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "69起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309704",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-14",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
