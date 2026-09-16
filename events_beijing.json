@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-16 12:44 北京时间",
- "count": 141,
+ "generatedAt": "2026-09-17 00:49 北京时间",
+ "count": 139,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -244,6 +244,11 @@
      "t": "Crispy脆乐团 2026「相遇就是说了100次我爱你」演出 北京站",
      "d": "2026-09-24",
      "u": "https://www.showstart.com/event/306420"
+    },
+    {
+     "t": "北京·Beast in Black 2026巡演北京站",
+     "d": "2026-09-25",
+     "u": "https://www.showstart.com/event/305593"
     }
    ]
   },
@@ -804,6 +809,11 @@
      "t": "Crispy脆乐团 2026「相遇就是说了100次我爱你」演出 北京站",
      "d": "2026-09-24",
      "u": "https://www.showstart.com/event/306420"
+    },
+    {
+     "t": "北京·Beast in Black 2026巡演北京站",
+     "d": "2026-09-25",
+     "u": "https://www.showstart.com/event/305593"
     }
    ]
   },
@@ -849,6 +859,11 @@
      "t": "Crispy脆乐团 2026「相遇就是说了100次我爱你」演出 北京站",
      "d": "2026-09-24",
      "u": "https://www.showstart.com/event/306420"
+    },
+    {
+     "t": "北京·Beast in Black 2026巡演北京站",
+     "d": "2026-09-25",
+     "u": "https://www.showstart.com/event/305593"
     }
    ]
   },
@@ -1176,11 +1191,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨9.16 格莱美奖得主78岁巴西国宝级吉他教父 Toninho Horta 2026巡演",
-     "d": "2026-09-16",
-     "u": "https://www.showstart.com/event/308216"
-    },
-    {
      "t": "北京丨9.17 「LE GRAND MICHEL A Tribute to Michel Legrand」 丹麦格莱美奖",
      "d": "2026-09-17",
      "u": "https://www.showstart.com/event/309566"
@@ -1225,11 +1235,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "北方昆曲剧院经典折子戏 《南柯记•花报》《雁翎甲•盗甲》《琵琶记•南浦》",
-     "d": "2026-09-16",
-     "u": "https://www.showstart.com/event/308254"
-    },
     {
      "t": "北方昆曲剧院经典剧目 摘锦版《牡丹亭》",
      "d": "2026-09-17",
@@ -2113,27 +2118,6 @@
    "sessions": []
   },
   {
-   "title": "Unknown Art 呈现｜Heretoir & Unreqvited 2026 双专场巡回, 后黑自赏黑名团-北京站",
-   "type": "演出",
-   "venue": "疆进酒·OMNI SPACE（北京）",
-   "district": "",
-   "start_date": "2026-09-16",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "200起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307722",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "喜剧部落【三里屯喜剧联欢会】解压脱口秀|知名脱口秀演员|漫才即兴｜场场爆满",
    "type": "演出",
    "venue": "笑脱美都沉浸三里屯话剧剧场",
@@ -2155,27 +2139,6 @@
    "sessions": []
   },
   {
-   "title": "北京丨9.16 格莱美奖得主78岁巴西国宝级吉他教父 Toninho Horta 2026巡演",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-09-16",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "280",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308216",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "第七届全国少数民族文艺会演《霜晨月》",
    "type": "演出",
    "venue": "北京保利剧院",
@@ -2191,48 +2154,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-15",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院经典折子戏 《南柯记•花报》《雁翎甲•盗甲》《琵琶记•南浦》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-16",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308254",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "法国即兴融合爵士组合 MONTAGNE SAUVAGE (野山) 巡演 | DDL呈现 北京站",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-09-16",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "108起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309319",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-06",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2311,7 +2232,7 @@
    "start_date": "2026-09-17",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "108起",
+   "price_range": "128起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
@@ -3165,6 +3086,27 @@
    "sessions": []
   },
   {
+   "title": "2026厂域电子音乐节",
+   "type": "演出",
+   "venue": "798·751 园区传导空间",
+   "district": "",
+   "start_date": "2026-09-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "128起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310336",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-16",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "怎么办生活节「OKA意大利农场游园会」",
    "type": "演出",
    "venue": "oka意大利农场",
@@ -3255,6 +3197,27 @@
    "sessions": []
   },
   {
+   "title": "秋隅而歌：犬儒×A公馆 北京场",
+   "type": "演出",
+   "venue": "东三LIVE乐游园",
+   "district": "",
+   "start_date": "2026-09-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "168起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309485",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-15",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "别的聚会2026",
    "type": "演出",
    "venue": "龙庆峡户外营地",
@@ -3291,27 +3254,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-13",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "秋隅而歌：犬儒×A公馆 北京场",
-   "type": "演出",
-   "venue": "东三LIVE乐游园",
-   "district": "",
-   "start_date": "2026-09-25",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "168起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309485",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-15",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3398,6 +3340,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-15",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京·Beast in Black 2026巡演北京站",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-09-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "280起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/305593",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-13",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
