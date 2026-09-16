@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-16 00:54 北京时间",
+ "generatedAt": "2026-09-16 12:44 北京时间",
  "count": 141,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-09-15"
+   "last_success": "2026-09-16"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 483,
-   "last_success": "2026-09-15"
+   "last_success": "2026-09-16"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 99,
-   "last_success": "2026-09-15"
+   "last_success": "2026-09-16"
   }
  },
  "events": [
@@ -341,13 +341,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "琵雅·道维斯音乐会(Pia Douwes's concert)",
-     "d": "2026-09-15",
-     "u": "https://www.showstart.com/event/309363"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "北京国际音乐节",
@@ -2119,27 +2113,6 @@
    "sessions": []
   },
   {
-   "title": "琵雅·道维斯音乐会(Pia Douwes's concert)",
-   "type": "演出",
-   "venue": "天桥艺术中心（大剧场）",
-   "district": "",
-   "start_date": "2026-09-15",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309363",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-07",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "Unknown Art 呈现｜Heretoir & Unreqvited 2026 双专场巡回, 后黑自赏黑名团-北京站",
    "type": "演出",
    "venue": "疆进酒·OMNI SPACE（北京）",
@@ -2158,6 +2131,27 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "喜剧部落【三里屯喜剧联欢会】解压脱口秀|知名脱口秀演员|漫才即兴｜场场爆满",
+   "type": "演出",
+   "venue": "笑脱美都沉浸三里屯话剧剧场",
+   "district": "",
+   "start_date": "2026-09-16",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "61起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308641",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-15",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": true,
    "sessions": []
   },
   {
@@ -2182,27 +2176,6 @@
    "sessions": []
   },
   {
-   "title": "北方昆曲剧院经典折子戏 《南柯记•花报》《雁翎甲•盗甲》《琵琶记•南浦》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-16",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308254",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "第七届全国少数民族文艺会演《霜晨月》",
    "type": "演出",
    "venue": "北京保利剧院",
@@ -2218,6 +2191,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-15",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北方昆曲剧院经典折子戏 《南柯记•花报》《雁翎甲•盗甲》《琵琶记•南浦》",
+   "type": "演出",
+   "venue": "北京国图艺术中心",
+   "district": "",
+   "start_date": "2026-09-16",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308254",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-06",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2751,27 +2745,6 @@
    "sessions": []
   },
   {
-   "title": "十月婴孩乐队《如是》新专辑首发演唱会",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-09-19",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/305103",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-11",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "稼轩千秋•醉里归中原——辛弃疾词意弦歌音乐会",
    "type": "演出",
    "venue": "北京国图艺术中心",
@@ -2784,6 +2757,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/306919",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-11",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "十月婴孩乐队《如是》新专辑首发演唱会",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-09-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/305103",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-11",
@@ -3003,27 +2997,6 @@
    "sessions": []
   },
   {
-   "title": "第七届全国少数民族文艺会演《活界碑》",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-09-22",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307354",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-12",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北方昆曲剧院经典剧目 《我侬词》",
    "type": "演出",
    "venue": "北京国图艺术中心",
@@ -3036,6 +3009,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/308257",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-12",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "第七届全国少数民族文艺会演《活界碑》",
+   "type": "演出",
+   "venue": "北京保利剧院",
+   "district": "",
+   "start_date": "2026-09-22",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307354",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-12",
