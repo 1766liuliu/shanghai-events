@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-23 12:40 北京时间",
- "count": 134,
+ "generatedAt": "2026-09-24 00:52 北京时间",
+ "count": 136,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -224,11 +224,6 @@
      "t": "北京·Beast in Black 2026巡演北京站",
      "d": "2026-09-25",
      "u": "https://www.showstart.com/event/305593"
-    },
-    {
-     "t": "时光之旅演唱会｜1039乐队 华语金曲音乐现场",
-     "d": "2026-09-26",
-     "u": "https://www.showstart.com/event/302945"
     }
    ]
   },
@@ -796,11 +791,6 @@
      "t": "北京·Beast in Black 2026巡演北京站",
      "d": "2026-09-25",
      "u": "https://www.showstart.com/event/305593"
-    },
-    {
-     "t": "时光之旅演唱会｜1039乐队 华语金曲音乐现场",
-     "d": "2026-09-26",
-     "u": "https://www.showstart.com/event/302945"
     }
    ]
   },
@@ -836,11 +826,6 @@
      "t": "北京·Beast in Black 2026巡演北京站",
      "d": "2026-09-25",
      "u": "https://www.showstart.com/event/305593"
-    },
-    {
-     "t": "时光之旅演唱会｜1039乐队 华语金曲音乐现场",
-     "d": "2026-09-26",
-     "u": "https://www.showstart.com/event/302945"
     }
    ]
   },
@@ -1181,6 +1166,11 @@
      "t": "北京丨9.26 三度百大最佳爵士专辑！Mino Lanzieri 二十周年纪念演出",
      "d": "2026-09-26",
      "u": "https://www.showstart.com/event/308677"
+    },
+    {
+     "t": "北京丨9.27 「MOONLIT JAZZ 月光爵士夜」月亮最圆的夜晚，听一场月光下的爵士情歌",
+     "d": "2026-09-27",
+     "u": "https://www.showstart.com/event/310465"
     }
    ]
   },
@@ -1211,6 +1201,11 @@
      "t": "春咏古今 山河回响——北京春之声合唱团专场音乐会",
      "d": "2026-09-26",
      "u": "https://www.showstart.com/event/308419"
+    },
+    {
+     "t": "一轮秋影转金波——古籍国风中秋节音乐会",
+     "d": "2026-09-27",
+     "u": "https://www.showstart.com/event/307023"
     }
    ]
   },
@@ -2010,27 +2005,6 @@
    "sessions": []
   },
   {
-   "title": "岸果呈现 | God Is An Astronaut 2026巡演 北京站",
-   "type": "演出",
-   "venue": "疆进酒·OMNI SPACE（北京）",
-   "district": "",
-   "start_date": "2026-09-23",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "320起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/305726",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-12",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "Crispy脆乐团 2026「相遇就是说了100次我爱你」演出 北京站",
    "type": "演出",
    "venue": "MAO Livehouse北京（东郎店）",
@@ -2243,6 +2217,27 @@
    "sessions": []
   },
   {
+   "title": "秋隅而歌：犬儒×A公馆 北京场",
+   "type": "演出",
+   "venue": "东三LIVE乐游园",
+   "district": "",
+   "start_date": "2026-09-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "168起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309485",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-15",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "【中秋国庆】「音乐魔法师」——《哈利波特》《魔女宅急便》《四小天鹅》沉浸式亲子互动演奏会",
    "type": "演出",
    "venue": "三里屯-爱乐汇-城市演奏厅",
@@ -2257,27 +2252,6 @@
     "亲子"
    ],
    "official_url": "https://www.showstart.com/event/310309",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-15",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "秋隅而歌：犬儒×A公馆 北京场",
-   "type": "演出",
-   "venue": "东三LIVE乐游园",
-   "district": "",
-   "start_date": "2026-09-25",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "168起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309485",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-15",
@@ -2965,6 +2939,27 @@
    "sessions": []
   },
   {
+   "title": "MOSH CITY 律动之城",
+   "type": "演出",
+   "venue": "娱堂ViVaVium&MagMa",
+   "district": "",
+   "start_date": "2026-09-26",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "98起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/311259",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-23",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "中秋特惠 | 交响版《梁祝》&《黄河》-东方经典协奏曲交响音乐会",
    "type": "演出",
    "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
@@ -3001,27 +2996,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-21",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "时光之旅演唱会｜1039乐队 华语金曲音乐现场",
-   "type": "演出",
-   "venue": "MAO Livehouse北京（东郎店）",
-   "district": "",
-   "start_date": "2026-09-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "98起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/302945",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-19",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3213,6 +3187,69 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "孔雀眼2026「奔赴/Rendezvous」巡演 北京站",
+   "type": "演出",
+   "venue": "疆进酒·OMNI SPACE（北京）",
+   "district": "",
+   "start_date": "2026-09-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "148起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307270",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨9.27 「MOONLIT JAZZ 月光爵士夜」月亮最圆的夜晚，听一场月光下的爵士情歌",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-09-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310465",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "一轮秋影转金波——古籍国风中秋节音乐会",
+   "type": "演出",
+   "venue": "北京国图艺术中心",
+   "district": "",
+   "start_date": "2026-09-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307023",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-20",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
