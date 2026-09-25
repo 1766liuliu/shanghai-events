@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-25 01:06 北京时间",
+ "generatedAt": "2026-09-25 12:52 北京时间",
  "count": 136,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-09-24"
+   "last_success": "2026-09-25"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 483,
-   "last_success": "2026-09-24"
+   "last_success": "2026-09-25"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -20,8 +20,8 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 97,
-   "last_success": "2026-09-24"
+   "count": 99,
+   "last_success": "2026-09-25"
   }
  },
  "events": [
@@ -535,11 +535,6 @@
      "t": "【北京站】《明月如霜》民乐古韵·中秋国风主题音乐会|世纪剧院小剧场",
      "d": "2026-09-26",
      "u": "https://www.showstart.com/event/302650"
-    },
-    {
-     "t": "【明星场】开心麻花摇滚音乐大戏《燃烧PLUS》",
-     "d": "2026-09-30",
-     "u": "https://www.showstart.com/event/309315"
     }
    ]
   },
@@ -731,11 +726,6 @@
      "t": "中秋特惠 | 交响版《梁祝》&《黄河》-东方经典协奏曲交响音乐会",
      "d": "2026-09-26",
      "u": "https://www.showstart.com/event/308598"
-    },
-    {
-     "t": "「完全门德尔松」——《单簧管与巴塞特单簧管协奏曲》&《c小调第一交响曲》音乐会",
-     "d": "2026-09-30",
-     "u": "https://www.showstart.com/event/304260"
     },
     {
      "t": "【国庆专场】北京儿艺原创儿童剧《“谜”人的三星堆》",
@@ -2020,27 +2010,6 @@
    "sessions": []
   },
   {
-   "title": "森邻游园会｜这个中秋，在森林里相聚玩乐！",
-   "type": "演出",
-   "venue": "勇士营郊野公园",
-   "district": "",
-   "start_date": "2026-09-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "0起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310514",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "怎么办生活节「OKA意大利农场游园会」",
    "type": "演出",
    "venue": "oka意大利农场",
@@ -2406,27 +2375,6 @@
    "sessions": []
   },
   {
-   "title": "房山站|1039北京交通广播X开心麻花爆笑舞台剧《婿事待发》",
-   "type": "演出",
-   "venue": "房山区文化活动中心梦想剧场",
-   "district": "",
-   "start_date": "2026-09-25",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307250",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-13",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "新加坡文化节 2026 -《和鸣》音乐会 Harmonic Echoes（和谐的回声）",
    "type": "演出",
    "venue": "北京大华城市表演艺术中心",
@@ -2442,6 +2390,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-14",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "房山站|1039北京交通广播X开心麻花爆笑舞台剧《婿事待发》",
+   "type": "演出",
+   "venue": "房山区文化活动中心梦想剧场",
+   "district": "",
+   "start_date": "2026-09-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307250",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-13",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2849,27 +2818,6 @@
    "sessions": []
   },
   {
-   "title": "何赛飞x赵文瑄x徐俐 | 央华版《日出》超现场影城直播保利国际影城北京凯德大峡谷店",
-   "type": "演出",
-   "venue": "保利国际影城北京凯德大峡谷店-第二现场",
-   "district": "",
-   "start_date": "2026-09-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "57",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310870",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-21",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "何赛飞x赵文瑄x徐俐 | 央华版《日出》超现场影城直播完美世界影城（万寿路凯德晶品店）",
    "type": "演出",
    "venue": "完美世界影城（万寿路凯德晶品店）3号厅",
@@ -2927,6 +2875,48 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "何赛飞x赵文瑄x徐俐 | 央华版《日出》超现场影城直播保利国际影城北京凯德大峡谷店",
+   "type": "演出",
+   "venue": "保利国际影城北京凯德大峡谷店-第二现场",
+   "district": "",
+   "start_date": "2026-09-26",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "57",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310870",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-21",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "何赛飞x赵文瑄x徐俐 | 央华版《日出》超现场影城直播保利国际影城北京天安门店",
+   "type": "演出",
+   "venue": "保利国际影城北京天安门店7号厅",
+   "district": "",
+   "start_date": "2026-09-26",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "57",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310868",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-21",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3061,27 +3051,6 @@
    "sessions": []
   },
   {
-   "title": "一轮秋影转金波——古籍国风中秋节音乐会",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307023",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京丨9.27 「MOONLIT JAZZ 月光爵士夜」月亮最圆的夜晚，听一场月光下的爵士情歌",
    "type": "演出",
    "venue": "Blue Note Beijing",
@@ -3094,6 +3063,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/310465",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "一轮秋影转金波——古籍国风中秋节音乐会",
+   "type": "演出",
+   "venue": "北京国图艺术中心",
+   "district": "",
+   "start_date": "2026-09-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307023",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-20",
@@ -3208,27 +3198,6 @@
    "sessions": []
   },
   {
-   "title": "「完全门德尔松」——《单簧管与巴塞特单簧管协奏曲》&《c小调第一交响曲》音乐会",
-   "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
-   "district": "",
-   "start_date": "2026-09-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/304260",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-24",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【国庆专场】北京儿艺原创儿童剧《“谜”人的三星堆》",
    "type": "演出",
    "venue": "五棵松·爱乐汇艺术空间·都市剧场",
@@ -3252,21 +3221,44 @@
    "sessions": []
   },
   {
-   "title": "【明星场】开心麻花摇滚音乐大戏《燃烧PLUS》",
+   "title": "我和我的祖国一 2026 红色经典交响演唱十一音乐会",
    "type": "演出",
-   "venue": "北京世纪剧院",
+   "venue": "北京中山音乐堂",
    "district": "",
    "start_date": "2026-09-30",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "80起",
+   "price_range": "100起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/309315",
+   "official_url": "https://www.showstart.com/event/305396",
    "featured": false,
    "note": "",
-   "first_seen": "2026-09-24",
+   "first_seen": "2026-09-25",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "开心麻花律政独角音乐喜剧《求婚女王》 | 王建华导演 | 女性成长 | 沉浸式互动",
+   "type": "演出",
+   "venue": "疯狂理发店(THE BOX朝外店)",
+   "district": "",
+   "start_date": "2026-09-30",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "168起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/310275",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-25",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
