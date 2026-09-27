@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-27 00:19 北京时间",
- "count": 131,
+ "generatedAt": "2026-09-27 13:13 北京时间",
+ "count": 130,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-09-26"
+   "last_success": "2026-09-27"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 483,
-   "last_success": "2026-09-26"
+   "last_success": "2026-09-27"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 97,
-   "last_success": "2026-09-26"
+   "last_success": "2026-09-27"
   }
  },
  "events": [
@@ -189,13 +189,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "2026毛不易北京演唱会",
-     "d": "2026-09-26",
-     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=2026毛不易北京演唱会"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "MAO Livehouse 北京",
@@ -322,11 +316,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "东方玄幻音乐剧《第一瞳术师》",
-     "d": "2026-09-26",
-     "u": "https://www.showstart.com/event/309094"
-    },
     {
      "t": "【沉浸式必看】解压！猎奇！反转！沉浸式戏剧《患者》北京版",
      "d": "2026-09-28",
@@ -723,14 +712,14 @@
    "sessions": [],
    "programs": [
     {
-     "t": "【国庆专场】北京儿艺原创儿童剧《“谜”人的三星堆》",
-     "d": "2026-09-30",
-     "u": "https://www.showstart.com/event/309838"
-    },
-    {
      "t": "「完全门德尔松」——《单簧管与巴塞特单簧管协奏曲》&《c小调第一交响曲》音乐会",
      "d": "2026-09-30",
      "u": "https://www.showstart.com/event/304260"
+    },
+    {
+     "t": "【国庆专场】北京儿艺原创儿童剧《“谜”人的三星堆》",
+     "d": "2026-09-30",
+     "u": "https://www.showstart.com/event/309838"
     },
     {
      "t": "星河回响——MappleZS原创钢琴音乐会",
@@ -1850,27 +1839,6 @@
    "sessions": []
   },
   {
-   "title": "2026毛不易北京演唱会",
-   "type": "演出",
-   "venue": "北京工人体育场",
-   "district": "",
-   "start_date": "2026-09-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=2026毛不易北京演唱会",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-11",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "2026首都博物馆“玉米·黄金·美洲豹——玛雅与安第斯古代文明”大展",
    "type": "展会",
    "venue": "首都博物馆",
@@ -2044,50 +2012,6 @@
    "sessions": []
   },
   {
-   "title": "【北京站】沉浸式互动亲子科学剧《数学秀》",
-   "type": "演出",
-   "venue": "天桥剧场",
-   "district": "",
-   "start_date": "2026-09-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "99起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/307122",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "东方玄幻音乐剧《第一瞳术师》",
-   "type": "演出",
-   "venue": "北京 天桥艺术中心小剧场",
-   "district": "",
-   "start_date": "2026-09-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309094",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "《白雪公主》经典童话梦幻儿童剧",
    "type": "演出",
    "venue": "枫蓝熙剧场",
@@ -2176,27 +2100,6 @@
    "sessions": []
   },
   {
-   "title": "北京丨9.27 「MOONLIT JAZZ 月光爵士夜」月亮最圆的夜晚，听一场月光下的爵士情歌",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-09-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310465",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "一轮秋影转金波——古籍国风中秋节音乐会",
    "type": "演出",
    "venue": "北京国图艺术中心",
@@ -2218,21 +2121,21 @@
    "sessions": []
   },
   {
-   "title": "北方昆曲剧院经典折子戏 《荆钗记•双祭》《十八罗汉斗悟空》",
+   "title": "北京丨9.27 「MOONLIT JAZZ 月光爵士夜」月亮最圆的夜晚，听一场月光下的爵士情歌",
    "type": "演出",
-   "venue": "北京国图艺术中心",
+   "venue": "Blue Note Beijing",
    "district": "",
-   "start_date": "2026-09-28",
+   "start_date": "2026-09-27",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "68起",
+   "price_range": "180",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/308180",
+   "official_url": "https://www.showstart.com/event/310465",
    "featured": false,
    "note": "",
-   "first_seen": "2026-09-24",
+   "first_seen": "2026-09-20",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2251,6 +2154,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/310862",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北方昆曲剧院经典折子戏 《荆钗记•双祭》《十八罗汉斗悟空》",
+   "type": "演出",
+   "venue": "北京国图艺术中心",
+   "district": "",
+   "start_date": "2026-09-28",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308180",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-24",
@@ -2344,41 +2268,18 @@
    "sessions": []
   },
   {
-   "title": "开心麻花律政独角音乐喜剧《求婚女王》 | 王建华导演 | 女性成长 | 沉浸式互动",
+   "title": "「完全门德尔松」——《单簧管与巴塞特单簧管协奏曲》&《c小调第一交响曲》音乐会",
    "type": "演出",
-   "venue": "疯狂理发店(THE BOX朝外店)",
+   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
    "district": "",
    "start_date": "2026-09-30",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "168起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/310275",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-25",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【明星场】开心麻花摇滚音乐大戏《燃烧PLUS》",
-   "type": "演出",
-   "venue": "北京世纪剧院",
-   "district": "",
-   "start_date": "2026-09-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
+   "price_range": "100起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/309315",
+   "official_url": "https://www.showstart.com/event/304260",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-24",
@@ -2432,18 +2333,41 @@
    "sessions": []
   },
   {
-   "title": "「完全门德尔松」——《单簧管与巴塞特单簧管协奏曲》&《c小调第一交响曲》音乐会",
+   "title": "开心麻花律政独角音乐喜剧《求婚女王》 | 王建华导演 | 女性成长 | 沉浸式互动",
    "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
+   "venue": "疯狂理发店(THE BOX朝外店)",
    "district": "",
    "start_date": "2026-09-30",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "100起",
+   "price_range": "168起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/310275",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-25",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "【明星场】开心麻花摇滚音乐大戏《燃烧PLUS》",
+   "type": "演出",
+   "venue": "北京世纪剧院",
+   "district": "",
+   "start_date": "2026-09-30",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/304260",
+   "official_url": "https://www.showstart.com/event/309315",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-24",
@@ -3045,6 +2969,27 @@
    "sessions": []
   },
   {
+   "title": "TrueWorld北京 vol.52",
+   "type": "演出",
+   "venue": "门空间 The Door Space",
+   "district": "",
+   "start_date": "2026-10-06",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "88起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/311621",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-27",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "【千手集】Dry Cleaning x Anna von Hausswolff 双专场 北京",
    "type": "演出",
    "venue": "福浪LIVEHOUSE-福",
@@ -3087,27 +3032,6 @@
    "sessions": []
   },
   {
-   "title": "北京丨10.6 「心之所往」曾为法国总统献唱！旅法音乐人姚嘉钰原创作品音乐会",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-10-06",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "200",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310605",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "「中秋&国庆」海阔天空·真的爱你·光辉岁月｜beyond经典名曲烛光音乐会",
    "type": "演出",
    "venue": "三里屯-爱乐汇-城市演奏厅",
@@ -3120,6 +3044,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/310472",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨10.6 「心之所往」曾为法国总统献唱！旅法音乐人姚嘉钰原创作品音乐会",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-10-06",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "200",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310605",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-26",
@@ -3165,6 +3110,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨10.7 「秋语 浮想」黑柠檬乐队",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-10-07",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310977",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-27",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
