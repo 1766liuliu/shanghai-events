@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-28 00:55 北京时间",
- "count": 137,
+ "generatedAt": "2026-09-28 13:17 北京时间",
+ "count": 134,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-09-27"
+   "last_success": "2026-09-28"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 484,
-   "last_success": "2026-09-27"
+   "last_success": "2026-09-28"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -20,8 +20,8 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 97,
-   "last_success": "2026-09-27"
+   "count": 96,
+   "last_success": "2026-09-28"
   }
  },
  "events": [
@@ -155,11 +155,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "周深北京站演唱会",
-     "d": "2026-09-25",
-     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=周深北京站演唱会"
-    },
     {
      "t": "凤凰传奇",
      "d": "2026-10-30",
@@ -717,14 +712,14 @@
    "sessions": [],
    "programs": [
     {
-     "t": "【国庆专场】北京儿艺原创儿童剧《“谜”人的三星堆》",
-     "d": "2026-09-30",
-     "u": "https://www.showstart.com/event/309838"
-    },
-    {
      "t": "「完全门德尔松」——《单簧管与巴塞特单簧管协奏曲》&《c小调第一交响曲》音乐会",
      "d": "2026-09-30",
      "u": "https://www.showstart.com/event/304260"
+    },
+    {
+     "t": "【国庆专场】北京儿艺原创儿童剧《“谜”人的三星堆》",
+     "d": "2026-09-30",
+     "u": "https://www.showstart.com/event/309838"
     },
     {
      "t": "星河回响——MappleZS原创钢琴音乐会",
@@ -1844,27 +1839,6 @@
    "sessions": []
   },
   {
-   "title": "周深北京站演唱会",
-   "type": "演出",
-   "venue": "国家体育场-鸟巢",
-   "district": "",
-   "start_date": "2026-09-25",
-   "end_date": "2026-09-27",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=周深北京站演唱会",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-07-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "2026首都博物馆“玉米·黄金·美洲豹——玛雅与安第斯古代文明”大展",
    "type": "展会",
    "venue": "首都博物馆",
@@ -1903,30 +1877,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-07-07",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "2026北京动画周",
-   "type": "展会",
-   "venue": "北京展览馆",
-   "district": "",
-   "start_date": "2026-09-24",
-   "end_date": "2026-09-27",
-   "open_ticket_time": "",
-   "price_range": "免费需要预约",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子",
-    "免费"
-   ],
-   "official_url": "http://bj.bendibao.com/xiuxian/20241010/366217.shtm",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-25",
    "kind": "临时",
    "audience": "B2B",
    "kid_unfit": false,
@@ -2035,52 +1985,6 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "《白雪公主》经典童话梦幻儿童剧",
-   "type": "演出",
-   "venue": "枫蓝熙剧场",
-   "district": "",
-   "start_date": "2026-09-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "29.90起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/309268",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】三里屯X太古里-精品脱口秀《喜剧专场》|每天2点4点7:30演出｜王二狗+即兴喜剧互动秀｜大开心笑果",
-   "type": "演出",
-   "venue": "爱笑联盟剧场（三里屯SOHO店）",
-   "district": "",
-   "start_date": "2026-09-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/310204",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
    "sessions": []
   },
   {
@@ -2210,6 +2114,27 @@
    "sessions": []
   },
   {
+   "title": "「完全门德尔松」——《单簧管与巴塞特单簧管协奏曲》&《c小调第一交响曲》音乐会",
+   "type": "演出",
+   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
+   "district": "",
+   "start_date": "2026-09-30",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304260",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "我和我的祖国一 2026 红色经典交响演唱十一音乐会",
    "type": "演出",
    "venue": "北京中山音乐堂",
@@ -2266,27 +2191,6 @@
     "亲子"
    ],
    "official_url": "https://www.showstart.com/event/309838",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-24",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "「完全门德尔松」——《单簧管与巴塞特单簧管协奏曲》&《c小调第一交响曲》音乐会",
-   "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
-   "district": "",
-   "start_date": "2026-09-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/304260",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-24",
@@ -3121,27 +3025,6 @@
    "sessions": []
   },
   {
-   "title": "与你相对·相对论乐队 2026巡演 北京站",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-浪",
-   "district": "",
-   "start_date": "2026-10-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/306789",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-27",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "与安达Live漫游 安达组合2026巡演（北京站）",
    "type": "演出",
    "venue": "1919 LIVEHOUSE",
@@ -3154,6 +3037,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/311116",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-27",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "与你相对·相对论乐队 2026巡演 北京站",
+   "type": "演出",
+   "venue": "福浪LIVEHOUSE-浪",
+   "district": "",
+   "start_date": "2026-10-10",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/306789",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-27",
@@ -3285,6 +3189,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-27",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "英国当代灵魂乐之声Mamas Gun 《DIG!》巡演 北京站",
+   "type": "演出",
+   "venue": "福浪LIVEHOUSE-浪",
+   "district": "",
+   "start_date": "2026-10-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "220起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304726",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-28",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
