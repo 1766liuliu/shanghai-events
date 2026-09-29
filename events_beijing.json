@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29 13:38 北京时间",
+ "generatedAt": "2026-09-30 02:03 北京时间",
  "count": 130,
  "health": {
   "curated_beijing": {
@@ -20,7 +20,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 93,
+   "count": 91,
    "last_success": "2026-09-29"
   }
  },
@@ -1200,13 +1200,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "北方昆曲剧院青年演员赵艺多专场 《牡丹亭•拾画叫画》《凤凰山•百花赠剑》《荆钗记•见娘》",
-     "d": "2026-09-29",
-     "u": "https://www.showstart.com/event/308183"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "北京喜剧院",
@@ -1977,27 +1971,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-09-14",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院青年演员赵艺多专场 《牡丹亭•拾画叫画》《凤凰山•百花赠剑》《荆钗记•见娘》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-09-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308183",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-24",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3116,6 +3089,29 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/309897",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-27",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "《木偶奇遇记》经典儿童舞台剧",
+   "type": "演出",
+   "venue": "枫蓝熙剧场",
+   "district": "",
+   "start_date": "2026-10-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "29起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/309271",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-27",
