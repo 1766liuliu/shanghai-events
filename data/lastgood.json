@@ -1741,7 +1741,7 @@
    }
   ],
   "count": 60,
-  "last_success": "2026-09-29"
+  "last_success": "2026-09-30"
  },
  "maoyan": {
   "events": [
@@ -1827,14 +1827,14 @@
     "_id": "f73c6c3e994ba0b2"
    },
    {
-    "title": "SNH48 星梦剧院公演",
+    "title": "Charlie Puth: Whatever's Clever! World Tour 上海站",
     "type": "演出",
     "source": "maoyan",
     "official_url": "",
-    "venue": "SNH48星梦剧院",
+    "venue": "上海虹口足球场",
     "district": "",
-    "start_date": "2026-10-01",
-    "end_date": "2026-10-11",
+    "start_date": "2026-10-31",
+    "end_date": "",
     "open_ticket_time": "",
     "price_range": "",
     "price_min": null,
@@ -1850,8 +1850,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "SNH48 星梦剧院公演",
-    "_id": "1362cc9c523e7899"
+    "raw_text": "Charlie Puth: Whatever's Clever! World Tour 上海站",
+    "_id": "ef3fa0946a5c7f2b"
    },
    {
     "title": "许魏洲PROME「第八大洲」演唱会上海站",
@@ -1881,14 +1881,14 @@
     "_id": "6bc0d4d206808462"
    },
    {
-    "title": "Charlie Puth: Whatever's Clever! World Tour 上海站",
+    "title": "SNH48 星梦剧院公演",
     "type": "演出",
     "source": "maoyan",
     "official_url": "",
-    "venue": "上海虹口足球场",
+    "venue": "SNH48星梦剧院",
     "district": "",
-    "start_date": "2026-10-31",
-    "end_date": "",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-11",
     "open_ticket_time": "",
     "price_range": "",
     "price_min": null,
@@ -1904,8 +1904,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "Charlie Puth: Whatever's Clever! World Tour 上海站",
-    "_id": "ef3fa0946a5c7f2b"
+    "raw_text": "SNH48 星梦剧院公演",
+    "_id": "1362cc9c523e7899"
    },
    {
     "title": "林志炫ONEtake3.0「耳顺」 巡回演唱会-上海站",
@@ -2043,33 +2043,6 @@
     "_id": "38fb17428d0ff835"
    },
    {
-    "title": "音乐剧《四大美女》",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "黄浦剧场·中剧场",
-    "district": "",
-    "start_date": "2026-09-30",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "音乐剧《四大美女》",
-    "_id": "4f0de6f6e0618954"
-   },
-   {
     "title": "【中秋国庆】开心麻花王牌喜剧《乌龙山伯爵》",
     "type": "演出",
     "source": "maoyan",
@@ -2095,33 +2068,6 @@
     "sessions": [],
     "raw_text": "【中秋国庆】开心麻花王牌喜剧《乌龙山伯爵》",
     "_id": "b765174c685c3989"
-   },
-   {
-    "title": "百老汇英文原版音乐剧《芝加哥》30周年纪念版",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "美琪大戏院",
-    "district": "",
-    "start_date": "2026-11-05",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "百老汇英文原版音乐剧《芝加哥》30周年纪念版",
-    "_id": "18c873049572f801"
    },
    {
     "title": "音乐剧《狂炎奏鸣曲》",
@@ -2178,6 +2124,60 @@
     "_id": "0ab25ee34b3b3dd4"
    },
    {
+    "title": "环人广｜悬疑互动经典IP《孤岛逃生》十周年上海站｜沉浸式推理｜观众投票抉择式互动剧场｜南京路步行街",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "咯吱喜剧商店",
+    "district": "",
+    "start_date": "2026-09-30",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "环人广｜悬疑互动经典IP《孤岛逃生》十周年上海站｜沉浸式推理｜观众投票抉择式互动剧场｜南京路步行街",
+    "_id": "4070bcb4cb6d5fc2"
+   },
+   {
+    "title": "中文原创音乐剧《海上钢琴师》",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "上海文化广场",
+    "district": "",
+    "start_date": "2026-11-27",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "中文原创音乐剧《海上钢琴师》",
+    "_id": "45ba9ff4111279b5"
+   },
+   {
     "title": "「CHIIKAWA DAYS 特展」 中国内地首展（猫眼中秋国庆特惠 页面领券下单立减）",
     "type": "演出",
     "source": "maoyan",
@@ -2230,33 +2230,6 @@
     "sessions": [],
     "raw_text": "EVA新世纪福音战士 30周年纪念活动【上海新世界 E展空间】",
     "_id": "6905e8b02fe15345"
-   },
-   {
-    "title": "浦东美术馆指定单日票【乔治·莫兰迪：独白】",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "浦东美术馆-乔治.莫兰迪大展",
-    "district": "",
-    "start_date": "2026-08-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "浦东美术馆指定单日票【乔治·莫兰迪：独白】",
-    "_id": "aacc2851de4449d5"
    },
    {
     "title": "马王堆汉墓文物大展-千金之家（需预约）",
@@ -2313,6 +2286,33 @@
     "_id": "190af75add43a713"
    },
    {
+    "title": "浦东美术馆指定单日票【乔治·莫兰迪：独白】",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "浦东美术馆-乔治.莫兰迪大展",
+    "district": "",
+    "start_date": "2026-08-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "浦东美术馆指定单日票【乔治·莫兰迪：独白】",
+    "_id": "aacc2851de4449d5"
+   },
+   {
     "title": "《一人之下》十周年漫画原画展 华东首展·上海站",
     "type": "演出",
     "source": "maoyan",
@@ -2340,33 +2340,6 @@
     "_id": "6b0762feb78092c3"
    },
    {
-    "title": "古影沉浸式互动游戏剧场 《1941·新和医院》",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "古影沉浸式互动游戏剧场 《1941·新和医院》",
-    "district": "",
-    "start_date": "2026-10-01",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "古影沉浸式互动游戏剧场 《1941·新和医院》",
-    "_id": "a347d6402d45a9f6"
-   },
-   {
     "title": "《花砖街 11 号》黄油小熊艺术展・全球首站",
     "type": "演出",
     "source": "maoyan",
@@ -2392,6 +2365,33 @@
     "sessions": [],
     "raw_text": "《花砖街 11 号》黄油小熊艺术展・全球首站",
     "_id": "161c3387f5ef4d62"
+   },
+   {
+    "title": "古影沉浸式互动游戏剧场 《1941·新和医院》",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "古影沉浸式互动游戏剧场 《1941·新和医院》",
+    "district": "",
+    "start_date": "2026-10-01",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "古影沉浸式互动游戏剧场 《1941·新和医院》",
+    "_id": "a347d6402d45a9f6"
    },
    {
     "title": "『国庆特惠』【静安大悦城】银河魔幻泡泡秀 ·【魔术 | 小丑 | 泡泡 | 气球秀】「银河喜剧」",
@@ -2481,7 +2481,7 @@
     "official_url": "",
     "venue": "乐合喜剧 快乐剧场-南京东路店",
     "district": "",
-    "start_date": "2026-09-30",
+    "start_date": "2026-10-01",
     "end_date": "2026-10-23",
     "open_ticket_time": "",
     "price_range": "",
@@ -2499,7 +2499,7 @@
     "first_seen": "",
     "sessions": [],
     "raw_text": "【外滩必打卡|亲子特惠】魔法儿童剧《魔法与物理奇妙秀》|沉浸互动|爆笑200％上海外滩专场",
-    "_id": "e16d2f17dae10405"
+    "_id": "8c8a8e1903f81cae"
    },
    {
     "title": "“奔马扬蹄，虎跃熊欢”——经典亲子大马戏《欢乐马戏》上海马戏城",
@@ -2583,14 +2583,14 @@
     "_id": "4b4cfb088f6e5b98"
    },
    {
-    "title": "【国庆潮玩】原创爆笑沉浸式魔术互动剧《梦游记》系列 | 第七感魔术剧场·宝山日月光店",
+    "title": "英国BBC正版授权亲子互动舞台剧《布鲁伊的大宝藏》",
     "type": "演出",
     "source": "maoyan",
     "official_url": "",
-    "venue": "第七感魔术剧场",
+    "venue": "美琪大戏院",
     "district": "",
-    "start_date": "2026-10-01",
-    "end_date": "2026-10-07",
+    "start_date": "2026-09-30",
+    "end_date": "",
     "open_ticket_time": "",
     "price_range": "",
     "price_min": null,
@@ -2606,8 +2606,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "【国庆潮玩】原创爆笑沉浸式魔术互动剧《梦游记》系列 | 第七感魔术剧场·宝山日月光店",
-    "_id": "e17767e20289b852"
+    "raw_text": "英国BBC正版授权亲子互动舞台剧《布鲁伊的大宝藏》",
+    "_id": "26b9506e5d2543e9"
    },
    {
     "title": "听潮阁x大豫园｜非遗戏曲季[潮音戏韵]京剧专场",
@@ -2961,33 +2961,6 @@
     "_id": "c42fde51db0b62b4"
    },
    {
-    "title": "《坂本龙一&久石让》经典作品音乐会",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "上海东方艺术中心",
-    "district": "",
-    "start_date": "2026-12-25",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "《坂本龙一&久石让》经典作品音乐会",
-    "_id": "3e9fc360950c6579"
-   },
-   {
     "title": "2026外滩音乐嘉年华·103 STAGE｜郑艺彬专场音乐会",
     "type": "演出",
     "source": "maoyan",
@@ -3042,6 +3015,33 @@
     "_id": "b6dbb236073d1851"
    },
    {
+    "title": "维也纳之声-金秋交响音乐会",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "上海东方艺术中心",
+    "district": "",
+    "start_date": "2026-10-03",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "维也纳之声-金秋交响音乐会",
+    "_id": "5299be7ef8a5ca60"
+   },
+   {
     "title": "第二十五届中国上海国际艺术节参演剧目 光明如实 至真鉴赏 美国芭蕾舞剧院 | 芭蕾舞剧《天鹅湖》",
     "type": "演出",
     "source": "maoyan",
@@ -3069,33 +3069,6 @@
     "_id": "8601f783c60e7127"
    },
    {
-    "title": "新 · 国风舞剧《翎衣》",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "美琪大戏院",
-    "district": "",
-    "start_date": "2026-10-04",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "新 · 国风舞剧《翎衣》",
-    "_id": "cc5d1b675f09caf6"
-   },
-   {
     "title": "舞蹈诗剧《只此青绿》-舞绘《千里江山图》",
     "type": "演出",
     "source": "maoyan",
@@ -3121,6 +3094,33 @@
     "sessions": [],
     "raw_text": "舞蹈诗剧《只此青绿》-舞绘《千里江山图》",
     "_id": "a229e4a0d32c7c28"
+   },
+   {
+    "title": "新 · 国风舞剧《翎衣》",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "美琪大戏院",
+    "district": "",
+    "start_date": "2026-10-04",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "新 · 国风舞剧《翎衣》",
+    "_id": "cc5d1b675f09caf6"
    },
    {
     "title": "耿子博导演作品 环境式沉浸舞蹈剧场《夜访德古拉》",
@@ -3339,6 +3339,33 @@
     "_id": "2333b89dfcaa0fa8"
    },
    {
+    "title": "高清放映——英国皇家歌剧院歌剧《茶花女》",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "宛平剧院",
+    "district": "",
+    "start_date": "2026-10-18",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "高清放映——英国皇家歌剧院歌剧《茶花女》",
+    "_id": "b5516e32ca81ca94"
+   },
+   {
     "title": "成人戏剧表演初体验",
     "type": "演出",
     "source": "maoyan",
@@ -3418,33 +3445,6 @@
     "sessions": [],
     "raw_text": "演艺厅高清放映 - 《危险关系》",
     "_id": "0df607f1c792b161"
-   },
-   {
-    "title": "高清放映——英国皇家歌剧院歌剧《茶花女》",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "宛平剧院",
-    "district": "",
-    "start_date": "2026-10-18",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "高清放映——英国皇家歌剧院歌剧《茶花女》",
-    "_id": "b5516e32ca81ca94"
    },
    {
     "title": "高清放映——俄语音乐剧《安娜·卡列尼娜》",
@@ -3556,7 +3556,7 @@
    }
   ],
   "count": 67,
-  "last_success": "2026-09-29"
+  "last_success": "2026-09-30"
  },
  "jufair": {
   "events": [
@@ -5273,7 +5273,7 @@
    }
   ],
   "count": 59,
-  "last_success": "2026-09-29"
+  "last_success": "2026-09-30"
  },
  "shcstheatre": {
   "events": [
@@ -5332,7 +5332,7 @@
     "_id": "0eb57ecbd72b8d67"
    },
    {
-    "title": "舞剧《楚河汉界》",
+    "title": "第二十五届中国上海国际艺术节委约剧目舞剧《楚河汉界》",
     "type": "演出",
     "source": "shcstheatre",
     "official_url": "https://www.shcstheatre.com/Program/ProgramDetails.aspx?headtype=YanChu&ARTICLE_ID=42079&id=42079",
@@ -5355,8 +5355,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "舞剧《楚河汉界》",
-    "_id": "8b3504d30f004ceb"
+    "raw_text": "第二十五届中国上海国际艺术节委约剧目舞剧《楚河汉界》",
+    "_id": "f96445ef2e2c90a7"
    },
    {
     "title": "第二十五届中国上海国际艺术节参演剧目 · 韩真、周莉亚新作 浙江演艺集团舞剧《栋梁》",
@@ -5630,7 +5630,7 @@
    }
   ],
   "count": 13,
-  "last_success": "2026-09-29"
+  "last_success": "2026-09-30"
  },
  "bendibao": {
   "events": [
@@ -13850,7 +13850,7 @@
    }
   ],
   "count": 154,
-  "last_success": "2026-09-29"
+  "last_success": "2026-09-30"
  },
  "cnrelay": {
   "events": [
@@ -13964,11 +13964,11 @@
    }
   ],
   "count": 4,
-  "last_success": "2026-09-29"
+  "last_success": "2026-09-30"
  },
  "wenhuayun": {
   "events": [],
   "count": 0,
-  "last_success": "2026-09-29"
+  "last_success": "2026-09-30"
  }
 }
