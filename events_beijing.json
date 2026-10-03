@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-10-03 01:50 北京时间",
- "count": 130,
+ "generatedAt": "2026-10-03 13:12 北京时间",
+ "count": 129,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-10-02"
+   "last_success": "2026-10-03"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 485,
-   "last_success": "2026-10-02"
+   "last_success": "2026-10-03"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 97,
-   "last_success": "2026-10-02"
+   "last_success": "2026-10-03"
   }
  },
  "events": [
@@ -1981,27 +1981,6 @@
    "sessions": []
   },
   {
-   "title": "《梁祝》唯美经典名曲小提琴音乐会",
-   "type": "演出",
-   "venue": "枫蓝熙剧场",
-   "district": "",
-   "start_date": "2026-10-02",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "39起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309270",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "闪千手呈现｜YĪN YĪN 2026新专辑巡演 北京",
    "type": "演出",
    "venue": "福浪LIVEHOUSE-福",
@@ -2802,6 +2781,27 @@
    "sessions": []
   },
   {
+   "title": "北京丨10.11 「Echoes from the North」 BBC盛赞的挪威爵士三重奏！Espen Eriksen",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-10-11",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "280",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/311726",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-30",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "不晚少年号-时光音乐会",
    "type": "演出",
    "venue": "北京朝阳公园开发经营有限责任公司中心岛剧场（贝壳剧场）",
@@ -2816,27 +2816,6 @@
     "亲子"
    ],
    "official_url": "https://www.showstart.com/event/311661",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨10.11 「Echoes from the North」 BBC盛赞的挪威爵士三重奏！Espen Eriksen",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-10-11",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "280",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/311726",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-30",
