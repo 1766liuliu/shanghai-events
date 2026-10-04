@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-10-04 00:13 北京时间",
- "count": 130,
+ "generatedAt": "2026-10-04 13:46 北京时间",
+ "count": 129,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-10-03"
+   "last_success": "2026-10-04"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 485,
-   "last_success": "2026-10-03"
+   "last_success": "2026-10-04"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 98,
-   "last_success": "2026-10-03"
+   "last_success": "2026-10-04"
   }
  },
  "events": [
@@ -1365,29 +1365,6 @@
    "sessions": []
   },
   {
-   "title": "北京国际设计周",
-   "type": "展会",
-   "venue": "多场地(全国农业展览馆等)",
-   "district": "",
-   "start_date": "2026-09-26",
-   "end_date": "2026-10-03",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "文创"
-   ],
-   "official_url": "https://www.bjdw.org/",
-   "featured": false,
-   "note": "全年贯穿运营,主体活动每年9.26-10.3",
-   "first_seen": "2026-07-04",
-   "kind": "年度固定",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "中国儿童艺术剧院",
    "type": "演出",
    "venue": "东城区东安门大街64号(王府井步行街北口)",
@@ -2314,27 +2291,6 @@
    "sessions": []
   },
   {
-   "title": "「中秋&国庆」海阔天空·真的爱你·光辉岁月｜beyond经典名曲烛光音乐会",
-   "type": "演出",
-   "venue": "三里屯-爱乐汇-城市演奏厅",
-   "district": "",
-   "start_date": "2026-10-06",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310472",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京丨10.6 「心之所往」曾为法国总统献唱！旅法音乐人姚嘉钰原创作品音乐会",
    "type": "演出",
    "venue": "Blue Note Beijing",
@@ -2347,6 +2303,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/310605",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "「中秋&国庆」海阔天空·真的爱你·光辉岁月｜beyond经典名曲烛光音乐会",
+   "type": "演出",
+   "venue": "三里屯-爱乐汇-城市演奏厅",
+   "district": "",
+   "start_date": "2026-10-06",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310472",
    "featured": false,
    "note": "",
    "first_seen": "2026-09-26",
