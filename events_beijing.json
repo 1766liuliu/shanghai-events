@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08 13:56 北京时间",
+ "generatedAt": "2026-10-09 02:49 北京时间",
  "count": 143,
  "health": {
   "curated_beijing": {
@@ -345,6 +345,11 @@
      "t": "“大戏看北京·2026北京国际戏剧展演季”昆曲剧场《愿起·梦华路》",
      "d": "2026-10-14",
      "u": "https://www.showstart.com/event/311795"
+    },
+    {
+     "t": "音乐剧《风声》",
+     "d": "2026-10-23",
+     "u": "https://www.showstart.com/event/310749"
     }
    ]
   },
@@ -2083,27 +2088,6 @@
    "sessions": []
   },
   {
-   "title": "与安达Live漫游 安达组合2026巡演（北京站）",
-   "type": "演出",
-   "venue": "1919 LIVEHOUSE",
-   "district": "",
-   "start_date": "2026-10-10",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "218起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/311116",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-27",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "与你相对·相对论乐队 2026巡演 北京站",
    "type": "演出",
    "venue": "福浪LIVEHOUSE-浪",
@@ -3405,6 +3389,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/305512",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-07",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "音乐剧《风声》",
+   "type": "演出",
+   "venue": "天桥艺术中心（大剧场）",
+   "district": "",
+   "start_date": "2026-10-23",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310749",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-07",
