@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-10-09 02:49 北京时间",
+ "generatedAt": "2026-10-09 14:02 北京时间",
  "count": 143,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-10-08"
+   "last_success": "2026-10-09"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 487,
-   "last_success": "2026-10-08"
+   "last_success": "2026-10-09"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -21,7 +21,7 @@
   "showstart_beijing": {
    "status": "ok",
    "count": 98,
-   "last_success": "2026-10-08"
+   "last_success": "2026-10-09"
   }
  },
  "events": [
@@ -230,7 +230,7 @@
      "u": "https://www.showstart.com/event/306660"
     },
     {
-     "t": "迷心乐队「迷你心MinorHeart」梦幻独立之声·新EP巡演|北京站",
+     "t": "迷心乐队「迷你心MinorHeart」梦幻独立之声·新EP巡演|北京站（嘉宾：上官喜爱、王欣宇、周骏）",
      "d": "2026-10-23",
      "u": "https://www.showstart.com/event/305512"
     }
@@ -806,7 +806,7 @@
      "u": "https://www.showstart.com/event/306660"
     },
     {
-     "t": "迷心乐队「迷你心MinorHeart」梦幻独立之声·新EP巡演|北京站",
+     "t": "迷心乐队「迷你心MinorHeart」梦幻独立之声·新EP巡演|北京站（嘉宾：上官喜爱、王欣宇、周骏）",
      "d": "2026-10-23",
      "u": "https://www.showstart.com/event/305512"
     }
@@ -851,7 +851,7 @@
      "u": "https://www.showstart.com/event/306660"
     },
     {
-     "t": "迷心乐队「迷你心MinorHeart」梦幻独立之声·新EP巡演|北京站",
+     "t": "迷心乐队「迷你心MinorHeart」梦幻独立之声·新EP巡演|北京站（嘉宾：上官喜爱、王欣宇、周骏）",
      "d": "2026-10-23",
      "u": "https://www.showstart.com/event/305512"
     }
@@ -2787,27 +2787,6 @@
    "sessions": []
   },
   {
-   "title": "北京丨10.16 Walking Distance - Peter Somuah Quartet",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-10-16",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "260",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310576",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "RAVEL IN THE FOREST & BEYOND｜Belle Chen World Tour 2026 北京首演",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -2820,6 +2799,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/306762",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-06",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨10.16 Walking Distance - Peter Somuah Quartet",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-10-16",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "260",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310576",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-06",
@@ -2999,27 +2999,6 @@
    "sessions": []
   },
   {
-   "title": "刘力菲&张昕 「叁壹无畏」生日专场演出",
-   "type": "演出",
-   "venue": "MAO Livehouse北京（东郎店）",
-   "district": "",
-   "start_date": "2026-10-17",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "266起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310450",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京·祈Inory 2026个人巡演「祈航的风」 律动狂潮此声唯一系列",
    "type": "演出",
    "venue": "WeShow Live",
@@ -3032,6 +3011,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/311612",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-06",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "刘力菲&张昕 「叁壹无畏」生日专场演出",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-10-17",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "266起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310450",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-06",
@@ -3377,7 +3377,7 @@
    "sessions": []
   },
   {
-   "title": "迷心乐队「迷你心MinorHeart」梦幻独立之声·新EP巡演|北京站",
+   "title": "迷心乐队「迷你心MinorHeart」梦幻独立之声·新EP巡演|北京站（嘉宾：上官喜爱、王欣宇、周骏）",
    "type": "演出",
    "venue": "MAO Livehouse北京（东郎店）",
    "district": "",
@@ -3391,7 +3391,7 @@
    "official_url": "https://www.showstart.com/event/305512",
    "featured": false,
    "note": "",
-   "first_seen": "2026-10-07",
+   "first_seen": "2026-10-09",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
