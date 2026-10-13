@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-10-13 05:15 北京时间",
- "count": 139,
+ "generatedAt": "2026-10-13 14:43 北京时间",
+ "count": 136,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-10-12"
+   "last_success": "2026-10-13"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 487,
-   "last_success": "2026-10-12"
+   "last_success": "2026-10-13"
   },
   "laoshechaguan": {
    "status": "failed",
@@ -20,8 +20,8 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 99,
-   "last_success": "2026-10-12"
+   "count": 98,
+   "last_success": "2026-10-13"
   }
  },
  "events": [
@@ -335,11 +335,6 @@
      "t": "北京文化艺术基金2025年度资助项目小柯音乐剧《西游“渡”记》",
      "d": "2026-10-21",
      "u": "https://www.showstart.com/event/312532"
-    },
-    {
-     "t": "音乐剧《风声》",
-     "d": "2026-10-23",
-     "u": "https://www.showstart.com/event/310749"
     }
    ]
   },
@@ -1860,27 +1855,6 @@
    "sessions": []
   },
   {
-   "title": "刘宪华",
-   "type": "演出",
-   "venue": "国家体育馆",
-   "district": "",
-   "start_date": "2026-10-11",
-   "end_date": "2026-10-12",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=刘宪华",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-09-27",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "2026首都博物馆“玉米·黄金·美洲豹——玛雅与安第斯古代文明”大展",
    "type": "展会",
    "venue": "首都博物馆",
@@ -2004,29 +1978,6 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】三里屯X太古里-精品脱口秀《喜剧专场》|每天2点4点7:30演出｜王二狗+即兴喜剧互动秀｜大开心笑果",
-   "type": "演出",
-   "venue": "爱笑联盟剧场（三里屯SOHO店）",
-   "district": "",
-   "start_date": "2026-10-12",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/311175",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-11",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
    "sessions": []
   },
   {
@@ -2366,27 +2317,6 @@
    "sessions": []
   },
   {
-   "title": "少年游：秘密后院二十年 北京特别专场（暌违十年）",
-   "type": "演出",
-   "venue": "乐空间",
-   "district": "",
-   "start_date": "2026-10-16",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "168起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309601",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-03",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "开心麻花×盗墓笔记 欢乐田园沉浸式舞台剧《雨村笔记Ⅱ之天梯笔记》",
    "type": "演出",
    "venue": "老故事503文创园Story剧场(近北门停车场）",
@@ -2408,21 +2338,21 @@
    "sessions": []
   },
   {
-   "title": "宁峰与德国波茨坦室内乐团演绎莫扎特小提琴协奏曲全集",
+   "title": "少年游：秘密后院二十年 北京特别专场（暌违十年）",
    "type": "演出",
-   "venue": "中山音乐堂",
+   "venue": "乐空间",
    "district": "",
    "start_date": "2026-10-16",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "100起",
+   "price_range": "168起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/309927",
+   "official_url": "https://www.showstart.com/event/309601",
    "featured": false,
    "note": "",
-   "first_seen": "2026-10-04",
+   "first_seen": "2026-10-03",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2441,6 +2371,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/307477",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "宁峰与德国波茨坦室内乐团演绎莫扎特小提琴协奏曲全集",
+   "type": "演出",
+   "venue": "中山音乐堂",
+   "district": "",
+   "start_date": "2026-10-16",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309927",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-04",
@@ -2507,6 +2458,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-06",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "GLORY星际搭车指南 Vol.45",
+   "type": "演出",
+   "venue": "MASK",
+   "district": "",
+   "start_date": "2026-10-17",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "88起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/312553",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-13",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3250,27 +3222,6 @@
    "sessions": []
   },
   {
-   "title": "音乐剧《风声》",
-   "type": "演出",
-   "venue": "天桥艺术中心（大剧场）",
-   "district": "",
-   "start_date": "2026-10-23",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310749",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-07",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "二番目乐队2026「人间青山」专场演出",
    "type": "演出",
    "venue": "福浪LIVEHOUSE-浪",
@@ -3286,27 +3237,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-07",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "不如一见｜民谣30年系列演出会之北平秋歌",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-10-23",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "108起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/311620",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-11",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
