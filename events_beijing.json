@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-19 12:33 北京时间",
- "count": 130,
+ "generatedAt": "2026-10-20 02:41 北京时间",
+ "count": 131,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 94,
+   "count": 95,
    "last_success": "2026-10-19"
   }
  },
@@ -217,11 +217,6 @@
      "t": "帆布小镇今夜无法入眠Ⅱ特别专场-北京站",
      "d": "2026-10-24",
      "u": "https://www.showstart.com/event/306731"
-    },
-    {
-     "t": "只是一场简单对话—北京站",
-     "d": "2026-10-30",
-     "u": "https://www.showstart.com/event/307279"
     }
    ]
   },
@@ -379,19 +374,19 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-10-19",
-     "u": "https://i.laoshechaguan.cn/list/421954981.html"
-    },
-    {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
      "d": "2026-10-19",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-10-19",
+     "d": "2026-10-20",
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
+    },
+    {
+     "t": "老舍茶馆京味儿相声专场演出",
+     "d": "2026-10-20",
+     "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
      "t": "老舍经典话剧《茶馆》",
@@ -777,11 +772,6 @@
      "t": "帆布小镇今夜无法入眠Ⅱ特别专场-北京站",
      "d": "2026-10-24",
      "u": "https://www.showstart.com/event/306731"
-    },
-    {
-     "t": "只是一场简单对话—北京站",
-     "d": "2026-10-30",
-     "u": "https://www.showstart.com/event/307279"
     }
    ]
   },
@@ -817,11 +807,6 @@
      "t": "帆布小镇今夜无法入眠Ⅱ特别专场-北京站",
      "d": "2026-10-24",
      "u": "https://www.showstart.com/event/306731"
-    },
-    {
-     "t": "只是一场简单对话—北京站",
-     "d": "2026-10-30",
-     "u": "https://www.showstart.com/event/307279"
     }
    ]
   },
@@ -1162,16 +1147,6 @@
      "t": "北京丨10.23 回到彼岸-不只是 Bossa Nova的巴西爵士",
      "d": "2026-10-23",
      "u": "https://www.showstart.com/event/311651"
-    },
-    {
-     "t": "北京丨10.28 「Play the Jazz Hits!」当爵士重新令人起舞：来自斯德哥尔摩的摇摆之夜",
-     "d": "2026-10-28",
-     "u": "https://www.showstart.com/event/312203"
-    },
-    {
-     "t": "北京丨10.29 当灵魂成为一首组曲：Irene Reig四重奏",
-     "d": "2026-10-29",
-     "u": "https://www.showstart.com/event/312304"
     }
    ]
   },
@@ -1197,7 +1172,33 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "北方昆曲剧院经典折子戏 《红梨记•醉皂》《渔家乐•藏舟》《千里送京娘》",
+     "d": "2026-10-20",
+     "u": "https://www.showstart.com/event/313131"
+    },
+    {
+     "t": "北方昆曲剧院经典折子戏 《西游记•胖姑学舌》《雁翎甲•盗甲》《青冢记·昭君出塞》",
+     "d": "2026-10-21",
+     "u": "https://www.showstart.com/event/313133"
+    },
+    {
+     "t": "中国煤矿文工团“大地弦歌”系列音乐会 《雄关长歌》纪念红军长征胜利90周年音乐会",
+     "d": "2026-10-22",
+     "u": "https://www.showstart.com/event/313107"
+    },
+    {
+     "t": "北方昆曲剧院经典折子戏 《挡马》《精忠记•刺字》《长生殿·小宴》",
+     "d": "2026-10-27",
+     "u": "https://www.showstart.com/event/313132"
+    },
+    {
+     "t": "北方昆曲剧院经典折子戏 《夺锦标•扈家庄》《蝴蝶梦•说亲回话》《雷峰塔•断桥》",
+     "d": "2026-10-28",
+     "u": "https://www.showstart.com/event/313130"
+    }
+   ]
   },
   {
    "title": "北京喜剧院",
@@ -1867,11 +1868,34 @@
    "sessions": []
   },
   {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-10-20",
+   "end_date": "2026-10-27",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍茶馆京味儿相声专场演出",
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-10-19",
+   "start_date": "2026-10-20",
    "end_date": "2026-11-30",
    "open_ticket_time": "",
    "price_range": "114-266起",
@@ -1881,7 +1905,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-10-18",
+   "first_seen": "2026-10-19",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1903,29 +1927,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-10-19",
-   "end_date": "2026-10-27",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2037,6 +2038,27 @@
    "sessions": []
   },
   {
+   "title": "北方昆曲剧院经典折子戏 《红梨记•醉皂》《渔家乐•藏舟》《千里送京娘》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-10-20",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313131",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "西班牙指弹音乐家 PIPO ROMERO｜DDL呈现 北京站",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -2100,6 +2122,27 @@
    "sessions": []
   },
   {
+   "title": "北方昆曲剧院经典折子戏 《西游记•胖姑学舌》《雁翎甲•盗甲》《青冢记·昭君出塞》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-10-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313133",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "《北京故事》悦动四重奏音乐会",
    "type": "演出",
    "venue": "北京中山音乐堂",
@@ -2157,6 +2200,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "中国煤矿文工团“大地弦歌”系列音乐会 《雄关长歌》纪念红军长征胜利90周年音乐会",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-10-22",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313107",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2415,6 +2479,27 @@
    "sessions": []
   },
   {
+   "title": "【高清放映】伦敦西区音乐剧现场《近乎正常》",
+   "type": "演出",
+   "venue": "国图影院",
+   "district": "",
+   "start_date": "2026-10-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "120起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313119",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "鬼卞2026「FOR TEN」巡演·北京站",
    "type": "演出",
    "venue": "蛙厂RMMF·北京798店",
@@ -2646,6 +2731,29 @@
    "sessions": []
   },
   {
+   "title": "麻花脱口秀｜那日苏脱口秀互动专场《穿山甲与穿山乙》",
+   "type": "演出",
+   "venue": "开心麻花景山剧场",
+   "district": "",
+   "start_date": "2026-10-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "99起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/313226",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": true,
+   "sessions": []
+  },
+  {
    "title": "银色灰尘乐队新专辑首发【疯魔蝶变】专场北京站",
    "type": "演出",
    "venue": "菇的LIVE·蘑菇洞",
@@ -2688,6 +2796,27 @@
    "sessions": []
   },
   {
+   "title": "【高清放映】百老汇音乐剧《欢乐岁月》",
+   "type": "演出",
+   "venue": "国图影院",
+   "district": "",
+   "start_date": "2026-10-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "120起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313102",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "椅子乐团 Rolling On, Marching On 十周年巡演 北京站10/25",
    "type": "演出",
    "venue": "蛙厂RMMF·北京798店",
@@ -2703,6 +2832,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-17",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "DOKIFES!心跳盛典",
+   "type": "演出",
+   "venue": "门空间 The Door Space",
+   "district": "",
+   "start_date": "2026-10-25",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313245",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2919,6 +3069,48 @@
    "sessions": []
   },
   {
+   "title": "北方昆曲剧院经典折子戏 《挡马》《精忠记•刺字》《长生殿·小宴》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-10-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313132",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北方昆曲剧院经典折子戏 《夺锦标•扈家庄》《蝴蝶梦•说亲回话》《雷峰塔•断桥》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-10-28",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313130",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "《乐融中西》室内乐音乐会",
    "type": "演出",
    "venue": "北京中山音乐堂",
@@ -2931,176 +3123,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/312848",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨10.28 「Play the Jazz Hits!」当爵士重新令人起舞：来自斯德哥尔摩的摇摆之夜",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-10-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "260",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312203",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "一场音乐旅程《TRANSIT》｜法国小号演奏家 Florent Briqué, 嘉宾：文烽",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-10-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/313142",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "庸俗救星2026「城市散步」巡演 北京站",
-   "type": "演出",
-   "venue": "疆进酒·OMNI SPACE（北京）",
-   "district": "",
-   "start_date": "2026-10-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "150起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308821",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "欧洲杰出青年爵士组合 DANIEL MIGLIOSI QUARTET 巡演｜DDL呈现 北京站",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-10-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "118起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307426",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨10.29 当灵魂成为一首组曲：Irene Reig四重奏",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-10-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "200",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312304",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "万晓利「这一切没有想象的那么糟」20周年秋季巡演·北京站",
-   "type": "演出",
-   "venue": "1919 LIVEHOUSE",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "149起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308956",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "高清舞台影像-《近乎正常》保利国际影城北京天安门店",
-   "type": "演出",
-   "venue": "保利国际影城北京天安门店6号厅",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "120",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312407",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "只是一场简单对话—北京站",
-   "type": "演出",
-   "venue": "MAO Livehouse北京（东郎店）",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "149起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/307279",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-18",
