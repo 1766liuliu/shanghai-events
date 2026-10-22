@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-10-22 01:06 北京时间",
- "count": 132,
+ "generatedAt": "2026-10-22 12:36 北京时间",
+ "count": 129,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-10-21"
+   "last_success": "2026-10-22"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 488,
-   "last_success": "2026-10-21"
+   "last_success": "2026-10-22"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-10-21"
+   "last_success": "2026-10-22"
   },
   "showstart_beijing": {
    "status": "ok",
    "count": 95,
-   "last_success": "2026-10-21"
+   "last_success": "2026-10-22"
   }
  },
  "events": [
@@ -316,11 +316,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京文化艺术基金2025年度资助项目小柯音乐剧《西游“渡”记》",
-     "d": "2026-10-21",
-     "u": "https://www.showstart.com/event/312532"
-    },
-    {
      "t": "音乐剧《风声》",
      "d": "2026-10-23",
      "u": "https://www.showstart.com/event/310749"
@@ -374,19 +369,19 @@
    "sessions": [],
    "programs": [
     {
+     "t": "老舍茶馆京味儿相声专场演出",
+     "d": "2026-10-22",
+     "u": "https://i.laoshechaguan.cn/list/421954981.html"
+    },
+    {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-10-21",
+     "d": "2026-10-22",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
      "d": "2026-10-22",
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
-     "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-10-22",
-     "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
      "t": "老舍经典话剧《茶馆》",
@@ -1868,29 +1863,6 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-10-22",
-   "end_date": "2026-10-27",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-21",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "老舍茶馆京味儿相声专场演出",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -1916,7 +1888,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-10-21",
+   "start_date": "2026-10-22",
    "end_date": "2026-11-30",
    "open_ticket_time": "",
    "price_range": "171-551起",
@@ -1924,6 +1896,29 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-10-22",
+   "end_date": "2026-10-27",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-21",
@@ -1969,71 +1964,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】三里屯X太古里-精品脱口秀《喜剧专场》|每天2点4点7:30演出｜王二狗+即兴喜剧互动秀｜大开心笑果",
-   "type": "演出",
-   "venue": "爱笑联盟剧场（三里屯SOHO店）",
-   "district": "",
-   "start_date": "2026-10-21",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/312606",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
-   "sessions": []
-  },
-  {
-   "title": "《踏歌行》 2026北京古风仙侠金曲ost演唱会",
-   "type": "演出",
-   "venue": "三里屯-爱乐汇艺术空间-时空剧场",
-   "district": "",
-   "start_date": "2026-10-21",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312332",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-09",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京文化艺术基金2025年度资助项目小柯音乐剧《西游“渡”记》",
-   "type": "演出",
-   "venue": "天桥艺术中心-中剧场",
-   "district": "",
-   "start_date": "2026-10-21",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312532",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-12",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2208,27 +2138,6 @@
    "sessions": []
   },
   {
-   "title": "二番目乐队2026「人间青山」专场演出",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-浪",
-   "district": "",
-   "start_date": "2026-10-23",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "108起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/308970",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-07",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "音乐剧《风声》",
    "type": "演出",
    "venue": "天桥艺术中心（大剧场）",
@@ -2241,6 +2150,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/310749",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-07",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "二番目乐队2026「人间青山」专场演出",
+   "type": "演出",
+   "venue": "福浪LIVEHOUSE-浪",
+   "district": "",
+   "start_date": "2026-10-23",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "108起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/308970",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-07",
@@ -2271,27 +2201,6 @@
    "sessions": []
   },
   {
-   "title": "「铜管魅力」——香港铜管乐团 专场音乐会",
-   "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
-   "district": "",
-   "start_date": "2026-10-23",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "80起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310698",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-11",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京丨10.23 回到彼岸-不只是 Bossa Nova的巴西爵士",
    "type": "演出",
    "venue": "Blue Note Beijing",
@@ -2304,6 +2213,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/311651",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-11",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "「铜管魅力」——香港铜管乐团 专场音乐会",
+   "type": "演出",
+   "venue": "五棵松·爱乐汇艺术空间·都市音乐厅",
+   "district": "",
+   "start_date": "2026-10-23",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310698",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-11",
@@ -2565,27 +2495,6 @@
    "sessions": []
   },
   {
-   "title": "山谷居民&吴张法 「碧野秋歌」音乐会",
-   "type": "演出",
-   "venue": "山谷居民",
-   "district": "",
-   "start_date": "2026-10-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312771",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-17",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "《不能说的秘密》经典名曲烛光音乐会",
    "type": "演出",
    "venue": "中华世纪坛剧场",
@@ -2627,6 +2536,27 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": true,
+   "sessions": []
+  },
+  {
+   "title": "山谷居民&吴张法 「碧野秋歌」音乐会",
+   "type": "演出",
+   "venue": "山谷居民",
+   "district": "",
+   "start_date": "2026-10-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/312771",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-17",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
    "sessions": []
   },
   {
