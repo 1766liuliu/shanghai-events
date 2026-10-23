@@ -24,7 +24,10 @@ HEADERS = {
     ),
 }
 RE_D = re.compile(r"(20\d{2})[.\-/](\d{1,2})[.\-/](\d{1,2})")
-SKIP = {"立即购票", "购票", "详情", "更多", "学生现场票", "演艺大世界"}
+# 按钮/导航文案(子串命中即剔除)——网站改版会给中文按钮加英文后缀
+# (如"立即购票 Buy Tickets"),故用子串匹配而非精确匹配,避免漏判。
+SKIP_KW = ["购票", "详情", "更多", "学生现场票", "演艺大世界",
+           "Buy Ticket", "buy ticket", "Tickets", "更多剧目"]
 
 
 class ShcstheatreSource(BaseSource):
@@ -44,7 +47,8 @@ class ShcstheatreSource(BaseSource):
         seen = set()
         for a in s.select('a[href*="ProgramDetails"]'):
             title = a.get_text(strip=True)
-            if not title or len(title) < 4 or title in SKIP or title in seen:
+            if (not title or len(title) < 4 or title in seen
+                    or any(k in title for k in SKIP_KW)):
                 continue
             seen.add(title)
 

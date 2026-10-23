@@ -37,7 +37,10 @@ ENABLED_SOURCES = [
     MaoyanSource(),      # ✅ 猫眼演出: 演唱会/剧场/马戏/魔术(带日期/场馆)
     JufairSource(),      # ✅ 聚展: 上海国际展会(带日期+链接)
     ShcstheatreSource(), # ✅ 上海文化广场: 音乐剧/话剧/舞剧排期
-    BendibaoSource(),    # ✅ 本地宝: 展会/演出(补充,日期多待核实)
+    # BendibaoSource(),  # ✖ 已停用(2026-10-23):本地宝展会/演出表已沦为历史归档,
+    #                      实测抓50条但0条未过期(last_success虽显示近期,数据却全是
+    #                      2024~2026-04的过期场次),对展示零贡献,却永久触发"degraded"
+    #                      误警告。展会由 jufair 覆盖、演出由 maoyan/文化广场覆盖,删之无损。
     JussventSource(),    # ✅ 久事体育: 官方赛事动态
     CnRelaySource(),     # ✅ 境内中继: 读 data/cn_events.json(腾讯云SCF抓取后提交回仓库)
     WenhuayunSource(),   # ⏳ 待抓包对接(亲子内容最多,优先)
