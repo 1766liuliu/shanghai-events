@@ -51,5 +51,11 @@ jobs:
             echo "本次无变化,跳过提交"
           else
             git commit -m "auto refresh(北京) $(date -u '+%Y-%m-%dT%H:%MZ')"
-            git push
+            # 并发推送易撞车(非快进),故 rebase 后重试最多5次,避免整次刷新白跑
+            for i in 1 2 3 4 5; do
+              git push && break
+              echo "推送冲突,拉取rebase后重试($i)"
+              git pull --rebase -X theirs origin main || break
+              sleep 3
+            done
           fi
