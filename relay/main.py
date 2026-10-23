@@ -123,6 +123,54 @@ def scrape_puppet():
     return out
 
 
+# ---------------- 猫眼演出(演唱会/剧场) ----------------
+# 为什么放中继:猫眼从 GitHub Actions(美国数据中心IP)间歇性被反爬拦截返回0条,
+# 但从境内IP正常。中继在境内跑,可稳定拿到上海热门演出(演唱会为主)。
+# 注:若中继(腾讯云也是数据中心IP)同样被拦,本函数返回0→不影响儿艺/木偶,
+#     且 collector 侧仍保留直连猫眼兜底(双源由 clean.py 按标题去重)。
+_RE_MDATE = re.compile(r"(\d{4})\.(\d{1,2})\.(\d{1,2})")
+
+
+def _maoyan_dates(text):
+    """'2026.11.20 - 11.22' → (start, end);结束日无年份时承接开始年。"""
+    ds = _RE_MDATE.findall(text)
+    if not ds:
+        return "", ""
+    y, m, d = ds[0]
+    start = "%s-%02d-%02d" % (y, int(m), int(d))
+    end = ""
+    tail = text[text.find(ds[0][2]) + len(ds[0][2]):]
+    m2 = re.search(r"-\s*(\d{1,2})[./](\d{1,2})", tail)
+    if m2:
+        try:
+            end = datetime.date(int(y), int(m2.group(1)), int(m2.group(2))).isoformat()
+        except ValueError:
+            end = ""
+    return start, end
+
+
+def scrape_maoyan():
+    html = _decode(_get("https://show.maoyan.com/"))
+    out, seen = [], set()
+    for blk in re.split(r"hotlist-item-wrapper", html)[1:]:
+        nm = re.search(r'hotlist-item-name"><p[^>]*>([^<]+)<', blk)
+        if not nm:
+            continue
+        name = _strip(nm.group(1))
+        if not name or name in seen:
+            continue
+        seen.add(name)
+        loc = re.search(r'class="[^"]*\blocation">([^<]+)<', blk)
+        dt = re.search(r'class="[^"]*\bdate">([^<]+)<', blk)
+        start, end = _maoyan_dates(dt.group(1) if dt else "")
+        out.append({
+            "title": name[:60], "type": "演出", "source": "maoyan",
+            "venue": _strip(loc.group(1)) if loc else "",
+            "start_date": start, "end_date": end,
+        })
+    return out
+
+
 # ---------------- 提交回 GitHub ----------------
 def _commit(events):
     api = "https://api.github.com/repos/%s/contents/%s" % (GH_REPO, GH_PATH)
@@ -153,7 +201,7 @@ def _commit(events):
 
 def main_handler(event, context):
     events, errors = [], {}
-    for fn in (scrape_shcat, scrape_puppet):
+    for fn in (scrape_shcat, scrape_puppet, scrape_maoyan):
         try:
             events += fn()
         except Exception as e:  # noqa: BLE001
