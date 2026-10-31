@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-10-31 01:58 北京时间",
- "count": 124,
+ "generatedAt": "2026-10-31 13:31 北京时间",
+ "count": 122,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-10-30"
+   "last_success": "2026-10-31"
   },
   "bendibao_beijing": {
    "status": "ok",
-   "count": 297,
-   "last_success": "2026-10-30"
+   "count": 489,
+   "last_success": "2026-10-31"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-10-30"
+   "last_success": "2026-10-31"
   },
   "showstart_beijing": {
    "status": "ok",
    "count": 94,
-   "last_success": "2026-10-30"
+   "last_success": "2026-10-31"
   }
  },
  "events": [
@@ -71,11 +71,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "法语音乐剧《茶花女》",
-     "d": "2026-10-30",
-     "u": "https://www.showstart.com/event/306556"
-    },
     {
      "t": "话剧《莫扎特传》 俄罗斯瓦赫坦戈夫剧院",
      "d": "2026-11-04",
@@ -153,7 +148,13 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "凤凰传奇",
+     "d": "2026-10-30",
+     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=凤凰传奇"
+    }
+   ]
   },
   {
    "title": "北京工人体育场",
@@ -315,16 +316,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "音乐剧《女巫》",
-     "d": "2026-10-30",
-     "u": "https://www.showstart.com/event/307116"
-    },
-    {
-     "t": "舞台剧《聂隐娘》",
-     "d": "2026-10-30",
-     "u": "https://www.showstart.com/event/310996"
-    },
-    {
      "t": "金世佳主演话剧《诗人之死》",
      "d": "2026-11-06",
      "u": "https://www.showstart.com/event/307140"
@@ -379,13 +370,8 @@
    "programs": [
     {
      "t": "老舍经典话剧《茶馆》",
-     "d": "2026-10-30",
+     "d": "2026-10-31",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
-    },
-    {
-     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-10-30",
-     "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
@@ -396,6 +382,11 @@
      "t": "老舍茶馆京味儿相声专场演出",
      "d": "2026-10-31",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
+    },
+    {
+     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
+     "d": "2026-10-31",
+     "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆评书专场",
@@ -721,7 +712,18 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": []
+   "programs": [
+    {
+     "t": "齐豫风采依旧北京演唱会",
+     "d": "2026-11-21",
+     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=齐豫风采依旧北京演唱会"
+    },
+    {
+     "t": "丁当",
+     "d": "2026-12-19",
+     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=丁当"
+    }
+   ]
   },
   {
    "title": "愚公移山Livehouse",
@@ -1675,11 +1677,116 @@
    "programs": []
   },
   {
+   "title": "凤凰传奇",
+   "type": "演出",
+   "venue": "国家体育场-鸟巢",
+   "district": "",
+   "start_date": "2026-10-30",
+   "end_date": "2026-11-08",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=凤凰传奇",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-09-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "陆虎",
+   "type": "演出",
+   "venue": "华熙生物·润百颜中心",
+   "district": "",
+   "start_date": "2026-11-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=陆虎",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-18",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "齐豫风采依旧北京演唱会",
+   "type": "演出",
+   "venue": "首都体育馆",
+   "district": "",
+   "start_date": "2026-11-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=齐豫风采依旧北京演唱会",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-23",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "王铮亮",
+   "type": "演出",
+   "venue": "国家体育馆",
+   "district": "",
+   "start_date": "2026-11-28",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=王铮亮",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-06",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "丁当",
+   "type": "演出",
+   "venue": "首都体育馆",
+   "district": "",
+   "start_date": "2026-12-19",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=丁当",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-06",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍经典话剧《茶馆》",
    "type": "演出",
    "venue": "老舍茶馆",
    "district": "",
-   "start_date": "2026-10-30",
+   "start_date": "2026-10-31",
    "end_date": "2026-11-29",
    "open_ticket_time": "",
    "price_range": "116-369起",
@@ -1689,28 +1796,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/327317671.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-10-25",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "2026-11-30",
-   "open_ticket_time": "",
-   "price_range": "171-551起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
+   "first_seen": "2026-10-31",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1722,7 +1808,7 @@
    "venue": "北京老舍茶馆",
    "district": "",
    "start_date": "2026-10-31",
-   "end_date": "2026-11-08",
+   "end_date": "2026-11-22",
    "open_ticket_time": "",
    "price_range": "76-95起",
    "kid_friendly": true,
@@ -1755,6 +1841,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-30",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-10-31",
+   "end_date": "2026-11-30",
+   "open_ticket_time": "",
+   "price_range": "171-551起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-31",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1800,136 +1907,6 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【北京】三里屯X太古里-精品脱口秀《喜剧专场》|每天2点4点7:30演出｜王二狗+即兴喜剧互动秀｜大开心笑果",
-   "type": "演出",
-   "venue": "爱笑联盟剧场（三里屯SOHO店）",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/312613",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-29",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
-   "sessions": []
-  },
-  {
-   "title": "高清舞台影像-《近乎正常》保利国际影城北京天安门店",
-   "type": "演出",
-   "venue": "保利国际影城北京天安门店6号厅",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "120",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312407",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "法语音乐剧《茶花女》",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/306556",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "音乐剧《女巫》",
-   "type": "演出",
-   "venue": "北京 天桥艺术中心小剧场",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307116",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "舞台剧《聂隐娘》",
-   "type": "演出",
-   "venue": "天桥艺术中心-中剧场",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310996",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "魔术脱口秀《三块巧克力》",
-   "type": "演出",
-   "venue": "开心麻花通州北投希尔顿沉浸式剧场",
-   "district": "",
-   "start_date": "2026-10-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "88",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/313994",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": true,
    "sessions": []
   },
   {
@@ -2227,6 +2204,27 @@
    "sessions": []
   },
   {
+   "title": "JUMUA TRIO卓穆重奏| 10.31 ► 「哦 旅人」漫游中东 世界音乐会",
+   "type": "演出",
+   "venue": "山谷居民",
+   "district": "",
+   "start_date": "2026-10-31",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "120起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/312775",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-25",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "壹载同欢 娱堂·MagMa Club 周年庆",
    "type": "演出",
    "venue": "娱堂ViVaVium&MagMa",
@@ -2248,18 +2246,18 @@
    "sessions": []
   },
   {
-   "title": "JUMUA TRIO卓穆重奏| 10.31 ► 「哦 旅人」漫游中东 世界音乐会",
+   "title": "POPMIX 北京站｜TAYLOR SWIFT FAN PARTY 霉粉派对",
    "type": "演出",
-   "venue": "山谷居民",
+   "venue": "福浪LIVEHOUSE-浪",
    "district": "",
    "start_date": "2026-10-31",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "120起",
+   "price_range": "98起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/312775",
+   "official_url": "https://www.showstart.com/event/311799",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-25",
@@ -2284,27 +2282,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-24",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "POPMIX 北京站｜TAYLOR SWIFT FAN PARTY 霉粉派对",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-浪",
-   "district": "",
-   "start_date": "2026-10-31",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "98起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/311799",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-25",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2416,24 +2393,24 @@
    "sessions": []
   },
   {
-   "title": "【喜剧部落】前门爆炸精品大栅栏脱口秀|热更轰炸|喜剧明星云集|极致解压",
+   "title": "飞行冠军【浮出水面】2026新专辑巡演 北京站",
    "type": "演出",
-   "venue": "保利国际影城（天安门店）",
+   "venue": "东三LIVE乐游园",
    "district": "",
    "start_date": "2026-11-01",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "61起",
+   "price_range": "99起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/313861",
+   "official_url": "https://www.showstart.com/event/303243",
    "featured": false,
    "note": "",
-   "first_seen": "2026-10-30",
+   "first_seen": "2026-10-25",
    "kind": "临时",
    "audience": "公众",
-   "kid_unfit": true,
+   "kid_unfit": false,
    "sessions": []
   },
   {
@@ -2449,27 +2426,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/310779",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-25",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "飞行冠军【浮出水面】2026新专辑巡演 北京站",
-   "type": "演出",
-   "venue": "东三LIVE乐游园",
-   "district": "",
-   "start_date": "2026-11-01",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "99起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/303243",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-25",
