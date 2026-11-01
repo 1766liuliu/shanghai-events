@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-11-01 01:14 北京时间",
- "count": 139,
+ "generatedAt": "2026-11-01 13:55 北京时间",
+ "count": 138,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-10-31"
+   "last_success": "2026-11-01"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 489,
-   "last_success": "2026-10-31"
+   "last_success": "2026-11-01"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-10-31"
+   "last_success": "2026-11-01"
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 100,
-   "last_success": "2026-10-31"
+   "count": 99,
+   "last_success": "2026-11-01"
   }
  },
  "events": [
@@ -384,19 +384,9 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-10-31",
-     "u": "https://i.laoshechaguan.cn/list/101457.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-11-01",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
-    },
-    {
-     "t": "老舍茶馆评书专场",
-     "d": "2026-11-01",
-     "u": "https://i.laoshechaguan.cn/list/135648773.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
@@ -404,9 +394,19 @@
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
+     "t": "老舍茶馆评书专场",
+     "d": "2026-11-01",
+     "u": "https://i.laoshechaguan.cn/list/135648773.html"
+    },
+    {
      "t": "北京曲艺团&老舍茶馆《鼓曲》专场",
      "d": "2026-11-01",
      "u": "https://i.laoshechaguan.cn/list/101485.html"
+    },
+    {
+     "t": "老舍茶馆京味儿相声专场演出",
+     "d": "2026-11-01",
+     "u": "https://i.laoshechaguan.cn/list/421954981.html"
     }
    ]
   },
@@ -1833,27 +1833,6 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆评书专场",
-   "type": "演出",
-   "venue": "老舍茶馆二层艺苑厅",
-   "district": "",
-   "start_date": "2026-11-01",
-   "end_date": "2026-11-29",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/135648773.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-25",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "老舍茶馆 亲子皮影戏",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -1877,21 +1856,21 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
+   "title": "老舍茶馆评书专场",
    "type": "演出",
-   "venue": "北京老舍茶馆",
+   "venue": "老舍茶馆二层艺苑厅",
    "district": "",
-   "start_date": "2026-10-31",
-   "end_date": "2026-11-30",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-29",
    "open_ticket_time": "",
-   "price_range": "171-551起",
+   "price_range": "76-95起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "official_url": "https://i.laoshechaguan.cn/list/135648773.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-10-31",
+   "first_seen": "2026-10-25",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1940,21 +1919,21 @@
    "sessions": []
   },
   {
-   "title": "【高清放映】莎士比亚环球剧场影像《马尔菲公爵夫人》",
+   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
-   "venue": "国图影院",
+   "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-10-31",
-   "end_date": "",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-30",
    "open_ticket_time": "",
-   "price_range": "120起",
+   "price_range": "171-551起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/313104",
+   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-10-24",
+   "first_seen": "2026-11-01",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2091,29 +2070,6 @@
    "sessions": []
   },
   {
-   "title": "【北京】三里屯精品互动戏剧《无人生还》｜爆款零差评悬疑热剧｜反转反转再反转",
-   "type": "演出",
-   "venue": "三里屯永利国际美都影城（地下一层）",
-   "district": "",
-   "start_date": "2026-11-01",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "188起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/313706",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-31",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京·北京沉浸式悬疑话剧《一锅端》民国风演绎｜反转烧脑｜真相等你揭开",
    "type": "演出",
    "venue": "北京·中国木偶剧院-黑猫剧场",
@@ -2155,6 +2111,29 @@
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": true,
+   "sessions": []
+  },
+  {
+   "title": "【北京】三里屯精品互动戏剧《无人生还》｜爆款零差评悬疑热剧｜反转反转再反转",
+   "type": "演出",
+   "venue": "三里屯永利国际美都影城（地下一层）",
+   "district": "",
+   "start_date": "2026-11-01",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "188起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/313706",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-31",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
    "sessions": []
   },
   {
@@ -2347,27 +2326,6 @@
    "sessions": []
   },
   {
-   "title": "北方昆曲剧院经典折子戏 《西游记•借扇》《疗妒羹•题曲》《烂柯山•痴梦》",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-11-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314057",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-29",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "千烛幻境·烛光里的“沉浸式”音乐会",
    "type": "演出",
    "venue": "三里屯-爱乐汇-城市演奏厅",
@@ -2380,6 +2338,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/314397",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-29",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北方昆曲剧院经典折子戏 《西游记•借扇》《疗妒羹•题曲》《烂柯山•痴梦》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-11-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/314057",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-29",
@@ -2452,27 +2431,6 @@
    "sessions": []
   },
   {
-   "title": "北方昆曲剧院经典折子戏 《打青龙》《牡丹亭•游园惊梦》《千忠戮•草诏》",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-11-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314059",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "法国器乐电子视听现场 NIKITCH Audio Visual Live Show | DDL呈现 北京站",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -2485,6 +2443,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/309751",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-30",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北方昆曲剧院经典折子戏 《打青龙》《牡丹亭•游园惊梦》《千忠戮•草诏》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-11-04",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/314059",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-30",
@@ -2725,27 +2704,6 @@
    "sessions": []
   },
   {
-   "title": "高清舞台影像-《欢乐岁月》保利国际影城北京凯德大峡谷店",
-   "type": "演出",
-   "venue": "保利国际影城北京凯德大峡谷店5号厅",
-   "district": "",
-   "start_date": "2026-11-06",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "120",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312399",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-31",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【房山站】开心麻花首部原创爆笑新喜剧《整个喜剧》",
    "type": "演出",
    "venue": "开心麻花黄山店乡村沉浸式剧场",
@@ -2779,6 +2737,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/312442",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-31",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "高清舞台影像-《欢乐岁月》保利国际影城北京凯德大峡谷店",
+   "type": "演出",
+   "venue": "保利国际影城北京凯德大峡谷店5号厅",
+   "district": "",
+   "start_date": "2026-11-06",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "120",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/312399",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-31",
@@ -2937,6 +2916,27 @@
    "sessions": []
   },
   {
+   "title": "《坂本龙一&久石让》经典名曲浪漫烛光钢琴音乐会",
+   "type": "演出",
+   "venue": "首都电影院城市副中心店",
+   "district": "",
+   "start_date": "2026-11-07",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "66起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/314499",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-31",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "儿童创意光影剧《安徒生的剪纸世界》",
    "type": "演出",
    "venue": "中华世纪坛剧场",
@@ -2951,27 +2951,6 @@
     "亲子"
    ],
    "official_url": "https://www.showstart.com/event/311762",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-31",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "《坂本龙一&久石让》经典名曲浪漫烛光钢琴音乐会",
-   "type": "演出",
-   "venue": "首都电影院城市副中心店",
-   "district": "",
-   "start_date": "2026-11-07",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "66起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314499",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-31",
