@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-11-05 03:42 北京时间",
- "count": 131,
+ "generatedAt": "2026-11-05 14:36 北京时间",
+ "count": 130,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-11-04"
+   "last_success": "2026-11-05"
   },
   "bendibao_beijing": {
    "status": "ok",
-   "count": 490,
-   "last_success": "2026-11-04"
+   "count": 491,
+   "last_success": "2026-11-05"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-11-04"
+   "last_success": "2026-11-05"
   },
   "showstart_beijing": {
    "status": "ok",
    "count": 99,
-   "last_success": "2026-11-04"
+   "last_success": "2026-11-05"
   }
  },
  "events": [
@@ -71,11 +71,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "话剧《莫扎特传》 俄罗斯瓦赫坦戈夫剧院",
-     "d": "2026-11-04",
-     "u": "https://www.showstart.com/event/311850"
-    },
     {
      "t": "话剧《普希金小说集》 俄罗斯瓦赫坦戈夫剧院",
      "d": "2026-11-07",
@@ -395,7 +390,7 @@
    "programs": [
     {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-11-04",
+     "d": "2026-11-05",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
@@ -708,11 +703,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "拉美爵士天后凯伦·索萨Karen Souza“丝绒爵色时”2026巡演-北京站",
-     "d": "2026-11-04",
-     "u": "https://www.showstart.com/event/307485"
-    },
     {
      "t": "《炫技·狂响》江帆与Manuel Araujo双钢琴音乐会",
      "d": "2026-11-07",
@@ -1776,6 +1766,27 @@
    "sessions": []
   },
   {
+   "title": "侯明昊",
+   "type": "演出",
+   "venue": "华熙生物·润百颜中心",
+   "district": "",
+   "start_date": "2026-11-27",
+   "end_date": "2026-11-29",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=侯明昊",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "王铮亮",
    "type": "演出",
    "venue": "国家体育馆",
@@ -1823,7 +1834,7 @@
    "venue": "老舍茶馆",
    "district": "",
    "start_date": "2026-11-06",
-   "end_date": "2026-11-29",
+   "end_date": "",
    "open_ticket_time": "",
    "price_range": "116-369起",
    "kid_friendly": false,
@@ -1839,23 +1850,21 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆 亲子皮影戏",
+   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
    "start_date": "2026-11-05",
-   "end_date": "2026-11-22",
+   "end_date": "2026-11-30",
    "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
+   "price_range": "171-551起",
+   "kid_friendly": false,
    "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "tags": [],
+   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-11-04",
+   "first_seen": "2026-11-05",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1883,18 +1892,20 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
+   "title": "老舍茶馆 亲子皮影戏",
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-11-04",
-   "end_date": "2026-11-30",
+   "start_date": "2026-11-05",
+   "end_date": "2026-11-22",
    "open_ticket_time": "",
-   "price_range": "171-551起",
-   "kid_friendly": false,
+   "price_range": "76-95起",
+   "kid_friendly": true,
    "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-04",
@@ -1940,48 +1951,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-01",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "拉美爵士天后凯伦·索萨Karen Souza“丝绒爵色时”2026巡演-北京站",
-   "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市剧场",
-   "district": "",
-   "start_date": "2026-11-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "140起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307485",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "话剧《莫扎特传》 俄罗斯瓦赫坦戈夫剧院",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-11-04",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/311850",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2177,27 +2146,6 @@
    "sessions": []
   },
   {
-   "title": "高清舞台影像-《李尔王》保利国际影城北京天安门店",
-   "type": "演出",
-   "venue": "保利国际影城北京天安门店6号厅",
-   "district": "",
-   "start_date": "2026-11-06",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "120",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312442",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-31",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【房山站】开心麻花首部原创爆笑新喜剧《整个喜剧》",
    "type": "演出",
    "venue": "开心麻花黄山店乡村沉浸式剧场",
@@ -2240,18 +2188,18 @@
    "sessions": []
   },
   {
-   "title": "沉醉式音乐话剧《哈姆雷特1001》",
+   "title": "高清舞台影像-《李尔王》保利国际影城北京天安门店",
    "type": "演出",
-   "venue": "天桥艺术中心-多功能厅",
+   "venue": "保利国际影城北京天安门店6号厅",
    "district": "",
    "start_date": "2026-11-06",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "188起",
+   "price_range": "120",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/313462",
+   "official_url": "https://www.showstart.com/event/312442",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-31",
@@ -2296,6 +2244,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/313220",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-31",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "沉醉式音乐话剧《哈姆雷特1001》",
+   "type": "演出",
+   "venue": "天桥艺术中心-多功能厅",
+   "district": "",
+   "start_date": "2026-11-06",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "188起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313462",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-31",
@@ -2834,27 +2803,6 @@
    "sessions": []
   },
   {
-   "title": "Galaxy Reception live 星遇现场 Vol.66",
-   "type": "演出",
-   "venue": "魅现场",
-   "district": "",
-   "start_date": "2026-11-08",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "66起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314966",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-04",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "ENAZONE能量大集结9.0.1",
    "type": "演出",
    "venue": "梓驿Space（朝阳门店）",
@@ -2867,6 +2815,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/314976",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "Galaxy Reception live 星遇现场 Vol.66",
+   "type": "演出",
+   "venue": "魅现场",
+   "district": "",
+   "start_date": "2026-11-08",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "66起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/314966",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-04",
