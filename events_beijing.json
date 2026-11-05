@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-05 14:36 北京时间",
- "count": 130,
+ "generatedAt": "2026-11-06 03:53 北京时间",
+ "count": 132,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -222,6 +222,11 @@
      "t": "New Noise呈现｜The Seven Mile Journey 2026 巡演 北京站",
      "d": "2026-11-08",
      "u": "https://www.showstart.com/event/307731"
+    },
+    {
+     "t": "海洋Bo「普通人生•天地之间」2026巡演 北京站",
+     "d": "2026-11-13",
+     "u": "https://www.showstart.com/event/310706"
     }
    ]
   },
@@ -394,14 +399,14 @@
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-11-05",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-11-06",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-11-06",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍茶馆京味儿相声专场演出",
@@ -782,6 +787,11 @@
      "t": "New Noise呈现｜The Seven Mile Journey 2026 巡演 北京站",
      "d": "2026-11-08",
      "u": "https://www.showstart.com/event/307731"
+    },
+    {
+     "t": "海洋Bo「普通人生•天地之间」2026巡演 北京站",
+     "d": "2026-11-13",
+     "u": "https://www.showstart.com/event/310706"
     }
    ]
   },
@@ -822,6 +832,11 @@
      "t": "New Noise呈现｜The Seven Mile Journey 2026 巡演 北京站",
      "d": "2026-11-08",
      "u": "https://www.showstart.com/event/307731"
+    },
+    {
+     "t": "海洋Bo「普通人生•天地之间」2026巡演 北京站",
+     "d": "2026-11-13",
+     "u": "https://www.showstart.com/event/310706"
     }
    ]
   },
@@ -1149,11 +1164,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨11.5 晚声集——双大提与钢琴的漫游",
-     "d": "2026-11-05",
-     "u": "https://www.showstart.com/event/313349"
-    },
-    {
      "t": "北京丨11.6 澳大利亚爵士之夜：Robert Burke 四重奏",
      "d": "2026-11-06",
      "u": "https://www.showstart.com/event/313551"
@@ -1172,6 +1182,11 @@
      "t": "北京丨11.11 「少壮狮吼」纽伦港国际爵士四重奏",
      "d": "2026-11-11",
      "u": "https://www.showstart.com/event/313559"
+    },
+    {
+     "t": "北京丨11.12 循着爵士的鸟鸣:迈阿密萨克斯演奏家Carlos Vega携五重奏登陆北京",
+     "d": "2026-11-12",
+     "u": "https://www.showstart.com/event/313667"
     }
    ]
   },
@@ -1850,18 +1865,20 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
+   "title": "老舍茶馆 亲子皮影戏",
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-11-05",
-   "end_date": "2026-11-30",
+   "start_date": "2026-11-06",
+   "end_date": "2026-11-22",
    "open_ticket_time": "",
-   "price_range": "171-551起",
-   "kid_friendly": false,
+   "price_range": "76-95起",
+   "kid_friendly": true,
    "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-05",
@@ -1892,23 +1909,21 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆 亲子皮影戏",
+   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
    "start_date": "2026-11-05",
-   "end_date": "2026-11-22",
+   "end_date": "2026-11-30",
    "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
+   "price_range": "171-551起",
+   "kid_friendly": false,
    "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "tags": [],
+   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-11-04",
+   "first_seen": "2026-11-05",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1951,90 +1966,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-01",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "光吞万象呈现|巴西吉他手 Fabiano Do Nascimento北京专场",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-11-05",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "198",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312787",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "高清舞台影像-《关不住的女儿》保利国际影城北京凯德大峡谷店",
-   "type": "演出",
-   "venue": "保利国际影城北京凯德大峡谷店5号厅",
-   "district": "",
-   "start_date": "2026-11-05",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "120",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312402",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "《豪格三重奏》挪威爵士小号音乐会丨约翰诚品音乐X大华丨中欧世界音乐季",
-   "type": "演出",
-   "venue": "北京大华城市表演艺术中心",
-   "district": "",
-   "start_date": "2026-11-05",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "128起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312564",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨11.5 晚声集——双大提与钢琴的漫游",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-11-05",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/313349",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2740,6 +2671,27 @@
    "sessions": []
   },
   {
+   "title": "FLAVORS OF THE SOUL- KING JOSHUA和朋友们的灵魂乐之夜",
+   "type": "演出",
+   "venue": "三里屯-爱乐汇艺术空间-时空剧场",
+   "district": "",
+   "start_date": "2026-11-07",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "150起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/315112",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "【高清放映】法兰西喜剧院话剧《女学究》",
    "type": "演出",
    "venue": "国图影院",
@@ -3112,6 +3064,113 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-04",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨11.12 循着爵士的鸟鸣:迈阿密萨克斯演奏家Carlos Vega携五重奏登陆北京",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-11-12",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313667",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-01",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "JBcob林泽贤「SOUL SCAN灵魂扫描2026巡演北京站",
+   "type": "演出",
+   "venue": "乐空间",
+   "district": "",
+   "start_date": "2026-11-13",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "150起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/312336",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "海洋Bo「普通人生•天地之间」2026巡演 北京站",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-11-13",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "120起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/310706",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "及时撤退「莫莉的漫游」2026新专巡演 北京站",
+   "type": "演出",
+   "venue": "福浪LIVEHOUSE-浪",
+   "district": "",
+   "start_date": "2026-11-13",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "89起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/312495",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-05",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "【北京站】西游记魔幻亲子舞台剧《降魔狮驼岭》",
+   "type": "演出",
+   "venue": "北京天桥剧场",
+   "district": "",
+   "start_date": "2026-11-13",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "108起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/313767",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-05",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
