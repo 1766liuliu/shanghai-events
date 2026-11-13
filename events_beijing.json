@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-13 14:34 北京时间",
- "count": 131,
+ "generatedAt": "2026-11-14 03:36 北京时间",
+ "count": 132,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -8,10 +8,9 @@
    "last_success": "2026-11-13"
   },
   "bendibao_beijing": {
-   "status": "failed",
-   "count": 0,
-   "kept": 492,
-   "last_success": "2026-11-12"
+   "status": "ok",
+   "count": 492,
+   "last_success": "2026-11-13"
   },
   "laoshechaguan": {
    "status": "ok",
@@ -199,11 +198,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "海洋Bo「普通人生•天地之间」2026巡演 北京站",
-     "d": "2026-11-13",
-     "u": "https://www.showstart.com/event/310706"
-    },
-    {
      "t": "8bite「落茧」2026巡演 北京站",
      "d": "2026-11-14",
      "u": "https://www.showstart.com/event/309510"
@@ -217,6 +211,11 @@
      "t": "New Noise呈现｜Blue foundation 2026巡演 北京站",
      "d": "2026-11-18",
      "u": "https://www.showstart.com/event/310674"
+    },
+    {
+     "t": "萨满乐队20周年巡演第2季 北京站",
+     "d": "2026-11-21",
+     "u": "https://www.showstart.com/event/314223"
     }
    ]
   },
@@ -384,19 +383,19 @@
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
     },
     {
-     "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-11-13",
-     "u": "https://i.laoshechaguan.cn/list/421954981.html"
-    },
-    {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-11-13",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
      "d": "2026-11-13",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-11-14",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
+    },
+    {
+     "t": "老舍茶馆京味儿相声专场演出",
+     "d": "2026-11-14",
+     "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
      "t": "老舍茶馆评书专场",
@@ -748,6 +747,11 @@
      "t": "丁当",
      "d": "2026-12-19",
      "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=丁当"
+    },
+    {
+     "t": "任贤齐",
+     "d": "2027-01-15",
+     "u": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=任贤齐"
     }
    ]
   },
@@ -775,11 +779,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "海洋Bo「普通人生•天地之间」2026巡演 北京站",
-     "d": "2026-11-13",
-     "u": "https://www.showstart.com/event/310706"
-    },
-    {
      "t": "8bite「落茧」2026巡演 北京站",
      "d": "2026-11-14",
      "u": "https://www.showstart.com/event/309510"
@@ -793,6 +792,11 @@
      "t": "New Noise呈现｜Blue foundation 2026巡演 北京站",
      "d": "2026-11-18",
      "u": "https://www.showstart.com/event/310674"
+    },
+    {
+     "t": "萨满乐队20周年巡演第2季 北京站",
+     "d": "2026-11-21",
+     "u": "https://www.showstart.com/event/314223"
     }
    ]
   },
@@ -820,11 +824,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "海洋Bo「普通人生•天地之间」2026巡演 北京站",
-     "d": "2026-11-13",
-     "u": "https://www.showstart.com/event/310706"
-    },
-    {
      "t": "8bite「落茧」2026巡演 北京站",
      "d": "2026-11-14",
      "u": "https://www.showstart.com/event/309510"
@@ -838,6 +837,11 @@
      "t": "New Noise呈现｜Blue foundation 2026巡演 北京站",
      "d": "2026-11-18",
      "u": "https://www.showstart.com/event/310674"
+    },
+    {
+     "t": "萨满乐队20周年巡演第2季 北京站",
+     "d": "2026-11-21",
+     "u": "https://www.showstart.com/event/314223"
     }
    ]
   },
@@ -1170,11 +1174,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨11.13 《游牧时间》德乐黑一个人的乐队",
-     "d": "2026-11-13",
-     "u": "https://www.showstart.com/event/313875"
-    },
-    {
      "t": "北京 | 11.14 乘着风-宝藏女声维莉莎 Vanessa 首演",
      "d": "2026-11-14",
      "u": "https://www.showstart.com/event/314012"
@@ -1193,6 +1192,11 @@
      "t": "北京 | 11.19 ‌「让山为我们作证吧」达桑嘉措2026巡演北京站",
      "d": "2026-11-19",
      "u": "https://www.showstart.com/event/314555"
+    },
+    {
+     "t": "北京 | 11.20 「新世代拉丁爵士聲響」丹·格雷科·科斯塔四重奏",
+     "d": "2026-11-20",
+     "u": "https://www.showstart.com/event/314649"
     }
    ]
   },
@@ -1850,6 +1854,27 @@
    "sessions": []
   },
   {
+   "title": "任贤齐",
+   "type": "演出",
+   "venue": "首都体育馆",
+   "district": "",
+   "start_date": "2027-01-15",
+   "end_date": "2027-01-23",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://bj.bendibao.com/xiuxian/ych/guest.php?guest=任贤齐",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍经典话剧《茶馆》",
    "type": "演出",
    "venue": "老舍茶馆",
@@ -1871,50 +1896,6 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆京味儿相声专场演出",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-11-13",
-   "end_date": "2026-12-31",
-   "open_ticket_time": "",
-   "price_range": "114-266起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-12",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-11-13",
-   "end_date": "2026-11-30",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-12",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -1927,6 +1908,50 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-30",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆京味儿相声专场演出",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-11-14",
+   "end_date": "2026-12-31",
+   "open_ticket_time": "",
+   "price_range": "114-266起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-13",
@@ -1978,69 +2003,6 @@
    "sessions": []
   },
   {
-   "title": "JBcob林泽贤「SOUL SCAN灵魂扫描2026巡演北京站",
-   "type": "演出",
-   "venue": "乐空间",
-   "district": "",
-   "start_date": "2026-11-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "150起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312336",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "海洋Bo「普通人生•天地之间」2026巡演 北京站",
-   "type": "演出",
-   "venue": "MAO Livehouse北京（东郎店）",
-   "district": "",
-   "start_date": "2026-11-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "120起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310706",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "及时撤退「莫莉的漫游」2026新专巡演 北京站",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-浪",
-   "district": "",
-   "start_date": "2026-11-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "89起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312495",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【北京站】西游记魔幻亲子舞台剧《降魔狮驼岭》",
    "type": "演出",
    "venue": "北京天桥剧场",
@@ -2058,48 +2020,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-05",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "HASOPARTY 北京站",
-   "type": "演出",
-   "venue": "魅现场",
-   "district": "",
-   "start_date": "2026-11-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "108起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314599",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "321Jump！10.0：sumina/黄油球/因否INFO/风化的世界",
-   "type": "演出",
-   "venue": "疆进酒·OMNI SPACE（北京）",
-   "district": "",
-   "start_date": "2026-11-13",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "19起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/313415",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-06",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2127,18 +2047,18 @@
    "sessions": []
   },
   {
-   "title": "北京丨11.13 《游牧时间》德乐黑一个人的乐队",
+   "title": "星光乐集「樂·Rap Fiesta」",
    "type": "演出",
-   "venue": "Blue Note Beijing",
+   "venue": "星光2号馆",
    "district": "",
-   "start_date": "2026-11-13",
+   "start_date": "2026-11-14",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "180",
+   "price_range": "299起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/313875",
+   "official_url": "https://www.showstart.com/event/312740",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-06",
@@ -2160,27 +2080,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/313096",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-06",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "星光乐集「樂·Rap Fiesta」",
-   "type": "演出",
-   "venue": "星光2号馆",
-   "district": "",
-   "start_date": "2026-11-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "299起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/312740",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-06",
@@ -2486,27 +2385,6 @@
    "sessions": []
   },
   {
-   "title": "北京 | 11.14 乘着风-宝藏女声维莉莎 Vanessa 首演",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-11-14",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "188",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314012",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-07",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "原创话剧《摩天工位》",
    "type": "演出",
    "venue": "中华世纪坛剧场",
@@ -2519,6 +2397,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/313528",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-07",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京 | 11.14 乘着风-宝藏女声维莉莎 Vanessa 首演",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-11-14",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "188",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/314012",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-07",
@@ -2801,27 +2700,6 @@
    "sessions": []
   },
   {
-   "title": "新媒体融合剧《顽石》",
-   "type": "演出",
-   "venue": "北京 天桥艺术中心小剧场",
-   "district": "",
-   "start_date": "2026-11-18",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/313184",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-08",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北方昆曲剧院经典剧目《红楼梦》上下本",
    "type": "演出",
    "venue": "北京保利剧院",
@@ -2834,6 +2712,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/310467",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-08",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "新媒体融合剧《顽石》",
+   "type": "演出",
+   "venue": "北京 天桥艺术中心小剧场",
+   "district": "",
+   "start_date": "2026-11-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313184",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-08",
@@ -2969,29 +2868,6 @@
    "sessions": []
   },
   {
-   "title": "北京儿艺恐龙童话剧《你看起来好像很好吃》之《永远永远爱你》-母爱篇",
-   "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市剧场",
-   "district": "",
-   "start_date": "2026-11-20",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "50起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/310689",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-08",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "原创音乐剧《#0528》镜框版",
    "type": "演出",
    "venue": "天桥艺术中心（大剧场）",
@@ -3049,6 +2925,29 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-10",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京儿艺恐龙童话剧《你看起来好像很好吃》之《永远永远爱你》-母爱篇",
+   "type": "演出",
+   "venue": "五棵松·爱乐汇艺术空间·都市剧场",
+   "district": "",
+   "start_date": "2026-11-20",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "50起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://www.showstart.com/event/310689",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-08",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -3154,6 +3053,132 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-08",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "她吃了那朵花·贰拾捌",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-11-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "77起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/315658",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "萨满乐队20周年巡演第2季 北京站",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-11-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "168起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/314223",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "好大一个SCHOOL",
+   "type": "演出",
+   "venue": "福浪LIVEHOUSE-福",
+   "district": "",
+   "start_date": "2026-11-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313840",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "2z2「人类*时代*花*」双专辑主题巡演 - 北京站",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-11-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "152起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/309312",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "2026 隔壁老樊_樊凯杰「流动」演唱会 北京站",
+   "type": "演出",
+   "venue": "M空间",
+   "district": "",
+   "start_date": "2026-11-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "280起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/312542",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "野肆乐队2026「灵魂手写书」巡演 北京站",
+   "type": "演出",
+   "venue": "菇的LIVE·蘑菇洞",
+   "district": "",
+   "start_date": "2026-11-21",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "99起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313151",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
