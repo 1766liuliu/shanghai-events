@@ -1827,33 +1827,6 @@
     "_id": "d7394791d86023d7"
    },
    {
-    "title": "李永钦TEN「TENCORE0110」十周年纪念演唱会",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "国家会展中心（上海）虹馆EH",
-    "district": "",
-    "start_date": "2026-11-21",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "李永钦TEN「TENCORE0110」十周年纪念演唱会",
-    "_id": "004ef5d7694ee6b5"
-   },
-   {
     "title": "F✦FOREVER 恒星之城 · 浩瀚同行（上海）限定场演唱会",
     "type": "演出",
     "source": "maoyan",
@@ -1879,33 +1852,6 @@
     "sessions": [],
     "raw_text": "F✦FOREVER 恒星之城 · 浩瀚同行（上海）限定场演唱会",
     "_id": "6646949e02e678dd"
-   },
-   {
-    "title": "李大奔BENZO 2026「RUNWAY TO SHOW·即刻登场」个人巡回演唱会-上海站",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "上海静安体育中心-体育馆",
-    "district": "",
-    "start_date": "2026-11-28",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "李大奔BENZO 2026「RUNWAY TO SHOW·即刻登场」个人巡回演唱会-上海站",
-    "_id": "5f3f1af3ef5b36a1"
    },
    {
     "title": "SNH48 星梦剧院公演",
@@ -1962,13 +1908,67 @@
     "_id": "e22a1637d98ce1e3"
    },
    {
+    "title": "李永钦TEN「TENCORE0110」十周年纪念演唱会",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "国家会展中心（上海）虹馆EH",
+    "district": "",
+    "start_date": "2026-11-21",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "李永钦TEN「TENCORE0110」十周年纪念演唱会",
+    "_id": "004ef5d7694ee6b5"
+   },
+   {
+    "title": "维塔斯20年巡回演唱会纪念特别版——上海站",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "交通银行前滩31演艺中心",
+    "district": "",
+    "start_date": "2026-11-22",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "维塔斯20年巡回演唱会纪念特别版——上海站",
+    "_id": "31b88cd6970bed8b"
+   },
+   {
     "title": "上海·悬疑喜剧《谋杀预告》丨英式推理&法式心理悬疑丨互动叙事丨心理博弈丨爆笑反转丨全员恶人炸裂开演",
     "type": "演出",
     "source": "maoyan",
     "official_url": "",
     "venue": "adult SoDA 沉浸喜剧空间",
     "district": "",
-    "start_date": "2026-11-17",
+    "start_date": "2026-11-18",
     "end_date": "",
     "open_ticket_time": "",
     "price_range": "",
@@ -1986,7 +1986,7 @@
     "first_seen": "",
     "sessions": [],
     "raw_text": "上海·悬疑喜剧《谋杀预告》丨英式推理&法式心理悬疑丨互动叙事丨心理博弈丨爆笑反转丨全员恶人炸裂开演",
-    "_id": "e70f8ddee4d06e25"
+    "_id": "a3f3350c1efc7157"
    },
    {
     "title": "爆笑悬疑喜剧《神机庙算》高口碑热销｜致命惊悚博弈｜智斗骗局谁是赢家？",
@@ -1995,7 +1995,7 @@
     "official_url": "",
     "venue": "加场戏剧",
     "district": "",
-    "start_date": "2026-11-17",
+    "start_date": "2026-11-18",
     "end_date": "",
     "open_ticket_time": "",
     "price_range": "",
@@ -2013,7 +2013,7 @@
     "first_seen": "",
     "sessions": [],
     "raw_text": "爆笑悬疑喜剧《神机庙算》高口碑热销｜致命惊悚博弈｜智斗骗局谁是赢家？",
-    "_id": "1323bf41205bdd4d"
+    "_id": "98d36debbeffcc06"
    },
    {
     "title": "原创爆笑奇幻音乐剧《邦尼帮你》-来音乐剧的现场过生日吧",
@@ -2076,7 +2076,7 @@
     "official_url": "",
     "venue": "上海大剧院",
     "district": "",
-    "start_date": "2026-11-17",
+    "start_date": "2026-11-18",
     "end_date": "",
     "open_ticket_time": "",
     "price_range": "",
@@ -2094,7 +2094,7 @@
     "first_seen": "",
     "sessions": [],
     "raw_text": "原版音乐剧《剧院魅影》四十周年上海告别季",
-    "_id": "5d8efae1c33b2b56"
+    "_id": "ff18b8f91136f496"
    },
    {
     "title": "环人广｜悬疑互动经典IP《孤岛逃生》十周年上海站｜沉浸式推理｜观众投票抉择式互动剧场｜南京路步行街",
@@ -2103,7 +2103,7 @@
     "official_url": "",
     "venue": "咯吱沉浸剧场",
     "district": "",
-    "start_date": "2026-11-17",
+    "start_date": "2026-11-18",
     "end_date": "",
     "open_ticket_time": "",
     "price_range": "",
@@ -2121,7 +2121,7 @@
     "first_seen": "",
     "sessions": [],
     "raw_text": "环人广｜悬疑互动经典IP《孤岛逃生》十周年上海站｜沉浸式推理｜观众投票抉择式互动剧场｜南京路步行街",
-    "_id": "446667304cdf557c"
+    "_id": "aa366d713f915100"
    },
    {
     "title": "零距离！互动破案！《暴雨将至2》环境式悬疑剧",
@@ -2151,14 +2151,14 @@
     "_id": "a998a6d5adec0d80"
    },
    {
-    "title": "女性反乌托邦音乐剧《奇美拉》",
+    "title": "【悬疑巅峰之作】音乐剧《嫌疑人X的献身》-【跨年演出季-缪时客出品】",
     "type": "演出",
     "source": "maoyan",
     "official_url": "",
-    "venue": "上海艺海剧院",
+    "venue": "黄浦文化中心·大上海剧场",
     "district": "",
-    "start_date": "2026-11-17",
-    "end_date": "",
+    "start_date": "2026-12-18",
+    "end_date": "2027-01-03",
     "open_ticket_time": "",
     "price_range": "",
     "price_min": null,
@@ -2174,8 +2174,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "女性反乌托邦音乐剧《奇美拉》",
-    "_id": "cd96dc54fbde101a"
+    "raw_text": "【悬疑巅峰之作】音乐剧《嫌疑人X的献身》-【跨年演出季-缪时客出品】",
+    "_id": "050c232206a76b74"
    },
    {
     "title": "EVA新世纪福音战士 30周年纪念活动【上海新世界 E展空间】",
@@ -2184,7 +2184,7 @@
     "official_url": "",
     "venue": "新世纪福音战士·30周年纪念活动-上海新世界E展空间",
     "district": "",
-    "start_date": "2026-11-17",
+    "start_date": "2026-11-18",
     "end_date": "2027-01-03",
     "open_ticket_time": "",
     "price_range": "",
@@ -2202,7 +2202,7 @@
     "first_seen": "",
     "sessions": [],
     "raw_text": "EVA新世纪福音战士 30周年纪念活动【上海新世界 E展空间】",
-    "_id": "a3f68d879dc61d91"
+    "_id": "f218857ac0ca0f68"
    },
    {
     "title": "国际工艺创新博览会 REVELATIONS CHINA",
@@ -2259,33 +2259,6 @@
     "_id": "2aa05b147eebc1ad"
    },
    {
-    "title": "[周中特惠] 《我的世界-实境探险》",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "我的世界·实境探险",
-    "district": "",
-    "start_date": "2026-11-18",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "[周中特惠] 《我的世界-实境探险》",
-    "_id": "3555855fb0dfe1c9"
-   },
-   {
     "title": "《我的世界-实境探险》",
     "type": "演出",
     "source": "maoyan",
@@ -2311,6 +2284,33 @@
     "sessions": [],
     "raw_text": "《我的世界-实境探险》",
     "_id": "333be67b1cd4fd84"
+   },
+   {
+    "title": "[周中特惠] 《我的世界-实境探险》",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "我的世界·实境探险",
+    "district": "",
+    "start_date": "2026-11-18",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "[周中特惠] 《我的世界-实境探险》",
+    "_id": "3555855fb0dfe1c9"
    },
    {
     "title": "塑我此生：贾科梅蒂艺术大展",
@@ -2448,33 +2448,6 @@
     "_id": "3da1bd50e348f607"
    },
    {
-    "title": "经典亲子大马戏《欢乐马戏》上海马戏城——“奔马扬蹄，虎跃熊欢”",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "上海马戏城中剧场",
-    "district": "",
-    "start_date": "2026-11-21",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "经典亲子大马戏《欢乐马戏》上海马戏城——“奔马扬蹄，虎跃熊欢”",
-    "_id": "338393e311fbb91b"
-   },
-   {
     "title": "超强互动丨亲子魔术丨幻境奇旅丨喜剧互动魔术秀丨淮海路热门演出《幻梦奇缘》",
     "type": "演出",
     "source": "maoyan",
@@ -2500,6 +2473,33 @@
     "sessions": [],
     "raw_text": "超强互动丨亲子魔术丨幻境奇旅丨喜剧互动魔术秀丨淮海路热门演出《幻梦奇缘》",
     "_id": "a5654f011c391a89"
+   },
+   {
+    "title": "经典亲子大马戏《欢乐马戏》上海马戏城——“奔马扬蹄，虎跃熊欢”",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "上海马戏城中剧场",
+    "district": "",
+    "start_date": "2026-11-21",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "经典亲子大马戏《欢乐马戏》上海马戏城——“奔马扬蹄，虎跃熊欢”",
+    "_id": "338393e311fbb91b"
    },
    {
     "title": "「亲子魔术」超强互动丨爆笑喜剧丨魔术脱口秀《口袋里的奇迹》亲子魔术秀丨幻梦奇缘",
@@ -2535,7 +2535,7 @@
     "official_url": "",
     "venue": "ERA-时空之旅2",
     "district": "",
-    "start_date": "2026-11-17",
+    "start_date": "2026-11-18",
     "end_date": "",
     "open_ticket_time": "",
     "price_range": "",
@@ -2553,7 +2553,7 @@
     "first_seen": "",
     "sessions": [],
     "raw_text": "【点评推荐】ERA时空之旅2",
-    "_id": "bdf3793b4383c335"
+    "_id": "259d00c3b438e86b"
    },
    {
     "title": "【互动剧】第七感原创爆笑沉浸式魔术互动剧《梦游记》系列 | 第七感魔术剧场·长风大悦城",
@@ -2907,33 +2907,6 @@
     "_id": "18ce3f29d52afc6f"
    },
    {
-    "title": "「一人一首成名曲」超燃回忆杀丨带爸妈听老歌丨80年代沉浸式音乐现场丨怀旧金曲丨新天地必看《时光唱片》",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "高笑喜剧·New School",
-    "district": "",
-    "start_date": "2026-11-22",
-    "end_date": "2026-12-26",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "「一人一首成名曲」超燃回忆杀丨带爸妈听老歌丨80年代沉浸式音乐现场丨怀旧金曲丨新天地必看《时光唱片》",
-    "_id": "de4b6fd049b7ee0f"
-   },
-   {
     "title": "2027马克西姆“边界II”古典跨界钢琴演奏会-上海站",
     "type": "演出",
     "source": "maoyan",
@@ -3013,6 +2986,33 @@
     "sessions": [],
     "raw_text": "维也纳皇家爱乐乐团新年音乐会",
     "_id": "86b3e3d079e57705"
+   },
+   {
+    "title": "《爱乐之城》—经典电影金曲交响音乐会",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "上海东方艺术中心",
+    "district": "",
+    "start_date": "2027-01-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "《爱乐之城》—经典电影金曲交响音乐会",
+    "_id": "5f9bb894a0a7d16f"
    },
    {
     "title": "Mr.Miss「十年之后」剧场巡回音乐会——上海站",
@@ -3231,13 +3231,13 @@
     "_id": "55127af2905a2981"
    },
    {
-    "title": "俄罗斯芭蕾国家剧院《胡桃夹子》",
+    "title": "舞剧《碧海沧澜》",
     "type": "演出",
     "source": "maoyan",
     "official_url": "",
-    "venue": "上海国际舞蹈中心",
+    "venue": "上海东方艺术中心",
     "district": "",
-    "start_date": "2026-12-24",
+    "start_date": "2026-12-04",
     "end_date": "",
     "open_ticket_time": "",
     "price_range": "",
@@ -3254,8 +3254,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "俄罗斯芭蕾国家剧院《胡桃夹子》",
-    "_id": "973bd3959e267517"
+    "raw_text": "舞剧《碧海沧澜》",
+    "_id": "111ad7d5203e7596"
    },
    {
     "title": "URKL机器人格斗城市巡回挑战赛（南京站）",
@@ -3501,6 +3501,33 @@
     "_id": "501467805ac73a66"
    },
    {
+    "title": "上海音乐学院学科建设成果展演季 暨2026上音歌剧院秋季演出季 弦承百年 纪念著名二胡演奏家、教育家项祖英先生 诞辰10",
+    "type": "演出",
+    "source": "maoyan",
+    "official_url": "",
+    "venue": "贺绿汀音乐厅",
+    "district": "",
+    "start_date": "2026-11-28",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海音乐学院学科建设成果展演季 暨2026上音歌剧院秋季演出季 弦承百年 纪念著名二胡演奏家、教育家项祖英先生 诞辰100周年专场音乐会",
+    "_id": "332beb66f6f6f6f4"
+   },
+   {
     "title": "演艺厅高清放映 - 《巨人》",
     "type": "演出",
     "source": "maoyan",
@@ -3580,33 +3607,6 @@
     "sessions": [],
     "raw_text": "演艺厅高清放映 《女学究》",
     "_id": "2aa2ad22501bf747"
-   },
-   {
-    "title": "演艺厅高清放映 - 《进入黑夜的漫长旅程》",
-    "type": "演出",
-    "source": "maoyan",
-    "official_url": "",
-    "venue": "上海交响乐团音乐厅",
-    "district": "",
-    "start_date": "2026-12-26",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "演艺厅高清放映 - 《进入黑夜的漫长旅程》",
-    "_id": "86132372ea2e92c9"
    }
   ],
   "count": 69,
@@ -3930,11 +3930,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际功能性纺织品展览会 FUNCTIONAL TEXTILES SHANGHAI by PERFORMANCE DAYS 开展时间 2026.11.18-11.19 举办展馆 上海世博展览馆 即将开展 1天后 展馆 10000m2 · ",
+    "raw_text": "上海国际功能性纺织品展览会 FUNCTIONAL TEXTILES SHANGHAI by PERFORMANCE DAYS 开展时间 2026.11.18-11.19 举办展馆 上海世博展览馆 开展中 展馆 10000m2 · 1.3万人",
     "_id": "e012339e88bfff77"
    },
    {
-    "title": "开展时间2026.11.18-11.19举办展馆上海世博展览馆即将开展1天后",
+    "title": "开展时间2026.11.18-11.19举办展馆上海世博展览馆开展中",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/shanghai-functional-textiles/",
@@ -3959,8 +3959,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际功能性纺织品展览会 FUNCTIONAL TEXTILES SHANGHAI by PERFORMANCE DAYS 开展时间 2026.11.18-11.19 举办展馆 上海世博展览馆 即将开展 1天后 展馆 10000m2 · ",
-    "_id": "987cd7b92a06947d"
+    "raw_text": "上海国际功能性纺织品展览会 FUNCTIONAL TEXTILES SHANGHAI by PERFORMANCE DAYS 开展时间 2026.11.18-11.19 举办展馆 上海世博展览馆 开展中 展馆 10000m2 · 1.3万人",
+    "_id": "04d5d9114802392d"
    },
    {
     "title": "展馆10000m2·1.3万人观众·158家展商",
@@ -3988,7 +3988,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际功能性纺织品展览会 FUNCTIONAL TEXTILES SHANGHAI by PERFORMANCE DAYS 开展时间 2026.11.18-11.19 举办展馆 上海世博展览馆 即将开展 1天后 展馆 10000m2 · ",
+    "raw_text": "上海国际功能性纺织品展览会 FUNCTIONAL TEXTILES SHANGHAI by PERFORMANCE DAYS 开展时间 2026.11.18-11.19 举办展馆 上海世博展览馆 开展中 展馆 10000m2 · 1.3万人",
     "_id": "fe79df7183ed97c0"
    },
    {
@@ -4017,11 +4017,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海亚洲过滤与分离工业展览会 FSA 开展时间 2026.11.18-11.20 举办展馆 上海世博展览馆 即将开展 1天后 展馆 1.5万m2 · 1.2万人 观众 · 300 家展商 门票: ￥ 50",
+    "raw_text": "上海亚洲过滤与分离工业展览会 FSA 开展时间 2026.11.18-11.20 举办展馆 上海世博展览馆 开展中 展馆 1.5万m2 · 1.2万人 观众 · 300 家展商 门票: ￥ 50",
     "_id": "3ab5a6e2c9c7b054"
    },
    {
-    "title": "开展时间2026.11.18-11.20举办展馆上海世博展览馆即将开展1天后",
+    "title": "开展时间2026.11.18-11.20举办展馆上海世博展览馆开展中",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/fsa/",
@@ -4046,8 +4046,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海亚洲过滤与分离工业展览会 FSA 开展时间 2026.11.18-11.20 举办展馆 上海世博展览馆 即将开展 1天后 展馆 1.5万m2 · 1.2万人 观众 · 300 家展商 门票: ￥ 50",
-    "_id": "aa8f9f70a65b3d2b"
+    "raw_text": "上海亚洲过滤与分离工业展览会 FSA 开展时间 2026.11.18-11.20 举办展馆 上海世博展览馆 开展中 展馆 1.5万m2 · 1.2万人 观众 · 300 家展商 门票: ￥ 50",
+    "_id": "619b8336364392c2"
    },
    {
     "title": "展馆1.5万m2·1.2万人观众·300家展商",
@@ -4075,7 +4075,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海亚洲过滤与分离工业展览会 FSA 开展时间 2026.11.18-11.20 举办展馆 上海世博展览馆 即将开展 1天后 展馆 1.5万m2 · 1.2万人 观众 · 300 家展商 门票: ￥ 50",
+    "raw_text": "上海亚洲过滤与分离工业展览会 FSA 开展时间 2026.11.18-11.20 举办展馆 上海世博展览馆 开展中 展馆 1.5万m2 · 1.2万人 观众 · 300 家展商 门票: ￥ 50",
     "_id": "ab7ab6c06ac19fef"
    },
    {
@@ -4104,11 +4104,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海长三角国际文化产业博览会 ICIE 开展时间 2026.11.19-11.22 举办展馆 上海国家会展中心 即将开展 2天后 展馆 8万m2 · 12.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "raw_text": "上海长三角国际文化产业博览会 ICIE 开展时间 2026.11.19-11.22 举办展馆 上海国家会展中心 即将开展 1天后 展馆 8万m2 · 12.0万人 观众 · 1500 家展商 门票: ￥ 30",
     "_id": "393d239303ee28c2"
    },
    {
-    "title": "开展时间2026.11.19-11.22举办展馆上海国家会展中心即将开展2天后",
+    "title": "开展时间2026.11.19-11.22举办展馆上海国家会展中心即将开展1天后",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/19759/",
@@ -4133,8 +4133,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海长三角国际文化产业博览会 ICIE 开展时间 2026.11.19-11.22 举办展馆 上海国家会展中心 即将开展 2天后 展馆 8万m2 · 12.0万人 观众 · 1500 家展商 门票: ￥ 30",
-    "_id": "71eccada96cb3b50"
+    "raw_text": "上海长三角国际文化产业博览会 ICIE 开展时间 2026.11.19-11.22 举办展馆 上海国家会展中心 即将开展 1天后 展馆 8万m2 · 12.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "_id": "0d2faa18c3cda669"
    },
    {
     "title": "展馆8万m2·12.0万人观众·1500家展商",
@@ -4162,7 +4162,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海长三角国际文化产业博览会 ICIE 开展时间 2026.11.19-11.22 举办展馆 上海国家会展中心 即将开展 2天后 展馆 8万m2 · 12.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "raw_text": "上海长三角国际文化产业博览会 ICIE 开展时间 2026.11.19-11.22 举办展馆 上海国家会展中心 即将开展 1天后 展馆 8万m2 · 12.0万人 观众 · 1500 家展商 门票: ￥ 30",
     "_id": "ca0922dc8cdfa5d3"
    },
    {
@@ -4191,11 +4191,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际海外置业移民展览会 QSE 开展时间 2026.11.20-11.22 举办展馆 上海世贸商城 即将开展 3天后 展馆 2万m2 · 4.5万人 观众 · 315 家展商 门票： 限时免费",
+    "raw_text": "上海国际海外置业移民展览会 QSE 开展时间 2026.11.20-11.22 举办展馆 上海世贸商城 即将开展 2天后 展馆 2万m2 · 4.5万人 观众 · 315 家展商 门票： 限时免费",
     "_id": "3d8fd08299a92b44"
    },
    {
-    "title": "开展时间2026.11.20-11.22举办展馆上海世贸商城即将开展3天后",
+    "title": "开展时间2026.11.20-11.22举办展馆上海世贸商城即将开展2天后",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/qse/",
@@ -4220,8 +4220,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际海外置业移民展览会 QSE 开展时间 2026.11.20-11.22 举办展馆 上海世贸商城 即将开展 3天后 展馆 2万m2 · 4.5万人 观众 · 315 家展商 门票： 限时免费",
-    "_id": "f78402e73ed2b246"
+    "raw_text": "上海国际海外置业移民展览会 QSE 开展时间 2026.11.20-11.22 举办展馆 上海世贸商城 即将开展 2天后 展馆 2万m2 · 4.5万人 观众 · 315 家展商 门票： 限时免费",
+    "_id": "7901fe3fdc39b281"
    },
    {
     "title": "展馆2万m2·4.5万人观众·315家展商",
@@ -4249,95 +4249,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际海外置业移民展览会 QSE 开展时间 2026.11.20-11.22 举办展馆 上海世贸商城 即将开展 3天后 展馆 2万m2 · 4.5万人 观众 · 315 家展商 门票： 限时免费",
+    "raw_text": "上海国际海外置业移民展览会 QSE 开展时间 2026.11.20-11.22 举办展馆 上海世贸商城 即将开展 2天后 展馆 2万m2 · 4.5万人 观众 · 315 家展商 门票： 限时免费",
     "_id": "ded1c59d54837122"
-   },
-   {
-    "title": "上海国际纺织机械展ITMA",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/itma-asia/",
-    "venue": "国家会展中心",
-    "district": "",
-    "start_date": "2026-11-20",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际纺织机械展ITMA ITMA ASIA 开展时间 2026.11.20-11.24 举办展馆 上海国家会展中心 即将开展 3天后 热门 · 展馆 17万m2 · 10.0万人 观众 · 1673 家展商 门票: ￥ 55",
-    "_id": "aa8a9efc6bde6735"
-   },
-   {
-    "title": "开展时间2026.11.20-11.24举办展馆上海国家会展中心即将开展3天后",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/itma-asia/",
-    "venue": "国家会展中心",
-    "district": "",
-    "start_date": "2026-11-20",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际纺织机械展ITMA ITMA ASIA 开展时间 2026.11.20-11.24 举办展馆 上海国家会展中心 即将开展 3天后 热门 · 展馆 17万m2 · 10.0万人 观众 · 1673 家展商 门票: ￥ 55",
-    "_id": "a4802d48e0e484f3"
-   },
-   {
-    "title": "热门·展馆17万m2·10.0万人观众·1673家展商",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/itma-asia/",
-    "venue": "国家会展中心",
-    "district": "",
-    "start_date": "2026-11-20",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际纺织机械展ITMA ITMA ASIA 开展时间 2026.11.20-11.24 举办展馆 上海国家会展中心 即将开展 3天后 热门 · 展馆 17万m2 · 10.0万人 观众 · 1673 家展商 门票: ￥ 55",
-    "_id": "e6642e617d1ab63d"
    },
    {
     "title": "上海国际房车展 x改装秀",
@@ -4365,11 +4278,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际房车展 x改装秀 RV SHOW 开展时间 2026.11.20-11.22 举办展馆 上海汽车会展中心 即将开展 3天后 热门 · 展馆 9万m2 · 10.0万人 观众 · 600 家展商 门票: ￥ 19.9",
+    "raw_text": "上海国际房车展 x改装秀 RV SHOW 开展时间 2026.11.20-11.22 举办展馆 上海汽车会展中心 即将开展 2天后 热门 · 展馆 9万m2 · 10.0万人 观众 · 600 家展商 门票: ￥ 19.9",
     "_id": "a879d0eb4703c1c9"
    },
    {
-    "title": "开展时间2026.11.20-11.22举办展馆上海汽车会展中心即将开展3天后",
+    "title": "开展时间2026.11.20-11.22举办展馆上海汽车会展中心即将开展2天后",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/rv-show/",
@@ -4394,8 +4307,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际房车展 x改装秀 RV SHOW 开展时间 2026.11.20-11.22 举办展馆 上海汽车会展中心 即将开展 3天后 热门 · 展馆 9万m2 · 10.0万人 观众 · 600 家展商 门票: ￥ 19.9",
-    "_id": "8fa0aa14eba49a64"
+    "raw_text": "上海国际房车展 x改装秀 RV SHOW 开展时间 2026.11.20-11.22 举办展馆 上海汽车会展中心 即将开展 2天后 热门 · 展馆 9万m2 · 10.0万人 观众 · 600 家展商 门票: ￥ 19.9",
+    "_id": "c4c85c039ae0cb94"
    },
    {
     "title": "热门·展馆9万m2·10.0万人观众·600家展商",
@@ -4423,14 +4336,14 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际房车展 x改装秀 RV SHOW 开展时间 2026.11.20-11.22 举办展馆 上海汽车会展中心 即将开展 3天后 热门 · 展馆 9万m2 · 10.0万人 观众 · 600 家展商 门票: ￥ 19.9",
+    "raw_text": "上海国际房车展 x改装秀 RV SHOW 开展时间 2026.11.20-11.22 举办展馆 上海汽车会展中心 即将开展 2天后 热门 · 展馆 9万m2 · 10.0万人 观众 · 600 家展商 门票: ￥ 19.9",
     "_id": "d5dbbca243a6eea2"
    },
    {
-    "title": "中国上海国际纺织机械展览会ITMA ASIA",
+    "title": "上海国际纺织机械展ITMA",
     "type": "展会",
     "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/citme/",
+    "official_url": "https://www.jufair.com/exhibition/itma-asia/",
     "venue": "国家会展中心",
     "district": "",
     "start_date": "2026-11-20",
@@ -4452,8 +4365,66 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国上海国际纺织机械展览会ITMA ASIA CITME 开展时间 2026.11.20-11.24 举办展馆 上海国家会展中心 即将开展 3天后 热门 · 展馆 17万m2 · 10.0万人 观众 · 1673 家展商 门票: ￥ 55",
-    "_id": "d628b41989eee186"
+    "raw_text": "上海国际纺织机械展ITMA ITMA ASIA 开展时间 2026.11.20-11.24 举办展馆 上海国家会展中心 即将开展 2天后 热门 · 展馆 17万m2 · 10.0万人 观众 · 1673 家展商 门票: ￥ 55",
+    "_id": "aa8a9efc6bde6735"
+   },
+   {
+    "title": "开展时间2026.11.20-11.24举办展馆上海国家会展中心即将开展2天后",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/itma-asia/",
+    "venue": "国家会展中心",
+    "district": "",
+    "start_date": "2026-11-20",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际纺织机械展ITMA ITMA ASIA 开展时间 2026.11.20-11.24 举办展馆 上海国家会展中心 即将开展 2天后 热门 · 展馆 17万m2 · 10.0万人 观众 · 1673 家展商 门票: ￥ 55",
+    "_id": "0bcc5c272d2c8462"
+   },
+   {
+    "title": "热门·展馆17万m2·10.0万人观众·1673家展商",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/itma-asia/",
+    "venue": "国家会展中心",
+    "district": "",
+    "start_date": "2026-11-20",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际纺织机械展ITMA ITMA ASIA 开展时间 2026.11.20-11.24 举办展馆 上海国家会展中心 即将开展 2天后 热门 · 展馆 17万m2 · 10.0万人 观众 · 1673 家展商 门票: ￥ 55",
+    "_id": "e6642e617d1ab63d"
    },
    {
     "title": "上海虹桥国际科技周",
@@ -4481,11 +4452,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海虹桥国际科技周 TECH WEEK HONGQIAO 开展时间 2026.11.20-11.22 举办展馆 上海国家会展中心 即将开展 3天后 展馆 5万m2 · 3.0万人 观众 · 400 家展商 门票: ￥ 30",
+    "raw_text": "上海虹桥国际科技周 TECH WEEK HONGQIAO 开展时间 2026.11.20-11.22 举办展馆 上海国家会展中心 即将开展 2天后 展馆 5万m2 · 3.0万人 观众 · 400 家展商 门票: ￥ 30",
     "_id": "8fd820a8ed0f590f"
    },
    {
-    "title": "开展时间2026.11.20-11.22举办展馆上海国家会展中心即将开展3天后",
+    "title": "开展时间2026.11.20-11.22举办展馆上海国家会展中心即将开展2天后",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/20328/",
@@ -4510,8 +4481,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海虹桥国际科技周 TECH WEEK HONGQIAO 开展时间 2026.11.20-11.22 举办展馆 上海国家会展中心 即将开展 3天后 展馆 5万m2 · 3.0万人 观众 · 400 家展商 门票: ￥ 30",
-    "_id": "21e4cef833e40389"
+    "raw_text": "上海虹桥国际科技周 TECH WEEK HONGQIAO 开展时间 2026.11.20-11.22 举办展馆 上海国家会展中心 即将开展 2天后 展馆 5万m2 · 3.0万人 观众 · 400 家展商 门票: ￥ 30",
+    "_id": "2383de3001416b2e"
    },
    {
     "title": "展馆5万m2·3.0万人观众·400家展商",
@@ -4539,8 +4510,37 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海虹桥国际科技周 TECH WEEK HONGQIAO 开展时间 2026.11.20-11.22 举办展馆 上海国家会展中心 即将开展 3天后 展馆 5万m2 · 3.0万人 观众 · 400 家展商 门票: ￥ 30",
+    "raw_text": "上海虹桥国际科技周 TECH WEEK HONGQIAO 开展时间 2026.11.20-11.22 举办展馆 上海国家会展中心 即将开展 2天后 展馆 5万m2 · 3.0万人 观众 · 400 家展商 门票: ￥ 30",
     "_id": "004545b8171465fe"
+   },
+   {
+    "title": "中国上海国际纺织机械展览会ITMA ASIA",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/citme/",
+    "venue": "国家会展中心",
+    "district": "",
+    "start_date": "2026-11-20",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "中国上海国际纺织机械展览会ITMA ASIA CITME 开展时间 2026.11.20-11.24 举办展馆 上海国家会展中心 即将开展 2天后 热门 · 展馆 17万m2 · 10.0万人 观众 · 1673 家展商 门票: ￥ 55",
+    "_id": "d628b41989eee186"
    },
    {
     "title": "上海宝马展Bauma China",
@@ -4568,11 +4568,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海宝马展Bauma China Bauma China 开展时间 2026.11.24-11.27 举办展馆 上海新国际博览中心 即将开展 7天后 热门 · 展馆 33万m2 · 28.1万人 观众 · 3542 家展商 门票: ￥ 30",
+    "raw_text": "上海宝马展Bauma China Bauma China 开展时间 2026.11.24-11.27 举办展馆 上海新国际博览中心 即将开展 6天后 热门 · 展馆 33万m2 · 28.1万人 观众 · 3542 家展商 门票: ￥ 30",
     "_id": "b77787f8c3e8d3e7"
    },
    {
-    "title": "开展时间2026.11.24-11.27举办展馆上海新国际博览中心即将开展7天后",
+    "title": "开展时间2026.11.24-11.27举办展馆上海新国际博览中心即将开展6天后",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/bauma-china/",
@@ -4597,8 +4597,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海宝马展Bauma China Bauma China 开展时间 2026.11.24-11.27 举办展馆 上海新国际博览中心 即将开展 7天后 热门 · 展馆 33万m2 · 28.1万人 观众 · 3542 家展商 门票: ￥ 30",
-    "_id": "4716a73c2ec4e76f"
+    "raw_text": "上海宝马展Bauma China Bauma China 开展时间 2026.11.24-11.27 举办展馆 上海新国际博览中心 即将开展 6天后 热门 · 展馆 33万m2 · 28.1万人 观众 · 3542 家展商 门票: ￥ 30",
+    "_id": "f05fe44c9cad2934"
    },
    {
     "title": "热门·展馆33万m2·28.1万人观众·3542家展商",
@@ -4626,7 +4626,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海宝马展Bauma China Bauma China 开展时间 2026.11.24-11.27 举办展馆 上海新国际博览中心 即将开展 7天后 热门 · 展馆 33万m2 · 28.1万人 观众 · 3542 家展商 门票: ￥ 30",
+    "raw_text": "上海宝马展Bauma China Bauma China 开展时间 2026.11.24-11.27 举办展馆 上海新国际博览中心 即将开展 6天后 热门 · 展馆 33万m2 · 28.1万人 观众 · 3542 家展商 门票: ￥ 30",
     "_id": "e6253251a7cd2a14"
    },
    {
@@ -4655,11 +4655,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海法兰克福汽配展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 15天后 热门 · 展馆 39万m2 · 13.0万人 观众 · 7600 家展商 门票",
+    "raw_text": "上海法兰克福汽配展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 14天后 热门 · 展馆 39万m2 · 13.0万人 观众 · 7600 家展商 门票",
     "_id": "217ac4a071af2826"
    },
    {
-    "title": "开展时间2026.12.02-12.05举办展馆上海国家会展中心即将开展15天后",
+    "title": "开展时间2026.12.02-12.05举办展馆上海国家会展中心即将开展14天后",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/automechanika-shanghai/",
@@ -4684,8 +4684,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海法兰克福汽配展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 15天后 热门 · 展馆 39万m2 · 13.0万人 观众 · 7600 家展商 门票",
-    "_id": "cf1bfa273af66cbe"
+    "raw_text": "上海法兰克福汽配展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 14天后 热门 · 展馆 39万m2 · 13.0万人 观众 · 7600 家展商 门票",
+    "_id": "f71d33480c5bea45"
    },
    {
     "title": "热门·展馆39万m2·13.0万人观众·7600家展商",
@@ -4713,7 +4713,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海法兰克福汽配展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 15天后 热门 · 展馆 39万m2 · 13.0万人 观众 · 7600 家展商 门票",
+    "raw_text": "上海法兰克福汽配展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 14天后 热门 · 展馆 39万m2 · 13.0万人 观众 · 7600 家展商 门票",
     "_id": "d40b45d0e9ed53ca"
    },
    {
@@ -4742,7 +4742,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海法兰克福国际轮胎轮毂展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 15天后 展馆 1.2万m2 · 13.0万人 观众 · 180 家展商 门票:",
+    "raw_text": "上海法兰克福国际轮胎轮毂展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 14天后 展馆 1.2万m2 · 13.0万人 观众 · 180 家展商 门票:",
     "_id": "b735977de361463c"
    },
    {
@@ -4771,7 +4771,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海法兰克福国际轮胎轮毂展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 15天后 展馆 1.2万m2 · 13.0万人 观众 · 180 家展商 门票:",
+    "raw_text": "上海法兰克福国际轮胎轮毂展览会 Automechanika Shanghai 开展时间 2026.12.02-12.05 举办展馆 上海国家会展中心 即将开展 14天后 展馆 1.2万m2 · 13.0万人 观众 · 180 家展商 门票:",
     "_id": "d9731683197a2da7"
    },
    {
@@ -4862,6 +4862,93 @@
     "_id": "3324454438d50059"
    },
    {
+    "title": "上海国际储能技术展",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/es-shanghai/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-03",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际储能技术展 ES Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "_id": "959c3a522097c763"
+   },
+   {
+    "title": "开展时间2026.12.03-12.05举办展馆上海新国际博览中心即将开展15天后",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/es-shanghai/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-03",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际储能技术展 ES Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "_id": "07919d00568529a3"
+   },
+   {
+    "title": "展馆6万m2·6.0万人观众·1500家展商",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/es-shanghai/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-03",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际储能技术展 ES Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "_id": "26b82d2fa10f0b6f"
+   },
+   {
     "title": "上海国际金属线材、制品及设备展览会",
     "type": "展会",
     "source": "jufair",
@@ -4887,37 +4974,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际金属线材、制品及设备展览会 WIRE EXPO 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
+    "raw_text": "上海国际金属线材、制品及设备展览会 WIRE EXPO 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
     "_id": "1e8423cda43fdd3b"
-   },
-   {
-    "title": "开展时间2026.12.03-12.05举办展馆上海新国际博览中心即将开展16天后",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/wire-expo/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-03",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际金属线材、制品及设备展览会 WIRE EXPO 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
-    "_id": "cebf66c59419b870"
    },
    {
     "title": "展馆5万m2·3.0万人观众·1000家展商",
@@ -4945,7 +5003,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际金属线材、制品及设备展览会 WIRE EXPO 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
+    "raw_text": "上海国际金属线材、制品及设备展览会 WIRE EXPO 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
     "_id": "19c8255f0a043d3f"
    },
    {
@@ -4974,66 +5032,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际钢管工业展览会 TUBE EXPO 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 50",
+    "raw_text": "上海国际钢管工业展览会 TUBE EXPO 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 50",
     "_id": "5525263c5fa90493"
-   },
-   {
-    "title": "上海国际储能技术展",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/es-shanghai/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-03",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际储能技术展 ES Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
-    "_id": "959c3a522097c763"
-   },
-   {
-    "title": "展馆6万m2·6.0万人观众·1500家展商",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/es-shanghai/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-03",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际储能技术展 ES Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
-    "_id": "26b82d2fa10f0b6f"
    },
    {
     "title": "上海国际铸造铸件展览会",
@@ -5061,7 +5061,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际铸造铸件展览会 CSFE 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 6万m2 · 5.0万人 观众 · 700 家展商 门票: ￥ 30",
+    "raw_text": "上海国际铸造铸件展览会 CSFE 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 5.0万人 观众 · 700 家展商 门票: ￥ 30",
     "_id": "3909c3ebc9364ce9"
    },
    {
@@ -5090,7 +5090,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际铸造铸件展览会 CSFE 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 6万m2 · 5.0万人 观众 · 700 家展商 门票: ￥ 30",
+    "raw_text": "上海国际铸造铸件展览会 CSFE 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 5.0万人 观众 · 700 家展商 门票: ￥ 30",
     "_id": "5fa864a2c09a320a"
    },
    {
@@ -5119,7 +5119,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际零售生鲜食材展览会 FMR 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 6万m2 · 3.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "raw_text": "上海国际零售生鲜食材展览会 FMR 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 3.0万人 观众 · 1500 家展商 门票: ￥ 30",
     "_id": "84c6f7c5695004d7"
    },
    {
@@ -5148,7 +5148,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际零售生鲜食材展览会 FMR 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 6万m2 · 3.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "raw_text": "上海国际零售生鲜食材展览会 FMR 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 3.0万人 观众 · 1500 家展商 门票: ￥ 30",
     "_id": "d0927e17d95d7ee6"
    },
    {
@@ -5177,7 +5177,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际工业炉及热工技术展览会 MTM 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
+    "raw_text": "上海国际工业炉及热工技术展览会 MTM 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
     "_id": "e016bae99e4215d6"
    },
    {
@@ -5206,7 +5206,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际数据中心及云计算展 CDCE 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 7.2万m2 · 6.0万人 观众 · 1800 家展商 门票: ￥ 30",
+    "raw_text": "上海国际数据中心及云计算展 CDCE 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 7.2万m2 · 6.0万人 观众 · 1800 家展商 门票: ￥ 30",
     "_id": "7f5200ba0bb5dd26"
    },
    {
@@ -5235,7 +5235,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际数据中心及云计算展 CDCE 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 7.2万m2 · 6.0万人 观众 · 1800 家展商 门票: ￥ 30",
+    "raw_text": "上海国际数据中心及云计算展 CDCE 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 7.2万m2 · 6.0万人 观众 · 1800 家展商 门票: ￥ 30",
     "_id": "41d80608aa53dfe5"
    },
    {
@@ -5264,7 +5264,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海金属世界博览会-上海金属展 MTM 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
+    "raw_text": "上海金属世界博览会-上海金属展 MTM 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
     "_id": "95de52f314652710"
    },
    {
@@ -5732,64 +5732,6 @@
     "_id": "838599f542648ab6"
    },
    {
-    "title": "上海国际电力设备及技术展览会",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/ep-shanghai/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-03",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际电力设备及技术展览会 EP Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 热门 · 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
-    "_id": "d59244692f8f67b7"
-   },
-   {
-    "title": "热门·展馆6万m2·6.0万人观众·1500家展商",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/ep-shanghai/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-03",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际电力设备及技术展览会 EP Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 热门 · 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
-    "_id": "e41682e50443ff70"
-   },
-   {
     "title": "上海国际电工装备展览会",
     "type": "展会",
     "source": "jufair",
@@ -5815,7 +5757,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际电工装备展览会 Electrical Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 6万m2 · 4.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "raw_text": "上海国际电工装备展览会 Electrical Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 4.0万人 观众 · 1500 家展商 门票: ￥ 30",
     "_id": "6c7b672aae698104"
    },
    {
@@ -5844,8 +5786,66 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际电工装备展览会 Electrical Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 6万m2 · 4.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "raw_text": "上海国际电工装备展览会 Electrical Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 6万m2 · 4.0万人 观众 · 1500 家展商 门票: ￥ 30",
     "_id": "b38db7eddb48d6db"
+   },
+   {
+    "title": "上海国际电力设备及技术展览会",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/ep-shanghai/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-03",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际电力设备及技术展览会 EP Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 热门 · 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "_id": "d59244692f8f67b7"
+   },
+   {
+    "title": "热门·展馆6万m2·6.0万人观众·1500家展商",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/ep-shanghai/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-03",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际电力设备及技术展览会 EP Shanghai 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 热门 · 展馆 6万m2 · 6.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "_id": "e41682e50443ff70"
    },
    {
     "title": "上海国际冶金工业展",
@@ -5873,7 +5873,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际冶金工业展 MTM 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
+    "raw_text": "上海国际冶金工业展 MTM 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 展馆 5万m2 · 3.0万人 观众 · 1000 家展商 门票: ￥ 30",
     "_id": "577461f50e78a41b"
    },
    {
@@ -5902,7 +5902,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "第十九届上海全球自有品牌产品亚洲展 PLF 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 精选 · 展馆 6万m2 · 2.1万人 观众 · 1500 家展商 门票: ￥ 30",
+    "raw_text": "第十九届上海全球自有品牌产品亚洲展 PLF 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 精选 · 展馆 6万m2 · 2.1万人 观众 · 1500 家展商 门票: ￥ 30",
     "_id": "c51730e69130a3f0"
    },
    {
@@ -5931,7 +5931,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "第十九届上海全球自有品牌产品亚洲展 PLF 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 16天后 精选 · 展馆 6万m2 · 2.1万人 观众 · 1500 家展商 门票: ￥ 30",
+    "raw_text": "第十九届上海全球自有品牌产品亚洲展 PLF 开展时间 2026.12.03-12.05 举办展馆 上海新国际博览中心 即将开展 15天后 精选 · 展馆 6万m2 · 2.1万人 观众 · 1500 家展商 门票: ￥ 30",
     "_id": "000d15948304d748"
    },
    {
@@ -5960,11 +5960,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际文具及办公用品展览会 PaperWorld China 开展时间 2026.12.04-12.06 举办展馆 上海世博展览馆 即将开展 17天后 热门 · 展馆 2.3万m2 · 2.7万人 观众 · 499 家展商 门票: ￥ 3",
+    "raw_text": "上海国际文具及办公用品展览会 PaperWorld China 开展时间 2026.12.04-12.06 举办展馆 上海世博展览馆 即将开展 16天后 热门 · 展馆 2.3万m2 · 2.7万人 观众 · 499 家展商 门票: ￥ 3",
     "_id": "29a057cc6bb18f7d"
    },
    {
-    "title": "开展时间2026.12.04-12.06举办展馆上海世博展览馆即将开展17天后",
+    "title": "开展时间2026.12.04-12.06举办展馆上海世博展览馆即将开展16天后",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/paperworld-china/",
@@ -5989,8 +5989,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际文具及办公用品展览会 PaperWorld China 开展时间 2026.12.04-12.06 举办展馆 上海世博展览馆 即将开展 17天后 热门 · 展馆 2.3万m2 · 2.7万人 观众 · 499 家展商 门票: ￥ 3",
-    "_id": "4d1eb3b67355ea26"
+    "raw_text": "上海国际文具及办公用品展览会 PaperWorld China 开展时间 2026.12.04-12.06 举办展馆 上海世博展览馆 即将开展 16天后 热门 · 展馆 2.3万m2 · 2.7万人 观众 · 499 家展商 门票: ￥ 3",
+    "_id": "7e3f08bd4dc6bd2a"
    },
    {
     "title": "热门·展馆2.3万m2·2.7万人观众·499家展商",
@@ -6018,7 +6018,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际文具及办公用品展览会 PaperWorld China 开展时间 2026.12.04-12.06 举办展馆 上海世博展览馆 即将开展 17天后 热门 · 展馆 2.3万m2 · 2.7万人 观众 · 499 家展商 门票: ￥ 3",
+    "raw_text": "上海国际文具及办公用品展览会 PaperWorld China 开展时间 2026.12.04-12.06 举办展馆 上海世博展览馆 即将开展 16天后 热门 · 展馆 2.3万m2 · 2.7万人 观众 · 499 家展商 门票: ￥ 3",
     "_id": "e311fb4856f7b001"
    },
    {
@@ -6047,11 +6047,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海茶博会-上海国际茶业交易博览会 SITTE 开展时间 2026.12.04-12.07 举办展馆 上海世贸商城 即将开展 17天后 展馆 3万m2 · 8.3万人 观众 · 500 家展商 门票: ￥ 30",
+    "raw_text": "上海茶博会-上海国际茶业交易博览会 SITTE 开展时间 2026.12.04-12.07 举办展馆 上海世贸商城 即将开展 16天后 展馆 3万m2 · 8.3万人 观众 · 500 家展商 门票: ￥ 30",
     "_id": "a0ccd63b63eac279"
    },
    {
-    "title": "开展时间2026.12.04-12.07举办展馆上海世贸商城即将开展17天后",
+    "title": "开展时间2026.12.04-12.07举办展馆上海世贸商城即将开展16天后",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/sitte/",
@@ -6076,8 +6076,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海茶博会-上海国际茶业交易博览会 SITTE 开展时间 2026.12.04-12.07 举办展馆 上海世贸商城 即将开展 17天后 展馆 3万m2 · 8.3万人 观众 · 500 家展商 门票: ￥ 30",
-    "_id": "a4ab96933ca01369"
+    "raw_text": "上海茶博会-上海国际茶业交易博览会 SITTE 开展时间 2026.12.04-12.07 举办展馆 上海世贸商城 即将开展 16天后 展馆 3万m2 · 8.3万人 观众 · 500 家展商 门票: ￥ 30",
+    "_id": "bfda2348ba1cb8b6"
    },
    {
     "title": "展馆3万m2·8.3万人观众·500家展商",
@@ -6105,95 +6105,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海茶博会-上海国际茶业交易博览会 SITTE 开展时间 2026.12.04-12.07 举办展馆 上海世贸商城 即将开展 17天后 展馆 3万m2 · 8.3万人 观众 · 500 家展商 门票: ￥ 30",
+    "raw_text": "上海茶博会-上海国际茶业交易博览会 SITTE 开展时间 2026.12.04-12.07 举办展馆 上海世贸商城 即将开展 16天后 展馆 3万m2 · 8.3万人 观众 · 500 家展商 门票: ￥ 30",
     "_id": "0cab8210453b25c1"
-   },
-   {
-    "title": "上海国际客车巴士展览会",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/china-bus-expo/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际客车巴士展览会 CIBE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 推荐 · 展馆 3万m2 · 2.6万人 观众 · 256 家展商 门票: ￥ 30",
-    "_id": "b6c1e03e634e6693"
-   },
-   {
-    "title": "开展时间2026.12.09-12.11举办展馆上海新国际博览中心距离开展22天",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/china-bus-expo/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际客车巴士展览会 CIBE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 推荐 · 展馆 3万m2 · 2.6万人 观众 · 256 家展商 门票: ￥ 30",
-    "_id": "26fd41347443ca69"
-   },
-   {
-    "title": "推荐·展馆3万m2·2.6万人观众·256家展商",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/china-bus-expo/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际客车巴士展览会 CIBE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 推荐 · 展馆 3万m2 · 2.6万人 观众 · 256 家展商 门票: ￥ 30",
-    "_id": "0fd91cec586a62fe"
    },
    {
     "title": "中国（上海）国际轴承及其专用装备展览会",
@@ -6221,11 +6134,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国（上海）国际轴承及其专用装备展览会 CHINA INTERNATIONAL BEARING INDUSTRY EXHIBITION 开展时间 2026.12.09-12.12 举办展馆 上海国家会展中心 距离开展 22天 展馆 5.3万",
+    "raw_text": "中国（上海）国际轴承及其专用装备展览会 CHINA INTERNATIONAL BEARING INDUSTRY EXHIBITION 开展时间 2026.12.09-12.12 举办展馆 上海国家会展中心 距离开展 21天 展馆 5.3万",
     "_id": "209484f9b2babac7"
    },
    {
-    "title": "开展时间2026.12.09-12.12举办展馆上海国家会展中心距离开展22天",
+    "title": "开展时间2026.12.09-12.12举办展馆上海国家会展中心距离开展21天",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/cbia/",
@@ -6250,8 +6163,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国（上海）国际轴承及其专用装备展览会 CHINA INTERNATIONAL BEARING INDUSTRY EXHIBITION 开展时间 2026.12.09-12.12 举办展馆 上海国家会展中心 距离开展 22天 展馆 5.3万",
-    "_id": "855d215c00a1f2df"
+    "raw_text": "中国（上海）国际轴承及其专用装备展览会 CHINA INTERNATIONAL BEARING INDUSTRY EXHIBITION 开展时间 2026.12.09-12.12 举办展馆 上海国家会展中心 距离开展 21天 展馆 5.3万",
+    "_id": "a312322a04af7544"
    },
    {
     "title": "展馆5.3万m2·6.0万人观众·1000家展商",
@@ -6279,8 +6192,95 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国（上海）国际轴承及其专用装备展览会 CHINA INTERNATIONAL BEARING INDUSTRY EXHIBITION 开展时间 2026.12.09-12.12 举办展馆 上海国家会展中心 距离开展 22天 展馆 5.3万",
+    "raw_text": "中国（上海）国际轴承及其专用装备展览会 CHINA INTERNATIONAL BEARING INDUSTRY EXHIBITION 开展时间 2026.12.09-12.12 举办展馆 上海国家会展中心 距离开展 21天 展馆 5.3万",
     "_id": "ddd4aa1a70e6a3b5"
+   },
+   {
+    "title": "上海国际客车巴士展览会",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/china-bus-expo/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际客车巴士展览会 CIBE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 推荐 · 展馆 3万m2 · 2.6万人 观众 · 256 家展商 门票: ￥ 30",
+    "_id": "b6c1e03e634e6693"
+   },
+   {
+    "title": "开展时间2026.12.09-12.11举办展馆上海新国际博览中心距离开展21天",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/china-bus-expo/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际客车巴士展览会 CIBE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 推荐 · 展馆 3万m2 · 2.6万人 观众 · 256 家展商 门票: ￥ 30",
+    "_id": "9b4a847578ed123a"
+   },
+   {
+    "title": "推荐·展馆3万m2·2.6万人观众·256家展商",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/china-bus-expo/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际客车巴士展览会 CIBE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 推荐 · 展馆 3万m2 · 2.6万人 观众 · 256 家展商 门票: ￥ 30",
+    "_id": "0fd91cec586a62fe"
    },
    {
     "title": "上海亚洲保温展",
@@ -6308,7 +6308,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海亚洲保温展 TIM Expo 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 3.5万m2 · 2.3万人 观众 · 600 家展商 门票: ￥ 30",
+    "raw_text": "上海亚洲保温展 TIM Expo 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 3.5万m2 · 2.3万人 观众 · 600 家展商 门票: ￥ 30",
     "_id": "5656f174fefc5aad"
    },
    {
@@ -6337,66 +6337,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海亚洲保温展 TIM Expo 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 3.5万m2 · 2.3万人 观众 · 600 家展商 门票: ￥ 30",
+    "raw_text": "上海亚洲保温展 TIM Expo 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 3.5万m2 · 2.3万人 观众 · 600 家展商 门票: ￥ 30",
     "_id": "26db5b51a36caae2"
-   },
-   {
-    "title": "上海洁净技术与设备展览会",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/10182/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海洁净技术与设备展览会 SCTE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 3.5万m2 · 5.0万人 观众 · 600 家展商 门票: ￥ 30",
-    "_id": "fb986ac142bbd41a"
-   },
-   {
-    "title": "展馆3.5万m2·5.0万人观众·600家展商",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/10182/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海洁净技术与设备展览会 SCTE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 3.5万m2 · 5.0万人 观众 · 600 家展商 门票: ￥ 30",
-    "_id": "8de8e00c8fb51823"
    },
    {
     "title": "上海国际发泡材料技术工业展览会",
@@ -6424,7 +6366,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际发泡材料技术工业展览会 Interfoam China 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 精选 · 展馆 1.15万m2 · 10000人 观众 · 300 家展商 门票： ",
+    "raw_text": "上海国际发泡材料技术工业展览会 Interfoam China 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 精选 · 展馆 1.15万m2 · 10000人 观众 · 300 家展商 门票： ",
     "_id": "1eb639e9d1b937a3"
    },
    {
@@ -6453,66 +6395,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际发泡材料技术工业展览会 Interfoam China 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 精选 · 展馆 1.15万m2 · 10000人 观众 · 300 家展商 门票： ",
+    "raw_text": "上海国际发泡材料技术工业展览会 Interfoam China 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 精选 · 展馆 1.15万m2 · 10000人 观众 · 300 家展商 门票： ",
     "_id": "b1519a18efd2a4d8"
-   },
-   {
-    "title": "EESA上海储能峰会",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/eesa/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "EESA上海储能峰会 EESA 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 18万m2 · 35.0万人 观众 · 1500 家展商 门票: ￥ 30",
-    "_id": "52466f110404cd91"
-   },
-   {
-    "title": "展馆18万m2·35.0万人观众·1500家展商",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/eesa/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "EESA上海储能峰会 EESA 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 18万m2 · 35.0万人 观众 · 1500 家展商 门票: ￥ 30",
-    "_id": "5a797ff996d2e867"
    },
    {
     "title": "上海全球国际消费电子博览会",
@@ -6540,7 +6424,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海全球国际消费电子博览会 GCE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 4万m2 · 4.9万人 观众 · 500 家展商 门票: ￥ 30",
+    "raw_text": "上海全球国际消费电子博览会 GCE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 4万m2 · 4.9万人 观众 · 500 家展商 门票: ￥ 30",
     "_id": "1f657a74b1c51b43"
    },
    {
@@ -6569,8 +6453,124 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海全球国际消费电子博览会 GCE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 4万m2 · 4.9万人 观众 · 500 家展商 门票: ￥ 30",
+    "raw_text": "上海全球国际消费电子博览会 GCE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 4万m2 · 4.9万人 观众 · 500 家展商 门票: ￥ 30",
     "_id": "bb0ad7b2100701b1"
+   },
+   {
+    "title": "EESA上海储能峰会",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/eesa/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "EESA上海储能峰会 EESA 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 18万m2 · 35.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "_id": "52466f110404cd91"
+   },
+   {
+    "title": "展馆18万m2·35.0万人观众·1500家展商",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/eesa/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "EESA上海储能峰会 EESA 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 18万m2 · 35.0万人 观众 · 1500 家展商 门票: ￥ 30",
+    "_id": "5a797ff996d2e867"
+   },
+   {
+    "title": "上海洁净技术与设备展览会",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/10182/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海洁净技术与设备展览会 SCTE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 3.5万m2 · 5.0万人 观众 · 600 家展商 门票: ￥ 30",
+    "_id": "fb986ac142bbd41a"
+   },
+   {
+    "title": "展馆3.5万m2·5.0万人观众·600家展商",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/10182/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海洁净技术与设备展览会 SCTE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 3.5万m2 · 5.0万人 观众 · 600 家展商 门票: ￥ 30",
+    "_id": "8de8e00c8fb51823"
    },
    {
     "title": "上海国际先进轨道交通技术展览会",
@@ -6598,7 +6598,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际先进轨道交通技术展览会 ARTS 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 2万m2 · 2.3万人 观众 · 213 家展商 门票: ￥ 30",
+    "raw_text": "上海国际先进轨道交通技术展览会 ARTS 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 2万m2 · 2.3万人 观众 · 213 家展商 门票: ￥ 30",
     "_id": "433539537c54df2e"
    },
    {
@@ -6627,66 +6627,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际先进轨道交通技术展览会 ARTS 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 2万m2 · 2.3万人 观众 · 213 家展商 门票: ￥ 30",
+    "raw_text": "上海国际先进轨道交通技术展览会 ARTS 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 2万m2 · 2.3万人 观众 · 213 家展商 门票: ￥ 30",
     "_id": "02e34de9f8bbba30"
-   },
-   {
-    "title": "上海国际智能安防展览会",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/20096/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际智能安防展览会 ISE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 2万m2 · 5.0万人 观众 · 400 家展商 门票: ￥ 30",
-    "_id": "396e32772c4a972c"
-   },
-   {
-    "title": "展馆2万m2·5.0万人观众·400家展商",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/20096/",
-    "venue": "新国际博览中心",
-    "district": "",
-    "start_date": "2026-12-09",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际智能安防展览会 ISE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 2万m2 · 5.0万人 观众 · 400 家展商 门票: ￥ 30",
-    "_id": "4b9747c4729d7451"
    },
    {
     "title": "上海国际蒸发及结晶技术设备展",
@@ -6714,7 +6656,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际蒸发及结晶技术设备展 SHEC EXPO 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 2万m2 · 1.3万人 观众 · 305 家展商 门票: ￥ 30",
+    "raw_text": "上海国际蒸发及结晶技术设备展 SHEC EXPO 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 2万m2 · 1.3万人 观众 · 305 家展商 门票: ￥ 30",
     "_id": "c9b10d33170b22a6"
    },
    {
@@ -6743,8 +6685,66 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际蒸发及结晶技术设备展 SHEC EXPO 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 22天 展馆 2万m2 · 1.3万人 观众 · 305 家展商 门票: ￥ 30",
+    "raw_text": "上海国际蒸发及结晶技术设备展 SHEC EXPO 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 2万m2 · 1.3万人 观众 · 305 家展商 门票: ￥ 30",
     "_id": "fed2176efc0d488a"
+   },
+   {
+    "title": "上海国际智能安防展览会",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/20096/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际智能安防展览会 ISE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 2万m2 · 5.0万人 观众 · 400 家展商 门票: ￥ 30",
+    "_id": "396e32772c4a972c"
+   },
+   {
+    "title": "展馆2万m2·5.0万人观众·400家展商",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/20096/",
+    "venue": "新国际博览中心",
+    "district": "",
+    "start_date": "2026-12-09",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际智能安防展览会 ISE 开展时间 2026.12.09-12.11 举办展馆 上海新国际博览中心 距离开展 21天 展馆 2万m2 · 5.0万人 观众 · 400 家展商 门票: ￥ 30",
+    "_id": "4b9747c4729d7451"
    },
    {
     "title": "上海国际设计周",
@@ -6772,11 +6772,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际设计周 SIDW 开展时间 2026.12.18-12.20 举办展馆 上海跨国采购会展中心 距离开展 31天 展馆 3万m2 · 4.0万人 观众 · 500 家展商 门票: ￥ 150",
+    "raw_text": "上海国际设计周 SIDW 开展时间 2026.12.18-12.20 举办展馆 上海跨国采购会展中心 距离开展 30天 展馆 3万m2 · 4.0万人 观众 · 500 家展商 门票: ￥ 150",
     "_id": "6205948fee884a1f"
    },
    {
-    "title": "开展时间2026.12.18-12.20举办展馆上海跨国采购会展中心距离开展31天",
+    "title": "开展时间2026.12.18-12.20举办展馆上海跨国采购会展中心距离开展30天",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/sidw/",
@@ -6801,8 +6801,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际设计周 SIDW 开展时间 2026.12.18-12.20 举办展馆 上海跨国采购会展中心 距离开展 31天 展馆 3万m2 · 4.0万人 观众 · 500 家展商 门票: ￥ 150",
-    "_id": "89f953a8447d3921"
+    "raw_text": "上海国际设计周 SIDW 开展时间 2026.12.18-12.20 举办展馆 上海跨国采购会展中心 距离开展 30天 展馆 3万m2 · 4.0万人 观众 · 500 家展商 门票: ￥ 150",
+    "_id": "41fef603807335c9"
    },
    {
     "title": "展馆3万m2·4.0万人观众·500家展商",
@@ -6830,7 +6830,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际设计周 SIDW 开展时间 2026.12.18-12.20 举办展馆 上海跨国采购会展中心 距离开展 31天 展馆 3万m2 · 4.0万人 观众 · 500 家展商 门票: ￥ 150",
+    "raw_text": "上海国际设计周 SIDW 开展时间 2026.12.18-12.20 举办展馆 上海跨国采购会展中心 距离开展 30天 展馆 3万m2 · 4.0万人 观众 · 500 家展商 门票: ￥ 150",
     "_id": "5aebeb2035b7b071"
    },
    {
@@ -6859,11 +6859,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国上海国际眼镜业展览会SIOF Shanghai International Optics Fair 开展时间 2027.02.23-02.25 举办展馆 上海新国际博览中心 距离开展 98天 热门 · 展馆 7.2万m2 · 7.0万人",
+    "raw_text": "中国上海国际眼镜业展览会SIOF Shanghai International Optics Fair 开展时间 2027.02.23-02.25 举办展馆 上海新国际博览中心 距离开展 97天 热门 · 展馆 7.2万m2 · 7.0万人",
     "_id": "af0123fb328c5b13"
    },
    {
-    "title": "开展时间2027.02.23-02.25举办展馆上海新国际博览中心距离开展98天",
+    "title": "开展时间2027.02.23-02.25举办展馆上海新国际博览中心距离开展97天",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/shanghai-optics-fair/",
@@ -6888,8 +6888,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国上海国际眼镜业展览会SIOF Shanghai International Optics Fair 开展时间 2027.02.23-02.25 举办展馆 上海新国际博览中心 距离开展 98天 热门 · 展馆 7.2万m2 · 7.0万人",
-    "_id": "6c409fae9168fd31"
+    "raw_text": "中国上海国际眼镜业展览会SIOF Shanghai International Optics Fair 开展时间 2027.02.23-02.25 举办展馆 上海新国际博览中心 距离开展 97天 热门 · 展馆 7.2万m2 · 7.0万人",
+    "_id": "6cbb35321ebac9fb"
    },
    {
     "title": "热门·展馆7.2万m2·7.0万人观众·758家展商",
@@ -6917,7 +6917,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国上海国际眼镜业展览会SIOF Shanghai International Optics Fair 开展时间 2027.02.23-02.25 举办展馆 上海新国际博览中心 距离开展 98天 热门 · 展馆 7.2万m2 · 7.0万人",
+    "raw_text": "中国上海国际眼镜业展览会SIOF Shanghai International Optics Fair 开展时间 2027.02.23-02.25 举办展馆 上海新国际博览中心 距离开展 97天 热门 · 展馆 7.2万m2 · 7.0万人",
     "_id": "d9bbd35942d52c23"
    },
    {
@@ -6946,11 +6946,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海食材展-华食展-上海预制菜展 CFIE 开展时间 2027.02.25-02.27 举办展馆 上海国家会展中心 距离开展 100天 热门 · 展馆 12万m2 · 12.0万人 观众 · 2000 家展商 门票: ￥ 39",
+    "raw_text": "上海食材展-华食展-上海预制菜展 CFIE 开展时间 2027.02.25-02.27 举办展馆 上海国家会展中心 距离开展 99天 热门 · 展馆 12万m2 · 12.0万人 观众 · 2000 家展商 门票: ￥ 39",
     "_id": "199c508722bb883a"
    },
    {
-    "title": "开展时间2027.02.25-02.27举办展馆上海国家会展中心距离开展100天",
+    "title": "开展时间2027.02.25-02.27举办展馆上海国家会展中心距离开展99天",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/cfie/",
@@ -6975,8 +6975,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海食材展-华食展-上海预制菜展 CFIE 开展时间 2027.02.25-02.27 举办展馆 上海国家会展中心 距离开展 100天 热门 · 展馆 12万m2 · 12.0万人 观众 · 2000 家展商 门票: ￥ 39",
-    "_id": "34170989460a85a5"
+    "raw_text": "上海食材展-华食展-上海预制菜展 CFIE 开展时间 2027.02.25-02.27 举办展馆 上海国家会展中心 距离开展 99天 热门 · 展馆 12万m2 · 12.0万人 观众 · 2000 家展商 门票: ￥ 39",
+    "_id": "203657da7be70ad1"
    },
    {
     "title": "热门·展馆12万m2·12.0万人观众·2000家展商",
@@ -7004,7 +7004,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海食材展-华食展-上海预制菜展 CFIE 开展时间 2027.02.25-02.27 举办展馆 上海国家会展中心 距离开展 100天 热门 · 展馆 12万m2 · 12.0万人 观众 · 2000 家展商 门票: ￥ 39",
+    "raw_text": "上海食材展-华食展-上海预制菜展 CFIE 开展时间 2027.02.25-02.27 举办展馆 上海国家会展中心 距离开展 99天 热门 · 展馆 12万m2 · 12.0万人 观众 · 2000 家展商 门票: ￥ 39",
     "_id": "22bf767f2c595929"
    },
    {
@@ -7033,11 +7033,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海华东进出口商品交易会-华交会 EAST CHINA FAIR 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 104天 精选 · 展馆 11.5万m2 · 4.5万人 观众 · 4000 家展商 门票",
+    "raw_text": "上海华东进出口商品交易会-华交会 EAST CHINA FAIR 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 103天 精选 · 展馆 11.5万m2 · 4.5万人 观众 · 4000 家展商 门票",
     "_id": "2271ccc56d4c3ec1"
    },
    {
-    "title": "开展时间2027.03.01-03.04举办展馆上海新国际博览中心距离开展104天",
+    "title": "开展时间2027.03.01-03.04举办展馆上海新国际博览中心距离开展103天",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/east-china-fair/",
@@ -7062,8 +7062,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海华东进出口商品交易会-华交会 EAST CHINA FAIR 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 104天 精选 · 展馆 11.5万m2 · 4.5万人 观众 · 4000 家展商 门票",
-    "_id": "782a6afb1c71127d"
+    "raw_text": "上海华东进出口商品交易会-华交会 EAST CHINA FAIR 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 103天 精选 · 展馆 11.5万m2 · 4.5万人 观众 · 4000 家展商 门票",
+    "_id": "6797c2558687a21f"
    },
    {
     "title": "精选·展馆11.5万m2·4.5万人观众·4000家展商",
@@ -7091,95 +7091,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海华东进出口商品交易会-华交会 EAST CHINA FAIR 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 104天 精选 · 展馆 11.5万m2 · 4.5万人 观众 · 4000 家展商 门票",
+    "raw_text": "上海华东进出口商品交易会-华交会 EAST CHINA FAIR 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 103天 精选 · 展馆 11.5万m2 · 4.5万人 观众 · 4000 家展商 门票",
     "_id": "cf96df469a6d7b24"
-   },
-   {
-    "title": "上海国际新零售社区社群团购博览会-上海团长大会",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/shanghai-retail-expo/",
-    "venue": "世博展览馆",
-    "district": "",
-    "start_date": "2027-03-01",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际新零售社区社群团购博览会-上海团长大会 Shanghai Retail Exhibition 开展时间 2027.03.01-03.03 举办展馆 上海世博展览馆 距离开展 104天 展馆 5万m2 · 6.0万人 观众 · 100",
-    "_id": "1ef461e04276c68e"
-   },
-   {
-    "title": "开展时间2027.03.01-03.03举办展馆上海世博展览馆距离开展104天",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/shanghai-retail-expo/",
-    "venue": "世博展览馆",
-    "district": "",
-    "start_date": "2027-03-01",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际新零售社区社群团购博览会-上海团长大会 Shanghai Retail Exhibition 开展时间 2027.03.01-03.03 举办展馆 上海世博展览馆 距离开展 104天 展馆 5万m2 · 6.0万人 观众 · 100",
-    "_id": "15e6ca8027e7dbea"
-   },
-   {
-    "title": "展馆5万m2·6.0万人观众·1000家展商",
-    "type": "展会",
-    "source": "jufair",
-    "official_url": "https://www.jufair.com/exhibition/shanghai-retail-expo/",
-    "venue": "世博展览馆",
-    "district": "",
-    "start_date": "2027-03-01",
-    "end_date": "",
-    "open_ticket_time": "",
-    "price_range": "",
-    "price_min": null,
-    "kid_friendly": false,
-    "age_range": "",
-    "tags": [
-     "国际"
-    ],
-    "cover": "",
-    "status": "upcoming",
-    "featured": false,
-    "kind": "临时",
-    "audience": "公众",
-    "kid_unfit": false,
-    "note": "",
-    "first_seen": "",
-    "sessions": [],
-    "raw_text": "上海国际新零售社区社群团购博览会-上海团长大会 Shanghai Retail Exhibition 开展时间 2027.03.01-03.03 举办展馆 上海世博展览馆 距离开展 104天 展馆 5万m2 · 6.0万人 观众 · 100",
-    "_id": "42b710eb626a6790"
    },
    {
     "title": "上海国际工业自动化及机器人展-CMES华机展",
@@ -7207,7 +7120,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际工业自动化及机器人展-CMES华机展 CSIE 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 104天 展馆 13万m2 · 15.0万人 观众 · 1500 家展商 门票： 限时免费",
+    "raw_text": "上海国际工业自动化及机器人展-CMES华机展 CSIE 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 103天 展馆 13万m2 · 15.0万人 观众 · 1500 家展商 门票： 限时免费",
     "_id": "03f9e84116a09209"
    },
    {
@@ -7236,8 +7149,95 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际工业自动化及机器人展-CMES华机展 CSIE 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 104天 展馆 13万m2 · 15.0万人 观众 · 1500 家展商 门票： 限时免费",
+    "raw_text": "上海国际工业自动化及机器人展-CMES华机展 CSIE 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 103天 展馆 13万m2 · 15.0万人 观众 · 1500 家展商 门票： 限时免费",
     "_id": "41e26ecdf28a407d"
+   },
+   {
+    "title": "上海国际新零售社区社群团购博览会-上海团长大会",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/shanghai-retail-expo/",
+    "venue": "世博展览馆",
+    "district": "",
+    "start_date": "2027-03-01",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际新零售社区社群团购博览会-上海团长大会 Shanghai Retail Exhibition 开展时间 2027.03.01-03.03 举办展馆 上海世博展览馆 距离开展 103天 展馆 5万m2 · 6.0万人 观众 · 100",
+    "_id": "1ef461e04276c68e"
+   },
+   {
+    "title": "开展时间2027.03.01-03.03举办展馆上海世博展览馆距离开展103天",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/shanghai-retail-expo/",
+    "venue": "世博展览馆",
+    "district": "",
+    "start_date": "2027-03-01",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际新零售社区社群团购博览会-上海团长大会 Shanghai Retail Exhibition 开展时间 2027.03.01-03.03 举办展馆 上海世博展览馆 距离开展 103天 展馆 5万m2 · 6.0万人 观众 · 100",
+    "_id": "68776bfa50a417f3"
+   },
+   {
+    "title": "展馆5万m2·6.0万人观众·1000家展商",
+    "type": "展会",
+    "source": "jufair",
+    "official_url": "https://www.jufair.com/exhibition/shanghai-retail-expo/",
+    "venue": "世博展览馆",
+    "district": "",
+    "start_date": "2027-03-01",
+    "end_date": "",
+    "open_ticket_time": "",
+    "price_range": "",
+    "price_min": null,
+    "kid_friendly": false,
+    "age_range": "",
+    "tags": [
+     "国际"
+    ],
+    "cover": "",
+    "status": "upcoming",
+    "featured": false,
+    "kind": "临时",
+    "audience": "公众",
+    "kid_unfit": false,
+    "note": "",
+    "first_seen": "",
+    "sessions": [],
+    "raw_text": "上海国际新零售社区社群团购博览会-上海团长大会 Shanghai Retail Exhibition 开展时间 2027.03.01-03.03 举办展馆 上海世博展览馆 距离开展 103天 展馆 5万m2 · 6.0万人 观众 · 100",
+    "_id": "42b710eb626a6790"
    },
    {
     "title": "上海国际机床展-CMES华机展",
@@ -7265,7 +7265,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际机床展-CMES华机展 CMES 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 104天 热门 · 展馆 4万m2 · 3.0万人 观众 · 1500 家展商 门票： 限时免费",
+    "raw_text": "上海国际机床展-CMES华机展 CMES 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 103天 热门 · 展馆 4万m2 · 3.0万人 观众 · 1500 家展商 门票： 限时免费",
     "_id": "11a078ddd202ca76"
    },
    {
@@ -7294,7 +7294,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "上海国际机床展-CMES华机展 CMES 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 104天 热门 · 展馆 4万m2 · 3.0万人 观众 · 1500 家展商 门票： 限时免费",
+    "raw_text": "上海国际机床展-CMES华机展 CMES 开展时间 2027.03.01-03.04 举办展馆 上海新国际博览中心 距离开展 103天 热门 · 展馆 4万m2 · 3.0万人 观众 · 1500 家展商 门票： 限时免费",
     "_id": "2244dbde2ffd7f0a"
    },
    {
@@ -7323,11 +7323,11 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国上海纱线针织品展览会 Spinexpo Shanghai 开展时间 2027.03.02-03.04 举办展馆 上海世博展览馆 距离开展 105天 展馆 2.2万m2 · 1.4万人 观众 · 501 家展商 门票: ￥ 120",
+    "raw_text": "中国上海纱线针织品展览会 Spinexpo Shanghai 开展时间 2027.03.02-03.04 举办展馆 上海世博展览馆 距离开展 104天 展馆 2.2万m2 · 1.4万人 观众 · 501 家展商 门票: ￥ 120",
     "_id": "311e338e94fdfa0e"
    },
    {
-    "title": "开展时间2027.03.02-03.04举办展馆上海世博展览馆距离开展105天",
+    "title": "开展时间2027.03.02-03.04举办展馆上海世博展览馆距离开展104天",
     "type": "展会",
     "source": "jufair",
     "official_url": "https://www.jufair.com/exhibition/spinexpo-shanghai/",
@@ -7352,8 +7352,8 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国上海纱线针织品展览会 Spinexpo Shanghai 开展时间 2027.03.02-03.04 举办展馆 上海世博展览馆 距离开展 105天 展馆 2.2万m2 · 1.4万人 观众 · 501 家展商 门票: ￥ 120",
-    "_id": "d9e30fbe037a0e03"
+    "raw_text": "中国上海纱线针织品展览会 Spinexpo Shanghai 开展时间 2027.03.02-03.04 举办展馆 上海世博展览馆 距离开展 104天 展馆 2.2万m2 · 1.4万人 观众 · 501 家展商 门票: ￥ 120",
+    "_id": "fa765852755da461"
    },
    {
     "title": "展馆2.2万m2·1.4万人观众·501家展商",
@@ -7381,7 +7381,7 @@
     "note": "",
     "first_seen": "",
     "sessions": [],
-    "raw_text": "中国上海纱线针织品展览会 Spinexpo Shanghai 开展时间 2027.03.02-03.04 举办展馆 上海世博展览馆 距离开展 105天 展馆 2.2万m2 · 1.4万人 观众 · 501 家展商 门票: ￥ 120",
+    "raw_text": "中国上海纱线针织品展览会 Spinexpo Shanghai 开展时间 2027.03.02-03.04 举办展馆 上海世博展览馆 距离开展 104天 展馆 2.2万m2 · 1.4万人 观众 · 501 家展商 门票: ￥ 120",
     "_id": "159d0e98028da8ca"
    }
   ],
