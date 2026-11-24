@@ -1,41 +1,41 @@
 {
- "generatedAt": "2026-11-24 07:27 北京时间",
+ "generatedAt": "2026-11-24 16:40 北京时间",
  "count": 201,
  "health": {
   "curated": {
    "status": "ok",
    "count": 60,
-   "last_success": "2026-11-23"
+   "last_success": "2026-11-24"
   },
   "maoyan": {
    "status": "ok",
    "count": 68,
-   "last_success": "2026-11-23"
+   "last_success": "2026-11-24"
   },
   "jufair": {
    "status": "ok",
    "count": 125,
-   "last_success": "2026-11-23"
+   "last_success": "2026-11-24"
   },
   "shcstheatre": {
    "status": "ok",
    "count": 7,
-   "last_success": "2026-11-23"
+   "last_success": "2026-11-24"
   },
   "jussevent": {
    "status": "ok",
    "count": 155,
-   "last_success": "2026-11-23"
+   "last_success": "2026-11-24"
   },
   "cnrelay": {
    "status": "ok",
    "count": 4,
-   "last_success": "2026-11-23"
+   "last_success": "2026-11-24"
   },
   "wenhuayun": {
    "status": "ok",
    "count": 0,
-   "last_success": "2026-11-23"
+   "last_success": "2026-11-24"
   }
  },
  "events": [
@@ -1004,11 +1004,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "卓沅2026「K.E.Y」巡回演唱会-上海站",
-     "d": "2026-11-28",
-     "u": "https://search.damai.cn/search.html?keyword=%E5%8D%93%E6%B2%85%20K.E.Y"
-    },
-    {
      "t": "任贤齐《齐迹2026》巡回演唱会-上海站",
      "d": "2026-12-04",
      "u": "https://search.damai.cn/search.html?keyword=%E4%BB%BB%E8%B4%A4%E9%BD%90%20%E9%BD%90%E8%BF%B9"
@@ -1017,6 +1012,11 @@
      "t": "2026 威神V演唱会 [BORN THIS Way] 上海站",
      "d": "2026-12-12",
      "u": "https://search.damai.cn/search.html?keyword=%E5%A8%81%E7%A5%9EV%20%5BBORN%20THIS%20Way%5D"
+    },
+    {
+     "t": "HENRY刘宪华2026 ENJOY THE SHOW 华丽宪场巡回演唱会-上海站",
+     "d": "2026-12-18",
+     "u": "https://search.damai.cn/search.html?keyword=HENRY%E5%88%98%E5%AE%AA%E5%8D%8E%20ENJOY%20THE%20SHOW"
     }
    ]
   },
@@ -1047,6 +1047,11 @@
      "t": "“杨派”经典沪剧《孤岛血泪》（公益场）",
      "d": "2026-11-24",
      "u": "https://search.damai.cn/search.html?keyword=%E2%80%9C%E6%9D%A8%E6%B4%BE%E2%80%9D%E7%BB%8F%E5%85%B8%E6%B2%AA%E5%89%A7%20%E5%AD%A4%E5%B2%9B%E8%A1%80%E6%B3%AA%20%E5%85%AC%E7%9B%8A%E5%9C%BA"
+    },
+    {
+     "t": "豫剧《七品芝麻官》",
+     "d": "2026-12-01",
+     "u": "https://search.damai.cn/search.html?keyword=%E8%B1%AB%E5%89%A7%20%E4%B8%83%E5%93%81%E8%8A%9D%E9%BA%BB%E5%AE%98"
     }
    ]
   },
@@ -1096,13 +1101,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "江西文演·陆川导演作品 舞剧《天工开物》",
-     "d": "2027-01-30",
-     "u": "https://search.damai.cn/search.html?keyword=%E6%B1%9F%E8%A5%BF%E6%96%87%E6%BC%94%20%E9%99%86%E5%B7%9D%E5%AF%BC%E6%BC%94%E4%BD%9C%E5%93%81%20%E8%88%9E%E5%89%A7%20%E5%A4%A9%E5%B7%A5%E5%BC%80%E7%89%A9"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "上海东方体育中心",
@@ -1335,6 +1334,27 @@
    "sessions": []
   },
   {
+   "title": "HENRY刘宪华2026 ENJOY THE SHOW 华丽宪场巡回演唱会-上海站",
+   "type": "演出",
+   "venue": "梅赛德斯-奔驰文化中心",
+   "district": "",
+   "start_date": "2026-12-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://search.damai.cn/search.html?keyword=HENRY%E5%88%98%E5%AE%AA%E5%8D%8E%20ENJOY%20THE%20SHOW",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "2026 威神V演唱会 [BORN THIS Way] 上海站",
    "type": "演出",
    "venue": "梅赛德斯-奔驰文化中心",
@@ -1382,7 +1402,7 @@
    "venue": "SNH48星梦剧院",
    "district": "",
    "start_date": "2026-11-25",
-   "end_date": "2026-11-29",
+   "end_date": "2026-12-06",
    "open_ticket_time": "",
    "price_range": "",
    "kid_friendly": false,
@@ -1434,27 +1454,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "卓沅2026「K.E.Y」巡回演唱会-上海站",
-   "type": "演出",
-   "venue": "梅赛德斯-奔驰文化中心",
-   "district": "",
-   "start_date": "2026-11-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%E5%8D%93%E6%B2%85%20K.E.Y",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-30",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1526,6 +1525,27 @@
    "sessions": []
   },
   {
+   "title": "双女主民国音乐剧《蝶变》",
+   "type": "演出",
+   "venue": "上海话剧艺术中心",
+   "district": "",
+   "start_date": "2027-01-22",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://search.damai.cn/search.html?keyword=%E5%8F%8C%E5%A5%B3%E4%B8%BB%E6%B0%91%E5%9B%BD%E9%9F%B3%E4%B9%90%E5%89%A7%20%E8%9D%B6%E5%8F%98",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "原版音乐剧《剧院魅影》四十周年上海告别季",
    "type": "演出",
    "venue": "上海大剧院",
@@ -1570,21 +1590,21 @@
    "sessions": []
   },
   {
-   "title": "[部分场次380起]浸入式音乐秀《双城之战》Immersive Arcane",
+   "title": "话剧《莎士比亚的罗朱》",
    "type": "演出",
-   "venue": "浸入式音乐秀《双城之战》Immersive Arcane",
+   "venue": "茉莉花剧场",
    "district": "",
-   "start_date": "2026-11-25",
-   "end_date": "2027-01-03",
+   "start_date": "2027-01-08",
+   "end_date": "",
    "open_ticket_time": "",
    "price_range": "",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%5B%E9%83%A8%E5%88%86%E5%9C%BA%E6%AC%A1380%E8%B5%B7%5D%E6%B5%B8%E5%85%A5%E5%BC%8F%E9%9F%B3%E4%B9%90%E7%A7%80%20%E5%8F%8C%E5%9F%8E%E4%B9%8B%E6%88%98%20Im",
+   "official_url": "https://search.damai.cn/search.html?keyword=%E8%AF%9D%E5%89%A7%20%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A%E7%9A%84%E7%BD%97%E6%9C%B1",
    "featured": false,
    "note": "",
-   "first_seen": "2026-11-22",
+   "first_seen": "2026-11-24",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1606,27 +1626,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "沉浸式原创音乐剧《冈格尼尔》",
-   "type": "演出",
-   "venue": "星空间25号·临窗小剧场",
-   "district": "",
-   "start_date": "2026-11-25",
-   "end_date": "2027-01-31",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%8E%9F%E5%88%9B%E9%9F%B3%E4%B9%90%E5%89%A7%20%E5%86%88%E6%A0%BC%E5%B0%BC%E5%B0%94",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1696,48 +1695,6 @@
    "sessions": []
   },
   {
-   "title": "[周中特惠] 《我的世界-实境探险》",
-   "type": "演出",
-   "venue": "我的世界·实境探险",
-   "district": "",
-   "start_date": "2026-11-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%5B%E5%91%A8%E4%B8%AD%E7%89%B9%E6%83%A0%5D%20%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%20%E5%AE%9E%E5%A2%83%E6%8E%A2%E9%99%A9",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "《我的世界-实境探险》",
-   "type": "演出",
-   "venue": "我的世界·实境探险",
-   "district": "",
-   "start_date": "2026-11-10",
-   "end_date": "2027-03-01",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%20%E5%AE%9E%E5%A2%83%E6%8E%A2%E9%99%A9",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "塑我此生：贾科梅蒂艺术大展",
    "type": "演出",
    "venue": "【上海民生现代美术馆】塑我此生：贾科梅蒂艺术大展",
@@ -1774,6 +1731,48 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-16",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "[周中特惠] 《我的世界-实境探险》",
+   "type": "演出",
+   "venue": "我的世界·实境探险",
+   "district": "",
+   "start_date": "2026-11-24",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://search.damai.cn/search.html?keyword=%5B%E5%91%A8%E4%B8%AD%E7%89%B9%E6%83%A0%5D%20%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%20%E5%AE%9E%E5%A2%83%E6%8E%A2%E9%99%A9",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-23",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "中国国家地理·探索 极致发现科学艺术影像展",
+   "type": "演出",
+   "venue": "「2026版」中国国家地理·探索 极致发现科学艺术影像展",
+   "district": "",
+   "start_date": "2026-07-01",
+   "end_date": "2027-01-03",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://search.damai.cn/search.html?keyword=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%20%E6%8E%A2%E7%B4%A2%20%E6%9E%81%E8%87%B4%E5%8F%91%E7%8E%B0%E7%A7%91%E5%AD%A6%E8%89%BA%E6%9C%AF%E5%BD%B1%E5%83%8F%E5%B1%95",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-07-13",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2067,6 +2066,27 @@
    "sessions": []
   },
   {
+   "title": "豫剧《七品芝麻官》",
+   "type": "演出",
+   "venue": "天蟾逸夫舞台",
+   "district": "",
+   "start_date": "2026-12-01",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://search.damai.cn/search.html?keyword=%E8%B1%AB%E5%89%A7%20%E4%B8%83%E5%93%81%E8%8A%9D%E9%BA%BB%E5%AE%98",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "京剧《大唐贵妃》",
    "type": "演出",
    "venue": "上海大歌剧院",
@@ -2082,27 +2102,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-12",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "龙宝玲专场—《梅润申江·百载传歌》 纪念黄梅戏入城100年感恩演唱会",
-   "type": "演出",
-   "venue": "豫园·海上梨园",
-   "district": "",
-   "start_date": "2026-11-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%E9%BE%99%E5%AE%9D%E7%8E%B2%E4%B8%93%E5%9C%BA%20%E6%A2%85%E6%B6%A6%E7%94%B3%E6%B1%9F%20%E7%99%BE%E8%BD%BD%E4%BC%A0%E6%AD%8C%20%E7%BA%AA%E5%BF%B5%E9%BB%84%E6%A2%85%E6%88%8F%E5%85%A5%E5%9F%8E1",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-11",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2361,27 +2360,6 @@
    "sessions": []
   },
   {
-   "title": "舞剧《咏春》",
-   "type": "演出",
-   "venue": "上海大歌剧院",
-   "district": "",
-   "start_date": "2026-12-18",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%E8%88%9E%E5%89%A7%20%E5%92%8F%E6%98%A5",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-13",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "西班牙国宝级舞团 马德里弗拉门戈舞团《卡门》",
    "type": "演出",
    "venue": "上海东方艺术中心",
@@ -2397,6 +2375,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-08-03",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "舞剧《咏春》",
+   "type": "演出",
+   "venue": "上海大歌剧院",
+   "district": "",
+   "start_date": "2026-12-18",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://search.damai.cn/search.html?keyword=%E8%88%9E%E5%89%A7%20%E5%92%8F%E6%98%A5",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-13",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2424,27 +2423,6 @@
    "sessions": []
   },
   {
-   "title": "江西文演·陆川导演作品 舞剧《天工开物》",
-   "type": "演出",
-   "venue": "上海西岸大剧院",
-   "district": "",
-   "start_date": "2027-01-30",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://search.damai.cn/search.html?keyword=%E6%B1%9F%E8%A5%BF%E6%96%87%E6%BC%94%20%E9%99%86%E5%B7%9D%E5%AF%BC%E6%BC%94%E4%BD%9C%E5%93%81%20%E8%88%9E%E5%89%A7%20%E5%A4%A9%E5%B7%A5%E5%BC%80%E7%89%A9",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-10",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "俄罗斯芭蕾国家剧院《胡桃夹子》",
    "type": "演出",
    "venue": "上海国际舞蹈中心",
@@ -2460,6 +2438,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-12",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "耿子博导演作品 环境式沉浸舞蹈剧场《夜访德古拉》",
+   "type": "演出",
+   "venue": "星空间5号·山眠剧场",
+   "district": "",
+   "start_date": "2026-11-25",
+   "end_date": "2027-01-03",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://search.damai.cn/search.html?keyword=%E8%80%BF%E5%AD%90%E5%8D%9A%E5%AF%BC%E6%BC%94%E4%BD%9C%E5%93%81%20%E7%8E%AF%E5%A2%83%E5%BC%8F%E6%B2%89%E6%B5%B8%E8%88%9E%E8%B9%88%E5%89%A7%E5%9C%BA%20%E5%A4%9C%E8%AE%BF%E5%BE%B7%E5%8F%A4%E6%8B%89",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-23",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2821,6 +2820,98 @@
    "sessions": []
   },
   {
+   "title": "上海国际金属线材、制品及设备展览会",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/wire-expo/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2000-01-01",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "展馆5万m2·3.0万人观众·1000家展商",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/wire-expo/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-09",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "上海国际赛事文化及体育用品博览会-上海体博会",
+   "type": "展会",
+   "venue": "世博展览馆",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/20440/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-23",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "展馆5万m2·10.0万人观众·300家展商",
+   "type": "展会",
+   "venue": "世博展览馆",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/20440/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-23",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "上海国际储能技术展",
    "type": "展会",
    "venue": "新国际博览中心",
@@ -2890,7 +2981,7 @@
    "sessions": []
   },
   {
-   "title": "展馆5万m2·3.0万人观众·1000家展商",
+   "title": "上海国际铸造铸件展览会",
    "type": "展会",
    "venue": "新国际博览中心",
    "district": "",
@@ -2903,79 +2994,33 @@
    "tags": [
     "国际"
    ],
-   "official_url": "https://www.jufair.com/exhibition/tube-expo/",
+   "official_url": "https://www.jufair.com/exhibition/csfe/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-31",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "展馆6万m2·5.0万人观众·700家展商",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/csfe/",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-09",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "上海国际金属线材、制品及设备展览会",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/wire-expo/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2000-01-01",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "上海国际赛事文化及体育用品博览会-上海体博会",
-   "type": "展会",
-   "venue": "世博展览馆",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/20440/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "展馆5万m2·10.0万人观众·300家展商",
-   "type": "展会",
-   "venue": "世博展览馆",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/20440/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
    "kind": "临时",
    "audience": "B2B",
    "kid_unfit": false,
@@ -3028,7 +3073,7 @@
    "sessions": []
   },
   {
-   "title": "上海国际铸造铸件展览会",
+   "title": "上海国际数据中心及云计算展",
    "type": "展会",
    "venue": "新国际博览中心",
    "district": "",
@@ -3041,7 +3086,7 @@
    "tags": [
     "国际"
    ],
-   "official_url": "https://www.jufair.com/exhibition/csfe/",
+   "official_url": "https://www.jufair.com/exhibition/cdce/",
    "featured": false,
    "note": "",
    "first_seen": "2026-10-31",
@@ -3051,7 +3096,7 @@
    "sessions": []
   },
   {
-   "title": "展馆6万m2·5.0万人观众·700家展商",
+   "title": "展馆7.2万m2·6.0万人观众·1800家展商",
    "type": "展会",
    "venue": "新国际博览中心",
    "district": "",
@@ -3064,7 +3109,7 @@
    "tags": [
     "国际"
    ],
-   "official_url": "https://www.jufair.com/exhibition/csfe/",
+   "official_url": "https://www.jufair.com/exhibition/cdce/",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-09",
@@ -3114,98 +3159,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-10-31",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "上海国际数据中心及云计算展",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/cdce/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-31",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "展馆7.2万m2·6.0万人观众·1800家展商",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/cdce/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-09",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "上海国际电工装备展览会",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/electrical-shanghai/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-07",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "展馆6万m2·4.0万人观众·1500家展商",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/electrical-shanghai/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-09",
    "kind": "临时",
    "audience": "B2B",
    "kid_unfit": false,
@@ -3275,6 +3228,52 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-07",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "上海国际电工装备展览会",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/electrical-shanghai/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-07",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "展馆6万m2·4.0万人观众·1500家展商",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/electrical-shanghai/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-09",
    "kind": "临时",
    "audience": "B2B",
    "kid_unfit": false,
@@ -3557,98 +3556,6 @@
    "sessions": []
   },
   {
-   "title": "上海全球国际消费电子博览会",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-09",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/19629/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-01",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "展馆4万m2·4.9万人观众·500家展商",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-09",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/19629/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-13",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "EESA上海储能峰会",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-09",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/eesa/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-10-31",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "展馆18万m2·35.0万人观众·1500家展商",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2026-12-09",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/eesa/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-13",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "上海洁净技术与设备展览会",
    "type": "展会",
    "venue": "新国际博览中心",
@@ -3741,7 +3648,7 @@
    "sessions": []
   },
   {
-   "title": "上海国际智能安防展览会",
+   "title": "EESA上海储能峰会",
    "type": "展会",
    "venue": "新国际博览中心",
    "district": "",
@@ -3754,7 +3661,30 @@
    "tags": [
     "国际"
    ],
-   "official_url": "https://www.jufair.com/exhibition/20096/",
+   "official_url": "https://www.jufair.com/exhibition/eesa/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-10-31",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "展馆18万m2·35.0万人观众·1500家展商",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-09",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/eesa/",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-13",
@@ -3764,7 +3694,7 @@
    "sessions": []
   },
   {
-   "title": "展馆2万m2·5.0万人观众·400家展商",
+   "title": "上海全球国际消费电子博览会",
    "type": "展会",
    "venue": "新国际博览中心",
    "district": "",
@@ -3777,7 +3707,76 @@
    "tags": [
     "国际"
    ],
-   "official_url": "https://www.jufair.com/exhibition/20096/",
+   "official_url": "https://www.jufair.com/exhibition/19629/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-01",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "展馆4万m2·4.9万人观众·500家展商",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-09",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/19629/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "上海国际蒸发及结晶技术设备展",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-09",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/shec-expo/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-13",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "展馆2万m2·1.3万人观众·305家展商",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2026-12-09",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/shec-expo/",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-13",
@@ -3833,7 +3832,7 @@
    "sessions": []
   },
   {
-   "title": "上海国际蒸发及结晶技术设备展",
+   "title": "上海国际智能安防展览会",
    "type": "展会",
    "venue": "新国际博览中心",
    "district": "",
@@ -3846,7 +3845,7 @@
    "tags": [
     "国际"
    ],
-   "official_url": "https://www.jufair.com/exhibition/shec-expo/",
+   "official_url": "https://www.jufair.com/exhibition/20096/",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-13",
@@ -3856,7 +3855,7 @@
    "sessions": []
   },
   {
-   "title": "展馆2万m2·1.3万人观众·305家展商",
+   "title": "展馆2万m2·5.0万人观众·400家展商",
    "type": "展会",
    "venue": "新国际博览中心",
    "district": "",
@@ -3869,7 +3868,7 @@
    "tags": [
     "国际"
    ],
-   "official_url": "https://www.jufair.com/exhibition/shec-expo/",
+   "official_url": "https://www.jufair.com/exhibition/20096/",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-13",
@@ -4063,52 +4062,6 @@
    "sessions": []
   },
   {
-   "title": "上海国际工业自动化及机器人展-CMES华机展",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2027-03-01",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/csie/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-15",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "展馆13万m2·15.0万人观众·1500家展商",
-   "type": "展会",
-   "venue": "新国际博览中心",
-   "district": "",
-   "start_date": "2027-03-01",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/csie/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-15",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "上海国际新零售社区社群团购博览会-上海团长大会",
    "type": "展会",
    "venue": "世博展览馆",
@@ -4149,6 +4102,52 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-14",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "上海国际工业自动化及机器人展-CMES华机展",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2027-03-01",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/csie/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-15",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "展馆13万m2·15.0万人观众·1500家展商",
+   "type": "展会",
+   "venue": "新国际博览中心",
+   "district": "",
+   "start_date": "2027-03-01",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/csie/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-15",
    "kind": "临时",
    "audience": "B2B",
    "kid_unfit": false,
@@ -4362,6 +4361,29 @@
    "sessions": []
   },
   {
+   "title": "上海国际印刷包装纸业精品展",
+   "type": "展会",
+   "venue": "国家会展中心",
+   "district": "",
+   "start_date": "2027-03-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [
+    "国际"
+   ],
+   "official_url": "https://www.jufair.com/exhibition/cdptp/",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-20",
+   "kind": "临时",
+   "audience": "B2B",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "上海国际广告技术设备展览会-上海广印展",
    "type": "展会",
    "venue": "国家会展中心",
@@ -4399,29 +4421,6 @@
     "国际"
    ],
    "official_url": "https://www.jufair.com/exhibition/appp-expo/",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-20",
-   "kind": "临时",
-   "audience": "B2B",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "上海国际印刷包装纸业精品展",
-   "type": "展会",
-   "venue": "国家会展中心",
-   "district": "",
-   "start_date": "2027-03-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [
-    "国际"
-   ],
-   "official_url": "https://www.jufair.com/exhibition/cdptp/",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-20",
