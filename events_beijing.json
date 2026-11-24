@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24 17:46 北京时间",
+ "generatedAt": "2026-11-25 06:20 北京时间",
  "count": 123,
  "health": {
   "curated_beijing": {
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 99,
+   "count": 98,
    "last_success": "2026-11-24"
   }
  },
@@ -75,6 +75,11 @@
      "t": "舞剧《永乐未央》",
      "d": "2026-11-27",
      "u": "https://www.showstart.com/event/310468"
+    },
+    {
+     "t": "英文原版音乐剧《SIX》",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/304394"
     }
    ]
   },
@@ -201,6 +206,11 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
+    },
+    {
+     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -358,11 +368,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-11-24",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍茶馆京味儿相声专场演出",
      "d": "2026-11-25",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
@@ -371,6 +376,11 @@
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
      "d": "2026-11-25",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-11-25",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
     },
     {
      "t": "老舍经典话剧《茶馆》",
@@ -757,6 +767,11 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
+    },
+    {
+     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -787,6 +802,11 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
+    },
+    {
+     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -1170,11 +1190,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北方昆曲剧院经典折子戏 《西游记•胖姑学舌》《雁翎甲•盗甲》《牧羊记•望乡》",
-     "d": "2026-11-24",
-     "u": "https://www.showstart.com/event/313878"
-    },
-    {
      "t": "北方昆曲剧院经典折子戏 《夺锦标•扈家庄》《孽海记•思凡》《占花魁•受吐》",
      "d": "2026-11-25",
      "u": "https://www.showstart.com/event/314060"
@@ -1193,6 +1208,11 @@
      "t": "北方昆曲剧院经典折子戏 《牡丹亭•春香闹学》《宝剑记•林冲夜奔》《焚香记•阳告》",
      "d": "2026-11-30",
      "u": "https://www.showstart.com/event/313880"
+    },
+    {
+     "t": "北方昆曲剧院经典剧目 《风筝误》",
+     "d": "2026-12-01",
+     "u": "https://www.showstart.com/event/316500"
     }
    ]
   },
@@ -1866,7 +1886,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-11-24",
+   "start_date": "2026-11-25",
    "end_date": "2026-11-30",
    "open_ticket_time": "",
    "price_range": "76-95起",
@@ -1878,7 +1898,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-11-23",
+   "first_seen": "2026-11-24",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1921,48 +1941,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "挪威氛围黑金属Eldamar巡演 北京站",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-11-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "188起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314046",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-15",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院经典折子戏 《西游记•胖姑学舌》《雁翎甲•盗甲》《牧羊记•望乡》",
-   "type": "演出",
-   "venue": "北京国图艺术中心",
-   "district": "",
-   "start_date": "2026-11-24",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/313878",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-15",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2179,27 +2157,6 @@
    "sessions": []
   },
   {
-   "title": "北方昆曲剧院经典剧目 《玉簪记》",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314064",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京舞蹈学院-青禾舞叙《风有信·梦无涯》原创舞蹈专场",
    "type": "演出",
    "venue": "五棵松·爱乐汇艺术空间·都市剧场",
@@ -2215,6 +2172,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-20",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北方昆曲剧院经典剧目 《玉簪记》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-11-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/314064",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-19",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2242,27 +2220,6 @@
    "sessions": []
   },
   {
-   "title": "11/27 青年之声合辑首发演出｜兵马司唱片呈现",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/316682",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "北京丨11.27-28 【BEYOND THE LOOP循环之外】白天（Mark Bai）作品音乐会",
    "type": "演出",
    "venue": "Blue Note Beijing",
@@ -2278,6 +2235,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-19",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "11/27 青年之声合辑首发演出｜兵马司唱片呈现",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-11-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316682",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-23",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2957,6 +2935,48 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/315566",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "英文原版音乐剧《SIX》",
+   "type": "演出",
+   "venue": "北京保利剧院",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "166起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304394",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/311984",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-22",
