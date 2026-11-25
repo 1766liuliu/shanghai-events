@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-11-25 06:20 北京时间",
- "count": 123,
+ "generatedAt": "2026-11-25 16:22 北京时间",
+ "count": 121,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-11-24"
+   "last_success": "2026-11-25"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 492,
-   "last_success": "2026-11-24"
+   "last_success": "2026-11-25"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-11-24"
+   "last_success": "2026-11-25"
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 98,
-   "last_success": "2026-11-24"
+   "count": 96,
+   "last_success": "2026-11-25"
   }
  },
  "events": [
@@ -75,11 +75,6 @@
      "t": "舞剧《永乐未央》",
      "d": "2026-11-27",
      "u": "https://www.showstart.com/event/310468"
-    },
-    {
-     "t": "英文原版音乐剧《SIX》",
-     "d": "2026-12-03",
-     "u": "https://www.showstart.com/event/304394"
     }
    ]
   },
@@ -206,11 +201,6 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
-    },
-    {
-     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
-     "d": "2026-12-03",
-     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -767,11 +757,6 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
-    },
-    {
-     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
-     "d": "2026-12-03",
-     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -802,11 +787,6 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
-    },
-    {
-     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
-     "d": "2026-12-03",
-     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -2199,6 +2179,27 @@
    "sessions": []
   },
   {
+   "title": "11/27 青年之声合辑首发演出｜兵马司唱片呈现",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-11-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316682",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-23",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "【三日通票】青年之声合辑首发演出｜兵马司唱片呈现",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -2235,27 +2236,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "11/27 青年之声合辑首发演出｜兵马司唱片呈现",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/316682",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2365,6 +2345,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-24",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "GLORY星际搭车指南 Vol.52",
+   "type": "演出",
+   "venue": "MASK",
+   "district": "",
+   "start_date": "2026-11-28",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "88起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316901",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-25",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2671,6 +2672,27 @@
    "sessions": []
   },
   {
+   "title": "Galaxy Reception live 星遇现场 Vol.67",
+   "type": "演出",
+   "venue": "魅现场",
+   "district": "",
+   "start_date": "2026-11-29",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316903",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-25",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "Pat D & Lady Paradox 2026 巡演北京站",
    "type": "演出",
    "venue": "Blue Note Beijing",
@@ -2734,27 +2756,6 @@
    "sessions": []
   },
   {
-   "title": "好人好梦—黑鸭子组合 2026 经典金曲专场音乐会",
-   "type": "演出",
-   "venue": "中山公园音乐堂",
-   "district": "",
-   "start_date": "2026-11-29",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/307482",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-21",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "天籁少年团·破晓 2026巡演北京站",
    "type": "演出",
    "venue": "1919 LIVEHOUSE",
@@ -2767,6 +2768,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/315151",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-21",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "好人好梦—黑鸭子组合 2026 经典金曲专场音乐会",
+   "type": "演出",
+   "venue": "中山公园音乐堂",
+   "district": "",
+   "start_date": "2026-11-29",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/307482",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-21",
@@ -2893,90 +2915,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/316500",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨12.1 远山来客·智利之声 SER O DÚO北京站",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-12-01",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/316120",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "12.2 Duke Ellington Tribute｜爵士乐黄金时代的重要缔造者",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-12-02",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/315566",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "英文原版音乐剧《SIX》",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "166起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/304394",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
-   "type": "演出",
-   "venue": "MAO Livehouse北京（东郎店）",
-   "district": "",
-   "start_date": "2026-12-03",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/311984",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-22",
