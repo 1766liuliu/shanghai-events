@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-26 16:07 北京时间",
- "count": 118,
+ "generatedAt": "2026-11-27 05:26 北京时间",
+ "count": 119,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -19,7 +19,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 94,
+   "count": 93,
    "last_success": "2026-11-26"
   }
  },
@@ -75,6 +75,11 @@
      "t": "舞剧《永乐未央》",
      "d": "2026-11-27",
      "u": "https://www.showstart.com/event/310468"
+    },
+    {
+     "t": "英文原版音乐剧《SIX》",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/304394"
     }
    ]
   },
@@ -353,24 +358,24 @@
    "sessions": [],
    "programs": [
     {
-     "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-11-26",
-     "u": "https://i.laoshechaguan.cn/list/421954981.html"
-    },
-    {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
      "d": "2026-11-26",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-11-26",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍经典话剧《茶馆》",
      "d": "2026-11-27",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-11-27",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
+    },
+    {
+     "t": "老舍茶馆京味儿相声专场演出",
+     "d": "2026-11-27",
+     "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
      "t": "老舍茶馆评书专场",
@@ -1115,11 +1120,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨11.26 高嘉临琵琶跨界音乐会",
-     "d": "2026-11-26",
-     "u": "https://www.showstart.com/event/315127"
-    },
-    {
      "t": "北京丨11.27-28 【BEYOND THE LOOP循环之外】白天（Mark Bai）作品音乐会",
      "d": "2026-11-27",
      "u": "https://www.showstart.com/event/315259"
@@ -1133,6 +1133,16 @@
      "t": "Pat D & Lady Paradox 2026 巡演北京站",
      "d": "2026-11-29",
      "u": "https://www.showstart.com/event/312644"
+    },
+    {
+     "t": "北京丨12.1 远山来客·智利之声 SER O DÚO北京站",
+     "d": "2026-12-01",
+     "u": "https://www.showstart.com/event/316120"
+    },
+    {
+     "t": "12.2 Duke Ellington Tribute｜爵士乐黄金时代的重要缔造者",
+     "d": "2026-12-02",
+     "u": "https://www.showstart.com/event/315566"
     }
    ]
   },
@@ -1160,11 +1170,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北方昆曲剧院经典折子戏 《牡丹亭•游园惊梦》《白兔记•出猎》《烂柯山•痴梦》",
-     "d": "2026-11-26",
-     "u": "https://www.showstart.com/event/314063"
-    },
-    {
      "t": "北方昆曲剧院经典剧目 《玉簪记》",
      "d": "2026-11-27",
      "u": "https://www.showstart.com/event/314064"
@@ -1178,6 +1183,11 @@
      "t": "北方昆曲剧院经典剧目 《风筝误》",
      "d": "2026-12-01",
      "u": "https://www.showstart.com/event/316500"
+    },
+    {
+     "t": "北方昆曲剧院经典剧目 《墙头马上》",
+     "d": "2026-12-02",
+     "u": "https://www.showstart.com/event/316502"
     }
    ]
   },
@@ -1805,11 +1815,34 @@
    "sessions": []
   },
   {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-11-27",
+   "end_date": "2026-12-31",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍茶馆京味儿相声专场演出",
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-11-26",
+   "start_date": "2026-11-27",
    "end_date": "2026-12-31",
    "open_ticket_time": "",
    "price_range": "114-266起",
@@ -1819,7 +1852,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-11-25",
+   "first_seen": "2026-11-26",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1841,29 +1874,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-11-26",
-   "end_date": "2026-12-31",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-25",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1912,105 +1922,21 @@
    "sessions": []
   },
   {
-   "title": "Kings of Convenience便利之王2026北京专场",
+   "title": "瑞典旋律金属核大团 ADEPT 2026 专场巡回北京",
    "type": "演出",
-   "venue": "蛙厂RMMF·北京798店",
+   "venue": "福浪LIVEHOUSE-福",
    "district": "",
-   "start_date": "2026-11-26",
+   "start_date": "2026-11-27",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "360起",
+   "price_range": "260起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/303939",
+   "official_url": "https://www.showstart.com/event/317048",
    "featured": false,
    "note": "",
-   "first_seen": "2026-11-15",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "閏×虎啸春「风生旷野」联合专场 北京站",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-浪",
-   "district": "",
-   "start_date": "2026-11-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314896",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "小娟&山谷里的居民｜ 悦莺·Teabird《茶鸟》原创黑胶首发 音乐唱聊会",
-   "type": "演出",
-   "venue": "山谷居民",
-   "district": "",
-   "start_date": "2026-11-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "299起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/315886",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院经典折子戏 《牡丹亭•游园惊梦》《白兔记•出猎》《烂柯山•痴梦》",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-11-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314063",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-18",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨11.26 高嘉临琵琶跨界音乐会",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-11-26",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "108起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/315127",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-19",
+   "first_seen": "2026-11-26",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2837,6 +2763,111 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/316500",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "【喜剧部落】前门爆炸精品大栅栏脱口秀|热更轰炸|喜剧明星云集|极致解压",
+   "type": "演出",
+   "venue": "保利国际影城（天安门店）",
+   "district": "",
+   "start_date": "2026-12-01",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "61起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316774",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": true,
+   "sessions": []
+  },
+  {
+   "title": "北京丨12.1 远山来客·智利之声 SER O DÚO北京站",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-12-01",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316120",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北方昆曲剧院经典剧目 《墙头马上》",
+   "type": "演出",
+   "venue": "国图艺术中心",
+   "district": "",
+   "start_date": "2026-12-02",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "68起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316502",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "12.2 Duke Ellington Tribute｜爵士乐黄金时代的重要缔造者",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-12-02",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/315566",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "英文原版音乐剧《SIX》",
+   "type": "演出",
+   "venue": "北京保利剧院",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "166起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/304394",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-22",
