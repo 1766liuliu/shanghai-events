@@ -1,26 +1,26 @@
 {
- "generatedAt": "2026-11-26 05:37 北京时间",
- "count": 119,
+ "generatedAt": "2026-11-26 16:07 北京时间",
+ "count": 118,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-11-25"
+   "last_success": "2026-11-26"
   },
   "bendibao_beijing": {
    "status": "ok",
    "count": 492,
-   "last_success": "2026-11-25"
+   "last_success": "2026-11-26"
   },
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-11-25"
+   "last_success": "2026-11-26"
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 95,
-   "last_success": "2026-11-25"
+   "count": 94,
+   "last_success": "2026-11-26"
   }
  },
  "events": [
@@ -300,11 +300,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "百老汇原版音乐剧《长靴皇后》",
-     "d": "2026-11-25",
-     "u": "https://www.showstart.com/event/309622"
-    },
-    {
      "t": "尔多原创音乐剧《楸树花开》",
      "d": "2026-11-27",
      "u": "https://www.showstart.com/event/311845"
@@ -358,19 +353,19 @@
    "sessions": [],
    "programs": [
     {
+     "t": "老舍茶馆京味儿相声专场演出",
+     "d": "2026-11-26",
+     "u": "https://i.laoshechaguan.cn/list/421954981.html"
+    },
+    {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-11-25",
+     "d": "2026-11-26",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
      "d": "2026-11-26",
      "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
-     "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-11-26",
-     "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
      "t": "老舍经典话剧《茶馆》",
@@ -1810,29 +1805,6 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-11-26",
-   "end_date": "2026-11-30",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-25",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "老舍茶馆京味儿相声专场演出",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -1858,7 +1830,7 @@
    "type": "演出",
    "venue": "北京老舍茶馆",
    "district": "",
-   "start_date": "2026-11-25",
+   "start_date": "2026-11-26",
    "end_date": "2026-12-31",
    "open_ticket_time": "",
    "price_range": "171-551起",
@@ -1868,7 +1840,30 @@
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-11-24",
+   "first_seen": "2026-11-26",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-11-26",
+   "end_date": "2026-12-31",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-25",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1911,27 +1906,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "百老汇原版音乐剧《长靴皇后》",
-   "type": "演出",
-   "venue": "天桥艺术中心（大剧场）",
-   "district": "",
-   "start_date": "2026-11-25",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/309622",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-15",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2127,27 +2101,6 @@
    "sessions": []
   },
   {
-   "title": "11/27 青年之声合辑首发演出｜兵马司唱片呈现",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/316682",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "【三日通票】青年之声合辑首发演出｜兵马司唱片呈现",
    "type": "演出",
    "venue": "黄昏黎明DDC",
@@ -2160,6 +2113,27 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/316686",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-23",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "11/27 青年之声合辑首发演出｜兵马司唱片呈现",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-11-27",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316682",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-23",
