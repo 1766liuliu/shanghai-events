@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-27 16:17 北京时间",
- "count": 118,
+ "generatedAt": "2026-11-28 05:09 北京时间",
+ "count": 119,
  "health": {
   "curated_beijing": {
    "status": "ok",
@@ -8,8 +8,9 @@
    "last_success": "2026-11-27"
   },
   "bendibao_beijing": {
-   "status": "ok",
-   "count": 492,
+   "status": "failed",
+   "count": 0,
+   "kept": 492,
    "last_success": "2026-11-27"
   },
   "laoshechaguan": {
@@ -19,7 +20,7 @@
   },
   "showstart_beijing": {
    "status": "ok",
-   "count": 94,
+   "count": 93,
    "last_success": "2026-11-27"
   }
  },
@@ -206,6 +207,11 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
+    },
+    {
+     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -363,19 +369,19 @@
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
     },
     {
-     "t": "老舍茶馆京味儿相声专场演出",
-     "d": "2026-11-27",
-     "u": "https://i.laoshechaguan.cn/list/421954981.html"
-    },
-    {
-     "t": "老舍茶馆 亲子皮影戏",
-     "d": "2026-11-27",
-     "u": "https://i.laoshechaguan.cn/list/306323524.html"
-    },
-    {
      "t": "老舍茶馆京味综艺演出《四季北京·茶》",
      "d": "2026-11-27",
      "u": "https://i.laoshechaguan.cn/list/101457.html"
+    },
+    {
+     "t": "老舍茶馆 亲子皮影戏",
+     "d": "2026-11-28",
+     "u": "https://i.laoshechaguan.cn/list/306323524.html"
+    },
+    {
+     "t": "老舍茶馆京味儿相声专场演出",
+     "d": "2026-11-28",
+     "u": "https://i.laoshechaguan.cn/list/421954981.html"
     },
     {
      "t": "老舍茶馆评书专场",
@@ -757,6 +763,11 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
+    },
+    {
+     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -787,6 +798,11 @@
      "t": "悲伤玩具2026巡演「谁要来打扰我的乌托邦」北京站",
      "d": "2026-11-28",
      "u": "https://www.showstart.com/event/314048"
+    },
+    {
+     "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/311984"
     }
    ]
   },
@@ -1169,11 +1185,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "北方昆曲剧院经典剧目 《玉簪记》",
-     "d": "2026-11-27",
-     "u": "https://www.showstart.com/event/314064"
-    },
     {
      "t": "北方昆曲剧院经典折子戏 《牡丹亭•春香闹学》《宝剑记•林冲夜奔》《焚香记•阳告》",
      "d": "2026-11-30",
@@ -1815,50 +1826,6 @@
    "sessions": []
   },
   {
-   "title": "老舍茶馆京味儿相声专场演出",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "2026-12-31",
-   "open_ticket_time": "",
-   "price_range": "114-266起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆 亲子皮影戏",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "2026-12-31",
-   "open_ticket_time": "",
-   "price_range": "76-95起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-26",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "老舍茶馆京味综艺演出《四季北京·茶》",
    "type": "演出",
    "venue": "北京老舍茶馆",
@@ -1871,6 +1838,50 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-27",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆 亲子皮影戏",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-11-28",
+   "end_date": "2026-12-31",
+   "open_ticket_time": "",
+   "price_range": "76-95起",
+   "kid_friendly": true,
+   "age_range": "",
+   "tags": [
+    "亲子"
+   ],
+   "official_url": "https://i.laoshechaguan.cn/list/306323524.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-27",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "老舍茶馆京味儿相声专场演出",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-11-28",
+   "end_date": "2026-12-31",
+   "open_ticket_time": "",
+   "price_range": "114-266起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://i.laoshechaguan.cn/list/421954981.html",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-27",
@@ -1916,27 +1927,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "瑞典旋律金属核大团 ADEPT 2026 专场巡回北京",
-   "type": "演出",
-   "venue": "福浪LIVEHOUSE-福",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "260起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/317048",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-26",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2000,48 +1990,6 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北方昆曲剧院经典剧目 《玉簪记》",
-   "type": "演出",
-   "venue": "国图艺术中心",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "68起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/314064",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "11/27 青年之声合辑首发演出｜兵马司唱片呈现",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/316682",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2850,6 +2798,90 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/311984",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "匆匆那年·华语青春金曲沉浸式主题演唱会",
+   "type": "演出",
+   "venue": "三里屯-爱乐汇艺术空间-时空剧场",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "90起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/315645",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京丨12.3 Pekka Pylkkänen四重奏致敬Miles Davis",
+   "type": "演出",
+   "venue": "Blue Note Beijing",
+   "district": "",
+   "start_date": "2026-12-03",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "180",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/315664",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-22",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "北京口袋音乐唱片店快闪巡回首站",
+   "type": "演出",
+   "venue": "百晓葫共创艺术空间",
+   "district": "",
+   "start_date": "2026-12-04",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "38.80起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/312425",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-27",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
