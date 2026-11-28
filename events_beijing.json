@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-28 05:09 北京时间",
- "count": 119,
+ "generatedAt": "2026-11-28 15:39 北京时间",
+ "count": 116,
  "health": {
   "curated_beijing": {
    "status": "ok",
    "count": 66,
-   "last_success": "2026-11-27"
+   "last_success": "2026-11-28"
   },
   "bendibao_beijing": {
    "status": "failed",
@@ -16,12 +16,12 @@
   "laoshechaguan": {
    "status": "ok",
    "count": 6,
-   "last_success": "2026-11-27"
+   "last_success": "2026-11-28"
   },
   "showstart_beijing": {
    "status": "ok",
    "count": 93,
-   "last_success": "2026-11-27"
+   "last_success": "2026-11-28"
   }
  },
  "events": [
@@ -72,11 +72,6 @@
    "kid_unfit": false,
    "sessions": [],
    "programs": [
-    {
-     "t": "舞剧《永乐未央》",
-     "d": "2026-11-27",
-     "u": "https://www.showstart.com/event/310468"
-    },
     {
      "t": "英文原版音乐剧《SIX》",
      "d": "2026-12-03",
@@ -212,6 +207,11 @@
      "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
      "d": "2026-12-03",
      "u": "https://www.showstart.com/event/311984"
+    },
+    {
+     "t": "Mosedontbesilly“彩虹桥”新专首演专场",
+     "d": "2026-12-04",
+     "u": "https://www.showstart.com/event/316127"
     }
    ]
   },
@@ -309,13 +309,7 @@
    "audience": "公众",
    "kid_unfit": false,
    "sessions": [],
-   "programs": [
-    {
-     "t": "尔多原创音乐剧《楸树花开》",
-     "d": "2026-11-27",
-     "u": "https://www.showstart.com/event/311845"
-    }
-   ]
+   "programs": []
   },
   {
    "title": "北京国际音乐节",
@@ -365,13 +359,8 @@
    "programs": [
     {
      "t": "老舍经典话剧《茶馆》",
-     "d": "2026-11-27",
+     "d": "2026-11-28",
      "u": "https://i.laoshechaguan.cn/list/327317671.html"
-    },
-    {
-     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
-     "d": "2026-11-27",
-     "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆 亲子皮影戏",
@@ -382,6 +371,11 @@
      "t": "老舍茶馆京味儿相声专场演出",
      "d": "2026-11-28",
      "u": "https://i.laoshechaguan.cn/list/421954981.html"
+    },
+    {
+     "t": "老舍茶馆京味综艺演出《四季北京·茶》",
+     "d": "2026-11-28",
+     "u": "https://i.laoshechaguan.cn/list/101457.html"
     },
     {
      "t": "老舍茶馆评书专场",
@@ -685,11 +679,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京舞蹈学院-青禾舞叙《风有信·梦无涯》原创舞蹈专场",
-     "d": "2026-11-27",
-     "u": "https://www.showstart.com/event/316461"
-    },
-    {
      "t": "「京中室内乐团」成立音乐会",
      "d": "2026-11-29",
      "u": "https://www.showstart.com/event/315025"
@@ -768,6 +757,11 @@
      "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
      "d": "2026-12-03",
      "u": "https://www.showstart.com/event/311984"
+    },
+    {
+     "t": "Mosedontbesilly“彩虹桥”新专首演专场",
+     "d": "2026-12-04",
+     "u": "https://www.showstart.com/event/316127"
     }
    ]
   },
@@ -803,6 +797,11 @@
      "t": "Sold Out、Wildfire 原唱 Jon Steingard 2026北京演唱会",
      "d": "2026-12-03",
      "u": "https://www.showstart.com/event/311984"
+    },
+    {
+     "t": "Mosedontbesilly“彩虹桥”新专首演专场",
+     "d": "2026-12-04",
+     "u": "https://www.showstart.com/event/316127"
     }
    ]
   },
@@ -1136,11 +1135,6 @@
    "sessions": [],
    "programs": [
     {
-     "t": "北京丨11.27-28 【BEYOND THE LOOP循环之外】白天（Mark Bai）作品音乐会",
-     "d": "2026-11-27",
-     "u": "https://www.showstart.com/event/315259"
-    },
-    {
      "t": "北京丨11.29 《猫和老鼠》爵士动画音乐会 Tom and Jerry and Jazz 爵士早午餐",
      "d": "2026-11-29",
      "u": "https://www.showstart.com/event/316118"
@@ -1159,6 +1153,11 @@
      "t": "12.2 Duke Ellington Tribute｜爵士乐黄金时代的重要缔造者",
      "d": "2026-12-02",
      "u": "https://www.showstart.com/event/315566"
+    },
+    {
+     "t": "北京丨12.3 Pekka Pylkkänen四重奏致敬Miles Davis",
+     "d": "2026-12-03",
+     "u": "https://www.showstart.com/event/315664"
     }
    ]
   },
@@ -1809,7 +1808,7 @@
    "type": "演出",
    "venue": "老舍茶馆",
    "district": "",
-   "start_date": "2026-11-27",
+   "start_date": "2026-11-28",
    "end_date": "",
    "open_ticket_time": "",
    "price_range": "116-369起",
@@ -1819,28 +1818,7 @@
    "official_url": "https://i.laoshechaguan.cn/list/327317671.html",
    "featured": false,
    "note": "",
-   "first_seen": "2026-11-22",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
-   "type": "演出",
-   "venue": "北京老舍茶馆",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "2026-12-31",
-   "open_ticket_time": "",
-   "price_range": "171-551起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-27",
+   "first_seen": "2026-11-28",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -1891,6 +1869,27 @@
    "sessions": []
   },
   {
+   "title": "老舍茶馆京味综艺演出《四季北京·茶》",
+   "type": "演出",
+   "venue": "北京老舍茶馆",
+   "district": "",
+   "start_date": "2026-11-28",
+   "end_date": "2026-12-31",
+   "open_ticket_time": "",
+   "price_range": "171-551起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://i.laoshechaguan.cn/list/101457.html",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-28",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
    "title": "老舍茶馆评书专场",
    "type": "演出",
    "venue": "老舍茶馆二层艺苑厅",
@@ -1933,111 +1932,6 @@
    "sessions": []
   },
   {
-   "title": "舞剧《永乐未央》",
-   "type": "演出",
-   "venue": "北京保利剧院",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/310468",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "尔多原创音乐剧《楸树花开》",
-   "type": "演出",
-   "venue": "天桥艺术中心-中剧场",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "180起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/311845",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京舞蹈学院-青禾舞叙《风有信·梦无涯》原创舞蹈专场",
-   "type": "演出",
-   "venue": "五棵松·爱乐汇艺术空间·都市剧场",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/316461",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【三日通票】青年之声合辑首发演出｜兵马司唱片呈现",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "300",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/316686",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "北京丨11.27-28 【BEYOND THE LOOP循环之外】白天（Mark Bai）作品音乐会",
-   "type": "演出",
-   "venue": "Blue Note Beijing",
-   "district": "",
-   "start_date": "2026-11-27",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "280起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/315259",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-19",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "邓典果DDG【M&M：加载中】十万火急专场-北京站",
    "type": "演出",
    "venue": "东三LIVE乐游园",
@@ -2050,27 +1944,6 @@
    "age_range": "",
    "tags": [],
    "official_url": "https://www.showstart.com/event/310763",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-20",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "【高清放映】伦敦西区音乐剧现场《摩登礼帽》",
-   "type": "演出",
-   "venue": "国图影院",
-   "district": "",
-   "start_date": "2026-11-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "120起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/313120",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-20",
@@ -2203,29 +2076,6 @@
     "亲子"
    ],
    "official_url": "https://www.showstart.com/event/314048",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-21",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
-   "title": "儿童创意光影剧《安徒生的剪纸世界》",
-   "type": "演出",
-   "venue": "中华世纪坛剧场",
-   "district": "",
-   "start_date": "2026-11-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "60起",
-   "kid_friendly": true,
-   "age_range": "",
-   "tags": [
-    "亲子"
-   ],
-   "official_url": "https://www.showstart.com/event/311762",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-21",
@@ -2403,27 +2253,6 @@
    "sessions": []
   },
   {
-   "title": "11/28 青年之声合辑首发演出｜兵马司唱片呈现",
-   "type": "演出",
-   "venue": "黄昏黎明DDC",
-   "district": "",
-   "start_date": "2026-11-28",
-   "end_date": "",
-   "open_ticket_time": "",
-   "price_range": "100起",
-   "kid_friendly": false,
-   "age_range": "",
-   "tags": [],
-   "official_url": "https://www.showstart.com/event/316683",
-   "featured": false,
-   "note": "",
-   "first_seen": "2026-11-23",
-   "kind": "临时",
-   "audience": "公众",
-   "kid_unfit": false,
-   "sessions": []
-  },
-  {
    "title": "活出我人生 Mr.Lan2026巡演 北京站",
    "type": "演出",
    "venue": "福浪LIVEHOUSE-浪",
@@ -2439,6 +2268,27 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-21",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "11/28 青年之声合辑首发演出｜兵马司唱片呈现",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-11-28",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "100起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316683",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-23",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
@@ -2531,18 +2381,18 @@
    "sessions": []
   },
   {
-   "title": "Hello 今晚有空吗？- 李滇滇冬季巡演 北京站",
+   "title": "天籁少年团·破晓 2026巡演北京站",
    "type": "演出",
-   "venue": "疆进酒·OMNI SPACE（北京）",
+   "venue": "1919 LIVEHOUSE",
    "district": "",
    "start_date": "2026-11-29",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "128起",
+   "price_range": "208起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/315279",
+   "official_url": "https://www.showstart.com/event/315151",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-21",
@@ -2573,18 +2423,18 @@
    "sessions": []
   },
   {
-   "title": "天籁少年团·破晓 2026巡演北京站",
+   "title": "Hello 今晚有空吗？- 李滇滇冬季巡演 北京站",
    "type": "演出",
-   "venue": "1919 LIVEHOUSE",
+   "venue": "疆进酒·OMNI SPACE（北京）",
    "district": "",
    "start_date": "2026-11-29",
    "end_date": "",
    "open_ticket_time": "",
-   "price_range": "208起",
+   "price_range": "128起",
    "kid_friendly": false,
    "age_range": "",
    "tags": [],
-   "official_url": "https://www.showstart.com/event/315151",
+   "official_url": "https://www.showstart.com/event/315279",
    "featured": false,
    "note": "",
    "first_seen": "2026-11-21",
@@ -2882,6 +2732,90 @@
    "featured": false,
    "note": "",
    "first_seen": "2026-11-27",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "「夜船行深处」椿乐队2026LIVE巡演 北京站",
+   "type": "演出",
+   "venue": "蛙厂RMMF·北京798店",
+   "district": "",
+   "start_date": "2026-12-04",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "138起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/314097",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-28",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "2026水树·北京特别主题专场",
+   "type": "演出",
+   "venue": "黄昏黎明DDC",
+   "district": "",
+   "start_date": "2026-12-04",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "198起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313609",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-28",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "【谈心】吴琳珂2026巡演 北京站",
+   "type": "演出",
+   "venue": "福浪LIVEHOUSE-浪",
+   "district": "",
+   "start_date": "2026-12-04",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "128起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/313670",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-28",
+   "kind": "临时",
+   "audience": "公众",
+   "kid_unfit": false,
+   "sessions": []
+  },
+  {
+   "title": "Mosedontbesilly“彩虹桥”新专首演专场",
+   "type": "演出",
+   "venue": "MAO Livehouse北京（东郎店）",
+   "district": "",
+   "start_date": "2026-12-04",
+   "end_date": "",
+   "open_ticket_time": "",
+   "price_range": "138起",
+   "kid_friendly": false,
+   "age_range": "",
+   "tags": [],
+   "official_url": "https://www.showstart.com/event/316127",
+   "featured": false,
+   "note": "",
+   "first_seen": "2026-11-28",
    "kind": "临时",
    "audience": "公众",
    "kid_unfit": false,
